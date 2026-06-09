@@ -4,7 +4,7 @@ icon: lucide/book-open
 ---
 
 <figure markdown="span">
-  ![](../images/emojis/doll-wait.png)
+  ![](/images/emojis/doll-wait.png)
 </figure>
 
 <h1 class="text-center" style="margin: 0; font-size: 3em;">
@@ -82,9 +82,9 @@ Thanks to the following players for their feedback: Al, Alice, Angbak, Arandomfl
 ## Read the In-Game Tutorials
 
 <div class="gallery" markdown="span">
-  ![](../images/handbook/introduction/in-game-tutorials-1.png){class="on-glb" loading=lazy}
-  ![](../images/handbook/introduction/in-game-tutorials-2.png){class="on-glb" loading=lazy}
-  ![](../images/handbook/introduction/in-game-tutorials-3.png){class="on-glb" loading=lazy}
+  ![](/images/handbook/introduction/in-game-tutorials-1.png){class="on-glb" loading=lazy}
+  ![](/images/handbook/introduction/in-game-tutorials-2.png){class="on-glb" loading=lazy}
+  ![](/images/handbook/introduction/in-game-tutorials-3.png){class="on-glb" loading=lazy}
 </div>
 
 A lot of information can be found in the in-game tutorials. Clicking on various icons in the UI will bring up information as well.
@@ -102,8 +102,8 @@ If you need further explanation for any of these, consult the [Mythag Compendium
 ## Redemption Codes
 
 <div class="gallery" markdown="span">
-  ![](../images/handbook/introduction/redemption-codes-1.png){class="on-glb" loading=lazy}
-  ![](../images/handbook/introduction/redemption-codes-2.png){class="on-glb" loading=lazy}
+  ![](/images/handbook/introduction/redemption-codes-1.png){class="on-glb" loading=lazy}
+  ![](/images/handbook/introduction/redemption-codes-2.png){class="on-glb" loading=lazy}
 </div>
 
 Codes are often given out from social media promotions. You can redeem them for Silver and other rewards.
@@ -113,7 +113,7 @@ The best way to learn what codes are currently active is to ask in the [official
 ## You Will Die
 
 <figure markdown="span">
-  ![](../images/handbook/introduction/you-will-die.png){width="400" loading=lazy}
+  ![](/images/handbook/introduction/you-will-die.png){width="400" loading=lazy}
 </figure>
 
 As a new player, you start in a honeymoon period. Chapters 1-5 of Faded Legacy are relatively easy and can be beaten with random characters playing random cards.

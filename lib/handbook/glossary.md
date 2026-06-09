@@ -37,7 +37,7 @@ Absolute Axiom. Minor buff that unlocks when you have a character at +12.
 
 ### April
 
-The covenant April Tribute.
+The covenant [April Tribute](/handbook/team#april-tribute).
 
 ### Arith
 
@@ -79,7 +79,7 @@ A bonus or positive status effect.
 
 ### Burial
 
-The covenant Burial Ground's Sighs.
+The covenant [Burial Ground's Sighs](/handbook/team#burial-grounds-sighs).
 
 ### Burst damage
 
@@ -101,7 +101,7 @@ Clementine.
 
 ### Cocoon
 
-An effect on some enemies that grants them increasing fortress (damage reduction) the more damage dealt to them in a turn. Can also refer to the Chrysalis of the Maiden covenant set (sometimes listed as Cocoon of the Maiden).
+An effect on some enemies that grants them increasing fortress (damage reduction) the more damage dealt to them in a turn. Can also refer to the [Cocoon of the Maiden](/handbook/team#cocoon-of-the-maiden) covenant set.
 
 ### Corpo
 
@@ -155,7 +155,7 @@ Death Resistance.
 
 ### Dream/Dreams
 
-The covenant Dream of Medicine. Used to have various different English names.
+The covenant [Dream of Medicine](/handbook/team#dream-of-medicine). Used to have various different English names.
 
 ### D-Tide/Dtide
 
@@ -179,7 +179,7 @@ Ancient Embers, an effect some high-HP enemies have. They take a certain amount 
 
 ### Feast
 
-The covenant Feast from Afar.
+The covenant [Feast from Afar](/handbook/team#feast-from-afar).
 
 ### Fin
 
@@ -245,7 +245,7 @@ Kathigu-Ra.
 
 ### Keyflare bot
 
-A support awakener whose main job is to hold the covenant Life Drain and provide keyflare for the team.
+A support awakener whose main job is to hold the covenant [Life Drain](/handbook/team#life-drain) and provide keyflare for the team.
 
 ## L
 
@@ -453,5 +453,5 @@ Pulling on the standard Wheels of Rotation banner to get a wheel to +12.
 [**!\$@**](#_1) · [**0-9**](#0-9) · [**A**](#a) · [**B**](#b) · [**C**](#c) · [**D**](#d) · [**E**](#e) · [**F**](#f) · [**G**](#g) · [**H**](#h) · [**I**](#i) · [**J**](#j) · [**K**](#k) · [**L**](#l) · [**M**](#m) · [**N**](#n) · [**O**](#o) · [**P**](#p) · [**Q**](#q) · [**R**](#r) · [**S**](#s) · [**T**](#t) · [**U**](#u) · [**V**](#v) · [**W**](#w) · [**XYZ**](#xyz)
 
 <figure markdown="span">
-  ![](../images/emojis/horla-write-down.png){width="128" loading=lazy} <figcaption>"Keeper, none of these words are in the dictionary…"</figcaption>
+  ![](/images/emojis/horla-write-down.png){width="128" loading=lazy} <figcaption>"Keeper, none of these words are in the dictionary…"</figcaption>
 </figure>

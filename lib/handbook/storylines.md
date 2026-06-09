@@ -6,7 +6,7 @@ icon: lucide/star
 # Faded Legacy & Astral Reign
 
 <figure markdown="span">
-  ![](../images/handbook/storylines/chapters.png){width="400"} <figcaption>After completing Faded Legacy Ch. 9, a new set of chapters unlocks</figcaption>
+  ![](/images/handbook/storylines/chapters.png){width="400"} <figcaption>After completing Faded Legacy Ch. 9, a new set of chapters unlocks</figcaption>
 </figure>
 
 Morimens has two storylines with different game rules: **Faded Legacy** and **Astral Reign.** These are often called Arc 1 and Arc 2 by the community.
@@ -22,14 +22,14 @@ Morimens has two storylines with different game rules: **Faded Legacy** and **As
 Each stage tells you which ruleset it uses:
 
 <div class="gallery" markdown="span">
-  ![](../images/handbook/storylines/ruleset-1.png){class="on-glb" loading=lazy}
-  ![](../images/handbook/storylines/ruleset-2.png){class="on-glb" loading=lazy}
-  ![](../images/handbook/storylines/ruleset-3.png){class="on-glb" loading=lazy}
+  ![](/images/handbook/storylines/ruleset-1.png){class="on-glb" loading=lazy}
+  ![](/images/handbook/storylines/ruleset-2.png){class="on-glb" loading=lazy}
+  ![](/images/handbook/storylines/ruleset-3.png){class="on-glb" loading=lazy}
 </div>
 
 ## Faded Legacy (Arc 1)
 
-![](../images/handbook/storylines/faded-legacy.png){width="256" loading=lazy}
+![](/images/handbook/storylines/faded-legacy.png){width="256" loading=lazy}
 
 Faded Legacy rules are the ones you're already familiar with. They're used in:
 
@@ -45,7 +45,7 @@ Faded Legacy rules are the ones you're already familiar with. They're used in:
 **The lowest-rarity wheels are very powerful in Faded Legacy.**
 
 <figure markdown="span">
-  ![](../images/handbook/storylines/r-wheels.png){width="400" loading=lazy}
+  ![](/images/handbook/storylines/r-wheels.png){width="400" loading=lazy}
 </figure>
 
 Many new players ignore R wheels. These wheels are actually better than most SR and even SSR wheels. They're so powerful they had to be nerfed by removing their abilities in Astral Reign stages.
@@ -53,14 +53,14 @@ Many new players ignore R wheels. These wheels are actually better than most SR 
 **If you're new, put R wheels on all your supports.** The benefit of SSR and SR wheels is raw stats, which are only important on your main damage dealer and shielder. Everyone else is more useful holding R wheels.
 
 <figure markdown="span">
-  ![](../images/handbook/storylines/p-dive.png){width="600" loading=lazy} <figcaption>I got Dominator rank in Phantasmal Dive with level 60 characters holding R wheels</figcaption>
+  ![](/images/handbook/storylines/p-dive.png){width="600" loading=lazy} <figcaption>I got Dominator rank in Phantasmal Dive with level 60 characters holding R wheels</figcaption>
 </figure>
 
 Here are some of the best wheels in the game:
 
 <div class="grid cards" markdown>
 - <figure markdown="span">
-    ![](../images/wheels/gluttony.png){width="128" loading=lazy}
+    ![](/images/wheels/gluttony.png){width="128" loading=lazy}
     <figcaption>Gluttony</figcaption>
   </figure>
 
@@ -69,7 +69,7 @@ Here are some of the best wheels in the game:
     </p>
 
 - <figure markdown="span">
-    ![](../images/wheels/frenzy.png){width="128" loading=lazy}
+    ![](/images/wheels/frenzy.png){width="128" loading=lazy}
     <figcaption>Frenzy</figcaption>
   </figure>
 
@@ -78,7 +78,7 @@ Here are some of the best wheels in the game:
     </p>
 
 - <figure markdown="span">
-    ![](../images/wheels/emerge.png){width="128" loading=lazy}
+    ![](/images/wheels/emerge.png){width="128" loading=lazy}
     <figcaption>Emerge</figcaption>
   </figure>
 
@@ -87,7 +87,7 @@ Here are some of the best wheels in the game:
     </p>
 
 - <figure markdown="span">
-    ![](../images/wheels/aged.png){width="128" loading=lazy}
+    ![](/images/wheels/aged.png){width="128" loading=lazy}
     <figcaption>Aged</figcaption>
   </figure>
 
@@ -96,7 +96,7 @@ Here are some of the best wheels in the game:
     </p>
 
 - <figure markdown="span">
-    ![](../images/wheels/whisper.png){width="128" loading=lazy}
+    ![](/images/wheels/whisper.png){width="128" loading=lazy}
     <figcaption>Whisper</figcaption>
   </figure>
 
@@ -105,7 +105,7 @@ Here are some of the best wheels in the game:
     </p>
 
 - <figure markdown="span">
-    ![](../images/wheels/hope.png){width="128" loading=lazy}
+    ![](/images/wheels/hope.png){width="128" loading=lazy}
     <figcaption>Hope</figcaption>
   </figure>
 
@@ -116,7 +116,7 @@ Here are some of the best wheels in the game:
 
 ## Astral Reign (Arc 2)
 
-![](../images/handbook/storylines/astral-reign.png){width="256" loading=lazy}
+![](/images/handbook/storylines/astral-reign.png){width="256" loading=lazy}
 
 Astral Reign rules were created to fix game balance by nerfing game-breaking builds from Faded Legacy. They're used in:
 
@@ -128,7 +128,7 @@ Astral Reign rules were created to fix game balance by nerfing game-breaking bui
 
 ### Soulforge Aptitude
 
-![](../images/handbook/storylines/soulforge-aptitude.png){width="384" loading=lazy}
+![](/images/handbook/storylines/soulforge-aptitude.png){width="384" loading=lazy}
 
 **Soulforge (SF) is the most important thing to level in Astral Reign.**
 
@@ -145,8 +145,8 @@ Here are some of the most impactful soulforge talents:
 ### Keyflare Rouse
 
 <figure markdown="span">
-  ![](../images/handbook/storylines/keyflare-rouse-1.png){width="88.4833" loading=lazy style="margin-bottom: 3.75px;"}
-  ![](../images/handbook/storylines/keyflare-rouse-2.png){width="384" loading=lazy} <figcaption>Clicking on your head now gives you the Keyflare Rouse option</figcaption>
+  ![](/images/handbook/storylines/keyflare-rouse-1.png){width="88.4833" loading=lazy style="margin-bottom: 3.75px;"}
+  ![](/images/handbook/storylines/keyflare-rouse-2.png){width="384" loading=lazy} <figcaption>Clicking on your head now gives you the Keyflare Rouse option</figcaption>
 </figure>
 
 **In Astral Reign, you spend keyflare to get rouses during battle.**

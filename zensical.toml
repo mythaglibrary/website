@@ -49,6 +49,7 @@ nav = [
     "handbook/index.md",
     { "Spending Your Resources" = "handbook/resources.md" },
     { "Faded Legacy & Astral Reign" = "handbook/storylines.md" },
+    { "How to Build a Team" = "handbook/team.md" },
     { "Glossary" = "handbook/glossary.md" }
   ]},
 ]
