@@ -56,73 +56,101 @@ All of these are viable approaches. The important part is to **know what your te
     <p>
       A team that enables Mouchette to kill as fast as possible
     </p>
-  - <figure class="flex-col-center">
+  - <figure class="flex-col-center" style="height: 100%;">
       ![](/images/posses/tiny-wish.png){width="96" loading=lazy} <figcaption>Tiny Wish</figcaption>
     </figure>
 </div>
-<div class="grid cards" markdown>
-  - <span class="flex dps">
+<div class="grid cards text-center" style="grid-template-columns: 1fr" markdown>
+  - <span class="grid dps">
       <figure>
-        ![Mouchette](/images/awakeners/chaos/mouchette.png){width="128" loading=lazy} <figcaption>Mouchette</figcaption>
+        ![Mouchette](/images/awakeners/chaos/mouchette.png){.mobile width="64" loading=lazy} ![Mouchette](/images/awakeners/chaos/mouchette.png){.desktop width="128" loading=lazy} <figcaption>Mouchette</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**DPS**</p>
+        [![Crimson Pulse](/images/covenants/crimson-pulse--icon.png "Crimson Pulse"){.mobile width="64" loading=lazy}](#crimson-pulse)
+        <p style="margin-top: 0;">Main damage dealer</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**DPS**</p>
+        <p style="margin-top: 0;">Main damage dealer</p>
+      </span>
+      <figure>
+        ![Blade of the Titan](/images/wheels/blade-of-the-titan.png){.mobile width="46" loading=lazy} ![Blade of the Titan](/images/wheels/blade-of-the-titan.png){.desktop width="94" loading=lazy} <figcaption>Blade of the Titan</figcaption>
       </figure>
       <figure>
-        [![Crimson Pulse](/images/covenants/crimson-pulse--icon.png "Crimson Pulse"){width="128" loading=lazy}](#crimson-pulse) <p style="margin-bottom: 0;">**DPS**</p><p style="margin-top: 0;">Main damage dealer</p>
+        ![Analysis of Death](/images/wheels/analysis-of-death.png){.mobile width="46" loading=lazy} ![Analysis of Death](/images/wheels/analysis-of-death.png){.desktop width="94" loading=lazy} <figcaption>Analysis of Death</figcaption>
       </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Blade of the Titan](/images/wheels/blade-of-the-titan.png){width="128" loading=lazy} <figcaption>Blade of the Titan</figcaption>
-      </figure>
-      <figure>
-        ![Analysis of Death](/images/wheels/analysis-of-death.png){width="128" loading=lazy} <figcaption>Analysis of Death</figcaption>
-      </figure>
-    </span>
-  - <span class="flex support">
-      <figure>
-        ![Ramona](/images/awakeners/chaos/ramona.png){width="128" loading=lazy} <figcaption>Ramona</figcaption>
-      </figure>
-      <figure>
-        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy}](#burial-grounds-sighs) <p style="margin-bottom: 0;">**Support**</p><p style="margin-top: 0;">Keyflare, searches for key cards</p>
-      </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Elevated](/images/wheels/elevated-focus.png){width="128" loading=lazy} <figcaption>Elevated Focus</figcaption>
-      </figure>
-      <figure>
-        ![Frenzy](/images/wheels/frenzy.png){width="128" loading=lazy} <figcaption>Frenzy</figcaption>
+      <figure class="desktop">
+        [![Crimson Pulse](/images/covenants/crimson-pulse--icon.png "Crimson Pulse"){width="128" loading=lazy style="margin-bottom: 57px;"}](#crimson-pulse)
       </figure>
     </span>
-  - <span class="flex support">
+  - <span class="grid support">
       <figure>
-        ![Aigis](/images/awakeners/caro/aigis.png){width="128" loading=lazy} <figcaption>Aigis</figcaption>
+        ![Ramona](/images/awakeners/chaos/ramona.png){.mobile width="64" loading=lazy} ![Ramona](/images/awakeners/chaos/ramona.png){.desktop width="128" loading=lazy} <figcaption>Ramona</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Support**</p>
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){.mobile width="64" loading=lazy}](#burial-grounds-sighs)
+        <p style="margin-top: 0;">Keyflare, searches for key cards</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Support**</p>
+        <p style="margin-top: 0;">Keyflare, searches for key cards</p>
+      </span>
+      <figure>
+        ![Elevated Focus](/images/wheels/elevated-focus.png){.mobile width="46" loading=lazy} ![Elevated Focus](/images/wheels/elevated-focus.png){.desktop width="94" loading=lazy} <figcaption>Elevated Focus</figcaption>
       </figure>
       <figure>
-        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy}](#burial-grounds-sighs) <p style="margin-bottom: 0;">**Support**</p><p style="margin-top: 0;">Stuns, applies vulnerable</p>
+        ![Frenzy](/images/wheels/frenzy.png){.mobile width="46" loading=lazy} ![Frenzy](/images/wheels/frenzy.png){.desktop width="94" loading=lazy} <figcaption>Frenzy</figcaption>
+      </figure>
+      <figure class="desktop">
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy style="margin-bottom: 57px;"}](#burial-grounds-sighs)
       </figure>
     </span>
-    <span class="grid-1/1">
+  - <span class="grid support">
       <figure>
-        ![Gluttony](/images/wheels/gluttony.png){width="128" loading=lazy} <figcaption>Gluttony</figcaption>
+        ![Aigis](/images/awakeners/caro/aigis.png){.mobile width="64" loading=lazy} ![Aigis](/images/awakeners/caro/aigis.png){.desktop width="128" loading=lazy} <figcaption>Aigis</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Support**</p>
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){.mobile width="64" loading=lazy}](#burial-grounds-sighs)
+        <p style="margin-top: 0;">Stuns, applies vulnerable</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Support**</p>
+        <p style="margin-top: 0;">Stuns, applies vulnerable</p>
+      </span>
+      <figure>
+        ![Gluttony](/images/wheels/gluttony.png){.mobile width="46" loading=lazy} ![Gluttony](/images/wheels/gluttony.png){.desktop width="94" loading=lazy} <figcaption>Gluttony</figcaption>
       </figure>
       <figure>
-        ![Whisper](/images/wheels/whisper.png){width="128" loading=lazy} <figcaption>Whisper</figcaption>
+        ![Whisper](/images/wheels/whisper.png){.mobile width="46" loading=lazy} ![Whisper](/images/wheels/whisper.png){.desktop width="94" loading=lazy} <figcaption>Whisper</figcaption>
+      </figure>
+      <figure class="desktop">
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy style="margin-bottom: 57px;"}](#burial-grounds-sighs)
       </figure>
     </span>
-  - <span class="flex support">
+  - <span class="grid support">
       <figure>
-        ![Helot](/images/awakeners/caro/helot.png){width="128" loading=lazy} <figcaption>Helot</figcaption>
+        ![Helot](/images/awakeners/caro/helot.png){.mobile width="64" loading=lazy} ![Helot](/images/awakeners/caro/helot.png){.desktop width="128" loading=lazy} <figcaption>Helot</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Support**</p>
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){.mobile width="64" loading=lazy}](#burial-grounds-sighs)
+        <p style="margin-top: 0;">Buffs Mouchette's damage</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Support**</p>
+        <p style="margin-top: 0;">Buffs Mouchette's damage</p>
+      </span>
+      <figure>
+        ![Aged](/images/wheels/aged.png){.mobile width="46" loading=lazy} ![Aged](/images/wheels/aged.png){.desktop width="94" loading=lazy} <figcaption>Aged</figcaption>
       </figure>
       <figure>
-        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy}](#burial-grounds-sighs) <p style="margin-bottom: 0;">**Support**</p><p style="margin-top: 0;">Buffs Mouchette's damage</p>
+        ![Emerge](/images/wheels/emerge.png){.mobile width="46" loading=lazy} ![Emerge](/images/wheels/emerge.png){.desktop width="94" loading=lazy} <figcaption>Emerge</figcaption>
       </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Aged](/images/wheels/aged.png){width="128" loading=lazy} <figcaption>Aged</figcaption>
-      </figure>
-      <figure>
-        ![Emerge](/images/wheels/emerge.png){width="128" loading=lazy} <figcaption>Emerge</figcaption>
+      <figure class="desktop">
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy style="margin-bottom: 57px;"}](#burial-grounds-sighs)
       </figure>
     </span>
 </div>
@@ -162,73 +190,101 @@ The Newbie DPS Tier List and Newbie Support Tier List rank characters based on h
     <p>
       A team that outlasts enemies while waiting for relics to kill them
     </p>
-  - <figure class="flex-col-center">
+  - <figure class="flex-col-center" style="height: 100%;">
       ![](/images/posses/derision-of-destiny.png){width="96" loading=lazy} <figcaption>Derision of Destiny</figcaption>
     </figure>
 </div>
-<div class="grid cards" markdown>
-  - <span class="flex tank">
+<div class="grid cards text-center" style="grid-template-columns: 1fr" markdown>
+  - <span class="grid tank">
       <figure>
-        ![Castor](/images/awakeners/ultra/castor.png){width="128" loading=lazy} <figcaption>Castor</figcaption>
+        ![Castor](/images/awakeners/ultra/castor.png){.mobile width="64" loading=lazy} ![Castor](/images/awakeners/ultra/castor.png){.desktop width="128" loading=lazy} <figcaption>Castor</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Tank**</p>
+        [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){.mobile width="64" loading=lazy}](#dream-of-medicine)
+        <p style="margin-top: 0;">Shields, applies weakness</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Tank**</p>
+        <p style="margin-top: 0;">Shields, applies weakness</p>
+      </span>
+      <figure>
+        ![Unbearable Freedom](/images/wheels/unbearable-freedom.png){.mobile width="46" loading=lazy} ![Unbearable Freedom](/images/wheels/unbearable-freedom.png){.desktop width="94" loading=lazy} <figcaption>Unbearable Freedom</figcaption>
       </figure>
       <figure>
-        [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){width="128" loading=lazy}](#dream-of-medicine) <p style="margin-bottom: 0;">**Tank**</p><p style="margin-top: 0;">Shields, applies weakness</p>
+        ![Data is Flesh](/images/wheels/data-is-flesh.png){.mobile width="46" loading=lazy} ![Data is Flesh](/images/wheels/data-is-flesh.png){.desktop width="94" loading=lazy} <figcaption>Data is Flesh</figcaption>
       </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Unbearable Freedom](/images/wheels/unbearable-freedom.png){width="128" loading=lazy} <figcaption>Unbearable Freedom</figcaption>
-      </figure>
-      <figure>
-        ![Data is Flesh](/images/wheels/data-is-flesh.png){width="128" loading=lazy} <figcaption>Data is Flesh</figcaption>
-      </figure>
-    </span>
-  - <span class="flex tank">
-      <figure>
-        ![Leigh](/images/awakeners/caro/leigh.png){width="128" loading=lazy} <figcaption>Leigh</figcaption>
-      </figure>
-      <figure>
-        [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){width="128" loading=lazy}](#cursed-rabbit) <p style="margin-bottom: 0;">**Tank**</p><p style="margin-top: 0;">Heals and shields when devouring</p>
-      </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![The Glutton's Tale](/images/wheels/the-gluttons-tale.png){width="128" loading=lazy} <figcaption>The Glutton's Tale</figcaption>
-      </figure>
-      <figure>
-        ![Nobleman's Staff](/images/wheels/noblemans-staff.png){width="128" loading=lazy} <figcaption>Nobleman's Staff</figcaption>
+      <figure class="desktop">
+        [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){width="128" loading=lazy style="margin-bottom: 57px;"}](#dream-of-medicine)
       </figure>
     </span>
-  - <span class="flex support">
+  - <span class="grid tank">
       <figure>
-        ![Agrippa](/images/awakeners/caro/agrippa.png){width="128" loading=lazy} <figcaption>Agrippa</figcaption>
+        ![Leigh](/images/awakeners/caro/leigh.png){.mobile width="64" loading=lazy} ![Leigh](/images/awakeners/caro/leigh.png){.desktop width="128" loading=lazy} <figcaption>Leigh</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Tank**</p>
+        [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){.mobile width="64" loading=lazy}](#cursed-rabbit)
+        <p style="margin-top: 0;">Heals and shields when devouring</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Tank**</p>
+        <p style="margin-top: 0;">Heals and shields when devouring</p>
+      </span>
+      <figure>
+        ![The Glutton's Tale](/images/wheels/the-gluttons-tale.png){.mobile width="46" loading=lazy} ![The Glutton's Tale](/images/wheels/the-gluttons-tale.png){.desktop width="94" loading=lazy} <figcaption>The Glutton's Tale</figcaption>
       </figure>
       <figure>
-        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy}](#burial-grounds-sighs) <p style="margin-bottom: 0;">**Support**</p><p style="margin-top: 0;">Alert, embryos, poison</p>
+        ![Nobleman's Staff](/images/wheels/noblemans-staff.png){.mobile width="46" loading=lazy} ![Nobleman's Staff](/images/wheels/noblemans-staff.png){.desktop width="94" loading=lazy} <figcaption>Nobleman's Staff</figcaption>
+      </figure>
+      <figure class="desktop">
+        [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){width="128" loading=lazy style="margin-bottom: 57px;"}](#cursed-rabbit)
       </figure>
     </span>
-    <span class="grid-1/1">
+  - <span class="grid support">
       <figure>
-        ![Pale Descendant](/images/wheels/pale-descendant.png){width="128" loading=lazy} <figcaption>Pale Descendant</figcaption>
+        ![Agrippa](/images/awakeners/caro/agrippa.png){.mobile width="64" loading=lazy} ![Agrippa](/images/awakeners/caro/agrippa.png){.desktop width="128" loading=lazy} <figcaption>Agrippa</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Support**</p>
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){.mobile width="64" loading=lazy}](#burial-grounds-sighs)
+        <p style="margin-top: 0;">Alert, embryos, poison</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Support**</p>
+        <p style="margin-top: 0;">Alert, embryos, poison</p>
+      </span>
+      <figure>
+        ![Pale Descendant](/images/wheels/pale-descendant.png){.mobile width="46" loading=lazy} ![Pale Descendant](/images/wheels/pale-descendant.png){.desktop width="94" loading=lazy} <figcaption>Pale Descendant</figcaption>
       </figure>
       <figure>
-        ![Mind Barrier](/images/wheels/mind-barrier.png){width="128" loading=lazy} <figcaption>Mind Barrier</figcaption>
+        ![Mind Barrier](/images/wheels/mind-barrier.png){.mobile width="46" loading=lazy} ![Mind Barrier](/images/wheels/mind-barrier.png){.desktop width="94" loading=lazy} <figcaption>Mind Barrier</figcaption>
+      </figure>
+      <figure class="desktop">
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy style="margin-bottom: 57px;"}](#burial-grounds-sighs)
       </figure>
     </span>
-  - <span class="flex support">
+  - <span class="grid support">
       <figure>
-        ![Erica](/images/awakeners/ultra/erica.png){width="128" loading=lazy} <figcaption>Erica</figcaption>
+        ![Erica](/images/awakeners/ultra/erica.png){.mobile width="64" loading=lazy} ![Erica](/images/awakeners/ultra/erica.png){.desktop width="128" loading=lazy} <figcaption>Erica</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Support**</p>
+        [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){.mobile width="64" loading=lazy}](#life-drain)
+        <p style="margin-top: 0;">Keyflare, shields, temp. alert</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Support**</p>
+        <p style="margin-top: 0;">Keyflare, shields, temp. alert</p>
+      </span>
+      <figure>
+        ![Core Meltdown](/images/wheels/core-meltdown.png){.mobile width="46" loading=lazy} ![Core Meltdown](/images/wheels/core-meltdown.png){.desktop width="94" loading=lazy} <figcaption>Core Meltdown</figcaption>
       </figure>
       <figure>
-        [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){width="128" loading=lazy}](#life-drain) <p style="margin-bottom: 0;">**Support**</p><p style="margin-top: 0;">Keyflare, shields, temp. alert</p>
+        ![Moment of Reunion](/images/wheels/moment-of-reunion.png){.mobile width="46" loading=lazy} ![Moment of Reunion](/images/wheels/moment-of-reunion.png){.desktop width="94" loading=lazy} <figcaption>Moment of Reunion</figcaption>
       </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Core Meltdown](/images/wheels/core-meltdown.png){width="128" loading=lazy} <figcaption>Core Meltdown</figcaption>
-      </figure>
-      <figure>
-        ![Moment of Reunion](/images/wheels/moment-of-reunion.png){width="128" loading=lazy} <figcaption>Moment of Reunion</figcaption>
+      <figure class="desktop">
+        [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){width="128" loading=lazy style="margin-bottom: 57px;"}](#life-drain)
       </figure>
     </span>
 </div>
@@ -255,73 +311,101 @@ Stall teams have to be wary of [Gaze](/handbook/storylines#light-cone-of-fate) i
     <p>
       A team that applies poison and triggers it to deal damage
     </p>
-  - <figure class="flex-col-center">
+  - <figure class="flex-col-center" style="height: 100%;">
       ![](/images/posses/plague-of-illusions.png){width="96" loading=lazy} <figcaption>Plague of Illusions</figcaption>
     </figure>
 </div>
-<div class="grid cards" markdown>
-  - <span class="flex dps">
+<div class="grid cards text-center" style="grid-template-columns: 1fr" markdown>
+  - <span class="grid dps">
       <figure>
-        ![Xu](/images/awakeners/caro/xu.png){width="128" loading=lazy} <figcaption>Xu</figcaption>
+        ![Xu](/images/awakeners/caro/xu.png){.mobile width="64" loading=lazy} ![Xu](/images/awakeners/caro/xu.png){.desktop width="128" loading=lazy} <figcaption>Xu</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Poison/DPS**</p>
+        [![Steppenwolf](/images/covenants/steppenwolf--icon.png "Steppenwolf"){.mobile width="64" loading=lazy}](#steppenwolf)
+        <p style="margin-top: 0;">Applies and triggers poison</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Poison/DPS**</p>
+        <p style="margin-top: 0;">Applies and triggers poison</p>
+      </span>
+      <figure>
+        ![Gift of Decay](/images/wheels/gift-of-decay.png){.mobile width="46" loading=lazy} ![Gift of Decay](/images/wheels/gift-of-decay.png){.desktop width="94" loading=lazy} <figcaption>Gift of Decay</figcaption>
       </figure>
       <figure>
-        [![Steppenwolf](/images/covenants/steppenwolf--icon.png "Steppenwolf"){width="128" loading=lazy}](#steppenwolf) <p style="margin-bottom: 0;">**Poison/DPS**</p><p style="margin-top: 0;">Applies and triggers poison</p>
+        ![Cursed Binding](/images/wheels/cursed-binding.png){.mobile width="46" loading=lazy} ![Cursed Binding](/images/wheels/cursed-binding.png){.desktop width="94" loading=lazy} <figcaption>Cursed Binding</figcaption>
       </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Gift of Decay](/images/wheels/gift-of-decay.png){width="128" loading=lazy} <figcaption>Gift of Decay</figcaption>
-      </figure>
-      <figure>
-        ![Cursed Binding](/images/wheels/cursed-binding.png){width="128" loading=lazy} <figcaption>Cursed Binding</figcaption>
-      </figure>
-    </span>
-  - <span class="flex support">
-      <figure>
-        ![Nymphaea](/images/awakeners/chaos/nymphaea.png){width="128" loading=lazy} <figcaption>Nymphaea</figcaption>
-      </figure>
-      <figure>
-        [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){width="128" loading=lazy}](#life-drain) <p style="margin-bottom: 0;">**Support**</p><p style="margin-top: 0;">Keyflare, triggers poison</p>
-      </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Merciful Nurturing](/images/wheels/merciful-nurturing.png){width="128" loading=lazy} <figcaption>Merciful Nurturing</figcaption>
-      </figure>
-      <figure>
-        ![Moment of Reunion](/images/wheels/moment-of-reunion.png){width="128" loading=lazy} <figcaption>Moment of Reunion</figcaption>
+      <figure class="desktop">
+        [![Steppenwolf](/images/covenants/steppenwolf--icon.png "Steppenwolf"){width="128" loading=lazy style="margin-bottom: 57px;"}](#steppenwolf)
       </figure>
     </span>
-  - <span class="flex support">
+  - <span class="grid support">
       <figure>
-        ![GDoll](/images/awakeners/chaos/gdoll.png){width="128" loading=lazy} <figcaption>GDoll</figcaption>
+        ![Nymphaea](/images/awakeners/chaos/nymphaea.png){.mobile width="64" loading=lazy} ![Nymphaea](/images/awakeners/chaos/nymphaea.png){.desktop width="128" loading=lazy} <figcaption>Nymphaea</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Support**</p>
+        [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){.mobile width="64" loading=lazy}](#life-drain)
+        <p style="margin-top: 0;">Keyflare, triggers poison</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Support**</p>
+        <p style="margin-top: 0;">Keyflare, triggers poison</p>
+      </span>
+      <figure>
+        ![Merciful Nurturing](/images/wheels/merciful-nurturing.png){.mobile width="46" loading=lazy} ![Merciful Nurturing](/images/wheels/merciful-nurturing.png){.desktop width="94" loading=lazy} <figcaption>Merciful Nurturing</figcaption>
       </figure>
       <figure>
-        [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){width="128" loading=lazy}](#dream-of-medicine) <p style="margin-bottom: 0;">**Support**</p><p style="margin-top: 0;">Aliemus, applies poison</p>
+        ![Moment of Reunion](/images/wheels/moment-of-reunion.png){.mobile width="46" loading=lazy} ![Moment of Reunion](/images/wheels/moment-of-reunion.png){.desktop width="94" loading=lazy} <figcaption>Moment of Reunion</figcaption>
+      </figure>
+      <figure class="desktop">
+        [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){width="128" loading=lazy style="margin-bottom: 57px;"}](#life-drain)
       </figure>
     </span>
-    <span class="grid-1/1">
+  - <span class="grid support">
       <figure>
-        ![Manikin of Oblivion](/images/wheels/manikin-of-oblivion.png){width="128" loading=lazy} <figcaption>Manikin of Oblivion</figcaption>
+        ![GDoll](/images/awakeners/chaos/gdoll.png){.mobile width="64" loading=lazy} ![GDoll](/images/awakeners/chaos/gdoll.png){.desktop width="128" loading=lazy} <figcaption>GDoll</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Support**</p>
+        [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){.mobile width="64" loading=lazy}](#dream-of-medicine)
+        <p style="margin-top: 0;">Aliemus, applies poison</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Support**</p>
+        <p style="margin-top: 0;">Aliemus, applies poison</p>
+      </span>
+      <figure>
+        ![Manikin of Oblivion](/images/wheels/manikin-of-oblivion.png){.mobile width="46" loading=lazy} ![Manikin of Oblivion](/images/wheels/manikin-of-oblivion.png){.desktop width="94" loading=lazy} <figcaption>Manikin of Oblivion</figcaption>
       </figure>
       <figure>
-        ![Elevated Focus](/images/wheels/elevated-focus.png){width="128" loading=lazy} <figcaption>Elevated Focus</figcaption>
+        ![Elevated Focus](/images/wheels/elevated-focus.png){.mobile width="46" loading=lazy} ![Elevated Focus](/images/wheels/elevated-focus.png){.desktop width="94" loading=lazy} <figcaption>Elevated Focus</figcaption>
+      </figure>
+      <figure class="desktop">
+        [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){width="128" loading=lazy style="margin-bottom: 57px;"}](#dream-of-medicine)
       </figure>
     </span>
-  - <span class="flex tank">
+  - <span class="grid tank">
       <figure>
-        ![Faint](/images/awakeners/caro/faint.png){width="128" loading=lazy} <figcaption>Faint</figcaption>
+        ![Faint](/images/awakeners/caro/faint.png){.mobile width="64" loading=lazy} ![Faint](/images/awakeners/caro/faint.png){.desktop width="128" loading=lazy} <figcaption>Faint</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Tank**</p>
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){.mobile width="64" loading=lazy}](#burial-grounds-sighs)
+        <p style="margin-top: 0;">Death resistance, weakness</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Tank**</p>
+        <p style="margin-top: 0;">Death resistance, weakness</p>
+      </span>
+      <figure>
+        ![Dusk and Dawn](/images/wheels/dusk-and-dawn.png){.mobile width="46" loading=lazy} ![Dusk and Dawn](/images/wheels/dusk-and-dawn.png){.desktop width="94" loading=lazy} <figcaption>Dusk and Dawn</figcaption>
       </figure>
       <figure>
-        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy}](#burial-grounds-sighs) <p style="margin-bottom: 0;">**Tank**</p><p style="margin-top: 0;">Death resistance, weakness</p>
+        ![Cloaked in the Night](/images/wheels/cloaked-in-the-night.png){.mobile width="46" loading=lazy} ![Cloaked in the Night](/images/wheels/cloaked-in-the-night.png){.desktop width="94" loading=lazy} <figcaption>Cloaked in the Night</figcaption>
       </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Dusk and Dawn](/images/wheels/dusk-and-dawn.png){width="128" loading=lazy} <figcaption>Dusk and Dawn</figcaption>
-      </figure>
-      <figure>
-        ![Cloaked in the Night](/images/wheels/cloaked-in-the-night.png){width="128" loading=lazy} <figcaption>Cloaked in the Night</figcaption>
+      <figure class="desktop">
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){width="128" loading=lazy style="margin-bottom: 57px;"}](#burial-grounds-sighs)
       </figure>
     </span>
 </div>
@@ -352,73 +436,101 @@ A poison team is usually also a stall team, but it can be faster depending on th
     <p>
       A team that can stack counter and convert it into damage
     </p>
-  - <figure class="flex-col-center">
+  - <figure class="flex-col-center" style="height: 100%;">
       ![](/images/posses/a-mouses-wisdom.png){width="96" loading=lazy} <figcaption>A Mouse's Wisdom</figcaption>
     </figure>
 </div>
-<div class="grid cards" markdown>
-  - <span class="flex dps">
+<div class="grid cards text-center" style="grid-template-columns: 1fr" markdown>
+  - <span class="grid dps">
       <figure>
-        ![Tawil](/images/awakeners/chaos/tawil.png){width="128" loading=lazy} <figcaption>Tawil</figcaption>
+        ![Tawil](/images/awakeners/chaos/tawil.png){.mobile width="64" loading=lazy} ![Tawil](/images/awakeners/chaos/tawil.png){.desktop width="128" loading=lazy} <figcaption>Tawil</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**DPS/Support**</p>
+        [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){.mobile width="64" loading=lazy}](#dream-of-medicine)
+        <p style="margin-top: 0;">Keyflare, STR, damage, shields, utility</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**DPS/Support**</p>
+        <p style="margin-top: 0;">Keyflare, STR, damage, shields, utility</p>
+      </span>
+      <figure>
+        ![Wheel Unseen](/images/wheels/wheel-unseen.png){.mobile width="46" loading=lazy} ![Wheel Unseen](/images/wheels/wheel-unseen.png){.desktop width="94" loading=lazy} <figcaption>Wheel Unseen</figcaption>
       </figure>
       <figure>
-        [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){width="128" loading=lazy}](#dream-of-medicine) <p style="margin-bottom: 0;">**DPS/Support**</p><p style="margin-top: 0;">Keyflare, STR, damage, shields, utility</p>
+        ![Blade of the Titan](/images/wheels/blade-of-the-titan.png){.mobile width="46" loading=lazy} ![Blade of the Titan](/images/wheels/blade-of-the-titan.png){.desktop width="94" loading=lazy} <figcaption>Blade of the Titan</figcaption>
       </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Wheel Unseen](/images/wheels/wheel-unseen.png){width="128" loading=lazy} <figcaption>Wheel Unseen</figcaption>
-      </figure>
-      <figure>
-        ![Blade of the Titan](/images/wheels/blade-of-the-titan.png){width="128" loading=lazy} <figcaption>Blade of the Titan</figcaption>
-      </figure>
-    </span>
-  - <span class="flex support">
-      <figure>
-        ![Hameln](/images/awakeners/chaos/hameln.png){width="128" loading=lazy} <figcaption>Hameln</figcaption>
-      </figure>
-      <figure>
-        [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){width="128" loading=lazy}](#life-drain) <p style="margin-bottom: 0;">**Support**</p><p style="margin-top: 0;">Keyflare, arithmetica, card draw</p>
-      </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Merciful Nurturing](/images/wheels/merciful-nurturing.png){width="128" loading=lazy} <figcaption>Merciful Nurturing</figcaption>
-      </figure>
-      <figure>
-        ![Frenzy](/images/wheels/frenzy.png){width="128" loading=lazy} <figcaption>Frenzy</figcaption>
+      <figure class="desktop">
+        [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){width="128" loading=lazy style="margin-bottom: 57px;"}](#dream-of-medicine)
       </figure>
     </span>
-  - <span class="flex support">
+  - <span class="grid support">
       <figure>
-        ![Caecus](/images/awakeners/aequor/caecus.png){width="128" loading=lazy} <figcaption>Caecus</figcaption>
+        ![Hameln](/images/awakeners/chaos/hameln.png){.mobile width="64" loading=lazy} ![Hameln](/images/awakeners/chaos/hameln.png){.desktop width="128" loading=lazy} <figcaption>Hameln</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Support**</p>
+        [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){.mobile width="64" loading=lazy}](#life-drain)
+        <p style="margin-top: 0;">Keyflare, arithmetica, card draw</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Support**</p>
+        <p style="margin-top: 0;">Keyflare, arithmetica, card draw</p>
+      </span>
+      <figure>
+        ![Merciful Nurturing](/images/wheels/merciful-nurturing.png){.mobile width="46" loading=lazy} ![Merciful Nurturing](/images/wheels/merciful-nurturing.png){.desktop width="94" loading=lazy} <figcaption>Merciful Nurturing</figcaption>
       </figure>
       <figure>
-        [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){width="128" loading=lazy}](#april-tribute) <p style="margin-bottom: 0;">**Counter/Support**</p><p style="margin-top: 0;">Heals, debuffs, turns STR into counter</p>
+        ![Frenzy](/images/wheels/frenzy.png){.mobile width="46" loading=lazy} ![Frenzy](/images/wheels/frenzy.png){.desktop width="94" loading=lazy} <figcaption>Frenzy</figcaption>
+      </figure>
+      <figure class="desktop">
+        [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){width="128" loading=lazy style="margin-bottom: 57px;"}](#life-drain)
       </figure>
     </span>
-    <span class="grid-1/1">
+  - <span class="grid support">
       <figure>
-        ![Fin of Sorrow](/images/wheels/fin-of-sorrow.png){width="128" loading=lazy} <figcaption>Fin of Sorrow</figcaption>
+        ![Caecus](/images/awakeners/aequor/caecus.png){.mobile width="64" loading=lazy} ![Caecus](/images/awakeners/aequor/caecus.png){.desktop width="128" loading=lazy} <figcaption>Caecus</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Counter/Support**</p>
+        [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){.mobile width="64" loading=lazy}](#april-tribute)
+        <p style="margin-top: 0;">Heals, debuffs, turns STR into counter</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Counter/Support**</p>
+        <p style="margin-top: 0;">Heals, debuffs, turns STR into counter</p>
+      </span>
+      <figure>
+        ![Fin of Sorrow](/images/wheels/fin-of-sorrow.png){.mobile width="46" loading=lazy} ![Fin of Sorrow](/images/wheels/fin-of-sorrow.png){.desktop width="94" loading=lazy} <figcaption>Fin of Sorrow</figcaption>
       </figure>
       <figure>
-        ![To My Dearest Friend](/images/wheels/to-my-dearest-friend.png){width="128" loading=lazy} <figcaption>To My Dearest Friend</figcaption>
+        ![To My Dearest Friend](/images/wheels/to-my-dearest-friend.png){.mobile width="46" loading=lazy} ![To My Dearest Friend](/images/wheels/to-my-dearest-friend.png){.desktop width="94" loading=lazy} <figcaption>To My Dearest Friend</figcaption>
+      </figure>
+      <figure class="desktop">
+        [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){width="128" loading=lazy style="margin-bottom: 57px;"}](#april-tribute)
       </figure>
     </span>
-  - <span class="flex tank">
+  - <span class="grid tank">
       <figure>
-        ![Nautila](/images/awakeners/chaos/nautila.png){width="128" loading=lazy} <figcaption>Nautila</figcaption>
+        ![Nautila](/images/awakeners/chaos/nautila.png){.mobile width="64" loading=lazy} ![Nautila](/images/awakeners/chaos/nautila.png){.desktop width="128" loading=lazy} <figcaption>Nautila</figcaption>
+      </figure>
+      <span class="mobile">
+        <p style="margin-bottom: 0;">**Counter/Tank**</p>
+        [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){.mobile width="64" loading=lazy}](#cursed-rabbit)
+        <p style="margin-top: 0;">Shields, turns counter into damage</p>
+      </span>
+      <span class="desktop flex-col-center" style="margin-bottom: 57px;">
+        <p style="margin-bottom: 0;">**Counter/Tank**</p>
+        <p style="margin-top: 0;">Shields, turns counter into damage</p>
+      </span>
+      <figure>
+        ![Gluttony](/images/wheels/gluttony.png){.mobile width="46" loading=lazy} ![Gluttony](/images/wheels/gluttony.png){.desktop width="94" loading=lazy} <figcaption>Gluttony</figcaption>
       </figure>
       <figure>
-        [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){width="128" loading=lazy}](#cursed-rabbit) <p style="margin-bottom: 0;">**Counter/Tank**</p><p style="margin-top: 0;">Shields, turns counter into damage</p>
+        ![Emerge](/images/wheels/emerge.png){.mobile width="46" loading=lazy} ![Emerge](/images/wheels/emerge.png){.desktop width="94" loading=lazy} <figcaption>Emerge</figcaption>
       </figure>
-    </span>
-    <span class="grid-1/1">
-      <figure>
-        ![Gluttony](/images/wheels/gluttony.png){width="128" loading=lazy} <figcaption>Gluttony</figcaption>
-      </figure>
-      <figure>
-        ![Emerge](/images/wheels/emerge.png){width="128" loading=lazy} <figcaption>Emerge</figcaption>
+      <figure class="desktop">
+        [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){width="128" loading=lazy style="margin-bottom: 57px;"}](#cursed-rabbit)
       </figure>
     </span>
 </div>
