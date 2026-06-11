@@ -1,5 +1,6 @@
 ---
 title: Faded Legacy & Astral Reign
+description: Differences between Morimens Faded Legacy (Arc 1) and Astral Reign (Arc 2) rulesets, including Soulforge Aptitude, Keyflare Rouse, and more.
 icon: lucide/star
 ---
 

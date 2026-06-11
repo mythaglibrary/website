@@ -1,6 +1,6 @@
 ---
 title: Glossary
-description: Morimens terms used in the game and community
+description: Morimens terms used in the game and community.
 icon: lucide/book-a
 ---
 
@@ -453,5 +453,5 @@ Pulling on the standard Wheels of Rotation banner to get a wheel to +12.
 [**!\$@**](#_1) · [**0-9**](#0-9) · [**A**](#a) · [**B**](#b) · [**C**](#c) · [**D**](#d) · [**E**](#e) · [**F**](#f) · [**G**](#g) · [**H**](#h) · [**I**](#i) · [**J**](#j) · [**K**](#k) · [**L**](#l) · [**M**](#m) · [**N**](#n) · [**O**](#o) · [**P**](#p) · [**Q**](#q) · [**R**](#r) · [**S**](#s) · [**T**](#t) · [**U**](#u) · [**V**](#v) · [**W**](#w) · [**XYZ**](#xyz)
 
 <figure markdown="span">
-  ![](/images/emojis/horla-write-down.png){width="128" loading=lazy} <figcaption>"Keeper, none of these words are in the dictionary…"</figcaption>
+  ![](/images/emojis/horla-writing.png){width="128" loading=lazy} <figcaption>"Keeper, none of these words are in the dictionary…"</figcaption>
 </figure>

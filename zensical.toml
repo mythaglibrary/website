@@ -50,6 +50,7 @@ nav = [
     { "Spending Your Resources" = "handbook/resources.md" },
     { "Faded Legacy & Astral Reign" = "handbook/storylines.md" },
     { "How to Build a Team" = "handbook/team.md" },
+    { "D-Zone For Dummies" = "handbook/d-zone.md" },
     { "Glossary" = "handbook/glossary.md" }
   ]},
 ]

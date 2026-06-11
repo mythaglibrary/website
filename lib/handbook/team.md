@@ -1,5 +1,6 @@
 ---
 title: How to Build a Team
+description: How to build a Morimens team with example comps, including wheels, covenants, and posse recommendations.
 icon: lucide/blocks
 ---
 
@@ -600,7 +601,7 @@ Teams that don't want weakness or vulnerable are rare:
 ## Realms & Teambuilding
 
 <figure markdown="span">
-  ![](/images/emojis/miryam-embrace.png){width="128" loading=lazy} <figcaption>"The best realm is clearly Aequor, the Divine Realm of my lord!" <br /> Miryam is not a good source of teambuilding advice.</figcaption>
+  ![](/images/emojis/miryam-embracing.png){width="128" loading=lazy} <figcaption>"The best realm is clearly Aequor, the Divine Realm of my lord!" <br /> Miryam is not a good source of teambuilding advice.</figcaption>
 </figure>
 
 **Choose your characters first and your realm second.**
@@ -681,7 +682,7 @@ The Awakener Guides section has a suggested posse for every character, but these
 ## Building Characters
 
 <figure markdown="span">
-  ![](/images/emojis/aigis-afraid.png){width="128" loading=lazy} <figcaption>"Aigis will do her best to be useful!"</figcaption>
+  ![](/images/emojis/aigis-scared.png){width="128" loading=lazy} <figcaption>"Aigis will do her best to be useful!"</figcaption>
 </figure>
 
 ### Building DPS

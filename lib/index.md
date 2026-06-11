@@ -8,5 +8,5 @@ icon: lucide/sparkles
 </h1>
 
 <figure markdown="span">
-  ![](images/emojis/aurita-cheer.png)
+  ![](images/emojis/aurita-cheering.png)
 </figure>

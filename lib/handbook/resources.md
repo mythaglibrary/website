@@ -1,12 +1,13 @@
 ---
 title: Spending Your Resources
+description: How to spend Silver, Pure Cores, Menophin, Rose Scrip, and other resources in Morimen, including which banners and awakeners to prioritize.
 icon: lucide/wallet
 ---
 
 # Spending Your Resources
 
 <figure markdown="span">
-  ![](/images/emojis/caecus-cry.png){width="128"} <figcaption>Caecus wasted all his Rose Scrip and is now broke. Don't be like Caecus.</figcaption>
+  ![](/images/emojis/caecus-crying.png){width="128"} <figcaption>Caecus wasted all his Rose Scrip and is now broke. Don't be like Caecus.</figcaption>
 </figure>
 
 ## Your First Awakening
@@ -499,5 +500,5 @@ If you have all the posses, you can use Reality Verges to unlock whatever you wa
 If you still want to spend money on the game, you can buy the time-limited Promotion Commemorative Gifts and Echoed Pilgrimage packs, or the various gift boxes from the Store.
 
 <figure markdown="span">
-  ![](/images/emojis/ogier-wave.png){width="128" loading=lazy} <figcaption>Thank you for supporting the game!</figcaption>
+  ![](/images/emojis/ogier-waving.png){width="128" loading=lazy} <figcaption>Thank you for supporting the game!</figcaption>
 </figure>

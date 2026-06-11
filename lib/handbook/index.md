@@ -1,10 +1,11 @@
 ---
 title: Morimens New Player Handbook
+description: Morimens beginner guide covering tutorials and tips for new players.
 icon: lucide/book-open
 ---
 
 <figure markdown="span">
-  ![](/images/emojis/doll-wait.png)
+  ![](/images/emojis/doll-waiting.png)
 </figure>
 
 <h1 class="text-center" style="margin: 0; font-size: 3em;">
@@ -21,9 +22,9 @@ icon: lucide/book-open
 
 !!! note "Last updated"
 
-    4 June 2026
+    9 June 2026
 
-    V2.5.1.0 - 2.5th Anniversary
+    V2.5.1.3 - Saya
 
 !!! info ""
 

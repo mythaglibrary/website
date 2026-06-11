@@ -105,7 +105,7 @@
 .md-typeset figcaption {
   opacity: 0.75;
   max-width: none;
-  margin: 0;
+  margin: 8px 0 0 0;
   text-align: center;
   font-family: var(--md-alt-font-family);
   font-style: italic;
@@ -261,6 +261,27 @@
   gap: 16px;
 }
 
+@media screen and (min-width: 76.2344em) {
+  .flex-center-desktop {
+    display: flex !important;
+    overflow-x: auto;
+    align-items: center;
+    gap: 16px;
+  }
+}
+
+@media screen and (max-width: 76.2343em) {
+  .flex-center-desktop {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .flex-center-desktop .mobile-order-1 {
+    order: 1;
+  }
+}
+
 .flex-center-inline {
   display: flex !important;
   align-items: center;
@@ -332,10 +353,6 @@
   .grid.tank {
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
-}
-.grid.dps,
-.grid.support,
-.grid.tank {
 }
 
 /* Text */
