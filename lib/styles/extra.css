@@ -28,6 +28,16 @@
 
     --md-effect-weakness: #976798;
     --md-effect-vulnerable: #a1525a;
+
+    --md-tier-s: #6d9eeb;
+    --md-tier-a: #93c47d;
+    --md-tier-b-plus: #bf9000;
+    --md-tier-b: #f1c232;
+    --md-tier-c-plus: #e69138;
+    --md-tier-c: #e06666;
+
+    --md-tier-free: #fff2cc;
+    --md-tier-standard: #c9daf8;
   }
 
   [data-md-color-scheme="slate"] {
@@ -45,6 +55,16 @@
 
     --md-effect-weakness: #976798;
     --md-effect-vulnerable: #a1525a;
+
+    --md-tier-s: #7fb0ff;
+    --md-tier-a: #9fd98a;
+    --md-tier-b-plus: #d7ab1e;
+    --md-tier-b: #ffd24d;
+    --md-tier-c-plus: #ffab57;
+    --md-tier-c: #f07f7f;
+
+    --md-tier-free: #ad9f6b;
+    --md-tier-standard: #647ea8;
   }
 }
 
@@ -236,6 +256,21 @@
 /**
  * Utility classes
  */
+
+/* Accordion */
+[dir="ltr"] .md-typeset .accordion details {
+  margin: 0.5em 0;
+  font-size: 0.8rem;
+}
+
+[dir="ltr"] .md-typeset .accordion summary {
+  padding-left: 0;
+  font-size: 0.8rem;
+}
+
+[dir="ltr"] .md-typeset .accordion summary::before {
+  content: none;
+}
 
 /* Flex */
 .inline-flex-center {
