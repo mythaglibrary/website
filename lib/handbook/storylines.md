@@ -135,7 +135,7 @@ Here are some of the most impactful soulforge talents:
 
 - [Kathigu-Ra](/handbook/awakeners#kathigu-ra), [Pollux](/handbook/awakeners#pollux), and [Vortice](/handbook/awakeners#vortice) become much stronger.
 - [Corposant](/handbook/awakeners#corposant) deals massive bonus damage to Aequor enemies.
-- The Lemurians — [Faros](/handbook/awakeners#faros), [Goliath](/handbook/awakeners#goliath), [Miryam](/handbook/awakeners#miryam), [GMurphy](/handbook/awakeners#gmurphy), and [Tulu](/handbook/awakeners#tulu) — get gigantic buffs when put in a team together.
+- The Lemurians — [Faros](/handbook/awakeners#faros), [Goliath](/handbook/awakeners#goliath), [Miryam](/handbook/awakeners#miryam), [Tulu](/handbook/awakeners#tulu), and [GMurphy](/handbook/awakeners#gmurphy) — get gigantic buffs when put in a team together.
 
 ### Keyflare Rouse
 
