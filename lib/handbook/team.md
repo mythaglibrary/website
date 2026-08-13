@@ -833,7 +833,7 @@ Start by making one of each covenant set you're going to use. When you're a vete
   </span>
 </div>
 
-Gives keyflare every turn, or embryo in Caro teams.
+Gives keyflare every turn, or embryo fusion in Caro teams.
 
 [As you know](#the-almighty-keyflare-bot), this is the most important covenant set. It's a must-have for any team that wants keyflare (so, every team). In Caro it's less good, but usually still better than other options.
 
@@ -1123,7 +1123,7 @@ For most DPS, this is a lower-damage option than [April Tribute](#april-tribute)
   </span>
 </div>
 
-Makes embryo when the wielder's cards enter Ultra Space.
+Makes embryo fusion when the wielder's cards enter Ultra Space.
 
 Not a bad alternative to [Life Drain](#life-drain) in Caro/Ultra teams. Of course, you can just run [Life Drain](#life-drain) instead and not have to build this covenant set.
 
