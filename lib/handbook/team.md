@@ -664,7 +664,7 @@ You get a lot of free healing by using Crimson Furnace. Embryos let you exalt mo
 
 **A well-rounded realm for both newbies and veterans.** Adding [Aigis](/handbook/awakeners#aigis) and mixing in Caro is the easiest way for new players to make a good team.
 
-**Remember that you need to build more keyflare.** The [Life Drain](#life-drain) covenant provides embryo instead of keyflare, so your [keyflare bot](#the-almighty-keyflare-bot) will be less effective.
+**Remember that you need to build more keyflare.** The [Life Drain](#life-drain) covenant provides embryo fusion instead of keyflare, so your [keyflare bot](#the-almighty-keyflare-bot) will be less effective.
 
 **Propagation Caro:** Some characters like [Saya](/handbook/awakeners#saya) change how Caro mechanics work when they're on your team. In Propagation Caro, your exalts are buffed; embryos and Realm Mastery further buff your exalts instead of providing shields and STR; and Crimson Furnace is stronger but has a 3-turn cooldown.
 
