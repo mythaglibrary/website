@@ -37,7 +37,7 @@ NAV_MARKER = "@mythag-awakener-nav"
 TEMPLATE_NAME = "awakeners/awakener.html"
 
 REALM_FAMILIES: tuple[tuple[str, tuple[tuple[str, str | None], ...]], ...] = (
-    ("Chaos", (("chaos", None),)),
+    ("Chaos", (("chaos", None), ("primordia-chaos", "Primordia Chaos"))),
     (
         "Aequor",
         (("aequor", None), ("benthos-aequor", "Benthos Aequor")),
@@ -360,13 +360,22 @@ def _validate_builds(
             issues,
             path,
             f"{field}.wheels.early_game",
+            required=False,
         )
         astral_reign = _validate_content_recommendations(
             wheel_groups.get("astral_reign"),
             issues,
             path,
             f"{field}.wheels.astral_reign",
+            required=False,
         )
+        if not early_game and not astral_reign:
+            _issue(
+                issues,
+                path,
+                f"{field}.wheels",
+                "expected at least one non-empty wheel recommendation group",
+            )
         if name is not None:
             builds.append(
                 Build(

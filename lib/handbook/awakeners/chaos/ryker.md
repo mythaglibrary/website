@@ -32,16 +32,16 @@ awakener:
           - id: emerge
             note: Any support
         astral_reign:
-          - id: path-forsaken
+          - id: fragrant-morphogenesis
             note: Any support
-          - id: fate-roulette
+          - id: adventurers-pack
             note: Any support
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:
     - tawil
+    - glotan
     - kathigu-ra
-    - mouchette
     - karen
 ---
 

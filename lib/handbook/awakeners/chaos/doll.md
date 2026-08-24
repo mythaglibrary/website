@@ -21,7 +21,7 @@ awakener:
     - E1
     - E3
   builds:
-    - name: Example Build
+    - name: Example Build (Keyflare Support)
       covenants:
         - life-drain
       wheels:
@@ -35,17 +35,33 @@ awakener:
             note: Any Keyflare Regen stat
           - id: gateway-of-truth
             note: Any Keyflare Regen stat
+    - name: Example Build (Mono Chaos Healer)
+      covenants:
+        - cursed-rabbit
+        - burial-grounds-sighs
+      covenants_note: Any support
+      wheels:
+        early_game:
+          - id: gluttony
+            note: Any support
+          - id: aged
+            note: Any support
+        astral_reign:
+          - id: happy-magic-show
+            note: Any Realm Mastery
+          - id: data-is-flesh
+            note: Any Realm Mastery
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:
     - tawil
-    - kathigu-ra
+    - '24'
     - ramona
   works_well_with_note: Anyone
 ---
 
 Doll is the best weakness applier among all standard characters — great for surviving harder difficulties on a new account.
 
-Equivalent Exchange can discard symptoms and status cards inflicted by enemies, useful for overcoming mechanics in specific fights.
+She’s most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus.
 
-She also generates a bit of healing and aliemus, and her high base Keyflare Regen makes her a good [keyflare bot](/handbook/team#the-almighty-keyflare-bot).
+Her high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot) as well.

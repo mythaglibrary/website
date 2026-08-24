@@ -6,8 +6,10 @@ If you have feedback or suggestions, feel free to create an [Issue](https://gith
 
 # Installation and preview
 
-1. [Install Zensical](https://zensical.org/docs/get-started/#installation) with `pip` or `uv`
-2. Run `uv run mythag-serve` to preview the website locally.
+1. [Install uv](https://docs.astral.sh/uv/getting-started/installation/).
+2. Run `uv sync --locked` from the repository root to install the locked
+   project dependencies.
+3. Run `uv run mythag-serve` to preview the website locally.
 
 The preview shows ordinary content, template, and CSS changes in real time (you
 might need to reload the page occasionally). Restart the preview after adding,
@@ -33,9 +35,11 @@ are removed; the logo PNG is retained for favicon compatibility.
 To inspect the exact production output locally, build it and then run
 `uv run python -m http.server 8000 --directory site`.
 
-The hosting provider must use `uv run mythag-build` as its production build
-command. Running `zensical build` directly skips AVIF generation and HTML
-rewriting as well as Awakener validation and generated navigation.
+The hosting provider must use `uv run --locked mythag-build` as its production
+build command. On Cloudflare Pages, where uv is not preinstalled, use
+`python -m pip install uv && uv run --locked mythag-build`. Keep `site` as the
+build output directory. Running `zensical build` directly skips AVIF generation
+and HTML rewriting as well as Awakener validation and generated navigation.
 
 ## Adding an Awakener guide
 

@@ -550,6 +550,28 @@ class AwakenerPreparationTests(unittest.TestCase):
                 guides[0].awakener.builds[0].covenants_note, "Any support"
             )
 
+    def test_accepts_build_with_only_one_wheel_recommendation_group(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary:
+            root, config = self.project(temporary)
+            self.add_catalog_references(root, "covenant-example")
+            guide = root / "lib" / "handbook" / "awakeners" / "chaos" / "example.md"
+            guide.write_text(
+                guide.read_text(encoding="utf-8").replace(
+                    "        early_game:\n"
+                    "          - id: wheel-example\n",
+                    "",
+                ),
+                encoding="utf-8",
+            )
+
+            with self.patches(root, config):
+                guides, issues = awakeners.load_guides()
+
+            self.assertEqual(issues, [])
+            wheels = guides[0].awakener.builds[0].wheels
+            self.assertEqual(wheels.early_game, ())
+            self.assertEqual(wheels.astral_reign[0].content_id, "wheel-example")
+
 
 if __name__ == "__main__":
     unittest.main()

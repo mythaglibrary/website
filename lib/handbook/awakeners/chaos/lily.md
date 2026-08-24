@@ -39,8 +39,8 @@ awakener:
       note: Early game
   works_well_with:
     - gdoll
+    - xu
     - daffodil
-    - liz
   works_well_with_note: Anyone
 ---
 

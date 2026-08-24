@@ -3,11 +3,11 @@ title: Pandia
 description: Builds and new-player guidance for the Chaos Awakener Pandia.
 template: awakeners/awakener.html
 awakener:
-  tagline: Counter Removal Bot / Early Game Counter DPS
+  tagline: Niche Counter DPS / Counter Removal Bot
   roles:
-    - Remove Enemy Counter
     - Counter
     - AOE
+    - Remove Enemy Counter
   ranks:
     dps:
       - tier: C
@@ -19,6 +19,17 @@ awakener:
     - 'Support: Any'
     - 'DPS: E1, E3, OE'
   builds:
+    - name: Example Build (Counter DPS)
+      covenants:
+        - april-tribute
+        - steppenwolf
+      wheels:
+        early_game:
+          - id: analysis-of-death
+          - id: cloaked-in-the-night
+        astral_reign:
+          - id: drifting-in-desire
+          - id: analysis-of-death
     - name: Example Build (Keyflare Support)
       covenants:
         - life-drain
@@ -33,29 +44,18 @@ awakener:
             note: Any Keyflare Regen stat
           - id: gateway-of-truth
             note: Any Keyflare Regen stat
-    - name: Example Build (Counter DPS)
-      covenants:
-        - steppenwolf
-        - april-tribute
-      wheels:
-        early_game:
-          - id: analysis-of-death
-          - id: cloaked-in-the-night
-        astral_reign:
-          - id: drifting-in-desire
-          - id: analysis-of-death
   suggested_posses:
-    - id: feast-of-decay
-      note: 'Psyche Deepdive: Wanda'
+    - id: tiny-wish
+      note: Faded Legacy Ch. 1
   works_well_with:
+    - tawil
     - daffodil
     - arachne
-    - wanda
-    - winkle
+    - pickman
 ---
 
-A niche support who is mainly used to remove counter from enemies with Wax-Hot Desire.
+Pandia’s exalt converts your counter into high AOE damage. She’s a solid damage dealer in [Faded Legacy](/handbook/storylines#faded-legacy-arc-1), but [Astral Reign](/handbook/storylines#astral-reign-arc-2) rules severely nerf her damage output.
 
-Pandia can be a main DPS at low levels. In [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages, her exalt can convert counter into high damage.
+In endgame content, Pandia is most commonly used as a secondary DPS in Mono Chaos [Tawil](/handbook/awakeners/chaos/tawil/) teams to help with mob fights.
 
-She was caught in the crossfire when [Astral Reign](/handbook/storylines#astral-reign-arc-2) rules nerfed Ultra ["24"](/handbook/awakeners/chaos/24/), making her sadly unusable as a DPS for most endgame content.
+She can also be brought as a support to dispel counter from enemies with Wax-Hot Desire.

@@ -333,6 +333,10 @@
   row-gap: 0;
 }
 
+.awakener-build-grid--one-wheel {
+  grid-template-columns: minmax(7.5rem, 0.7fr) minmax(0, 1fr);
+}
+
 .awakener-covenant-column {
   grid-row: 1 / span 2;
   padding-right: 1rem;
@@ -575,6 +579,14 @@
     grid-template-rows: auto auto auto;
     column-gap: 0.55rem;
     row-gap: 0;
+  }
+
+  .awakener-build-grid--one-wheel {
+    grid-template-columns: 1fr;
+  }
+
+  .awakener-build-grid--one-wheel .awakener-wheel-column {
+    grid-row: 2;
   }
 
   .awakener-portrait {

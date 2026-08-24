@@ -8,6 +8,7 @@ awakener:
     - Strikes
     - AOE
     - Multihit
+    - STR
     - HP % Damage
   ranks:
     dps:
@@ -22,7 +23,7 @@ awakener:
     - E3
     - OE
   builds:
-    - name: Example Build
+    - name: Example Build (Strike DPS)
       covenants:
         - dream-of-medicine
         - crimson-pulse
@@ -33,6 +34,14 @@ awakener:
         astral_reign:
           - id: celestial-beast
           - id: analysis-of-death
+    - name: Example Build (Over-Exalt Cheese)
+      covenants:
+        - burial-grounds-sighs
+        - re-evolution
+      wheels:
+        astral_reign:
+          - id: celestial-beast
+          - id: analysis-of-death
   suggested_posses:
     - id: tiny-wish
       note: Faded Legacy Ch. 1
@@ -40,9 +49,9 @@ awakener:
     - thais
     - hameln
     - helot
-    - pickman
+    - gdoll
 ---
 
 A damage dealer who uses 0-cost Blade of Defiance combos to power up her exalt. While she's decent at clearing mobs, she struggles with sustained damage on bosses with a lot of HP.
 
-Her Over-Exalt deals bonus damage equal to 15% of the enemy's max HP. This boosts her damage a lot and makes her worth bringing as a support purely for her OE.
+Her Over-Exalt boosts her damage a lot and enables a completely different playstyle. Since Lotan's OE deals a fixed percentage of enemy max HP, a team that feeds her enough aliemus has a slow but surefire way to kill any boss.

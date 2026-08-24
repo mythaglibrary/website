@@ -23,6 +23,7 @@ awakener:
     - E2
     - E3
     - OE
+    - AA
   builds:
     - name: Example Build
       covenants:
@@ -41,8 +42,8 @@ awakener:
   works_well_with:
     - aigis
     - helot
-    - arachne
-    - gramona
+    - ramona
+    - casiah
 ---
 
 A strike-centric DPS whose E1 gives huge damage buffs from triggering death resistance.

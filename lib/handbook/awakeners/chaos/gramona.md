@@ -36,7 +36,7 @@ awakener:
             note: Any Keyflare Regen stat
     - name: Example Build (Posse Spam DPS)
       covenants:
-        - paradox
+        - april-tribute
         - crimson-pulse
       wheels:
         early_game:
@@ -46,15 +46,15 @@ awakener:
           - id: eternal-requiem
           - id: blade-of-the-titan
   suggested_posses:
-    - id: obsession-eternal
-      note: Faded Legacy Ch. 5
+    - id: answer-of-the-gate
+      note: Faded Legacy Ch. 8
   works_well_with:
     - mouchette
     - kathigu-ra
+    - glotan
     - tawil
-    - hameln
 ---
 
-A complex and versatile support. Her exalt gives you the last 3 cards you played last turn, which enables perfect setups for specific DPS she pairs well with. At E3, she also lets you replace your posse with anything you want, for instance getting Voices In Your Head for vulnerable and weakness on demand.
+A complex and versatile keyflare support. Her exalt gives you the last 3 cards you played last turn, which enables perfect setups for specific DPS she pairs well with. At E3, she also lets you replace your posse with anything you want, for instance getting Voices In Your Head for vulnerable and weakness on demand.
 
 Her DPS build revolves around using dual posse every turn to scale Predetermined Strike. This is slow and not recommended for new players.

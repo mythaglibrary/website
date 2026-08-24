@@ -41,12 +41,12 @@ awakener:
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:
-    - sanga
+    - tawil
+    - pandia
     - alva
     - daffodil
-    - caecus
 ---
 
-A solid defensive support and combo piece. Her unique exalt takes your existing shield and multiplies it, which is amazing for shield scaling teammates like [Sanga](/handbook/awakeners/aequor/sanga/) and [Alva](/handbook/awakeners/chaos/alva/).
+A defensive combo piece for specific teams. Her unique exalt takes your existing shield and multiplies it, which is not only a strong defensive tool, but also a damage multiplier for shield scaling DPS like [Sanga](/handbook/awakeners/aequor/sanga/) and [Alva](/handbook/awakeners/chaos/alva/).
 
-Nautila's exalt can support counter teams by converting counter into AOE damage. At E3, it also blocks incoming debuffs, useful for many boss fights.
+Nautila's exalt can support [Tawil](/handbook/awakeners/chaos/tawil/) or [Daffodil](/handbook/awakeners/ultra/daffodil/) counter teams by converting counter into AOE damage. At E3, it also blocks incoming debuffs, useful for many boss fights.

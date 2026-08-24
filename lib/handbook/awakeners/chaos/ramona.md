@@ -16,8 +16,7 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - Any
-    - OE (You get her for free)
+    - Any (You get her for free)
   builds:
     - name: Example Build
       covenants:
@@ -37,11 +36,13 @@ awakener:
   suggested_posses_note: Any
   works_well_with:
     - mouchette
+    - glotan
     - tawil
-    - hameln
   works_well_with_note: Anyone
 ---
 
-A solid if unremarkable keyflare support. Her exalt is the main reason to use her over other supports: searching for any card and reducing its cost to 0 is very flexible and powerful.
+The most reliable partner who you can always count on to be your [keyflare bot](/handbook/team#the-almighty-keyflare-bot).
 
-She works best with teammates that have high-cost cards or specific cards they need.
+While she isn't as flashy as other keyflare supports, Ramona is one of the best at actually generating keyflare. The ability to search for any card and reduce its cost to 0 is also a powerful and universally useful effect.
+
+She works well in any team, but shines in teams that rely on specific cards or high-cost cards.

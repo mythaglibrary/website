@@ -101,7 +101,7 @@
     {% for build in guide.builds %}
       <section class="awakener-section awakener-build" id="build-{{ loop.index }}">
         <h2>{{ build.name }}</h2>
-        <div class="awakener-build-grid">
+        <div class="awakener-build-grid{% if not build.wheels.early_game or not build.wheels.astral_reign %} awakener-build-grid--one-wheel{% endif %}">
           <div class="awakener-covenant-column">
             <div class="awakener-covenants">
               {% for covenant in build.covenants %}
@@ -122,8 +122,12 @@
             {% endif %}
           </div>
 
-          {{ wheel_column("Early Game Wheels", build.wheels.early_game, assets) }}
-          {{ wheel_column("Astral Reign Wheels", build.wheels.astral_reign, assets) }}
+          {% if build.wheels.early_game %}
+            {{ wheel_column("Early Game Wheels", build.wheels.early_game, assets) }}
+          {% endif %}
+          {% if build.wheels.astral_reign %}
+            {{ wheel_column("Astral Reign Wheels", build.wheels.astral_reign, assets) }}
+          {% endif %}
         </div>
       </section>
     {% endfor %}

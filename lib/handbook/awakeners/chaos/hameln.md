@@ -41,8 +41,8 @@ awakener:
   works_well_with:
     - tawil
     - mouchette
-    - lotan
-    - casiah
+    - glotan
+    - ryker
 ---
 
 A utility support who draws cards, copies card effects, and gives you 2 extra arithmetica every turn when roused.

@@ -3,10 +3,9 @@ title: Ogier
 description: Builds and new-player guidance for the Chaos Awakener Ogier.
 template: awakeners/awakener.html
 awakener:
-  tagline: Defensive STR Buffer
+  tagline: Mono Chaos Shielder & STR Buffer
   roles:
     - Shields
-    - Temp. STR
     - STR
     - Vulnerable
     - Dispel Fragile
@@ -15,34 +14,39 @@ awakener:
       - tier: F
         note: ???
     support:
-      - tier: C
-        note: Usable
+      - tier: B
+        note: Decent
   stopping_points:
+    - E0
+    - E2
     - OE
-    - '+12'
+    - AA
   builds:
     - name: Example Build
       covenants:
-        - feast-from-afar
+        - cursed-rabbit
         - burial-grounds-sighs
+      covenants_note: Any support
       wheels:
         early_game:
-          - id: the-land-of-nonexistence
+          - id: emerge
+            note: Any support
           - id: whisper
             note: Any support
         astral_reign:
-          - id: heart-of-a-knight
-            note: A Knight's Vow
-          - id: the-land-of-nonexistence
+          - id: memory-spiral
+            note: Any support
+          - id: mind-barrier
+            note: Any support
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:
-    - daffodil
-    - jenkin
-    - liz
+    - '24'
+    - ramona
+    - doll
     - tawil
 ---
 
-A shielder who gives a burst of temporary STR with his exalt, making him a good teammate for characters that rely on STR to deal damage.
+Ogier’s exalt makes a good amount of shield and temporary STR. In Mono Chaos teams, where Realm Mastery gives a lot of aliemus, this makes him a respectable shielder and buffer.
 
-Ogier scales well with investment and becomes crazy good at +12 and level 90 with +12 wheels. Before that, he is unfortunately outclassed by many other characters.
+Ogier needs high investment to perform well at endgame, since all of his value is in his raw numbers. Luckily, since he’s a starter character, he’s one of the cheapest units to get to +12.

@@ -3,7 +3,7 @@ title: Tawil
 description: Builds and new-player guidance for the Chaos Awakener Tawil.
 template: awakeners/awakener.html
 awakener:
-  tagline: All-in-One Utility Toolbox
+  tagline: All-in-One Toolbox Engine
   roles:
     - Keyflare
     - Discover
@@ -15,8 +15,6 @@ awakener:
     dps:
       - tier: B+
         note: Good Early
-      - tier: A
-        note: at OE
     support:
       - tier: A
         note: Great
@@ -54,9 +52,9 @@ awakener:
       note: Faded Legacy Ch. 2
   works_well_with:
     - hameln
+    - gmurphy
     - ryker
     - karen
-    - gmurphy
 ---
 
 A ridiculously versatile support who can use cards from any character in the team or realm. Their wings do all kinds of stuff too.

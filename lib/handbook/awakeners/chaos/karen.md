@@ -18,7 +18,8 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - Any
+    - E0
+    - E3
     - OE
   builds:
     - name: Example Build
