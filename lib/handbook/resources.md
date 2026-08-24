@@ -229,7 +229,7 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
 - Get any standard character enlightens you are missing.
 - Pull on the standard character banner to fish for limited characters and +12 standards.
 - Go to "wheel jail" and try to +12 a wheel. You can equip two SSR wheels at once if one of them is at +12. [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners#goliath)'s SSR wheel) is a good candidate to +12.
-- Unlock (Gnostic Potential)[#gnostic-potential] for your standard characters.
+- Unlock [nostic Potential](#gnostic-potential) for your standard characters.
 
 ## Spending Menophin (Stamina)
 
