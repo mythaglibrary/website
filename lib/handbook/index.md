@@ -22,9 +22,9 @@ icon: lucide/book-open
 
 !!! note "Last updated"
 
-    27 July 2026
+    24 August 2026
 
-    V2.5.3.0 - GLotan
+    V2.5.4.0 - Caraboo
 
 !!! info ""
 

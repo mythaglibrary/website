@@ -206,13 +206,13 @@ Once you hit a recommended stopping point for any of the selected characters, th
 
 **Use your Pure Cores to pull for all the realms in Realms Research and get lots of characters to build teams with.**
 
-You need at least 2 characters from each realm to complete Lightless Realm and event achievements. You also need 5 teams if you don't want to miss seasonal rewards from [D-Effect Zone](/handbook/d-zone) (for a total of 19 characters + 1 borrowed support). You don't need strong teams to clear the lowest difficulty — you just need enough characters.
+You need at least 2 characters from each realm to complete Lightless Realm and event achievements. You also need 5 teams if you don't want to miss seasonal rewards from [D-Effect Zone](/handbook/d-zone) (for a total of 19 characters + 1 borrowed support).
 
 Morimens is a deckbuilding game. All the standard characters in this game are useful in some way. If you have problems clearing a stage, the solution is often to change your team comp. You can't do this if you have no characters.
 
 **Aim for characters that work well with the limited character(s) you pulled for.** The [Awakener Guides](/handbook/awakeners) section has an overview of what each character does and what teammates they might want.
 
-**Don't focus on enlightens for standard characters as a new player.** If you have problems clearing normal story stages, learning the boss mechanics and having other characters to swap in is much more important than having E2 [Goliath](/handbook/awakeners#goliath) or E3 [Caecus](/handbook/awakeners#caecus).
+**Don't focus on enlightens for standard characters as a new player.** If you have trouble clearing normal story stages, learning the game mechanics and having other characters to swap in is much more important.
 
 !!! info ""
     ![](/images/awakeners/chaos/gramona--mini.png){width="88.4833" loading=lazy}
@@ -243,8 +243,6 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
 
 There are two kinds of events: "shop" events, which let you pick rewards from a shop, and "lottery" events, which give random rewards. Shop events are usually better value for your menophin.
 
-The current *Saya no Uta* collab event (Inverted Rebirth) is very low value for menophin. Try not to spend more menophin on it than you have to.
-
 **After fully unlocking the event, don't be afraid to use Special Potion Supply** *(stamina refills)*. As a new player, getting keeper level XP and level up materials *right now* is probably more worthwhile than whatever you are saving for in the future.
 
 **You can do the highest difficulty and get maximum rewards.** Unlike interludes, events are not gated by keeper level. The highest difficulties can easily be beaten by borrowing a level 90 [Mouchette](/handbook/awakeners#mouchette) from the leaderboards (See [How to clear event lvl 60 stages at lvl 1](https://www.reddit.com/r/Morimens/comments/1shmgbs/how_to_clear_event_lvl_60_stages_at_level_1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button){target="_blank"}).
@@ -267,7 +265,7 @@ Sometimes you're unlucky and can't get a specific resource you need from events.
 
 **When you unlock covenants at Keeper Level 25, spend some menophin to outfit your characters.** Event stages never give covenants. The only way to get certain covenants, like [Burial Ground's Sighs](/handbook/team#burial-grounds-sighs) or [Life Drain](/handbook/team#life-drain), is to spend menophin doing Verboten Covenant interludes.
 
-**Don't worry about substats as a new player.** Rolling for substats is incredibly expensive and best left for endgame when you have nothing else to spend Rose Scrip on. For now, focus on getting a 6-piece set for each covenant set you plan to use.
+**Don't worry about substats or binding as a new player.** Grinding covenants is incredibly expensive and best left for endgame when you have nothing else to spend Rose Scrip on. For now, focus on getting a 6-piece set with the correct main stats for each covenant set you plan to use.
 
 The [Awakener Guides](/handbook/awakeners) section suggests covenants for each character. The [Building Covenants](/handbook/team#building-covenants) section suggests main stats and substats to aim for.
 
@@ -337,14 +335,10 @@ This talent is automatically unlocked for limited characters. You can manually u
 
 ![](/images/icons/shop/rose-scrip.png){width="128" loading=lazy}
 
-![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
-![](/images/icons/skills/aetheric-shard.png){width="80" loading=lazy}
+**Buy whatever you need from the shop.** This is a good place to get XP potions and skill upgrade materials.
 
-**Buy Mimetic Crystals and Aetheric Shards every day.** These are rare time-gated materials.
+**Don't spend more Rose Scrip than you need to.** Early on you might feel like you’re drowning in money, but that money will quickly evaporate once you start upgrading your covenants and increasing the level caps of your characters. Only buy something from the Rose Scrip shop if you are going to use it right away.
 
-**Buy whatever else you need.** This is a good place to get XP potions and low-level skill materials.
-
-**Don't refresh the shop.** You need tens of millions of Rose Scrip to upgrade all your characters, and even more to upgrade your covenants at endgame.
 
 ### Sediment
 
@@ -366,11 +360,13 @@ This talent is automatically unlocked for limited characters. You can manually u
 **If you bought the Extra Curriculum *(Battle Pass)*, buy wheel dupes here too.**
 
 ![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
+![](/images/icons/exp/gnosis-primer.png){width="80" loading=lazy}
+![](/images/icons/exp/refined-gnosis-primer.png){width="80" loading=lazy}
 ![](/images/icons/cores/luminous.png){width="80" loading=lazy}
 ![](/images/covenants/scarlet-embrace.png){width="80" loading=lazy}
 ![](/images/covenants/paradox.png){width="80" loading=lazy}
 
-If you have leftover Sediment each month, you can buy other stuff like Mimetic Crystals, Luminous Cores, or covenants. Pure Cores aren't really worth it since you get a lot from dailies.
+If you have leftover Sediment each month, you can buy other stuff like Mimetic Crystals, Gnosis Fragments, Luminous Cores, or covenants. Pure Cores aren't really worth it since you get a lot from dailies.
 
 ![](/images/wheels/heart-of-silver--mini.png){width="80" loading=lazy}
 
@@ -380,9 +376,10 @@ If you don't have enough keyflare wheels for D-Effect Zone, you can get one copy
 
 ![](/images/icons/shop/investigation-badge.png){width="128" loading=lazy}
 
+![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
 ![](/images/icons/shop/gnosis-fragment.png){width="80" loading=lazy}
 
-**Buy Gnosis Fragments every month.** These are rare time-gated materials.
+**Buy Mimetic Crystals and Gnosis Fragments every month.** These are rare time-gated materials.
 
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
@@ -410,6 +407,13 @@ You can get the Luminous Cores and Pure Cores if you want. These are one-time on
 
 **Buy copies of [Rewinding Time](https://skeydb.com/database/wheels/rewinding-time){target="_blank"} and [Celestial Beast](https://skeydb.com/database/wheels/celestial-beast){target="_blank"}.** These are strong, universally useful wheels which can only be obtained here. If you have a wheel at +12, you can equip it at the same time as another SSR wheel.
 
+![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
+![](/images/icons/exp/gnosis-primer.png){width="80" loading=lazy}
+![](/images/icons/exp/refined-gnosis-primer.png){width="80" loading=lazy}
+![](/images/wheels/deathless-ascent--mini.png){width="80" loading=lazy}
+
+If you have extra currency, you can buy Mimetic Crystals, Gnosis Primers, or copies of [Deathless Ascent](https://skeydb.com/database/wheels/deathless-ascent){target="_blank"}.
+
 ![](/images/covenants/feast-from-afar.png){width="80" loading=lazy}
 
 [Feast from Afar](/handbook/team#feast-from-afar) is a meta covenant set for some characters. It can only be obtained here.
@@ -418,10 +422,6 @@ You can get the Luminous Cores and Pure Cores if you want. These are one-time on
 ![](/images/icons/cores/pure.png){width="80" loading=lazy}
 
 You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don't refresh.
-
-![](/images/wheels/deathless-ascent--mini.png){width="80" loading=lazy}
-
-You can get +12 [Deathless Ascent](https://skeydb.com/database/wheels/deathless-ascent){target="_blank"} if you have nothing else to buy.
 
 ![](/images/wheels/gateway-of-truth--mini.png){width="80" loading=lazy}
 
@@ -434,15 +434,16 @@ You can buy SR wheels if you want. [Gateway of Truth](https://skeydb.com/databas
 ![](/images/icons/soulforge/dreamspark.png){width="80" loading=lazy}
 ![](/images/icons/soulforge/dreamshard.png){width="80" loading=lazy}
 
-**Buy Dreamshards and Dreamsparks every week.** These are important upgrade materials for [Astral Reign](/handbook/storylines) stages. After you finish the story, you can only get them from events and the shop.
-
-![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
-
-**Buy Mimetic Crystals every week.** These are rare time-gated materials.
+**Buy Dreamshards and Dreamsparks every month.** These are important upgrade materials for [Astral Reign](/handbook/storylines) stages. After you finish the story, you can only get them from events and the shop.
 
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
 
-**Buy a shard for [Aigis](/handbook/awakeners#aigis) if you have leftover D-Jewels.** She is one of the best characters in the game and worth getting to OE. You can also buy shards for [Aurita](/handbook/awakeners#aurita) or [Erica](/handbook/awakeners#erica) if you want.
+**Buy shards for [Aigis](/handbook/awakeners#aigis) if you have leftover D-Jewels.** She is one of the best characters in the game and worth getting to OE. You can also buy shards for [Aurita](/handbook/awakeners#aurita) or [Erica](/handbook/awakeners#erica) if you want.
+
+![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
+![](/images/icons/exp/gnosis-primer.png){width="80" loading=lazy}
+
+You can get Mimetic Crystals and Gnosis Primers if you have nothing else to buy.
 
 ![](/images/wheels/core-meltdown--mini.png){width="80" loading=lazy}
 ![](/images/wheels/winters-requiem--mini.png){width="80" loading=lazy}

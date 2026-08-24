@@ -23,11 +23,11 @@ icon: lucide/book-user
 
 ??? quote "Contents"
 
-    **[Chaos:](#chaos)** ["24"](#24) [Alva](#alva) [Doll](#doll) [GDoll](#gdoll) [Hameln](#hameln) [Kathigu-Ra](#kathigu-ra) [Karen](#karen) [Lily](#lily) [Lotan](#lotan) [Mouchette](#mouchette) [Nautila](#nautila) [Nymphaea](#nymphaea) [Ogier](#ogier) [Pandia](#pandia) [Ramona](#ramona) [GRamona](#gramona) [Ryker](#ryker) [Tawil](#tawil)
+    **[Chaos:](#chaos)** ["24"](#24) [Alva](#alva) [Doll](#doll) [GDoll](#gdoll) [Hameln](#hameln) [Kathigu-Ra](#kathigu-ra) [Karen](#karen) [Lily](#lily) [Lotan](#lotan) [Mouchette](#mouchette) [Nautila](#nautila) [Nymphaea](#nymphaea) [Ogier](#ogier) [Pandia](#pandia) [Ramona](#ramona) [GRamona](#gramona) [Ryker](#ryker) [Tawil](#tawil) <br /> **[Primordia: Chaos:](#primordia-chaos)** [GLotan](#glotan)
 
     **[Aequor:](#aequor)** [Aurita](#aurita) [Caecus](#caecus) [Celeste](#celeste) [Corposant](#corposant) [Faros](#faros) [Goliath](#goliath) [Miryam](#miryam) [Murphy](#murphy) [Sanga](#sanga) [Tulu](#tulu) <br /> **[Benthos: Aequor:](#benthos-aequor)** [GMurphy](#gmurphy) [Pontos](#pontos) [Vortice](#vortice)
 
-    **[Caro:](#caro)** [Agrippa](#agrippa) [Aigis](#aigis) [Doresain](#doresain) [Faint](#faint) [Helot](#helot) [GHelot](#ghelot) [Leigh](#leigh) [Pickman](#pickman) [Salvador](#salvador) [Sorel](#sorel) [Thais](#thais) [Uvhash](#uvhash) [Xu](#xu) <br /> **[Propagation: Caro:](#propagation-caro)** [Saya](#saya)
+    **[Caro:](#caro)** [Agrippa](#agrippa) [Aigis](#aigis) [Doresain](#doresain) [Faint](#faint) [Helot](#helot) [GHelot](#ghelot) [Leigh](#leigh) [Pickman](#pickman) [Salvador](#salvador) [Sorel](#sorel) [Thais](#thais) [Uvhash](#uvhash) [Xu](#xu) <br /> **[Propagation: Caro:](#propagation-caro)** [Caraboo](#caraboo)  [Saya](#saya)
 
     **[Ultra:](#ultra)** [Casiah](#casiah) [Castor](#castor) [Clementine](#clementine) [Daffodil](#daffodil) [Erica](#erica) [Horla](#horla) [Jenkin](#jenkin) [Liz](#liz) [Pollux](#pollux) [Tinct](#tinct) [Wanda](#wanda) [Winkle](#winkle) <br /> **[Singularity: Ultra:](#singularity-ultra)** [Arachne](#arachne)
 </div>
@@ -225,7 +225,7 @@ Chaos "24" deals enough single-target damage that she's a viable endgame DPS aga
   [![Lily](/images/awakeners/chaos/lily--mini.png "Lily"){loading=lazy}](#lily) <figcaption>[Lily](#lily)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Miryam](/images/awakeners/aequor/miryam--mini.png "Miryam"){loading=lazy}](#miryam) <figcaption>[Miryam](#miryam)</figcaption>
+  [![Doll](/images/awakeners/chaos/doll--mini.png "Doll"){loading=lazy}](#doll) <figcaption>[Doll](#doll)</figcaption>
   </figure>
   <figure markdown="span">
   [![Daffodil](/images/awakeners/ultra/daffodil--mini.png "Daffodil"){loading=lazy}](#daffodil) <figcaption>[Daffodil](#daffodil)</figcaption>
@@ -466,15 +466,15 @@ At E3, she can be a DPS that sets up burst combos with Combat Stance and Precisi
 <div markdown>
 Doll is the best weakness applier among all standard characters — great for surviving harder difficulties on a new account.
 
-Equivalent Exchange can discard symptoms and status cards inflicted by enemies, useful for overcoming mechanics in specific fights.
+She’s most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus.
 
-She also generates a bit of healing and aliemus, and her high base Keyflare Regen makes her a good [keyflare bot](/handbook/team#the-almighty-keyflare-bot).
+Her high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot) as well.
 </div>
 </div>
 </div>
 
 <section class="section mobile" markdown>
-<div class="heading text-center">Example Build</div>
+<div class="heading text-center">Example Build (Keyflare Support)</div>
 <div class="hagrid grid-1/1/1/1" markdown>
   <div></div>
   <figure class="center" markdown="span">
@@ -490,7 +490,7 @@ She also generates a bit of healing and aliemus, and her high base Keyflare Rege
 
 <section class="section" markdown>
 <div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
-  <div class="heading text-center desktop">Example Build</div>
+  <div class="heading text-center desktop">Example Build (Keyflare Support)</div>
   <div class="heading text-center">Early Game Wheels</div>
   <div class="heading text-center">Astral Reign Wheels</div>
 </div>
@@ -525,6 +525,71 @@ She also generates a bit of healing and aliemus, and her high base Keyflare Rege
 </div>
 </section>
 
+<section class="section mobile" markdown>
+<div class="heading text-center">Example Build (Mono Chaos Healer)</div>
+<div class="hagrid grid-1/1/1/1" markdown>
+  <figure class="center" markdown="span">
+    [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){loading=lazy}](/handbook/team#cursed-rabbit)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Cursed Rabbit](/images/covenants/cursed-rabbit.png "Cursed Rabbit"){loading=lazy}](/handbook/team#cursed-rabbit)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+  </figure>
+</div>
+<div class="caption text-center">(Any support)</div>
+</div>
+</section>
+
+<section class="section" markdown>
+<div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
+  <div class="heading text-center desktop">Example Build (Mono Chaos Healer)</div>
+  <div class="heading text-center">Early Game Wheels</div>
+  <div class="heading text-center">Astral Reign Wheels</div>
+</div>
+<div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
+  <div class="desktop center" markdown>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center">
+      [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){loading=lazy}](/handbook/team#cursed-rabbit)
+    </figure>
+    <figure class="center">
+      [![Cursed Rabbit](/images/covenants/cursed-rabbit.png "Cursed Rabbit"){loading=lazy}](/handbook/team#cursed-rabbit)
+    </figure>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center">
+      [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+    </figure>
+    <figure class="center">
+      [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+    </figure>
+  </div>
+  <div class="caption text-center">(Any support)</div>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure markdown="span">
+      ![Gluttony](/images/wheels/gluttony.png "Gluttony"){loading=lazy} <figcaption>(Any support)</figcaption>
+    </figure>
+    <figure markdown="span">
+      ![Aged](/images/wheels/aged.png "Aged"){loading=lazy} <figcaption>(Any support)</figcaption>
+    </figure>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure markdown="span">
+      ![Happy Magic Show](/images/wheels/happy-magic-show.png "Happy Magic Show"){loading=lazy} <figcaption>(Any Realm Mastery)</figcaption>
+    </figure>
+    <figure markdown="span">
+      ![Data is Flesh](/images/wheels/data-is-flesh.png "Data is Flesh"){loading=lazy} <figcaption>(Any Realm Mastery)</figcaption>
+    </figure>
+  </div>
+</div>
+</section>
+
 <section class="section" markdown>
 <div class="hagrid grid-mobile-1/2 grid-desktop-2/4 desktop" markdown>
   <div class="heading text-center">Suggested Posse</div>
@@ -537,7 +602,7 @@ She also generates a bit of healing and aliemus, and her high base Keyflare Rege
   [![Tawil](/images/awakeners/chaos/tawil--mini.png "Tawil"){loading=lazy}](#tawil) <figcaption>[Tawil](#tawil)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png "Kathigu-Ra"){loading=lazy}](#kathigu-ra) <figcaption>[Kathigu-Ra](#kathigu-ra)</figcaption>
+  [![Kathigu-Ra](/images/awakeners/chaos/24--mini.png "24"){loading=lazy}](#24) <figcaption>[24](#24)</figcaption>
   </figure>
   <figure markdown="span">
   [![Ramona](/images/awakeners/chaos/ramona--mini.png "Ramona"){loading=lazy}](#ramona) <figcaption>[Ramona](#ramona)</figcaption>
@@ -801,10 +866,10 @@ Works best with teammates that want to combo off and play a lot of cards.
   [![Mouchette](/images/awakeners/chaos/mouchette--mini.png "Mouchette"){loading=lazy}](#mouchette) <figcaption>[Mouchette](#mouchette)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Lotan](/images/awakeners/chaos/lotan--mini.png "Lotan"){loading=lazy}](#lotan) <figcaption>[Lotan](#lotan)</figcaption>
+  [![GLotan](/images/awakeners/chaos/glotan--mini.png "GLotan"){loading=lazy}](#glotan) <figcaption>[GLotan](#glotan)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Casiah](/images/awakeners/ultra/casiah--mini.png "Casiah"){loading=lazy}](#casiah) <figcaption>[Casiah](#casiah)</figcaption>
+  [![Ryker](/images/awakeners/chaos/ryker--mini.png "Ryker"){loading=lazy}](#ryker) <figcaption>[Ryker](#ryker)</figcaption>
   </figure>
 </div>
 </section>
@@ -972,7 +1037,7 @@ Kath needs E3 and her posse to work. She likes teammates who provide STR and cri
 
   - <span class="caption">Stopping Points</span>
 
-    <span class="heading">Any, OE</span>
+    <span class="heading">E0, E3, OE</span>
 </div>
 <div markdown>
 Karen's exalt banks 3 arithmetica you can use at any time (and applies random buffs at E3). This makes her a cheap but effective support for characters that need a lot of arithmetica. She applies decent poison in [Astral Reign](/handbook/storylines#astral-reign-arc-2) too.
@@ -1197,10 +1262,10 @@ Lily works best as the main shielder and healer in poison teams, but she can fit
   [![GDoll](/images/awakeners/chaos/gdoll--mini.png "GDoll"){loading=lazy}](#gdoll) <figcaption>[GDoll](#gdoll)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Daffodil](/images/awakeners/ultra/daffodil--mini.png "Daffodil"){loading=lazy}](#daffodil) <figcaption>[Daffodil](#daffodil)</figcaption>
+  [![Xu](/images/awakeners/caro/xu--mini.png "Xu"){loading=lazy}](#xu) <figcaption>[Xu](#xu)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Liz](/images/awakeners/ultra/liz--mini.png "Liz"){loading=lazy}](#liz) <figcaption>[Liz](#liz)</figcaption>
+  [![Daffodil](/images/awakeners/ultra/daffodil--mini.png "Daffodil"){loading=lazy}](#daffodil) <figcaption>[Daffodil](#daffodil)</figcaption>
   </figure>
   <figure markdown="span">
   ![](/images/emojis/aigis-questioning.png){loading=lazy} <figcaption>(Anyone)</figcaption>
@@ -1218,6 +1283,7 @@ Lily works best as the main shielder and healer in poison teams, but she can fit
     Strikes &middot;
     AOE &middot;
     Multihit &middot;
+    STR &middot;
     HP % Damage
   </p>
 </div>
@@ -1245,13 +1311,13 @@ Lily works best as the main shielder and healer in poison teams, but she can fit
 <div markdown>
 A damage dealer who uses 0-cost Blade of Defiance combos to power up her exalt. While she's decent at clearing mobs, she struggles with sustained damage on bosses with a lot of HP.
 
-Her Over-Exalt deals bonus damage equal to 15% of the enemy's max HP. This boosts her damage a lot and makes her worth bringing as a support purely for her OE.
+Her Over-Exalt boosts her damage a lot and enables a completely different playstyle. Since Lotan's OE deals a fixed percentage of enemy max HP, a team that feeds her enough aliemus has a slow but surefire way to kill any boss.
 </div>
 </div>
 </div>
 
 <section class="section mobile" markdown>
-<div class="heading text-center">Example Build</div>
+<div class="heading text-center">Example Build (Strike DPS)</div>
 <div class="hagrid grid-1/1/1/1" markdown>
   <figure class="center" markdown="span">
     [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){loading=lazy}](/handbook/team#dream-of-medicine)
@@ -1271,7 +1337,7 @@ Her Over-Exalt deals bonus damage equal to 15% of the enemy's max HP. This boost
 
 <section class="section" markdown>
 <div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
-  <div class="heading text-center desktop">Example Build</div>
+  <div class="heading text-center desktop">Example Build (Strike DPS)</div>
   <div class="heading text-center">Early Game Wheels</div>
   <div class="heading text-center">Astral Reign Wheels</div>
 </div>
@@ -1315,6 +1381,62 @@ Her Over-Exalt deals bonus damage equal to 15% of the enemy's max HP. This boost
 </div>
 </section>
 
+<section class="section mobile" markdown>
+<div class="heading text-center">Example Build (Over-Exalt Cheese)</div>
+<div class="hagrid grid-1/1/1/1" markdown>
+  <figure class="center">
+      [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+  </figure>
+  <figure class="center">
+    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Re-evolution](/images/covenants/re-evolution--icon.png "Re-evolution"){loading=lazy}](/handbook/team#re-evolution)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Re-evolution](/images/covenants/re-evolution.png "Re-evolution"){loading=lazy}](/handbook/team#re-evolution)
+  </figure>
+</div>
+<div class="caption text-center" markdown="span">[Burial Grounds' Sighs](/handbook/team#burial-grounds-sighs) &middot; [Re-evolution](/handbook/team#re-evolution)</div>
+</section>
+
+<section class="section" markdown>
+<div class="hagrid grid-1/1" markdown>
+  <div class="heading text-center desktop">Example Build (Over-Exalt Cheese)</div>
+  <div class="heading text-center">Astral Reign Wheels</div>
+</div>
+<div class="hagrid grid-1/1" markdown>
+  <div class="desktop center" markdown>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center">
+        [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+    </figure>
+    <figure class="center">
+      [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+    </figure>
+  </div>
+  <div class="caption text-center" markdown="span">[Burial Grounds' Sighs](/handbook/team#burial-grounds-sighs)</div>
+    <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center" markdown="span">
+      [![Re-evolution](/images/covenants/re-evolution--icon.png "Re-evolution"){loading=lazy}](/handbook/team#re-evolution)
+    </figure>
+    <figure class="center" markdown="span">
+      [![Re-evolution](/images/covenants/re-evolution.png "Re-evolution"){loading=lazy}](/handbook/team#re-evolution)
+    </figure>
+  </div>
+  <div class="caption text-center" markdown="span">[Re-evolution](/handbook/team#re-evolution)</div>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure markdown="span">
+      ![Celestial Beast](/images/wheels/celestial-beast.png "Celestial Beast"){loading=lazy} <figcaption>Celestial Beast</figcaption>
+    </figure>
+    <figure markdown="span">
+      ![Analysis of Death](/images/wheels/analysis-of-death.png "Analysis of Death"){loading=lazy} <figcaption>Analysis of Death</figcaption>
+    </figure>
+  </div>
+</div>
+</section>
+
 <section class="section" markdown>
 <div class="hagrid grid-mobile-1/2 grid-desktop-2/4 desktop" markdown>
   <div class="heading text-center">Suggested Posse</div>
@@ -1335,7 +1457,7 @@ Her Over-Exalt deals bonus damage equal to 15% of the enemy's max HP. This boost
   [![Helot](/images/awakeners/caro/helot--mini.png "Helot"){loading=lazy}](#helot) <figcaption>[Helot](#helot)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Pickman](/images/awakeners/caro/pickman--mini.png "Pickman"){loading=lazy}](#pickman) <figcaption>[Pickman](#pickman)</figcaption>
+  [![GDoll](/images/awakeners/chaos/gdoll--mini.png "GDoll"){loading=lazy}](#gdoll) <figcaption>[GDoll](#gdoll)</figcaption>
   </figure>
 </div>
 </section>
@@ -1373,7 +1495,7 @@ Her Over-Exalt deals bonus damage equal to 15% of the enemy's max HP. This boost
 
   - <span class="caption">Stopping Points</span>
 
-    <span class="heading">E2, E3, OE</span>
+    <span class="heading">E2, E3, OE, AA</span>
 </div>
 <div markdown>
 A strike-centric DPS whose E1 gives huge damage buffs from triggering death resistance.
@@ -1467,10 +1589,10 @@ She works best in short stages, as her playstyle means you probably won't surviv
   [![Helot](/images/awakeners/caro/helot--mini.png "Helot"){loading=lazy}](#helot) <figcaption>[Helot](#helot)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Arachne](/images/awakeners/ultra/arachne--mini.png "Arachne"){loading=lazy}](#arachne) <figcaption>[Arachne](#arachne)</figcaption>
+  [![Ramona](/images/awakeners/chaos/ramona--mini.png "Ramona"){loading=lazy}](#ramona) <figcaption>[Ramona](#ramona)</figcaption>
   </figure>
   <figure markdown="span">
-  [![GRamona](/images/awakeners/chaos/gramona--mini.png "GRamona"){loading=lazy}](#gramona) <figcaption>[GRamona](#gramona)</figcaption>
+  [![Casiah](/images/awakeners/ultra/casiah--mini.png "Casiah"){loading=lazy}](#casiah) <figcaption>[Casiah](#casiah)</figcaption>
   </figure>
 </div>
 </section>
@@ -1509,9 +1631,9 @@ She works best in short stages, as her playstyle means you probably won't surviv
     <span class="heading">E0, E2, E3, OE</span>
 </div>
 <div markdown>
-A solid defensive support and combo piece. Her unique exalt takes your existing shield and multiplies it, which is amazing for shield scaling teammates like [Sanga](#sanga) and [Alva](#alva).
+A defensive combo piece for specific teams. Her unique exalt takes your existing shield and multiplies it, which is not only a strong defensive tool, but also a damage multiplier for shield scaling DPS like [Sanga](#sanga) and [Alva](#alva).
 
-Nautila's exalt can support counter teams by converting counter into AOE damage. At E3, it also blocks incoming debuffs, useful for many boss fights.
+Nautila's exalt can support [Tawil](#tawil) or [Daffodil](#daffodil) counter teams by converting counter into AOE damage. At E3, it also blocks incoming debuffs, useful for many boss fights.
 </div>
 </div>
 </div>
@@ -1590,16 +1712,16 @@ Nautila's exalt can support counter teams by converting counter into AOE damage.
   <div class="heading center">(Any)</div>
   <div class="grid-mobile-1/1 grid-desktop-1/1/1/1" markdown>
   <figure markdown="span">
-  [![Sanga](/images/awakeners/aequor/sanga--mini.png "Sanga"){loading=lazy}](#sanga) <figcaption>[Sanga](#sanga)</figcaption>
+  [![Tawil](/images/awakeners/chaos/tawil--mini.png "Tawil"){loading=lazy}](#tawil) <figcaption>[Tawil](#tawil)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Alva](/images/awakeners/chaos/alva--mini.png "Alva"){loading=lazy}](#alva) <figcaption>[Alva](#alva)</figcaption>
+  [![Pandia](/images/awakeners/chaos/pandia--mini.png "Pandia"){loading=lazy}](#pandia) <figcaption>[Pandia](#pandia)</figcaption>
   </figure>
   <figure markdown="span">
   [![Daffodil](/images/awakeners/ultra/daffodil--mini.png "Daffodil"){loading=lazy}](#daffodil) <figcaption>[Daffodil](#daffodil)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Caecus](/images/awakeners/aequor/caecus--mini.png "Caecus"){loading=lazy}](#caecus) <figcaption>[Caecus](#caecus)</figcaption>
+  [![Alva](/images/awakeners/chaos/alva--mini.png "Alva"){loading=lazy}](#alva) <figcaption>[Alva](#alva)</figcaption>
   </figure>
 </div>
 </section>
@@ -1781,11 +1903,10 @@ Works best in a team full of poison characters. Nymphaea's rouse makes her a dec
 
 <div class="text-center" markdown style="margin-bottom: 24px;">
   <p class="heading" markdown="span" style="margin: 0;">
-    Defensive STR Buffer
+    Mono Chaos Shielder & STR Buffer
   </p>
   <p class="caption" markdown="span">
     Shields &middot;
-    Temp. STR &middot;
     STR &middot;
     <span style="color: var(--md-effect-vulnerable)">Vulnerable</span> &middot;
     Dispel Fragile
@@ -1804,16 +1925,16 @@ Works best in a team full of poison characters. Nymphaea's rouse makes her a dec
 
   - <span class="caption">Support Rank</span>
 
-    <span class="heading" style="color: var(--md-tier-c);">C *(Usable)*</span>
+    <span class="heading" style="color: var(--md-tier-c);">B *(Decent)*</span>
 
   - <span class="caption">Stopping Points</span>
 
-    <span class="heading">OE, +12</span>
+    <span class="heading">E0, E2, OE, AA</span>
 </div>
 <div markdown>
-A shielder who gives a burst of temporary STR with his exalt, making him a good teammate for characters that rely on STR to deal damage.
+Ogier’s exalt makes a good amount of shield and temporary STR. In Mono Chaos teams, where Realm Mastery gives a lot of aliemus, this makes him a respectable shielder and buffer.
 
-Ogier scales well with investment and becomes crazy good at +12 and level 90 with +12 wheels. Before that, he is unfortunately outclassed by many other characters.
+Ogier needs high investment to perform well at endgame, since all of his value is in his raw numbers. Luckily, since he’s a starter character, he’s one of the cheapest units to get to +12.
 </div>
 </div>
 </div>
@@ -1822,10 +1943,10 @@ Ogier scales well with investment and becomes crazy good at +12 and level 90 wit
 <div class="heading text-center">Example Build</div>
 <div class="hagrid grid-1/1/1/1" markdown>
   <figure class="center" markdown="span">
-    [![Feast from Afar](/images/covenants/feast-from-afar--icon.png "Feast from Afar"){loading=lazy}](/handbook/team#feast-from-afar)
+    [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){loading=lazy}](/handbook/team#cursed-rabbit)
   </figure>
   <figure class="center" markdown="span">
-    [![Feast from Afar](/images/covenants/feast-from-afar.png "Feast from Afar"){loading=lazy}](/handbook/team#feast-from-afar)
+    [![Cursed Rabbit](/images/covenants/cursed-rabbit.png "Cursed Rabbit"){loading=lazy}](/handbook/team#cursed-rabbit)
   </figure>
   <figure class="center" markdown="span">
     [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
@@ -1834,7 +1955,7 @@ Ogier scales well with investment and becomes crazy good at +12 and level 90 wit
     [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
   </figure>
 </div>
-<div class="caption text-center" markdown="span">[Feast from Afar](/handbook/team#feast-from-afar) &middot; [Burial Ground's Sighs](/handbook/team#burial-grounds-sighs)</div>
+<div class="caption text-center">(Any support)</div>
 </section>
 
 <section class="section" markdown>
@@ -1846,14 +1967,13 @@ Ogier scales well with investment and becomes crazy good at +12 and level 90 wit
 <div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
   <div class="desktop center" markdown>
   <div class="hagrid grid-1/1" markdown="span">
-    <figure class="center">
-      [![Feast from Afar](/images/covenants/feast-from-afar--icon.png "Feast from Afar"){loading=lazy}](/handbook/team#feast-from-afar)
+    <figure class="center" markdown="span">
+      [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){loading=lazy}](/handbook/team#cursed-rabbit)
     </figure>
-    <figure class="center">
-      [![Feast from Afar](/images/covenants/feast-from-afar.png "Feast from Afar"){loading=lazy}](/handbook/team#feast-from-afar)
+    <figure class="center" markdown="span">
+      [![Cursed Rabbit](/images/covenants/cursed-rabbit.png "Cursed Rabbit"){loading=lazy}](/handbook/team#cursed-rabbit)
     </figure>
   </div>
-  <div class="caption text-center" markdown="span">[Feast from Afar](/handbook/team#feast-from-afar)</div>
   <div class="hagrid grid-1/1" markdown="span">
     <figure class="center">
       [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
@@ -1862,11 +1982,11 @@ Ogier scales well with investment and becomes crazy good at +12 and level 90 wit
       [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
     </figure>
   </div>
-  <div class="caption text-center" markdown="span">[Burial Ground's Sighs](/handbook/team#burial-grounds-sighs)</div>
+  <div class="caption text-center">(Any support)</div>
   </div>
   <div class="hagrid grid-1/1" markdown="span">
     <figure markdown="span">
-      ![The Land of Nonexistence](/images/wheels/the-land-of-nonexistence.png "The Land of Nonexistence"){loading=lazy} <figcaption>The Land of Nonexistence</figcaption>
+      ![Emerge](/images/wheels/emerge.png "Emerge"){loading=lazy} <figcaption>(Any support)</figcaption>
     </figure>
     <figure markdown="span">
       ![Whisper](/images/wheels/whisper.png "Whisper"){loading=lazy} <figcaption>(Any support)</figcaption>
@@ -1874,10 +1994,10 @@ Ogier scales well with investment and becomes crazy good at +12 and level 90 wit
   </div>
   <div class="hagrid grid-1/1" markdown="span">
     <figure markdown="span">
-      ![Heart of a Knight](/images/wheels/heart-of-a-knight.png "Heart of a Knight"){loading=lazy} <figcaption>A Knight's Vow</figcaption>
+      ![Memory Spiral](/images/wheels/memory-spiral.png "Memory Spiral"){loading=lazy} <figcaption>(Any support)</figcaption>
     </figure>
     <figure markdown="span">
-      ![The Land of Nonexistence](/images/wheels/the-land-of-nonexistence.png "The Land of Nonexistence"){loading=lazy} <figcaption>The Land of Nonexistence</figcaption>
+      ![Mind Barrier](/images/wheels/mind-barrier.png "Mind Barrier"){loading=lazy} <figcaption>(Any support)</figcaption>
     </figure>
   </div>
 </div>
@@ -1892,13 +2012,13 @@ Ogier scales well with investment and becomes crazy good at +12 and level 90 wit
   <div class="heading center">(Any)</div>
   <div class="grid-mobile-1/1 grid-desktop-1/1/1/1" markdown>
   <figure markdown="span">
-  [![Daffodil](/images/awakeners/ultra/daffodil--mini.png "Daffodil"){loading=lazy}](#daffodil) <figcaption>[Daffodil](#daffodil)</figcaption>
+  [![24](/images/awakeners/chaos/24--mini.png "24"){loading=lazy}](#24) <figcaption>[24](#24)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png "Jenkin"){loading=lazy}](#jenkin) <figcaption>[Jenkin](#jenkin)</figcaption>
+  [![Ramona](/images/awakeners/chaos/ramona--mini.png "Ramona"){loading=lazy}](#ramona) <figcaption>[Ramona](#ramona)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Liz](/images/awakeners/ultra/liz--mini.png "Liz"){loading=lazy}](#liz) <figcaption>[Liz](#liz)</figcaption>
+  [![Doll](/images/awakeners/chaos/doll--mini.png "Doll"){loading=lazy}](#doll) <figcaption>[Doll](#doll)</figcaption>
   </figure>
   <figure markdown="span">
   [![Tawil](/images/awakeners/chaos/tawil--mini.png "Tawil"){loading=lazy}](#tawil) <figcaption>[Tawil](#tawil)</figcaption>
@@ -1910,12 +2030,12 @@ Ogier scales well with investment and becomes crazy good at +12 and level 90 wit
 
 <div class="text-center" markdown style="margin-bottom: 24px;">
   <p class="heading" markdown="span" style="margin: 0;">
-    Counter Removal Bot / Early Game Counter DPS
+    Niche Counter DPS / Counter Removal Bot
   </p>
   <p class="caption" markdown="span">
-    Remove Enemy Counter &middot;
     Counter &middot;
-    AOE
+    AOE &middot;
+    Remove Enemy Counter
   </p>
 </div>
 
@@ -1938,14 +2058,79 @@ Ogier scales well with investment and becomes crazy good at +12 and level 90 wit
     <span class="heading">*Support:* Any · *DPS:* E1, E3, OE</span>
 </div>
 <div markdown>
-A niche support who is mainly used to remove counter from enemies with Wax-Hot Desire.
+Pandia’s exalt converts your counter into high AOE damage. She’s a solid damage dealer in [Faded Legacy](/handbook/storylines#faded-legacy-arc-1), but [Astral Reign](/handbook/storylines#astral-reign-arc-2) rules severely nerf her damage output.
 
-Pandia can be a main DPS at low levels. In [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages, her exalt can convert counter into high damage.
+In endgame content, Pandia is most commonly used as a secondary DPS in Mono Chaos [Tawil](#tawil) teams to help with mob fights.
 
-She was caught in the crossfire when [Astral Reign](/handbook/storylines#astral-reign-arc-2) rules nerfed Ultra ["24"](#24), making her sadly unusable as a DPS for most endgame content.
+She can also be brought as a support to dispel counter from enemies with Wax-Hot Desire.
 </div>
 </div>
 </div>
+
+<section class="section mobile" markdown>
+<div class="heading text-center">Example Build (Counter DPS)</div>
+<div class="hagrid grid-1/1/1/1" markdown>
+  <figure class="center" markdown="span">
+    [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+  </figure>
+  <figure class="center" markdown="span">
+    [![April Tribute](/images/covenants/april-tribute.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Steppenwolf](/images/covenants/steppenwolf--icon.png "Steppenwolf"){loading=lazy}](/handbook/team#steppenwolf)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Steppenwolf](/images/covenants/steppenwolf.png "Steppenwolf"){loading=lazy}](/handbook/team#steppenwolf)
+  </figure>
+</div>
+<div class="caption text-center" markdown="span">[April Tribute](/handbook/team#april-tribute) &middot; [Steppenwolf](/handbook/team#steppenwolf)</div>
+</section>
+
+<section class="section" markdown>
+<div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
+  <div class="heading text-center desktop">Example Build (Counter DPS)</div>
+  <div class="heading text-center">Early Game Wheels</div>
+  <div class="heading text-center">Astral Reign Wheels</div>
+</div>
+<div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
+  <div class="desktop center" markdown>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center">
+      [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+    </figure>
+    <figure class="center">
+      [![April Tribute](/images/covenants/april-tribute.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+    </figure>
+  </div>
+  <div class="caption text-center" markdown="span">[April Tribute](/handbook/team#april-tribute)</div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center">
+      [![Steppenwolf](/images/covenants/steppenwolf--icon.png "Steppenwolf"){loading=lazy}](/handbook/team#steppenwolf)
+    </figure>
+    <figure class="center">
+      [![Steppenwolf](/images/covenants/steppenwolf.png "Steppenwolf"){loading=lazy}](/handbook/team#steppenwolf)
+    </figure>
+  </div>
+  <div class="caption text-center" markdown="span">[Steppenwolf](/handbook/team#steppenwolf)</div>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure markdown="span">
+      ![Analysis of Death](/images/wheels/analysis-of-death.png "Analysis of Death"){loading=lazy} <figcaption>Analysis of Death</figcaption>
+    </figure>
+    <figure markdown="span">
+      ![Cloaked in the Night](/images/wheels/cloaked-in-the-night.png "Cloaked in the Night"){loading=lazy} <figcaption>Cloaked in the Night</figcaption>
+    </figure>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure markdown="span">
+      ![Drifting in Desire](/images/wheels/drifting-in-desire.png "Drifting in Desire"){loading=lazy} <figcaption>Drifting in Desire</figcaption>
+    </figure>
+    <figure markdown="span">
+      ![Analysis of Death](/images/wheels/analysis-of-death.png "Analysis of Death"){loading=lazy} <figcaption>Analysis of Death</figcaption>
+    </figure>
+  </div>
+</div>
+</section>
 
 <section class="section mobile" markdown>
 <div class="heading text-center">Example Build (Keyflare Support)</div>
@@ -1999,71 +2184,6 @@ She was caught in the crossfire when [Astral Reign](/handbook/storylines#astral-
 </div>
 </section>
 
-<section class="section mobile" markdown>
-<div class="heading text-center">Example Build (Counter DPS)</div>
-<div class="hagrid grid-1/1/1/1" markdown>
-  <figure class="center" markdown="span">
-    [![Steppenwolf](/images/covenants/steppenwolf--icon.png "Steppenwolf"){loading=lazy}](/handbook/team#steppenwolf)
-  </figure>
-  <figure class="center" markdown="span">
-    [![Steppenwolf](/images/covenants/steppenwolf.png "Steppenwolf"){loading=lazy}](/handbook/team#steppenwolf)
-  </figure>
-  <figure class="center" markdown="span">
-    [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
-  </figure>
-  <figure class="center" markdown="span">
-    [![April Tribute](/images/covenants/april-tribute.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
-  </figure>
-</div>
-<div class="caption text-center" markdown="span">[Steppenwolf](/handbook/team#steppenwolf) &middot; [April Tribute](/handbook/team#april-tribute)</div>
-</section>
-
-<section class="section" markdown>
-<div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
-  <div class="heading text-center desktop">Example Build (Counter DPS)</div>
-  <div class="heading text-center">Early Game Wheels</div>
-  <div class="heading text-center">Astral Reign Wheels</div>
-</div>
-<div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
-  <div class="desktop center" markdown>
-  <div class="hagrid grid-1/1" markdown="span">
-    <figure class="center">
-      [![Steppenwolf](/images/covenants/steppenwolf--icon.png "Steppenwolf"){loading=lazy}](/handbook/team#steppenwolf)
-    </figure>
-    <figure class="center">
-      [![Steppenwolf](/images/covenants/steppenwolf.png "Steppenwolf"){loading=lazy}](/handbook/team#steppenwolf)
-    </figure>
-  </div>
-  <div class="caption text-center" markdown="span">[Steppenwolf](/handbook/team#steppenwolf)</div>
-  <div class="hagrid grid-1/1" markdown="span">
-    <figure class="center">
-      [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
-    </figure>
-    <figure class="center">
-      [![April Tribute](/images/covenants/april-tribute.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
-    </figure>
-  </div>
-  <div class="caption text-center" markdown="span">[April Tribute](/handbook/team#april-tribute)</div>
-  </div>
-  <div class="hagrid grid-1/1" markdown="span">
-    <figure markdown="span">
-      ![Analysis of Death](/images/wheels/analysis-of-death.png "Analysis of Death"){loading=lazy} <figcaption>Analysis of Death</figcaption>
-    </figure>
-    <figure markdown="span">
-      ![Cloaked in the Night](/images/wheels/cloaked-in-the-night.png "Cloaked in the Night"){loading=lazy} <figcaption>Cloaked in the Night</figcaption>
-    </figure>
-  </div>
-  <div class="hagrid grid-1/1" markdown="span">
-    <figure markdown="span">
-      ![Drifting in Desire](/images/wheels/drifting-in-desire.png "Drifting in Desire"){loading=lazy} <figcaption>Drifting in Desire</figcaption>
-    </figure>
-    <figure markdown="span">
-      ![Analysis of Death](/images/wheels/analysis-of-death.png "Analysis of Death"){loading=lazy} <figcaption>Analysis of Death</figcaption>
-    </figure>
-  </div>
-</div>
-</section>
-
 <section class="section" markdown>
 <div class="hagrid grid-mobile-1/2 grid-desktop-2/4 desktop" markdown>
   <div class="heading text-center">Suggested Posse</div>
@@ -2071,9 +2191,12 @@ She was caught in the crossfire when [Astral Reign](/handbook/storylines#astral-
 </div>
 <div class="hagrid grid-mobile-1/2 grid-desktop-2/4" markdown>
   <figure class="center" markdown="span">
-  ![Feast of Decay](/images/posses/feast-of-decay.png "Feast of Decay"){width="80" loading=lazy} <figcaption>Feast of Decay <br /> (Psyche Deepdive: Wanda)</figcaption>
+  ![Tiny Wish](/images/posses/tiny-wish.png "Tiny Wish"){width="80" loading=lazy} <figcaption>Tiny Wish <br /> (Faded Legacy Ch. 1)</figcaption>
   </figure>
   <div class="grid-mobile-1/1 grid-desktop-1/1/1/1" markdown>
+  <figure markdown="span">
+  [![Tawil](/images/awakeners/chaos/tawil--mini.png "Tawil"){loading=lazy}](#tawil) <figcaption>[Tawil](#tawil)</figcaption>
+  </figure>
   <figure markdown="span">
   [![Daffodil](/images/awakeners/ultra/daffodil--mini.png "Daffodil"){loading=lazy}](#daffodil) <figcaption>[Daffodil](#daffodil)</figcaption>
   </figure>
@@ -2081,10 +2204,7 @@ She was caught in the crossfire when [Astral Reign](/handbook/storylines#astral-
   [![Arachne](/images/awakeners/ultra/arachne--mini.png "Arachne"){loading=lazy}](#arachne) <figcaption>[Arachne](#arachne)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Wanda](/images/awakeners/ultra/wanda--mini.png "Wanda"){loading=lazy}](#wanda) <figcaption>[Wanda](#wanda)</figcaption>
-  </figure>
-  <figure markdown="span">
-  [![Winkle](/images/awakeners/ultra/winkle--mini.png "Winkle"){loading=lazy}](#winkle) <figcaption>[Winkle](#winkle)</figcaption>
+  [![Pickman](/images/awakeners/caro/pickman--mini.png "Pickman"){loading=lazy}](#pickman) <figcaption>[Pickman](#pickman)</figcaption>
   </figure>
 </div>
 </section>
@@ -2118,12 +2238,14 @@ She was caught in the crossfire when [Astral Reign](/handbook/storylines#astral-
 
   - <span class="caption">Stopping Points</span>
 
-    <span class="heading">Any, OE (You get her for free)</span>
+    <span class="heading">Any (You get her for free)</span>
 </div>
 <div markdown>
-A solid if unremarkable keyflare support. Her exalt is the main reason to use her over other supports: searching for any card and reducing its cost to 0 is very flexible and powerful.
+The most reliable partner who you can always count on to be your [keyflare bot](/handbook/team#the-almighty-keyflare-bot).
 
-She works best with teammates that have high-cost cards or specific cards they need.
+While she isn't as flashy as other keyflare supports, Ramona is one of the best at actually generating keyflare. The ability to search for any card and reduce its cost to 0 is also a powerful and universally useful effect.
+
+She works well in any team, but shines in teams that rely on specific cards or high-cost cards.
 </div>
 </div>
 </div>
@@ -2192,10 +2314,10 @@ She works best with teammates that have high-cost cards or specific cards they n
   [![Mouchette](/images/awakeners/chaos/mouchette--mini.png "Mouchette"){loading=lazy}](#mouchette) <figcaption>[Mouchette](#mouchette)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Tawil](/images/awakeners/chaos/tawil--mini.png "Tawil"){loading=lazy}](#tawil) <figcaption>[Tawil](#tawil)</figcaption>
+  [![GLotan](/images/awakeners/chaos/glotan--mini.png "GLotan"){loading=lazy}](#glotan) <figcaption>[GLotan](#glotan)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Hameln](/images/awakeners/chaos/hameln--mini.png "Hameln"){loading=lazy}](#hameln) <figcaption>[Hameln](#hameln)</figcaption>
+  [![Tawil](/images/awakeners/chaos/tawil--mini.png "Tawil"){loading=lazy}](#tawil) <figcaption>[Tawil](#tawil)</figcaption>
   </figure>
   <figure markdown="span">
   ![](/images/emojis/aigis-questioning.png){loading=lazy} <figcaption>(Anyone)</figcaption>
@@ -2235,7 +2357,7 @@ She works best with teammates that have high-cost cards or specific cards they n
     <span class="heading">E2, E3, OE (You get her for free)</span>
 </div>
 <div markdown>
-A complex and versatile support. Her exalt gives you the last 3 cards you played last turn, which enables perfect setups for specific DPS she pairs well with. At E3, she also lets you replace your posse with anything you want, for instance getting Voices In Your Head for vulnerable and weakness on demand.
+A complex and versatile keyflare support. Her exalt gives you the last 3 cards you played last turn, which enables perfect setups for specific DPS she pairs well with. At E3, she also lets you replace your posse with anything you want, for instance getting Voices In Your Head for vulnerable and weakness on demand.
 
 Her DPS build revolves around using dual posse every turn to scale Predetermined Strike. This is slow and not recommended for new players.
 </div>
@@ -2298,10 +2420,10 @@ Her DPS build revolves around using dual posse every turn to scale Predetermined
 <div class="heading text-center">Example Build (Posse Spam DPS)</div>
 <div class="hagrid grid-1/1/1/1" markdown>
   <figure class="center" markdown="span">
-    [![Paradox](/images/covenants/paradox--icon.png "Paradox"){loading=lazy}](/handbook/team#paradox)
+    [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
   </figure>
   <figure class="center" markdown="span">
-    [![Paradox](/images/covenants/paradox.png "Paradox"){loading=lazy}](/handbook/team#paradox)
+    [![April Tribute](/images/covenants/april-tribute.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
   </figure>
   <figure class="center" markdown="span">
     [![Crimson Pulse](/images/covenants/crimson-pulse--icon.png "Crimson Pulse"){loading=lazy}](/handbook/team#crimson-pulse)
@@ -2310,7 +2432,7 @@ Her DPS build revolves around using dual posse every turn to scale Predetermined
     [![Crimson Pulse](/images/covenants/crimson-pulse.png "Crimson Pulse"){loading=lazy}](/handbook/team#crimson-pulse)
   </figure>
 </div>
-<div class="caption text-center" markdown="span">[Paradox](/handbook/team#paradox) &middot; [Crimson Pulse](/handbook/team#crimson-pulse)</div>
+<div class="caption text-center" markdown="span">[April Tribute](/handbook/team#april-tribute) &middot; [Crimson Pulse](/handbook/team#crimson-pulse)</div>
 </section>
 
 <section class="section" markdown>
@@ -2322,14 +2444,14 @@ Her DPS build revolves around using dual posse every turn to scale Predetermined
 <div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
   <div class="desktop center" markdown>
   <div class="hagrid grid-1/1" markdown="span">
-    <figure class="center">
-      [![Paradox](/images/covenants/paradox--icon.png "Paradox"){loading=lazy}](/handbook/team#paradox)
-    </figure>
-    <figure class="center">
-      [![Paradox](/images/covenants/paradox.png "Paradox"){loading=lazy}](/handbook/team#paradox)
-    </figure>
+    <figure class="center" markdown="span">
+    [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+  </figure>
+  <figure class="center" markdown="span">
+    [![April Tribute](/images/covenants/april-tribute.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+  </figure>
   </div>
-  <div class="caption text-center" markdown="span">[Paradox](/handbook/team#paradox)</div>
+  <div class="caption text-center" markdown="span">[April Tribute](/handbook/team#april-tribute)</div>
   <div class="hagrid grid-1/1" markdown="span">
     <figure class="center">
       [![Crimson Pulse](/images/covenants/crimson-pulse--icon.png "Crimson Pulse"){loading=lazy}](/handbook/team#crimson-pulse)
@@ -2366,7 +2488,7 @@ Her DPS build revolves around using dual posse every turn to scale Predetermined
 </div>
 <div class="hagrid grid-mobile-1/2 grid-desktop-2/4" markdown>
   <figure class="center" markdown="span">
-  ![Obsession Eternal](/images/posses/obsession-eternal.png "Obsession Eternal"){width="80" loading=lazy} <figcaption>Obsession Eternal <br /> (Faded Legacy Ch. 5)</figcaption>
+  ![Answer of the Gate](/images/posses/answer-of-the-gate.png "Answer of the Gate"){width="80" loading=lazy} <figcaption>Answer of the Gate <br /> (Faded Legacy Ch. 8)</figcaption>
   </figure>
   <div class="grid-mobile-1/1 grid-desktop-1/1/1/1" markdown>
   <figure markdown="span">
@@ -2376,10 +2498,10 @@ Her DPS build revolves around using dual posse every turn to scale Predetermined
   [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png "Kathigu-Ra"){loading=lazy}](#kathigu-ra) <figcaption>[Kathigu-Ra](#kathigu-ra)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Tawil](/images/awakeners/chaos/tawil--mini.png "Tawil"){loading=lazy}](#tawil) <figcaption>[Tawil](#tawil)</figcaption>
+  [![GLotan](/images/awakeners/chaos/glotan--mini.png "GLotan"){loading=lazy}](#glotan) <figcaption>[GLotan](#glotan)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Hameln](/images/awakeners/chaos/hameln--mini.png "Hameln"){loading=lazy}](#hameln) <figcaption>[Hameln](#hameln)</figcaption>
+  [![Tawil](/images/awakeners/chaos/tawil--mini.png "Tawil"){loading=lazy}](#tawil) <figcaption>[Tawil](#tawil)</figcaption>
   </figure>
 </div>
 </section>
@@ -2482,10 +2604,10 @@ Ryker is also excellent at drawing cards and searching for cards, making him a g
   </div>
   <div class="hagrid grid-1/1" markdown="span">
     <figure markdown="span">
-      ![Path Forsaken](/images/wheels/path-forsaken.png "Path Forsaken"){loading=lazy} <figcaption>(Any support)</figcaption>
+      ![Fragrant Morphogenesis](/images/wheels/fragrant-morphogenesis.png "Fragrant Morphogenesis"){loading=lazy} <figcaption>(Any support)</figcaption>
     </figure>
     <figure markdown="span">
-      ![Fate Roulette](/images/wheels/fate-roulette.png "Fate Roulette"){loading=lazy} <figcaption>(Any support)</figcaption>
+      ![Adventurer's Pack](/images/wheels/adventurers-pack.png "Adventurer's Pack"){loading=lazy} <figcaption>(Any support)</figcaption>
     </figure>
   </div>
 </div>
@@ -2503,10 +2625,10 @@ Ryker is also excellent at drawing cards and searching for cards, making him a g
   [![Tawil](/images/awakeners/chaos/tawil--mini.png "Tawil"){loading=lazy}](#tawil) <figcaption>[Tawil](#tawil)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png "Kathigu-Ra"){loading=lazy}](#kathigu-ra) <figcaption>[Kathigu-Ra](#kathigu-ra)</figcaption>
+  [![GLotan](/images/awakeners/chaos/glotan--mini.png "GLotan"){loading=lazy}](#glotan) <figcaption>[GLotan](#glotan)</figcaption>
   </figure>
   <figure markdown="span">
-  [![Mouchette](/images/awakeners/chaos/mouchette--mini.png "Mouchette"){loading=lazy}](#mouchette) <figcaption>[Mouchette](#mouchette)</figcaption>
+  [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png "Kathigu-Ra"){loading=lazy}](#kathigu-ra) <figcaption>[Kathigu-Ra](#kathigu-ra)</figcaption>
   </figure>
   <figure markdown="span">
   [![Karen](/images/awakeners/chaos/karen--mini.png "Karen"){loading=lazy}](#karen) <figcaption>[Karen](#karen)</figcaption>
@@ -2518,7 +2640,7 @@ Ryker is also excellent at drawing cards and searching for cards, making him a g
 
 <div class="text-center" markdown style="margin-bottom: 24px;">
   <p class="heading" markdown="span" style="margin: 0;">
-    All-in-One Utility Toolbox
+    All-in-One Toolbox Engine
   </p>
   <p class="caption" markdown="span">
     Keyflare &middot;
@@ -2539,8 +2661,6 @@ Ryker is also excellent at drawing cards and searching for cards, making him a g
   - <span class="caption">DPS Rank</span>
 
     <span class="heading" style="color: var(--md-tier-b-plus);">B+ *(Good Early)*</span>
-
-    <span class="heading" style="color: var(--md-tier-a);">A *at OE*</span>
 
   - <span class="caption">Support Rank</span>
 
@@ -2691,13 +2811,206 @@ Needs E2 and lots of arithmetica to work well. Also very complex and time-consum
   [![Hameln](/images/awakeners/chaos/hameln--mini.png "Hameln"){loading=lazy}](#hameln) <figcaption>[Hameln](#hameln)</figcaption>
   </figure>
   <figure markdown="span">
+  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png "GMurphy"){loading=lazy}](#gmurphy) <figcaption>[GMurphy](#gmurphy)</figcaption>
+  </figure>
+  <figure markdown="span">
   [![Ryker](/images/awakeners/chaos/ryker--mini.png "Ryker"){loading=lazy}](#ryker) <figcaption>[Ryker](#ryker)</figcaption>
   </figure>
   <figure markdown="span">
   [![Karen](/images/awakeners/chaos/karen--mini.png "Karen"){loading=lazy}](#karen) <figcaption>[Karen](#karen)</figcaption>
   </figure>
+</div>
+</section>
+
+## Primordia: Chaos
+
+### GLotan {.tier .text-center}
+
+<div class="text-center" markdown style="margin-bottom: 24px;">
+  <p class="heading" markdown="span" style="margin: 0;">
+    Strike-Looping Leviathan Slayer
+  </p>
+  <p class="caption" markdown="span">
+    Strikes &middot;
+    Multihit &middot;
+    AOE &middot;
+    STR
+  </p>
+</div>
+
+<div class="flex-desktop" markdown>
+<div markdown="span" style="flex-shrink: 0;">
+  !["GLotan"](/images/awakeners/chaos/glotan.png "GLotan"){width="168" loading=lazy}
+</div>
+<div markdown>
+<div class="grid cards grid-cards-tiers text-center" markdown>
+  - <span class="caption">DPS Rank</span>
+
+    <span class="heading" style="color: var(--md-tier-s);">S *(Insane)*</span>
+
+  - <span class="caption">Support Rank</span>
+
+    <span class="heading" style="color: var(--md-tier-b);">B *(Decent)*</span>
+
+  - <span class="caption">Stopping Points</span>
+
+    <span class="heading">*DPS:* E2, E3, OE · *PChaos Bot:* Any</span>
+</div>
+<div markdown>
+A straightforward DPS who deletes mobs with Short Blade and Long Blade. Her extremely hard-hitting exalt scales with incoming damage, allowing her to one-shot threatening bosses.
+
+She appreciates card draw and arithmetica from her teammates. E2 helps with card draw as well.
+
+If you can’t use GLotan as a DPS for some reason, she can be used as a support just for the posses and keyflare from Primordia: Chaos.
+</div>
+</div>
+</div>
+
+<section class="section mobile" markdown>
+<div class="heading text-center">Example Build (DPS)</div>
+<div class="hagrid grid-1/1/1/1" markdown>
+  <figure class="center" markdown="span">
+    [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+  </figure>
+  <figure class="center" markdown="span">
+    [![April Tribute](/images/covenants/april-tribute.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Crimson Pulse](/images/covenants/crimson-pulse--icon.png "Crimson Pulse"){loading=lazy}](/handbook/team#crimson-pulse)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Crimson Pulse](/images/covenants/crimson-pulse.png "Crimson Pulse"){loading=lazy}](/handbook/team#crimson-pulse)
+  </figure>
+</div>
+<div class="caption text-center" markdown="span">[April Tribute](/handbook/team#april-tribute) &middot; [Crimson Pulse](/handbook/team#crimson-pulse)</div>
+</section>
+
+<section class="section" markdown>
+<div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
+  <div class="desktop center" markdown>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center">
+      [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+    </figure>
+    <figure class="center">
+      [![April Tribute](/images/covenants/april-tribute.png "April Tribute"){loading=lazy}](/handbook/team#april-tribute)
+    </figure>
+  </div>
+  <div class="caption text-center" markdown="span">[April Tribute](/handbook/team#april-tribute)</div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center">
+      [![Crimson Pulse](/images/covenants/crimson-pulse--icon.png "Crimson Pulse"){loading=lazy}](/handbook/team#crimson-pulse)
+    </figure>
+    <figure class="center">
+      [![Crimson Pulse](/images/covenants/crimson-pulse.png "Crimson Pulse"){loading=lazy}](/handbook/team#crimson-pulse)
+    </figure>
+  </div>
+  <div class="caption text-center" markdown="span">[Crimson Pulse](/handbook/team#crimson-pulse)</div>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure markdown="span">
+      ![Hand of Oblivion](/images/wheels/hand-of-oblivion.png "Hand of Oblivion"){loading=lazy} <figcaption>Hand of Oblivion</figcaption>
+    </figure>
+    <figure markdown="span">
+      ![Analysis of Death](/images/wheels/analysis-of-death.png "Analysis of Death"){loading=lazy} <figcaption>Analysis of Death</figcaption>
+    </figure>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure markdown="span">
+      ![Celestial Beast](/images/wheels/celestial-beast.png "Celestial Beast"){loading=lazy} <figcaption>Celestial Beast</figcaption>
+    </figure>
+    <figure markdown="span">
+      ![Hand of Oblivion](/images/wheels/hand-of-oblivion.png "Hand of Oblivion"){loading=lazy} <figcaption>Hand of Oblivion</figcaption>
+    </figure>
+  </div>
+</div>
+</section>
+
+<section class="section mobile" markdown>
+<div class="heading text-center">Example Build (PChaos Support)</div>
+<div class="hagrid grid-1/1/1/1" markdown>
+  <figure class="center" markdown="span">
+    [![Scarlet Embrace](/images/covenants/scarlet-embrace--icon.png "Scarlet Embrace"){loading=lazy}](/handbook/team#scarlet-embrace)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Scarlet Embrace](/images/covenants/scarlet-embrace.png "Scarlet Embrace"){loading=lazy}](/handbook/team#scarlet-embrace)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+  </figure>
+  <figure class="center" markdown="span">
+    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+  </figure>
+</div>
+<div class="caption text-center" markdown="span">(Any support)</div>
+</section>
+
+<section class="section" markdown>
+<div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
+  <div class="heading text-center desktop">Example Build (PChaos Support)</div>
+  <div class="heading text-center">Early Game Wheels</div>
+  <div class="heading text-center">Astral Reign Wheels</div>
+</div>
+<div class="hagrid grid-mobile-1/1 grid-desktop-1/1/1" markdown>
+  <div class="desktop center" markdown>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center">
+      [![Scarlet Embrace](/images/covenants/scarlet-embrace--icon.png "Scarlet Embrace"){loading=lazy}](/handbook/team#scarlet-embrace)
+    </figure>
+    <figure class="center">
+      [![Scarlet Embrace](/images/covenants/scarlet-embrace.png "Scarlet Embrace"){loading=lazy}](/handbook/team#scarlet-embrace)
+    </figure>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure class="center">
+      [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+    </figure>
+    <figure class="center">
+      [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs.png "Burial Ground's Sighs"){loading=lazy}](/handbook/team#burial-grounds-sighs)
+    </figure>
+  </div>
+  <div class="caption text-center" markdown="span">[Crimson Pulse](/handbook/team#crimson-pulse)</div>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure markdown="span">
+      ![Emerge](/images/wheels/emerge.png "Emerge"){loading=lazy} <figcaption>(Any support)</figcaption>
+    </figure>
+    <figure markdown="span">
+      ![Whisper](/images/wheels/whisper.png "Whisper"){loading=lazy} <figcaption>(Any support)</figcaption>
+    </figure>
+  </div>
+  <div class="hagrid grid-1/1" markdown="span">
+    <figure markdown="span">
+      ![Fragrant Morphogenesis](/images/wheels/fragrant-morphogenesis.png "Fragrant Morphogenesis"){loading=lazy} <figcaption>(Any support)</figcaption>
+    </figure>
+    <figure markdown="span">
+      ![Sever and Scar](/images/wheels/sever-and-scar.png "Sever and Scar"){loading=lazy} <figcaption>(Any support)</figcaption>
+    </figure>
+  </div>
+</div>
+</section>
+
+<section class="section" markdown>
+<div class="hagrid grid-mobile-1/2 grid-desktop-2/4 desktop" markdown>
+  <div class="heading text-center">Suggested Posse</div>
+  <div class="heading text-center">Works Well With</div>
+</div>
+<div class="hagrid grid-mobile-1/2 grid-desktop-2/4" markdown>
+  <figure class="center" markdown="span">
+  ![Cetus-Devouring Storm](/images/posses/cetus-devouring-storm.png "Cetus-Devouring Storm"){width="80" loading=lazy} <figcaption>Cetus-Devouring Storm <br /> (Psyche Deepdive: GLotan)</figcaption>
+  </figure>
+  <div class="grid-mobile-1/1 grid-desktop-1/1/1/1" markdown>
   <figure markdown="span">
-  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png "GMurphy"){loading=lazy}](#gmurphy) <figcaption>[GMurphy](#gmurphy)</figcaption>
+  [![Ryker](/images/awakeners/chaos/ryker--mini.png "Ryker"){loading=lazy}](#ryker) <figcaption>[Ryker](#ryker)</figcaption>
+  </figure>
+  <figure markdown="span">
+  [![Ramona](/images/awakeners/chaos/ramona--mini.png "Ramona"){loading=lazy}](#ramona) <figcaption>[Ramona](#ramona)</figcaption>
+  </figure>
+  <figure markdown="span">
+  [![Saya](/images/awakeners/caro/saya--mini.png "Saya"){loading=lazy}](#saya) <figcaption>[Saya](#saya)</figcaption>
+  </figure>
+  <figure markdown="span">
+  [![Casiah](/images/awakeners/ultra/casiah--mini.png "Casiah"){loading=lazy}](#casiah) <figcaption>[Casiah](#casiah)</figcaption>
   </figure>
 </div>
 </section>
