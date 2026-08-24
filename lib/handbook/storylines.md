@@ -14,7 +14,7 @@ Morimens has two storylines with different game rules: **Faded Legacy** and **As
 
 **Faded Legacy** is the original story that released with Morimens. It begins with the Prologue and ends with Chapter 9.
 
-**Astral Reign** is a new storyline that started after the game's 1st anniversary. As of this writing, the latest chapter is Astral Reign Chapter 5.
+**Astral Reign** is a new storyline that started after the game's 1st anniversary. As of this writing, the latest chapter is Astral Reign Chapter 6.
 
 **Astral Reign stages have different rules.** Exploration is reworked, game mechanics are rebalanced, and all characters have a new talent called Soulforge Aptitude that changes how they play. These are the rules used in almost all endgame content.
 

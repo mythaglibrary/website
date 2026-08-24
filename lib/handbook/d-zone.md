@@ -159,7 +159,7 @@ If the team has a strong limited carry like [Vortice](/handbook/awakeners#vortic
 
 <div class="flex-center-desktop" markdown>
 <div class="mobile-order-1" markdown>
-This is around the difficulty of [Astral Reign](/handbook/storylines#astral-reign-arc-2) 5-15, the final normal mode story stage as of this writing.
+This is around the difficulty of [Astral Reign](/handbook/storylines#astral-reign-arc-2) hard mode stages.
 
 Alert 5 is a test of your game mastery. There is no guarantee you can clear the stage even with a level 80 soulforge 10 team. But if you know the boss fight and bring a team with a good matchup, level 60 units may be all you need.
 
