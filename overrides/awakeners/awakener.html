@@ -1,0 +1,201 @@
+{% extends "main.html" %}
+
+{% macro wheel_column(title, wheels, assets) %}
+  <div class="awakener-wheel-column">
+    <h3>{{ title }}</h3>
+    <div class="awakener-wheel-list">
+      {% for wheel in wheels %}
+        {% set wheel_asset = assets.wheels[wheel.id] %}
+        <figure>
+          <img src="{{ wheel_asset.image }}" alt="" loading="lazy">
+          <figcaption>
+            {{ wheel_asset.label }}{% if wheel.note %}<em class="awakener-flex-note">{{ wheel.note }}</em>{% endif %}
+          </figcaption>
+        </figure>
+      {% endfor %}
+    </div>
+  </div>
+{% endmacro %}
+
+{% block content %}
+  {% set guide = page.meta.awakener %}
+  {% set assets = config.extra.content_assets %}
+  {% set portrait = assets.portraits[page.meta.title] %}
+  {% set guide_teams = page.meta.mythag_teams | default([]) %}
+
+  {% include "partials/actions.html" %}
+
+  <div class="awakener-guide" data-abbreviations>
+    <header class="awakener-header">
+      <h1>{{ page.meta.title }}</h1>
+      <p class="awakener-tagline">{{ guide.tagline }}</p>
+      <ul class="awakener-roles" aria-label="Roles and mechanics">
+        {% for role in guide.roles %}
+          <li class="awakener-role" data-role="{{ role }}">{{ role }}</li>
+        {% endfor %}
+      </ul>
+      {% set has_recommendations = guide.suggested_posses or guide.suggested_posses_note
+        or guide.works_well_with or guide.works_well_with_note %}
+      {% set section_count = guide.builds|length + (1 if has_recommendations else 0)
+        + (1 if guide_teams else 0) %}
+      {% if section_count > 1 %}
+        <nav class="awakener-jump" aria-label="Guide sections">
+          {% for build in guide.builds %}
+            <a href="#build-{{ loop.index }}">{{ build.name }}</a>
+          {% endfor %}
+          {% if has_recommendations %}
+            <a href="#recommendations">Recommendations</a>
+          {% endif %}
+          {% if guide_teams %}
+            <a href="#example-teams">Example Teams</a>
+          {% endif %}
+        </nav>
+      {% endif %}
+    </header>
+
+    <div class="awakener-summary" id="overview">
+      <div class="awakener-portrait">
+        <img src="{{ portrait.image }}" alt="{{ page.meta.title|e }}" loading="lazy">
+      </div>
+
+      <div>
+        <div class="awakener-ranks">
+          {% if guide.ranks.dps %}
+            <section class="awakener-rank-card">
+              <h2>DPS Rank</h2>
+              {% for rank in guide.ranks.dps %}
+                <p class="awakener-rank" data-tier="{{ rank.tier }}">
+                  {{ rank.tier }}{% if rank.note %} <em>{{ rank.note }}</em>{% endif %}
+                </p>
+              {% endfor %}
+            </section>
+          {% endif %}
+
+          {% if guide.ranks.support %}
+            <section class="awakener-rank-card">
+              <h2>Support Rank</h2>
+              {% for rank in guide.ranks.support %}
+                <p class="awakener-rank" data-tier="{{ rank.tier }}">
+                  {{ rank.tier }}{% if rank.note %} <em>{{ rank.note }}</em>{% endif %}
+                </p>
+              {% endfor %}
+            </section>
+          {% endif %}
+        </div>
+
+        <section class="awakener-stopping-card" id="stopping-points">
+          <h2>Stopping Points</h2>
+          <ul class="awakener-stopping-points">
+            {% for point in guide.stopping_points %}
+              <li>{{ point }}</li>
+            {% endfor %}
+          </ul>
+        </section>
+
+        <div class="awakener-prose">
+          {{ page.content }}
+        </div>
+      </div>
+    </div>
+
+    {% for build in guide.builds %}
+      <section class="awakener-section awakener-build" id="build-{{ loop.index }}">
+        <h2>{{ build.name }}</h2>
+        <div class="awakener-build-grid{% if not build.wheels.early_game or not build.wheels.astral_reign %} awakener-build-grid--one-wheel{% endif %}">
+          <div class="awakener-covenant-column">
+            <div class="awakener-covenants">
+              {% for covenant in build.covenants %}
+                {% set covenant_asset = assets.covenants[covenant] %}
+                <figure>
+                  <a href="{{ covenant_asset.url }}">
+                    <span class="awakener-covenant-images">
+                      <img src="{{ covenant_asset.icon }}" alt="" loading="lazy">
+                      <img src="{{ covenant_asset.image }}" alt="" loading="lazy">
+                    </span>
+                    <figcaption>{{ covenant_asset.label }}</figcaption>
+                  </a>
+                </figure>
+              {% endfor %}
+            </div>
+            {% if build.covenants_note %}
+              <p class="awakener-section-note awakener-covenant-note">{{ build.covenants_note }}</p>
+            {% endif %}
+          </div>
+
+          {% if build.wheels.early_game %}
+            {{ wheel_column("Early Game Wheels", build.wheels.early_game, assets) }}
+          {% endif %}
+          {% if build.wheels.astral_reign %}
+            {{ wheel_column("Astral Reign Wheels", build.wheels.astral_reign, assets) }}
+          {% endif %}
+        </div>
+      </section>
+    {% endfor %}
+
+    {% if guide.suggested_posses or guide.suggested_posses_note or guide.works_well_with or guide.works_well_with_note %}
+      <section class="awakener-section awakener-recommendations" id="recommendations">
+        {% if guide.suggested_posses or guide.suggested_posses_note %}
+          <div class="awakener-recommendation-group{% if not guide.suggested_posses %} awakener-recommendation-group--note-only{% endif %}" id="suggested-posse" data-kind="posses">
+            <div class="awakener-recommendation-label">
+              <h2>Suggested Posse</h2>
+              {% if guide.suggested_posses_note %}
+                <p class="awakener-section-note">{{ guide.suggested_posses_note }}</p>
+              {% endif %}
+            </div>
+            {% if guide.suggested_posses %}
+              <div class="awakener-recommendation-list">
+                {% for posse in guide.suggested_posses %}
+                  {% set posse_asset = assets.posses[posse.id] %}
+                  <figure>
+                    <img src="{{ posse_asset.image }}" alt="" loading="lazy">
+                    <figcaption>
+                      {{ posse_asset.label }}{% if posse.note %}<em class="awakener-flex-note">{{ posse.note }}</em>{% endif %}
+                    </figcaption>
+                  </figure>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        {% if guide.works_well_with or guide.works_well_with_note %}
+          <div class="awakener-recommendation-group{% if not guide.works_well_with %} awakener-recommendation-group--note-only{% endif %}" id="works-well-with">
+            <div class="awakener-recommendation-label">
+              <h2>Works Well With</h2>
+              {% if guide.works_well_with_note %}
+                <p class="awakener-section-note">{{ guide.works_well_with_note }}</p>
+              {% endif %}
+            </div>
+            {% if guide.works_well_with %}
+              <div class="awakener-recommendation-list">
+                {% for related in guide.works_well_with %}
+                  {% set related_asset = assets.awakeners[related] %}
+                  <figure>
+                    <a href="{{ related_asset.url }}">
+                      <img src="{{ related_asset.mini }}" alt="" loading="lazy">
+                      <figcaption>{{ related_asset.label }}</figcaption>
+                    </a>
+                  </figure>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+        {% endif %}
+      </section>
+    {% endif %}
+
+    {% if guide_teams %}
+      <section class="awakener-section awakener-teams" id="example-teams">
+        <h2>Example Teams</h2>
+        {% for team in guide_teams %}
+          {{ team | safe }}
+        {% endfor %}
+      </section>
+    {% endif %}
+  </div>
+
+  {% include "partials/tags.html" %}
+  {% include "partials/source-file.html" %}
+  {% include "partials/feedback.html" %}
+  {% include "partials/comments.html" %}
+{% endblock %}

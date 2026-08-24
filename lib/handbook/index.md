@@ -30,8 +30,6 @@ icon: lucide/book-open
 
     This website is under construction and sections may be **outdated or incomplete.**
 
-    The [Awakener Guides](/handbook/awakeners) section is very outdated and will be replaced soon.
-    
     See [the original Google Doc](https://docs.google.com/document/d/1THjxR9hHs4NWHqSWHHa2dHAGuE_cRGelfzXdBfCnIlM/edit?usp=sharing){target="_blank"} for the latest version.
     
     Let me know on [Discord](https://discord.com/channels/1131791637933199470/1477730088299663431){target="_blank"} if you have any feedback or suggestions!

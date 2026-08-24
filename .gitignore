@@ -1,5 +1,8 @@
 .DS_Store
 .cache
+.avif-cache
+.zensical.generated.toml
 .obsidian
 .venv
+*.egg-info/
 site

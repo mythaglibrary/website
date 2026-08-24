@@ -1,0 +1,514 @@
+.mythag-team {
+  --mythag-team-rule: var(--md-default-fg-color--lightest);
+  --mythag-team-space: 1rem;
+  --mythag-team-member-inset: clamp(0.4rem, 0.9vw, 0.7rem);
+  --mythag-team-covenant-icon-scale: 1.65;
+  margin-block: 2rem;
+}
+
+[dir] .md-typeset .mythag-team :is(figure, p, ol, ul) {
+  margin: 0;
+}
+
+[dir] .md-typeset .mythag-team :is(ol, ul) {
+  padding: 0;
+  list-style: none;
+}
+
+[dir] .md-typeset .mythag-team li {
+  margin: 0;
+}
+
+.mythag-team__header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 1rem;
+  padding-block-end: 0.75rem;
+}
+
+.mythag-team__title {
+  font-size: 1.35rem;
+  font-weight: 650;
+}
+
+.mythag-team__eyebrow {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.7rem;
+  font-weight: 650;
+  letter-spacing: 0.045em;
+  line-height: 1.25;
+}
+
+.mythag-team__summary {
+  max-width: 46ch;
+  margin-block-start: 0.35rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
+
+/* [dir] .md-typeset prefixes outweigh the theme's figure/figcaption styles
+   (flow-root figures, italic serif captions). */
+[dir] .md-typeset .mythag-team__posse {
+  grid-column: 2;
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  row-gap: 0.3rem;
+}
+
+.mythag-team__posse img {
+  width: 3.5rem;
+  aspect-ratio: 1;
+  object-fit: contain;
+}
+
+[dir] .md-typeset .mythag-team__posse figcaption {
+  max-width: none;
+  margin: 0;
+  color: var(--md-default-fg-color);
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 650;
+  line-height: 1.25;
+  text-align: center;
+}
+
+.md-typeset ol.mythag-team__members {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  padding-block-start: var(--mythag-team-space);
+}
+
+.mythag-team__member {
+  --mythag-team-archetype-surface: transparent;
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  align-content: start;
+  row-gap: 0.7rem;
+  min-width: 0;
+  padding-inline: var(--mythag-team-member-inset);
+  border-inline-start: 1px solid var(--mythag-team-rule);
+}
+
+.mythag-team__member--archetype-dps {
+  --mythag-team-archetype-surface: var(--md-highlight-dps);
+}
+
+.mythag-team__member--archetype-support {
+  --mythag-team-archetype-surface: var(--md-highlight-support);
+}
+
+.mythag-team__member--archetype-tank {
+  --mythag-team-archetype-surface: var(--md-highlight-tank);
+}
+
+.mythag-team__member:first-child {
+  border-inline-start: 0;
+}
+
+.mythag-team__role {
+  justify-self: center;
+  min-height: 1.2em;
+  padding: 0.16rem 0.45rem;
+  background-color: var(--mythag-team-archetype-surface);
+  color: var(--md-default-fg-color);
+  font-size: 0.72rem;
+  font-weight: 650;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.mythag-team__awakener {
+  display: grid;
+  row-gap: 0.2rem;
+  width: auto;
+  justify-self: center;
+}
+
+.mythag-team__awakener a {
+  display: grid;
+  row-gap: 0.2rem;
+}
+
+[dir] .md-typeset .mythag-team__awakener a {
+  text-decoration: none;
+}
+
+[dir] .md-typeset .mythag-team__awakener a:is(:hover, :focus-visible) figcaption {
+  text-decoration: underline;
+}
+
+.mythag-team :is(.mythag-team__awakener a, .mythag-team__covenant a, .mythag-team__member-details > summary):focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 0.25rem;
+}
+
+.mythag-team__awakener img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 168 / 250;
+  object-fit: cover;
+  object-position: top center;
+}
+
+[dir] .md-typeset .mythag-team__awakener figcaption {
+  max-width: none;
+  margin: 0;
+  padding-block: 0 0.3rem;
+  color: var(--md-default-fg-color);
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 650;
+  line-height: 1.25;
+  text-align: center;
+}
+
+.mythag-team__context {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.45rem;
+  min-height: 3.25rem;
+  border-block-start: 1px solid var(--mythag-team-rule);
+  padding-block-start: 0.55rem;
+}
+
+.mythag-team__note {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.72rem;
+  line-height: 1.35;
+  text-align: start;
+}
+
+.mythag-team__covenant {
+  grid-column: 2;
+}
+
+.mythag-team__covenant,
+.mythag-team__covenant a {
+  display: grid;
+  place-items: center;
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+}
+
+.mythag-team__covenant img {
+  display: block;
+  width: auto;
+  height: 3rem;
+  object-fit: contain;
+  transform: scale(var(--mythag-team-covenant-icon-scale));
+}
+
+.md-typeset ol.mythag-team__wheels {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.35rem;
+  margin: 0;
+}
+
+@media screen and (min-width: 45em) {
+  [dir] .md-typeset ol.mythag-team__wheels {
+    margin-block-start: 0.4rem;
+  }
+}
+
+.mythag-team__wheel {
+  display: grid;
+  grid-template-rows: auto auto;
+  align-content: start;
+  row-gap: 0.35rem;
+  justify-items: center;
+  min-width: 0;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.66rem;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.mythag-team__wheel img {
+  display: block;
+  width: min(100%, 4.5rem);
+  height: auto;
+}
+
+.mythag-team__identity {
+  display: none;
+}
+
+[dir] .md-typeset .mythag-team__member-details {
+  display: none;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .mythag-team {
+    --mythag-team-mobile-sample: 3.4rem;
+    --mythag-team-mobile-gap: 0.4rem;
+    /* Matches the baked-in frame colour of the covenant icon assets. */
+    --mythag-team-crop-frame: #494949;
+  }
+
+  [dir] .md-typeset .mythag-team__posse {
+    row-gap: 0.25rem;
+  }
+
+  .mythag-team__posse img {
+    width: 2.75rem;
+  }
+
+  [dir] .md-typeset .mythag-team__posse figcaption {
+    font-size: 0.64rem;
+  }
+
+  .md-typeset ol.mythag-team__members {
+    display: block;
+    padding-block-start: 0.35rem;
+  }
+
+  .mythag-team__member {
+    grid-template-columns:
+      repeat(4, minmax(0, var(--mythag-team-mobile-sample)))
+      minmax(0, 1fr)
+      1.5rem;
+    grid-template-rows: auto auto;
+    align-items: center;
+    column-gap: var(--mythag-team-mobile-gap);
+    row-gap: 0.35rem;
+    padding: 0.5rem 0;
+    border-inline-start: 0;
+    border-block-start: 1px solid var(--mythag-team-rule);
+  }
+
+  .mythag-team__member:first-child {
+    border-block-start: 0;
+  }
+
+  /* Specificity must beat the theme's `.md-typeset figure` display rule,
+     otherwise the figure becomes an auto-placed grid item instead of
+     dissolving so the anchor can take its explicit cell. */
+  [dir] .md-typeset .mythag-team__awakener {
+    display: contents;
+  }
+
+  .mythag-team__awakener a {
+    display: grid;
+    grid-column: 1;
+    grid-row: 2;
+    place-items: center;
+    width: 100%;
+  }
+
+  .mythag-team__awakener figcaption {
+    display: none;
+  }
+
+  .mythag-team__awakener img {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1;
+    outline: 1px solid var(--mythag-team-crop-frame);
+    outline-offset: -1px;
+  }
+
+  .mythag-team__role {
+    display: none;
+  }
+
+  .mythag-team__identity {
+    display: flex;
+    flex-wrap: wrap;
+    grid-column: 1 / 5;
+    grid-row: 1;
+    align-items: baseline;
+    gap: 0.1rem 0.4rem;
+    min-width: 0;
+  }
+
+  /* Chips share one right-aligned rail so roles read as a column across members. */
+  .mythag-team__identity .mythag-team__member-role {
+    margin-inline-start: auto;
+  }
+
+  .mythag-team__member-name {
+    color: var(--md-default-fg-color);
+    font-size: 0.76rem;
+    font-weight: 650;
+    line-height: 1.2;
+  }
+
+  .mythag-team__member-role {
+    display: inline-block;
+    padding: 0.1rem 0.25rem;
+    background-color: var(--mythag-team-archetype-surface);
+    color: var(--md-default-fg-color);
+    font-size: 0.6rem;
+    line-height: 1.25;
+  }
+
+  .mythag-team__context {
+    display: contents;
+  }
+
+  .mythag-team__covenant {
+    grid-column: 2;
+    grid-row: 2;
+    align-self: center;
+    justify-self: stretch;
+    border: 0;
+    padding: 0;
+  }
+
+  .mythag-team__covenant,
+  .mythag-team__covenant a {
+    width: 100%;
+    min-width: 0;
+    min-height: 0;
+  }
+
+  .mythag-team__covenant img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+  }
+
+  .mythag-team__context .mythag-team__note {
+    display: none;
+  }
+
+  .md-typeset ol.mythag-team__wheels {
+    grid-column: 3 / 5;
+    grid-row: 2;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--mythag-team-mobile-gap);
+  }
+
+  .mythag-team__wheel {
+    position: relative;
+    grid-template-rows: auto;
+    overflow: hidden;
+  }
+
+  /* Slight zoom drops the asset's own outer border, which only survives the
+     square crop on the left/right edges; the overlay frame replaces it. */
+  .mythag-team__wheel img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center;
+    transform: scale(1.05);
+  }
+
+  .mythag-team__wheel::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border: 1px solid var(--mythag-team-crop-frame);
+    pointer-events: none;
+  }
+
+  .mythag-team__wheel span {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  [dir] .md-typeset .mythag-team__member-details {
+    display: contents;
+  }
+
+  [dir] .md-typeset .mythag-team__member-details > summary {
+    display: grid;
+    grid-column: 6;
+    grid-row: 1 / 3;
+    place-items: center;
+    align-self: stretch;
+    margin: 0;
+    padding: 0;
+    min-height: 44px;
+    font-size: inherit;
+    line-height: 1.2;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  [dir] .md-typeset .mythag-team__member-details > summary::before {
+    display: none;
+  }
+
+  [dir] .md-typeset .mythag-team__member-details > summary::after {
+    display: none;
+  }
+
+  [dir] .md-typeset .mythag-team__member-details > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .mythag-team__member-details-caret {
+    box-sizing: border-box;
+    width: 0.55rem;
+    height: 0.55rem;
+    margin-block-start: -0.2rem;
+    border-block-end: 0.1rem solid var(--md-default-fg-color--light);
+    border-inline-end: 0.1rem solid var(--md-default-fg-color--light);
+    transform: rotate(45deg);
+  }
+
+  .mythag-team__member-details[open] .mythag-team__member-details-caret {
+    margin-block-start: 0.2rem;
+    transform: rotate(225deg);
+  }
+
+  /* Engines with the ::details-content wrapper make it the grid item instead
+     of the content div; place both so either one lands in the full-width row. */
+  .mythag-team__member-details::details-content {
+    grid-column: 1 / -1;
+    grid-row: 3;
+    min-width: 0;
+  }
+
+  .mythag-team__member-details-content {
+    display: grid;
+    grid-column: 1 / -1;
+    grid-row: 3;
+    gap: 0.45rem;
+    min-width: 0;
+    margin-block-start: 0.4rem;
+    border-block-start: 1px solid var(--mythag-team-rule);
+    padding: 0.5rem 0 0.15rem;
+  }
+
+  .mythag-team__member-details-content p {
+    color: var(--md-default-fg-color--light);
+    font-size: 0.68rem;
+    line-height: 1.35;
+  }
+
+  .mythag-team__member-details-content dl {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.35rem;
+    margin: 0;
+  }
+
+  .mythag-team__member-details-content dt {
+    color: var(--md-default-fg-color--light);
+    font-size: 0.58rem;
+    line-height: 1.2;
+  }
+
+  [dir] .md-typeset .mythag-team__member-details-content dd {
+    margin: 0.1rem 0 0;
+    color: var(--md-default-fg-color);
+    font-size: 0.64rem;
+    line-height: 1.25;
+  }
+}

@@ -1,0 +1,43 @@
+{% extends "main.html" %}
+
+{% block content %}
+  {% set index = config.extra.awakener_index %}
+
+  {% include "partials/actions.html" %}
+
+  {{ page.content }}
+
+  <nav class="awakener-index" aria-label="Awakener guides" data-abbreviations>
+    {% for family_id in index.family_order %}
+      {% set family = index.family[family_id] %}
+      <section class="awakener-index-family" data-realm="{{ family_id }}" aria-labelledby="{{ family_id }}">
+        <h2 id="{{ family_id }}">{{ family.label }}</h2>
+
+        {% for group_id in family.groups %}
+          {% set group = index.group[group_id] %}
+          <div class="awakener-index-group">
+            {% if group.label %}
+              <h3 id="{{ group_id }}">{{ group.label }}</h3>
+            {% endif %}
+            <ul class="awakener-index-grid grid-96">
+              {% for guide_id in group.guides %}
+                {% set guide = index.guide[guide_id] %}
+                <li>
+                  <a id="{{ guide_id }}" href="{{ guide.url }}">
+                    <img src="{{ guide.image }}" alt="" width="360" height="360" loading="lazy" decoding="async">
+                    <span>{{ guide.label }}</span>
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endfor %}
+      </section>
+    {% endfor %}
+  </nav>
+
+  {% include "partials/tags.html" %}
+  {% include "partials/source-file.html" %}
+  {% include "partials/feedback.html" %}
+  {% include "partials/comments.html" %}
+{% endblock %}

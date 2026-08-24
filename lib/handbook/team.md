@@ -45,120 +45,37 @@ All of these are viable approaches. The important part is to **know what your te
 
 ### Hypercarry
 
-<div class="grid-mobile-1 grid-desktop-1/1" markdown style="align-items: center;">
-<div class="text-center" markdown style="margin: 1em 0;">
-Example Team
-{.caption}
-
-Caro Mouchette
-{.heading style="margin: 0;"}
-
-(Faded Legacy - Story)
-{.heading style="margin: 0;"}
-
-A team that enables Mouchette to kill as fast as possible
-{.caption}
-</div>
-
-<figure markdown="span">
-  ![Tiny Wish](/images/posses/tiny-wish.png "Tiny Wish"){width="96" loading=lazy} <figcaption>Tiny Wish</figcaption>
-</figure>
-</div>
-
-<div class="hagrid grid-mobile-1 grid-desktop-1/1" markdown>
-<div class="grid-1/1/1/1 dps" markdown>
-<div class="text-center" markdown>
-DPS
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Mouchette](/images/awakeners/chaos/mouchette.png "Mouchette"){loading=lazy}](/handbook/awakeners#mouchette)<figcaption>Mouchette</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Crimson Pulse](/images/covenants/crimson-pulse--icon.png "Crimson Pulse"){loading=lazy}](#crimson-pulse)
-  </figure>
-  
-  Main damage dealer
-</div>
-<figure markdown="span">
-  ![Blade of the Titan](/images/wheels/blade-of-the-titan.png "Blade of the Titan"){loading=lazy} <figcaption>Blade of the Titan</figcaption>
-</figure>
-<figure markdown="span">
-  ![Analysis of Death](/images/wheels/analysis-of-death.png "Analysis of Death"){loading=lazy} <figcaption>Analysis of Death</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 support" markdown>
-<div class="text-center" markdown>
-Support
-{.heading style="margin: 0;"}
-  
-<figure markdown="span">
-  [![Ramona](/images/awakeners/chaos/ramona.png){loading=lazy}](/handbook/awakeners#ramona)<figcaption>Ramona</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](#burial-grounds-sighs)
-  </figure>
-  
-  Keyflare, searches for key cards
-</div>
-<figure markdown="span">
-  ![Elevated Focus](/images/wheels/elevated-focus.png "Elevated Focus"){loading=lazy} <figcaption>Elevated Focus</figcaption>
-</figure>
-<figure markdown="span">
-  ![Frenzy](/images/wheels/frenzy.png "Frenzy"){loading=lazy} <figcaption>Frenzy</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 support" markdown>
-<div class="text-center" markdown>
-Support
-{.heading style="margin: 0;"}
-  
-<figure markdown="span">
-  [![Aigis](/images/awakeners/caro/aigis.png){loading=lazy}](/handbook/awakeners#aigis)<figcaption>Aigis</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](#burial-grounds-sighs)
-  </figure>
-  
-  Stuns, applies vulnerable
-</div>
-<figure markdown="span">
-  ![Gluttony](/images/wheels/gluttony.png "Gluttony"){loading=lazy} <figcaption>Gluttony</figcaption>
-</figure>
-<figure markdown="span">
-  ![Whisper](/images/wheels/whisper.png){loading=lazy} <figcaption>Whisper</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 support" markdown>
-<div class="text-center" markdown>
-Support
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Helot](/images/awakeners/caro/helot.png){loading=lazy}](/handbook/awakeners#helot)<figcaption>Helot</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](#burial-grounds-sighs)
-  </figure>
-  
-  Buffs Strike damage
-</div>
-<figure markdown="span">
-  ![Aged](/images/wheels/aged.png){loading=lazy} <figcaption>Aged</figcaption>
-</figure>
-<figure markdown="span">
-  ![Emerge](/images/wheels/emerge.png "Emerge"){loading=lazy} <figcaption>Emerge</figcaption>
-</figure>
-</div>
-</div>
+```team
+name: Caro Mouchette
+context: Faded Legacy - Story
+summary: A team that enables Mouchette to kill as fast as possible
+posse: tiny-wish
+members:
+  - awakener: mouchette
+    archetype: dps
+    role: DPS
+    note: Main damage dealer
+    covenant: crimson-pulse
+    wheels: [blade-of-the-titan, analysis-of-death]
+  - awakener: ramona
+    archetype: support
+    role: Support
+    note: Keyflare, searches for key cards
+    covenant: burial-grounds-sighs
+    wheels: [elevated-focus, frenzy]
+  - awakener: aigis
+    archetype: support
+    role: Support
+    note: Stuns, applies vulnerable
+    covenant: burial-grounds-sighs
+    wheels: [gluttony, whisper]
+  - awakener: helot
+    archetype: support
+    role: Support
+    note: Buffs Strike damage
+    covenant: burial-grounds-sighs
+    wheels: [aged, emerge]
+```
 
 **The most common type of team, best for new players.**
 
@@ -183,120 +100,37 @@ The [Newbie DPS Tier List](/handbook/tier-list) and [Newbie Support Tier List](/
 
 ### Stall
 
-<div class="grid-mobile-1 grid-desktop-1/1" markdown style="align-items: center;">
-<div class="text-center" markdown style="margin: 1em 0;">
-Example Team
-{.caption}
-
-Castor Agrippa Stall
-{.heading style="margin: 0;"}
-
-(Astral Reign - D-Effect Zone)
-{.heading style="margin: 0;"}
-
-A team that outlasts enemies while waiting for relics to kill them
-{.caption}
-</div>
-
-<figure markdown="span">
-  ![Derision of Destiny](/images/posses/derision-of-destiny.png "Derision of Destiny"){width="96" loading=lazy} <figcaption>Derision of Destiny</figcaption>
-</figure>
-</div>
-
-<div class="hagrid grid-mobile-1 grid-desktop-1/1" markdown>
-<div class="grid-1/1/1/1 tank" markdown>
-<div class="text-center" markdown>
-Tank
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Castor](/images/awakeners/ultra/castor.png "Castor"){loading=lazy}](/handbook/awakeners#castor)<figcaption>Castor</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){loading=lazy}](#dream-of-medicine)
-  </figure>
-  
-  Shields, applies weakness
-</div>
-<figure markdown="span">
-  ![Unbearable Freedom](/images/wheels/unbearable-freedom.png "Unbearable Freedom"){loading=lazy} <figcaption>Unbearable Freedom</figcaption>
-</figure>
-<figure markdown="span">
-  ![Data is Flesh](/images/wheels/data-is-flesh.png "Data is Flesh"){loading=lazy} <figcaption>Data is Flesh</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 tank" markdown>
-<div class="text-center" markdown>
-Tank
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Leigh](/images/awakeners/caro/leigh.png "Leigh"){loading=lazy}](/handbook/awakeners#leigh)<figcaption>Leigh</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){loading=lazy}](#cursed-rabbit)
-  </figure>
-  
-  Heals and shields when devouring
-</div>
-<figure markdown="span">
-  ![The Glutton's Tale](/images/wheels/the-gluttons-tale.png "The Glutton's Tale"){loading=lazy} <figcaption>The Glutton's Tale</figcaption>
-</figure>
-<figure markdown="span">
-  ![Nobleman's Staff](/images/wheels/noblemans-staff.png "Nobleman's Staff"){loading=lazy} <figcaption>Nobleman's Staff</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 support" markdown>
-<div class="text-center" markdown>
-Support
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Agrippa](/images/awakeners/caro/agrippa.png "Agrippa"){loading=lazy}](/handbook/awakeners#agrippa)<figcaption>Agrippa</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](#burial-grounds-sighs)
-  </figure>
-  
-  Alert, embryos, poison
-</div>
-<figure markdown="span">
-  ![Pale Descendant](/images/wheels/pale-descendant.png "Pale Descendant"){loading=lazy} <figcaption>Pale Descendant</figcaption>
-</figure>
-<figure markdown="span">
-  ![Mind Barrier](/images/wheels/mind-barrier.png "Mind Barrier"){loading=lazy} <figcaption>Mind Barrier</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 support" markdown>
-<div class="text-center" markdown>
-Support
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Erica](/images/awakeners/ultra/erica.png "Erica"){loading=lazy}](/handbook/awakeners#erica)<figcaption>Erica</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){loading=lazy}](#life-drain)
-  </figure>
-  
-  Keyflare, shields, temp. alert
-</div>
-<figure markdown="span">
-  ![Core Meltdown](/images/wheels/core-meltdown.png "Core Meltdown"){loading=lazy} <figcaption>Core Meltdown</figcaption>
-</figure>
-<figure markdown="span">
-  ![Moment of Reunion](/images/wheels/moment-of-reunion.png "Moment of Reunion"){loading=lazy} <figcaption>Moment of Reunion</figcaption>
-</figure>
-</div>
-</div>
+```team
+name: Castor Agrippa Stall
+context: Astral Reign - D-Effect Zone
+summary: A team that outlasts enemies while waiting for relics to kill them
+posse: derision-of-destiny
+members:
+  - awakener: castor
+    archetype: tank
+    role: Tank
+    note: Shields, applies weakness
+    covenant: dream-of-medicine
+    wheels: [unbearable-freedom, data-is-flesh]
+  - awakener: leigh
+    archetype: tank
+    role: Tank
+    note: Heals and shields when devouring
+    covenant: cursed-rabbit
+    wheels: [the-gluttons-tale, noblemans-staff]
+  - awakener: agrippa
+    archetype: support
+    role: Support
+    note: Alert, embryos, poison
+    covenant: burial-grounds-sighs
+    wheels: [pale-descendant, mind-barrier]
+  - awakener: erica
+    archetype: support
+    role: Support
+    note: Keyflare, shields, temp. alert
+    covenant: life-drain
+    wheels: [core-meltdown, moment-of-reunion]
+```
 
 **A steady grind for patient players.**
 
@@ -308,120 +142,37 @@ Stall teams have to be wary of [Gaze](/handbook/storylines#light-cone-of-fate) i
 
 ### Poison
 
-<div class="grid-mobile-1 grid-desktop-1/1" markdown style="align-items: center;">
-<div class="text-center" markdown style="margin: 1em 0;">
-Example Team
-{.caption}
-
-Xu Poison
-{.heading style="margin: 0;"}
-
-(Astral Reign - Story)
-{.heading style="margin: 0;"}
-
-A team that applies poison and triggers it to deal damage
-{.caption}
-</div>
-
-<figure markdown="span">
-  ![Plague of Illusions](/images/posses/plague-of-illusions.png "Plague of Illusions"){width="96" loading=lazy} <figcaption>Plague of Illusions</figcaption>
-</figure>
-</div>
-
-<div class="hagrid grid-mobile-1 grid-desktop-1/1" markdown>
-<div class="grid-1/1/1/1 dps" markdown>
-<div class="text-center" markdown>
-DPS
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Xu](/images/awakeners/caro/xu.png "Xu"){loading=lazy}](/handbook/awakeners#xu)<figcaption>Xu</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Steppenwolf](/images/covenants/steppenwolf--icon.png "Steppenwolf"){loading=lazy}](#steppenwolf)
-  </figure>
-  
-  Applies and triggers poison
-</div>
-<figure markdown="span">
-  ![Gift of Decay](/images/wheels/gift-of-decay.png "Gift of Decay"){loading=lazy} <figcaption>Gift of Decay</figcaption>
-</figure>
-<figure markdown="span">
-  ![Cursed Binding](/images/wheels/cursed-binding.png "Cursed Binding"){loading=lazy} <figcaption>Cursed Binding</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 support" markdown>
-<div class="text-center" markdown>
-Support
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Nymphaea](/images/awakeners/chaos/nymphaea.png "Nymphaea"){loading=lazy}](/handbook/awakeners#nymphaea)<figcaption>Nymphaea</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){loading=lazy}](#life-drain)
-  </figure>
-  
-  Keyflare, triggers poison
-</div>
-<figure markdown="span">
-  ![Merciful Nurturing](/images/wheels/merciful-nurturing.png "Merciful Nurturing"){loading=lazy} <figcaption>Merciful Nurturing</figcaption>
-</figure>
-<figure markdown="span">
-  ![Moment of Reunion](/images/wheels/moment-of-reunion.png "Moment of Reunion"){loading=lazy} <figcaption>Moment of Reunion</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 support" markdown>
-<div class="text-center" markdown>
-Support
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![GDoll](/images/awakeners/chaos/gdoll.png "GDoll"){loading=lazy}](/handbook/awakeners#gdoll)<figcaption>GDoll</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){loading=lazy}](#dream-of-medicine)
-  </figure>
-  
-  Aliemus, applies poison
-</div>
-<figure markdown="span">
-  ![Manikin of Oblivion](/images/wheels/manikin-of-oblivion.png "Manikin of Oblivion"){loading=lazy} <figcaption>Manikin of Oblivion</figcaption>
-</figure>
-<figure markdown="span">
-  ![Elevated Focus](/images/wheels/elevated-focus.png "Elevated Focus"){loading=lazy} <figcaption>Elevated Focus</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 tank" markdown>
-<div class="text-center" markdown>
-Tank
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Faint](/images/awakeners/caro/faint.png "Faint"){loading=lazy}](/handbook/awakeners#faint)<figcaption>Faint</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs--icon.png "Burial Ground's Sighs"){loading=lazy}](#burial-grounds-sighs)
-  </figure>
-  
-  Death resistance, weakness
-</div>
-<figure markdown="span">
-  ![Dusk and Dawn](/images/wheels/dusk-and-dawn.png "Dusk and Dawn"){loading=lazy} <figcaption>Dusk and Dawn</figcaption>
-</figure>
-<figure markdown="span">
-  ![Cloaked in the Night](/images/wheels/cloaked-in-the-night.png "Cloaked in the Night"){loading=lazy} <figcaption>Cloaked in the Night</figcaption>
-</figure>
-</div>
-</div>
+```team
+name: Xu Poison
+context: Astral Reign - Story
+summary: A team that applies poison and triggers it to deal damage.
+posse: plague-of-illusions
+members:
+  - awakener: xu
+    archetype: dps
+    role: Poison / DPS
+    note: Applies and triggers poison
+    covenant: steppenwolf
+    wheels: [gift-of-decay, cursed-binding]
+  - awakener: nymphaea
+    archetype: support
+    role: Poison / Support
+    note: Keyflare, triggers poison
+    covenant: life-drain
+    wheels: [merciful-nurturing, moment-of-reunion]
+  - awakener: gdoll
+    archetype: support
+    role: Poison / Support
+    note: Aliemus, applies poison
+    covenant: dream-of-medicine
+    wheels: [manikin-of-oblivion, elevated-focus]
+  - awakener: faint
+    archetype: tank
+    role: Tank
+    note: Death resistance, weakness
+    covenant: burial-grounds-sighs
+    wheels: [dusk-and-dawn, cloaked-in-the-night]
+```
 
 **An alternative strategy that ramps up over time.**
 
@@ -437,120 +188,37 @@ A poison team is usually also a stall team, but it can be faster depending on th
 
 ### Counter
 
-<div class="grid-mobile-1 grid-desktop-1/1" markdown style="align-items: center;">
-<div class="text-center" markdown style="margin: 1em 0;">
-Example Team
-{.caption}
-
-Counter Bluwil
-{.heading style="margin: 0;"}
-
-(Faded Legacy - Story Hard Mode)
-{.heading style="margin: 0;"}
-
-A team that can stack counter and convert it into damage
-{.caption}
-</div>
-
-<figure markdown="span">
-  ![A Mouse's Wisdom](/images/posses/a-mouses-wisdom.png "A Mouse's Wisdom"){width="96" loading=lazy} <figcaption>A Mouse's Wisdom</figcaption>
-</figure>
-</div>
-
-<div class="hagrid grid-mobile-1 grid-desktop-1/1" markdown>
-<div class="grid-1/1/1/1 dps" markdown>
-<div class="text-center" markdown>
-DPS
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Tawil](/images/awakeners/chaos/tawil.png "Tawil"){loading=lazy}](/handbook/awakeners#tawil)<figcaption>Tawil</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Dream of Medicine](/images/covenants/dream-of-medicine--icon.png "Dream of Medicine"){loading=lazy}](#dream-of-medicine)
-  </figure>
-  
-  Keyflare, STR, damage, shields, utility
-</div>
-<figure markdown="span">
-  ![Wheel Unseen](/images/wheels/wheel-unseen.png "Wheel Unseen"){loading=lazy} <figcaption>Wheel Unseen</figcaption>
-</figure>
-<figure markdown="span">
-  ![Blade of the Titan](/images/wheels/blade-of-the-titan.png "Blade of the Titan"){loading=lazy} <figcaption>Blade of the Titan</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 support" markdown>
-<div class="text-center" markdown>
-Support
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Hameln](/images/awakeners/chaos/hameln.png "Hameln"){loading=lazy}](/handbook/awakeners#hameln)<figcaption>Hameln</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Life Drain](/images/covenants/life-drain--icon.png "Life Drain"){loading=lazy}](#life-drain)
-  </figure>
-  
-  Keyflare, arithmetica, card draw
-</div>
-<figure markdown="span">
-  ![Merciful Nurturing](/images/wheels/merciful-nurturing.png "Merciful Nurturing"){loading=lazy} <figcaption>Merciful Nurturing</figcaption>
-</figure>
-<figure markdown="span">
-  ![Frenzy](/images/wheels/frenzy.png "Frenzy"){loading=lazy} <figcaption>Frenzy</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 support" markdown>
-<div class="text-center" markdown>
-Support
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Caecus](/images/awakeners/aequor/caecus.png "Caecus"){loading=lazy}](/handbook/awakeners#caecus)<figcaption>Caecus</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![April Tribute](/images/covenants/april-tribute--icon.png "April Tribute"){loading=lazy}](#april-tribute)
-  </figure>
-  
-  Heals, debuffs, turns STR into counter
-</div>
-<figure markdown="span">
-  ![Fin of Sorrow](/images/wheels/fin-of-sorrow.png "Fin of Sorrow"){loading=lazy} <figcaption>Fin of Sorrow</figcaption>
-</figure>
-<figure markdown="span">
-  ![To My Dearest Friend](/images/wheels/to-my-dearest-friend.png "To My Dearest Friend"){loading=lazy} <figcaption>To My Dearest Friend</figcaption>
-</figure>
-</div>
-<div class="grid-1/1/1/1 tank" markdown>
-<div class="text-center" markdown>
-Tank
-{.heading style="margin: 0;"}
-
-<figure markdown="span">
-  [![Nautila](/images/awakeners/chaos/nautila.png "Nautila"){loading=lazy}](/handbook/awakeners#nautila)<figcaption>Nautila</figcaption>
-</figure>
-</div>
-<div class="text-center" markdown style="font-size: 0.9em;">
-  <figure markdown="span">
-    [![Cursed Rabbit](/images/covenants/cursed-rabbit--icon.png "Cursed Rabbit"){loading=lazy}](#cursed-rabbit)
-  </figure>
-  
-  Shields, turns counter into damage
-</div>
-<figure markdown="span">
-  ![Gluttony](/images/wheels/gluttony.png "Gluttony"){loading=lazy} <figcaption>Gluttony</figcaption>
-</figure>
-<figure markdown="span">
-  ![Emerge](/images/wheels/emerge.png "Emerge"){loading=lazy} <figcaption>Emerge</figcaption>
-</figure>
-</div>
-</div>
+```team
+name: Counter Bluwil
+context: Faded Legacy - Story Hard Mode
+summary: A team that can stack counter and convert it into damage
+posse: a-mouses-wisdom
+members:
+  - awakener: tawil
+    archetype: dps
+    role: DPS
+    note: Keyflare, STR, damage, shields, utility
+    covenant: dream-of-medicine
+    wheels: [wheel-unseen, blade-of-the-titan]
+  - awakener: hameln
+    archetype: support
+    role: Support
+    note: Keyflare, arithmetica, card draw
+    covenant: life-drain
+    wheels: [merciful-nurturing, frenzy]
+  - awakener: caecus
+    archetype: support
+    role: Support
+    note: Heals, debuffs, turns STR into counter
+    covenant: april-tribute
+    wheels: [fin-of-sorrow, to-my-dearest-friend]
+  - awakener: nautila
+    archetype: tank
+    role: Tank
+    note: Shields, turns counter into damage
+    covenant: cursed-rabbit
+    wheels: [gluttony, emerge]
+```
 
 **A niche strategy for specific fights.**
 

@@ -1,0 +1,82 @@
+<section class="mythag-team" aria-label="{{ team.name }} team" data-abbreviations>
+  <header class="mythag-team__header">
+    <div class="mythag-team__intro">
+      {% if team.context %}
+        <p class="mythag-team__eyebrow">{{ team.context }}</p>
+      {% endif %}
+      <p class="mythag-team__title">{{ team.name }}</p>
+      {% if team.summary %}
+        <p class="mythag-team__summary">{{ team.summary }}</p>
+      {% endif %}
+    </div>
+    <figure class="mythag-team__posse">
+      <img src="{{ team.posse.image }}" alt="" loading="lazy">
+      <figcaption>{{ team.posse.label }}</figcaption>
+    </figure>
+  </header>
+  <ol class="mythag-team__members">
+    {% for member in team.members %}
+      <li class="mythag-team__member{% if member.archetype %} mythag-team__member--archetype-{{ member.archetype }}{% endif %}"{% if member.archetype %} data-archetype="{{ member.archetype }}"{% endif %}>
+        <figure class="mythag-team__awakener">
+          {% if member.role %}
+            <p class="mythag-team__role">{{ member.role }}</p>
+          {% elif member.archetype_label %}
+            <p class="mythag-team__role">{{ member.archetype_label }}</p>
+          {% endif %}
+            <a href="{{ member.awakener.url }}" aria-label="{{ member.awakener.label }}" title="{{ member.awakener.label }}">
+              <figcaption>{{ member.awakener.label }}</figcaption>
+              <img src="{{ member.awakener.image }}" alt="" loading="lazy">
+          </a>
+        </figure>
+        <div class="mythag-team__context">
+          {% if member.note %}
+            <p class="mythag-team__note">{{ member.note }}</p>
+          {% endif %}
+          <figure class="mythag-team__covenant">
+            <a href="{{ member.covenant.url }}" title="{{ member.covenant.label }}">
+              <img src="{{ member.covenant.image }}" alt="" loading="lazy">
+              <span class="sr-only">{{ member.covenant.label }}</span>
+            </a>
+          </figure>
+        </div>
+        <div class="mythag-team__identity">
+          <span class="mythag-team__member-name">{{ member.awakener.label }}</span>
+          {% if member.role or member.archetype_label %}
+            <span class="mythag-team__member-role">{{ member.role or member.archetype_label }}</span>
+          {% endif %}
+        </div>
+        <ol class="mythag-team__wheels" aria-label="{{ member.awakener.label }} wheels">
+          {% for wheel in member.wheels %}
+            <li class="mythag-team__wheel" title="{{ wheel.label }}">
+              <img src="{{ wheel.image }}" alt="" loading="lazy">
+              <span>{{ wheel.label }}</span>
+            </li>
+          {% endfor %}
+        </ol>
+        <details class="mythag-team__member-details">
+          <summary aria-label="{{ member.awakener.label }} details">
+            <span class="sr-only">Details</span>
+            <span class="mythag-team__member-details-caret" aria-hidden="true"></span>
+          </summary>
+          <div class="mythag-team__member-details-content">
+            {% if member.note %}
+              <p>{{ member.note }}</p>
+            {% endif %}
+            <dl>
+              <div>
+                <dt>Covenant</dt>
+                <dd>{{ member.covenant.label }}</dd>
+              </div>
+              {% for wheel in member.wheels %}
+                <div>
+                  <dt>Wheel {{ loop.index }}</dt>
+                  <dd>{{ wheel.label }}</dd>
+                </div>
+              {% endfor %}
+            </dl>
+          </div>
+        </details>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
