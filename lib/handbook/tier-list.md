@@ -68,9 +68,9 @@ icon: lucide/list-ordered
   Mouchette (E2)
 </div>
 <div class="item" markdown>
-  [![Vortice](/images/awakeners/aequor/vortice--mini.png)](/handbook/awakeners#vortice)
+  [![GLotan](/images/awakeners/chaos/glotan--mini.png)](/handbook/awakeners#glotan)
 
-  Vortice
+  GLotan (E2)
 </div>
 </div>
 
@@ -115,6 +115,11 @@ icon: lucide/list-ordered
   [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png)](/handbook/awakeners#kathigu-ra)
 
   Kathigu-Ra (E3)
+</div>
+<div class="item" markdown>
+  [![Vortice](/images/awakeners/aequor/vortice--mini.png)](/handbook/awakeners#vortice)
+
+  Vortice
 </div>
 <div class="item" markdown>
   [![GHelot](/images/awakeners/caro/ghelot--mini.png)](/handbook/awakeners#ghelot)
@@ -191,6 +196,11 @@ icon: lucide/list-ordered
   Xu
 </div>
 <div class="item" markdown>
+  [![Caraboo](/images/awakeners/caro/caraboo--mini.png)](/handbook/awakeners#caraboo)
+
+  Caraboo
+</div>
+<div class="item" markdown>
   [![Castor](/images/awakeners/ultra/castor--mini.png)](/handbook/awakeners#castor)
 
   Castor
@@ -229,6 +239,11 @@ icon: lucide/list-ordered
   [![Xu](/images/awakeners/caro/xu--mini.png)](/handbook/awakeners#xu)
 
   Xu
+</div>
+<div class="item" markdown>
+  [![Caraboo](/images/awakeners/caro/caraboo--mini.png)](/handbook/awakeners#caraboo)
+
+  Caraboo (E1)
 </div>
 <div class="item" markdown>
   [![Arachne](/images/awakeners/ultra/arachne--mini.png)](/handbook/awakeners#arachne)
@@ -320,14 +335,19 @@ icon: lucide/list-ordered
 <div class="text-center" markdown="span" style="margin: 24px 0 8px; font-size: 1.2em;">**Support**</div>
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Ramona](/images/awakeners/chaos/ramona--mini.png)](/handbook/awakeners#ramona)
-
-  Ramona
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
   [![Doll](/images/awakeners/chaos/doll--mini.png)](/handbook/awakeners#doll)
 
   Doll
+</div>
+<div class="item" markdown style="background-color: var(--md-tier-free);">
+  [![Ogier](/images/awakeners/chaos/ogier--mini.png)](/handbook/awakeners#ogier)
+
+  Ogier
+</div>
+<div class="item" markdown style="background-color: var(--md-tier-free);">
+  [![Ramona](/images/awakeners/chaos/ramona--mini.png)](/handbook/awakeners#ramona)
+
+  Ramona
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
   [![Erica](/images/awakeners/ultra/erica--mini.png)](/handbook/awakeners#erica)
@@ -435,6 +455,11 @@ icon: lucide/list-ordered
   Hameln
 </div>
 <div class="item" markdown>
+  [![GLotan](/images/awakeners/chaos/glotan--mini.png)](/handbook/awakeners#glotan)
+
+  GLotan
+</div>
+<div class="item" markdown>
   [![Tulu](/images/awakeners/aequor/tulu--mini.png)](/handbook/awakeners#tulu)
 
   Tulu
@@ -533,11 +558,6 @@ icon: lucide/list-ordered
 
 <div class="text-center" markdown="span" style="margin: 24px 0 8px; font-size: 1.2em;">**Support**</div>
 <div class="grid-96" markdown>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Ogier](/images/awakeners/chaos/ogier--mini.png)](/handbook/awakeners#ogier)
-
-  Ogier
-</div>
 <div class="item" markdown>
   [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png)](/handbook/awakeners#kathigu-ra)
 

@@ -23,7 +23,7 @@ icon: lucide/blocks
 
 When you build a team in Morimens, you aren't building it for no reason. Your goal is to use that team to clear a specific stage, in a specific game mode and ruleset.
 
-**The "best" team you can make is different for every stage.** There is no such thing as a team that can do everything. Even if you have a super-strong carry like [Mouchette](/handbook/awakeners#mouchette) or [Vortice](/handbook/awakeners#vortice), they will still get hard countered by some bosses.
+**The "best" team you can make is different for every stage.** There is no such thing as a team that can do everything. Even if you have a super-strong carry like [Mouchette](/handbook/awakeners#mouchette) or [GLotan](/handbook/awakeners#glotan), they will still get hard countered by some bosses.
 
 Most characters in this game are situationally good — they perform much better in certain situations than others. Part of learning Morimens is understanding which situations are best for each character and which characters are best for each stage.
 
@@ -245,9 +245,10 @@ A good counter team has a plan B for when the enemies don't trigger counter. The
 
 **This is what your keyflare bot is for.** The job of a keyflare bot is to hold the covenant [Life Drain](#life-drain) (unlocked after completing Faded Legacy Chapter 7) and as much Keyflare Regen as possible. This will give you keyflare at the end of each turn and whenever you play their cards.
 
-**Every team needs a keyflare bot.** The moment you unlock [Life Drain](#life-drain), you should be putting it on every team. There are only three reasons not to do this:
+**You need a keyflare bot.** The moment you unlock [Life Drain](#life-drain), you should be putting it on every team. There are only a few reasons not to do this:
 
 - Your team is Caro, so [Life Drain](#life-drain) has a different effect. You still need a keyflare bot, but you can use a different covenant set if you don't want the embryo.
+- Your team is [Primordia: Chaos](#mono-chaos-teams), so the keyflare system is different, and you get a lot of keyflare at the start of the battle.
 - You are a speedrunner and planning to finish every battle on turn 1, so [Life Drain](#life-drain)'s end-of-turn effect will never trigger.
 - You are playing a [GMurphy](/handbook/awakeners#gmurphy) team and your main DPS already makes tons of keyflare.
 
@@ -332,7 +333,7 @@ You get a lot of free healing by using Crimson Furnace. Embryos let you exalt mo
 
 **A well-rounded realm for both newbies and veterans.** Adding [Aigis](/handbook/awakeners#aigis) and mixing in Caro is the easiest way for new players to make a good team.
 
-**Remember that you need to build more keyflare.** The [Life Drain](#life-drain) covenant provides embryo instead of keyflare, so your [keyflare bot](#the-almighty-keyflare-bot) will be less effective.
+**Remember that you need to build more keyflare.** The [Life Drain](#life-drain) covenant provides embryo fusion instead of keyflare, so your [keyflare bot](#the-almighty-keyflare-bot) will be less effective.
 
 **Propagation Caro:** Some characters like [Saya](/handbook/awakeners#saya) change how Caro mechanics work when they're on your team. In Propagation Caro, your exalts are buffed; embryos and Realm Mastery further buff your exalts instead of providing shields and STR; and Crimson Furnace is stronger but has a 3-turn cooldown.
 
@@ -460,7 +461,9 @@ Some supports do need a specific stat to function. For example, [Faint](/handboo
   ![Deus Ex Machina](/images/covenants/deus-ex-machina.png "Deus Ex Machina"){width="64" loading=lazy} ![Burial Ground's Sighs](/images/covenants/burial-grounds-sighs.png "Burial Ground's Sighs"){width="64" loading=lazy} ![Life Drain](/images/covenants/life-drain.png "Life Drain"){width="64" loading=lazy}
 </figure>
 
-In Morimens, covenants can be moved freely between teams, and you can repeat covenant sets in D-Effect Zone. This means you only need to build a few sets to use them across all your teams.
+**Binding covenants to your awakeners is not required.** Covenants can be moved freely between teams, and you can repeat covenant sets in D-Effect Zone. This means you only need to build a few sets to use them across all your teams.
+
+You can worry about the minor stat bonus from binding covenants when you’ve played for months and have tons of resources to spend on rerolling extra covenant sets.
 
 **You only need one of each Team Unique set.** If you have two on the same team, the second one does nothing.
 
@@ -501,7 +504,7 @@ Start by making one of each covenant set you're going to use. When you're a vete
   </span>
 </div>
 
-Gives keyflare every turn, or embryo in Caro teams.
+Gives keyflare every turn, or embryo fusion in Caro teams.
 
 [As you know](#the-almighty-keyflare-bot), this is the most important covenant set. It's a must-have for any team that wants keyflare (so, every team). In Caro it's less good, but usually still better than other options.
 
@@ -527,6 +530,27 @@ Gives a lot of death resistance, and aliemus when you trigger DR.
 This is a good generic covenant set if you don't know what to put on your supports. Death resistance is never bad to have. It isn't Team Unique, so you can put 2 or even 3 sets on your team.
 
 Prioritize Death Resistance and Keyflare Regen.
+
+#### Deus Ex Machina
+
+<p class="flex-center" markdown="span">
+  ![](/images/covenants/deus-ex-machina--icon.png){width="136" loading=lazy}
+  ![](/images/covenants/deus-ex-machina.png){width="96" loading=lazy}
+</p>
+
+<div class="grid cards" markdown>
+  <span class="grid-1/1/1">
+    <span>**Source** <br /> Verboten Covenant <br /> *(Faded Legacy Ch. 1)*</span>
+    <span>**Used by** <br /> Any support</span>
+    <span style="padding: 0 4px; background-color: var(--md-highlight-no)">**Team Unique?** <br /> No</span>
+  </span>
+</div>
+
+A generic support set that gives a bit of arithmetica.
+
+If you aren't in danger of dying, or if you have a carry like [GHelot](/handbook/awakeners#ghelot) or [GLotan](/handbook/awakeners#glotan) who needs a lot of arithmetica, you can run this instead of [Burial Ground's Sighs](#burial-grounds-sighs).
+
+Prioritize Keyflare Regen and any supportive stats of your choice.
 
 #### April Tribute
 
@@ -592,25 +616,6 @@ This is a powerful covenant set for specific characters where the extra cards ma
 Prioritize crit if a crit DPS is holding this, teamwide stats otherwise. Keyflare Regen is always good.
 
 ### Other Covenant Sets
-
-#### Deus Ex Machina
-
-<p class="flex-center" markdown="span">
-  ![](/images/covenants/deus-ex-machina--icon.png){width="136" loading=lazy}
-  ![](/images/covenants/deus-ex-machina.png){width="96" loading=lazy}
-</p>
-
-<div class="grid cards" markdown>
-  <span class="grid-1/1/1">
-    <span>**Source** <br /> Verboten Covenant <br /> *(Faded Legacy Ch. 1)*</span>
-    <span>**Used by** <br /> Any support</span>
-    <span style="padding: 0 4px; background-color: var(--md-highlight-no)">**Team Unique?** <br /> No</span>
-  </span>
-</div>
-
-A generic support set that gives a bit of arithmetica.
-
-If you aren't in danger of dying, or if you have a carry like [Tawil](/handbook/awakeners#tawil) or [Kathigu-Ra](/handbook/awakeners#kathigu-ra) who needs a lot of arithmetica, you can run this instead of [Burial Ground's Sighs](#burial-grounds-sighs).
 
 #### Twisted Twins: White
 
@@ -791,7 +796,7 @@ For most DPS, this is a lower-damage option than [April Tribute](#april-tribute)
   </span>
 </div>
 
-Makes embryo when the wielder's cards enter Ultra Space.
+Makes embryo fusion when the wielder's cards enter Ultra Space.
 
 Not a bad alternative to [Life Drain](#life-drain) in Caro/Ultra teams. Of course, you can just run [Life Drain](#life-drain) instead and not have to build this covenant set.
 
@@ -867,9 +872,9 @@ Usually paired with the SR wheel [The Land of Nonexistence](https://skeydb.com/d
   </span>
 </div>
 
-Buffs the wielder's exalt, but increases all keyflare costs.
+Buffs the wielder's exalt, but makes your posse cost more keyflare.
 
-Theoretically better than [April Tribute](#april-tribute) for characters like [Sorel](/handbook/awakeners#sorel), but the drawback is really bad. It's like the anti-[Life Drain](#life-drain).
+Theoretically better than [April Tribute](#april-tribute) for characters like [Sorel](/handbook/awakeners#sorel), but the drawback is very annoying. It's like the anti-[Life Drain](#life-drain).
 
 Usable if you don't mind having to work harder for your keyflare.
 

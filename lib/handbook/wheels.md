@@ -38,15 +38,6 @@ icon: lucide/list-ordered
   
   *(keyflare)*
 </div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  ![Blade of the Titan](/images/wheels/blade-of-the-titan.png)
-
-  **Blade of the Titan**
-
-  [Goliath](/handbook/awakeners#goliath)
-
-  *(for many DPS)*
-</div>
 <div class="item" markdown>
   ![Wheel Unseen](/images/wheels/wheel-unseen.png)
 
@@ -74,19 +65,19 @@ icon: lucide/list-ordered
 
   *(best defensive wheel in game)*
 </div>
-<div class="item" markdown>
-  ![Spring in Yakutsk](/images/wheels/spring-in-yakutsk.png)
-
-  **Spring in Yakutsk**
-
-  Battle Pass
-
-  *(keyflare, aliemus)*
-</div>
 </div>
 
 ## A {.tier .text-center style="background-color: var(--md-tier-a);"}
 <div class="grid-96" markdown>
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
+  ![Blade of the Titan](/images/wheels/blade-of-the-titan.png)
+
+  **Blade of the Titan**
+
+  [Goliath](/handbook/awakeners#goliath)
+
+  *(for many DPS)*
+</div>
 <div class="item" markdown>
   ![Eternal Requiem](/images/wheels/eternal-requiem.png)
 
@@ -139,7 +130,7 @@ icon: lucide/list-ordered
 
   [Castor](/handbook/awakeners#castor)
 
-  *(hand size, teamwide buff)*
+  *(hand size, team damage)*
 </div>
 <div class="item" markdown>
   ![The Last Verse](/images/wheels/the-last-verse.png)
@@ -151,13 +142,13 @@ icon: lucide/list-ordered
   *(keyflare, for many DPS)*
 </div>
 <div class="item" markdown>
-  ![Twisted Knight Ballad](/images/wheels/twisted-knight-ballad.png)
+  ![Spring in Yakutsk](/images/wheels/spring-in-yakutsk.png)
 
-  **Twisted Knight Ballad**
+  **Spring in Yakutsk**
 
-  [Pollux](/handbook/awakeners#pollux)
+  Battle Pass
 
-  *(for many DPS)*
+  *(keyflare, aliemus)*
 </div>
 <div class="item" markdown>
   ![Sunfall](/images/wheels/sunfall.png)
@@ -305,7 +296,7 @@ icon: lucide/list-ordered
 
   [Corposant](/handbook/awakeners#corposant)
 
-  *(death resistance, teamwide buff)*
+  *(death resistance, team damage)*
 </div>
 <div class="item" markdown>
   ![Power of the Pious](/images/wheels/power-of-the-pious.png)
@@ -314,7 +305,7 @@ icon: lucide/list-ordered
 
   [Miryam](/handbook/awakeners#miryam)
 
-  *(bonus tentacle, teamwide buff)*
+  *(bonus tentacle, team damage)*
 </div>
 <div class="item" markdown>
   ![Shrouded Birth](/images/wheels/shrouded-birth.png)
@@ -323,7 +314,7 @@ icon: lucide/list-ordered
 
   [Murphy](/handbook/awakeners#murphy)
 
-  *(keyflare, teamwide buff)*
+  *(keyflare, team damage)*
 </div>
 <div class="item" markdown>
   ![The Living Cage](/images/wheels/the-living-cage.png)
@@ -332,7 +323,7 @@ icon: lucide/list-ordered
 
   [Pontos](/handbook/awakeners#pontos)
 
-  *(aliemus, teamwide buff)*
+  *(aliemus, team damage)*
 </div>
 <div class="item" markdown>
   ![Eternal Weave](/images/wheels/eternal-weave.png)
@@ -353,6 +344,15 @@ icon: lucide/list-ordered
   *(for many DPS)*
 </div>
 <div class="item" markdown>
+  ![Twisted Knight Ballad](/images/wheels/twisted-knight-ballad.png)
+
+  **Twisted Knight Ballad**
+
+  [Pollux](/handbook/awakeners#pollux)
+
+  *(for many DPS)*
+</div>
+<div class="item" markdown>
   ![Veiled Anguish](/images/wheels/veiled-anguish.png)
 
   **Veiled Anguish**
@@ -362,12 +362,30 @@ icon: lucide/list-ordered
   *(keyflare, aliemus)*
 </div>
 <div class="item" markdown>
+  ![Falling Upward](/images/wheels/falling-upward.png)
+
+  **Falling Upward**
+
+  Event
+
+  *(aliemus, team damage)*
+</div>
+<div class="item" markdown>
   ![Private Afternoon](/images/wheels/private-afternoon.png)
 
   **Private Afternoon**
 
   Event
 
-  *(teamwide buff)*
+  *(team damage)*
+</div>
+<div class="item" markdown>
+  ![Soul Synchronization](/images/wheels/soul-synchronization.png)
+
+  **Soul Synchronization**
+
+  Event
+
+  *(arithmetica, extra life)*
 </div>
 </div>

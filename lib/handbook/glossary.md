@@ -8,7 +8,7 @@ icon: lucide/book-a
 
 #### Contents
 
-[**!\$@**](#_1) · [**0-9**](#0-9) · [**A**](#a) · [**B**](#b) · [**C**](#c) · [**D**](#d) · [**E**](#e) · [**F**](#f) · [**G**](#g) · [**H**](#h) · [**I**](#i) · [**J**](#j) · [**K**](#k) · [**L**](#l) · [**M**](#m) · [**N**](#n) · [**O**](#o) · [**P**](#p) · [**Q**](#q) · [**R**](#r) · [**S**](#s) · [**T**](#t) · [**U**](#u) · [**V**](#v) · [**W**](#w) · [**XYZ**](#xyz)
+[**!\$@**](#_1) · [**A**](#a) · [**B**](#b) · [**C**](#c) · [**D**](#d) · [**E**](#e) · [**F**](#f) · [**G**](#g) · [**H**](#h) · [**I**](#i) · [**J**](#j) · [**K**](#k) · [**L**](#l) · [**M**](#m) · [**N**](#n) · [**O**](#o) · [**P**](#p) · [**Q**](#q) · [**R**](#r) · [**S**](#s) · [**T**](#t) · [**U**](#u) · [**V**](#v) · [**W**](#w) · [**Y**](#Y)
 
 <div class="h3-as-h4" markdown>
 ## !$@
@@ -16,8 +16,6 @@ icon: lucide/book-a
 ### +1/+2/+3/…
 
 When referring to an awakener or wheel, it means extra copies after E3, using the number that is shown in the UI. For example if you have 6 copies of [Ramona](/handbook/awakeners#ramona), you have E3+2, or a +2 Ramona.
-
-## 0-9
 
 ## A
 
@@ -27,7 +25,7 @@ Stands for Alert 1, 2, 3, etc. in D-Effect Zone.
 
 ### AA
 
-Absolute Axiom. Minor buff that unlocks when you have a character at +12.
+Absolute Axiom. When an awakener is at +12 (15 dupes in addition to the base copy), a bonus effect is added to their rouse.
 
 ### AOE
 
@@ -36,6 +34,14 @@ Absolute Axiom. Minor buff that unlocks when you have a character at +12.
 ### April
 
 The covenant [April Tribute](/handbook/team#april-tribute).
+
+### Arc 1
+
+[Faded Legacy](/handbook/storylines#faded-legacy-arc-1).
+
+### Arc 2
+
+[Astral Reign](/handbook/storylines#astral-reign-arc-2).
 
 ### Arith
 
@@ -47,21 +53,29 @@ Arithmetica.
 
 Embryo (the Caro special card).
 
+### Banner
+
+An in-game lottery where you can roll for awakeners and wheels (see [“Gacha”](#gacha)).
+
 ### Battery
 
-An awakener that can generate aliemus for other awakeners.
+To generate aliemus for awakeners; or an awakener whose job is to do so.
 
 ### Battle Pass/BP
 
 Curriculum (the seasonal reward track you can unlock with real money).
 
-### Black pool
+### Benthos: Aequor (BAequor)
+
+When some characters like [GMurphy](/handbook/awakeners#gmurphy) are in your team, they change Aequor into "Benthos: Aequor," which works differently. Tentacle DMG is now based on your max HP; your DMG amplification is increased by 50%; exalts no longer give Tentacle Gathering; and the stances are stronger but have a 3-turn cooldown.
+
+### Black Pool
 
 Using a rare item called Origin of Time to reset a standard character, refunding all their enlightens and level up materials and removing them from your account, thus "returning them to the Black Pool."
 
 ### Blade
 
-Blade of the Titan ([Goliath](/handbook/awakeners#goliath)'s SSR wheel).
+[Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners#goliath)'s SSR wheel).
 
 ### Blue
 
@@ -79,9 +93,13 @@ A bonus or positive status effect.
 
 The covenant [Burial Ground's Sighs](/handbook/team#burial-grounds-sighs).
 
-### Burst damage
+### Burst/Burst damage
 
 Damage which is dealt all in a single turn.
+
+### Burst turn
+
+The turn you commit all your resources to deal as much damage as possible.
 
 ## C
 
@@ -91,7 +109,15 @@ An awakener who "carries" their team over the finish line. Without them, the tea
 
 ### Chains
 
-Chains Unbound ([Helot](/handbook/awakeners#helot)'s SSR wheel). Can also refer to the Chains of Resentment effect of certain enemies, which seals awakeners that hit them.
+[Chains Unbound](https://skeydb.com/database/wheels/chains-unbound){target="_blank"} ([Helot](/handbook/awakeners#helot)'s SSR wheel). Can also refer to the Chains of Resentment effect of certain enemies, which seals awakeners that hit them.
+
+### Character jail
+
+Pulling on the standard Realms Research banner to get +12 awakeners and fish for limited awakeners.
+
+### Cheese
+
+An unorthodox game strategy that relies on exploits or niche interactions rather than fighting “fair.” For example, a severely underleveled player might have no chance of beating a boss in a straight-up fight, but if they used [Faint](/handbook/awakeners#faint) to cheat death for several turns, they could buy enough time for the Max HP % damage of [Lotan](/handbook/awakeners#lotan)’s OE to kill it.
 
 ### Clem
 
@@ -101,17 +127,21 @@ Chains Unbound ([Helot](/handbook/awakeners#helot)'s SSR wheel). Can also refer 
 
 An effect on some enemies that grants them increasing fortress (damage reduction) the more damage dealt to them in a turn. Can also refer to the [Cocoon of the Maiden](/handbook/team#cocoon-of-the-maiden) covenant set.
 
+### Combo
+
+A “combination” of cards or abilities which is stronger than the sum of its parts.
+
 ### Corpo
 
 [Corposant](/handbook/awakeners#corposant).
 
 ### Costco
 
-In Faded Legacy stages, a strategy based on buying lots of relics using the wheels Frenzy and Emerge.
+In [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages, a strategy based on buying lots of relics using the wheels [Frenzy](https://skeydb.com/database/wheels/frenzy){target="_blank"} and [Emerge](https://skeydb.com/database/wheels/emerge){target="_blank"}.
 
 ### Cov
 
-[Covenant](/handbook/resources#verboten-covenant).
+[Covenant](/handbook/resources#verboten-covenant) (the 6-piece equipment set).
 
 ## D
 
@@ -123,13 +153,21 @@ In Faded Legacy stages, a strategy based on buying lots of relics using the whee
 
 A negative status effect.
 
-### Divine Realm: Aequor (Divine Aequor):
+### Divine realm
 
-When some characters like [GMurphy](/handbook/awakeners#gmurphy) are in your team, they change Aequor into "Divine Realm: Aequor," which works differently. Tentacle DMG is now based on your max HP; your DMG amplification is increased by 50%; exalts no longer give Tentacle Gathering; and the stances are stronger but have a 3-turn cooldown.
+When some characters are in your team, they transform your realm mechanics into a different variant of that realm. These are nicknamed "divine realms," after the original name of the first to be released, “Divine Realm: Aequor” (since officially renamed to Benthos: Aequor).
 
 ### Divine Caro
 
 See ["Propagation: Caro."](#propagation-caro-pcaro)
+
+### Divine Chaos
+
+See ["Primordia: Chaos."](#primordia-chaos-pchaos)
+
+### Divine Realm: Aequor (Divine Aequor)
+
+See ["Benthos: Aequor."](#benthos-aequor-baequor)
 
 ### Divine Ultra
 
@@ -138,7 +176,6 @@ See ["Singularity: Ultra."](#singularity-ultra-sultra)
 ### Dolphin
 
 Someone who spends money on the game, but not a lot.
-
 
 ### Doorstain
 
@@ -164,6 +201,10 @@ Death Resistance.
 
 The covenant [Dream of Medicine](/handbook/team#dream-of-medicine). Used to have various different English names.
 
+### Driver
+
+An awakener which isn’t the source of a team’s power and resources, but provides a way to use those resources to win; much like how a car’s engine is what makes it move, but the car’s driver is what makes it cross the finish line.
+
 ### D-tide/Dtide
 
 D-Effect Zone. Abbreviation of the old English translation.
@@ -182,6 +223,14 @@ Emergency Gnosis. Abbreviation of the old English translation.
 
 Ancient Embers, an effect some high-HP enemies have. They take a certain amount of extra damage each turn, so their effective HP is lower, but they're harder to kill in one turn with burst damage.
 
+### Endgame
+
+The content available to veteran players who have completed most of the game and fully leveled their characters. In Morimens, the endgame modes are D-Effect Zone, Astral Reign hard mode stages, and the various seasonal leaderboards.
+
+### Engine/Value engine
+
+An awakener which continuously generates resources, like the engine of a car, which the rest of the team is built around.
+
 ## F
 
 ### Feast
@@ -190,13 +239,17 @@ The covenant [Feast from Afar](/handbook/team#feast-from-afar).
 
 ### Fin
 
-Fin of Sorrow ([Caecus](/handbook/awakeners#caecus)'s SSR wheel).
+[Fin of Sorrow](https://skeydb.com/database/wheels/fin-of-sorrow){target="_blank"} ([Caecus](/handbook/awakeners#caecus)'s SSR wheel).
 
 ### Furnace
 
 Crimson Furnace (the Caro mechanic).
 
 ## G
+
+### Gacha
+
+To gamble on a chance to get in-game characters or items. A “gacha game” is a game where this is a central mechanic. Comes from Japanese gachapon machines.
 
 ### GDoll
 
@@ -205,6 +258,14 @@ Crimson Furnace (the Caro mechanic).
 ### GHelot/Gelot
 
 [Helot: Catena](/handbook/awakeners#ghelot). Stands for "Genesis Helot."
+
+### Glass cannon
+
+Something that has high offense and low defense.
+
+### GLotan/Gluten/Gotan
+
+[Lotan: Cetarchon](/handbook/awakeners#glotan). Stands for "Genesis Lotan."
 
 ### GMurphy/Gurphy/Gurpy/GMuppet
 
@@ -240,18 +301,21 @@ Dimensional Image Relic. Refers to a series of rare relics in [Astral Reign](/ha
 
 ### Incalc
 
-Incalculable Factor ([Winkle](/handbook/awakeners#winkle)'s SSR wheel).
+[Incalculable Factor](https://skeydb.com/database/wheels/fin-of-sorrow){target="_blank"} ([Winkle](/handbook/awakeners#winkle)'s SSR wheel).
 
 ## J
 
 ### JP Aequor
 
-See ["Divine Realm: Aequor."](#divine-realm-aequor-divine-aequor) Refers to the fact that this version of Aequor is ported from the Japanese release of Morimens.
+See ["Benthos: Aequor."](#benthos-aequor-baequor) Refers to the fact that this version of Aequor is ported from the Japanese release of Morimens.
 
 ### JP Caro
 
 See ["Propagation: Caro."](#propagation-caro-pcaro)
 
+### JP Chaos
+
+See ["Primordia: Chaos."](#primordia-chaos-pchaos)
 
 ### JP Ultra
 
@@ -276,7 +340,7 @@ To land the killing blow on an enemy.
 
 ### Lighthouse
 
-Amidst the Downpour ([Faros](/handbook/awakeners#faros)'s SSR wheel).
+[Amidst the Downpour](https://skeydb.com/database/wheels/amidst-the-downpour){target="_blank"} ([Faros](/handbook/awakeners#faros)'s SSR wheel).
 
 ## M
 
@@ -288,18 +352,25 @@ Arithmetica. Term from Magic: the Gathering/Hearthstone.
 
 The covenant [Dream of Medicine](/handbook/team#dream-of-medicine).
 
+### Meta/Metagame
 
-### Mob/Mobs
+The collection of strategies that are most effective and commonly used by players; or something pertaining to those strategies. For example, a “meta character” is a character that is often seen in the metagame.
 
-Normal enemies (as opposed to elites and bosses). Term from gaming slang.
+### Mob
+
+A normal enemy (as opposed to elites and bosses).
 
 ### Mono
 
-Refers to a team comprised of characters from only one realm. For example, a "mono Aequor" team is a team with four Aequor awakeners.
+Refers to a team comprised of characters from only one realm. For example, a "Mono Aequor" team is a team with four Aequor awakeners.
+
+### Mono Chaos
+
+A team comprised of only Chaos awakeners (*not* Primordia: Chaos), and hence, able to abuse Chaos Realm Mastery to generate tons of keyflare and aliemus.
 
 ### Monowil
 
-A Pure Chaos team using [Tawil](/handbook/awakeners#tawil) as the main damage dealer.
+A Mono Chaos team using [Tawil](/handbook/awakeners#tawil) as the main damage dealer.
 
 ### Monthly dupes
 
@@ -319,7 +390,7 @@ To make something weaker after a game update.
 
 ### OE
 
-Over-Exaltation. When an awakener is at +4 (7 dupes) or more, they can use a powered-up exalt which costs 200 aliemus.
+Over-Exaltation. When an awakener is at +4 (7 dupes in addition to the base copy) or more, they can use a powered-up exalt which costs twice as much aliemus as normal.
 
 ### OP
 
@@ -337,7 +408,7 @@ Remembrance Quill (material used for locking substats in covenant transcription)
 
 ### Pizza
 
-Covenant.
+[Covenant](/handbook/resources#verboten-covenant).
 
 ### Plug
 
@@ -355,9 +426,13 @@ A powerful, game-changing supportive character such as [Thais](/handbook/awakene
 
 A time-limited paid bundle that sometimes appears when new characters are released. Rewards unlock over time, but you get bonus cosmetics for buying the bundle early.
 
+### Primordia: Chaos (PChaos):
+
+When some characters like [GLotan](/handbook/awakeners#glotan) are in your team, they change Chaos into “Primordia: Chaos,” which works differently. The normal Chaos mechanics no longer apply; your DMG amplification is increased by 50%; you only get keyflare at the start of battle and when playing the first card of each awakener each turn; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you choose random unlocked posses, as well as other effects, to unleash.
+
 ### Proc
 
-Trigger an effect. Comes from gaming slang.
+Trigger an effect.
 
 ### Propagation: Caro (PCaro)
 
@@ -371,9 +446,13 @@ Either [Protoparadise](/handbook/resources#protoparadises-selectors) (item that 
 
 [Prototype Horizon](/handbook/resources#sediment) (item that gives you a dupe of an owned awakener).
 
+### Pull
+
+To gamble on a chance to get in-game characters or items (see [“Gacha”](#gacha)). Alternatively, a resource that lets you do so (Pure Cores, Luminous Cores, Ethereal Cores).
+
 ### Pure realm
 
-A team that only contains Chaos and one other realm, so it receives the full benefit and Realm Mastery scaling for that realm. For example, a Pure Aequor team only has Chaos and Aequor awakeners. It will get bonus tentacle scaling from Realm Mastery and start each fight with 2 tentacles rather than 1.
+A team that only contains Chaos and one other realm, so it receives the full benefit and Realm Mastery scaling for that realm. (Primordia: Chaos doesn’t count.) For example, a Pure Aequor team only has Chaos and Aequor awakeners. It will get bonus tentacle scaling from Realm Mastery and start each fight with 2 tentacles rather than 1.
 
 ### Purple
 
@@ -393,7 +472,7 @@ Tongue-in-cheek term for when a character is stronger against specific enemies. 
 
 ### Rat wheel
 
-Path Forsaken ([Jenkin](/handbook/awakeners#jenkin)'s SSR wheel).
+[Path Forsaken](https://skeydb.com/database/wheels/path-forsaken){target="_blank"} ([Jenkin](/handbook/awakeners#jenkin)'s SSR wheel).
 
 ### Red
 
@@ -402,6 +481,10 @@ Caro (the realm).
 ### Retal
 
 Counter. Abbreviation of the old English translation.
+
+### Rotan
+
+[Lotan: Cetarchon](/handbook/awakeners#glotan), after an old English mistranslation. Also stands for “Red Lotan.”
 
 ## S
 
@@ -443,11 +526,15 @@ Thousand Faces Seal (material used for upgrading and transcribing covenants).
 
 ### Stat stick/_ stick
 
-Refers to awakeners or wheels that are used because of their high basic attributes rather than their actual abilities. For example: "Even if you don't care about the effect of Path Forsaken, you can still use it as a Crit Rate stick."
+Refers to awakeners or wheels that are used because of their high basic attributes rather than their actual abilities. For example: "Even if you don't care about the effect of [Path Forsaken](https://skeydb.com/database/wheels/path-forsaken){target="_blank"}, you can still use it as a Crit Rate stick."
 
 ### Sub DPS
 
 A secondary damage dealer in addition to the main DPS.
+
+### Support
+
+An awakener which is not the main focus of the team, but enables the rest of the team to work better.
 
 ### Sustain
 
@@ -465,7 +552,7 @@ A "tanky" awakener can take incoming damage or negative status effects without c
 
 ### Tawheel
 
-Wheel Unseen ([Tawil](/handbook/awakeners#tawil)'s SSR wheel).
+[Wheel Unseen](https://skeydb.com/database/wheels/wheel-unseen) ([Tawil](/handbook/awakeners#tawil)'s SSR wheel).
 
 ### Timeloop
 
@@ -473,7 +560,11 @@ Wheel Unseen ([Tawil](/handbook/awakeners#tawil)'s SSR wheel).
 
 ### Titan/Titan's Blade
 
-Blade of the Titan ([Goliath](/handbook/awakeners#goliath)'s SSR wheel).
+[Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan) ([Goliath](/handbook/awakeners#goliath)'s SSR wheel).
+
+### Toolbox
+
+Something that gives access to many different abilities, letting you get exactly the tool you need for the situation.
 
 ## U
 
@@ -505,7 +596,7 @@ Someone who spends a lot of money on the game.
 
 Pulling on the standard Wheels of Rotation banner to get a wheel to +12.
 
-## XYZ
+## Y
 
 ### Yellow
 

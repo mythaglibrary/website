@@ -14,7 +14,7 @@ Morimens has two storylines with different game rules: **Faded Legacy** and **As
 
 **Faded Legacy** is the original story that released with Morimens. It begins with the Prologue and ends with Chapter 9.
 
-**Astral Reign** is a new storyline that started after the game's 1st anniversary. As of this writing, the latest chapter is Astral Reign Chapter 5.
+**Astral Reign** is a new storyline that started after the game's 1st anniversary. As of this writing, the latest chapter is Astral Reign Chapter 6.
 
 **Astral Reign stages have different rules.** Exploration is reworked, game mechanics are rebalanced, and all characters have a new talent called Soulforge Aptitude that changes how they play. These are the rules used in almost all endgame content.
 
@@ -135,7 +135,7 @@ Here are some of the most impactful soulforge talents:
 
 - [Kathigu-Ra](/handbook/awakeners#kathigu-ra), [Pollux](/handbook/awakeners#pollux), and [Vortice](/handbook/awakeners#vortice) become much stronger.
 - [Corposant](/handbook/awakeners#corposant) deals massive bonus damage to Aequor enemies.
-- The Lemurians — [Faros](/handbook/awakeners#faros), [Goliath](/handbook/awakeners#goliath), [Miryam](/handbook/awakeners#miryam), [GMurphy](/handbook/awakeners#gmurphy), and [Tulu](/handbook/awakeners#tulu) — get gigantic buffs when put in a team together.
+- The Lemurians — [Faros](/handbook/awakeners#faros), [Goliath](/handbook/awakeners#goliath), [Miryam](/handbook/awakeners#miryam), [Tulu](/handbook/awakeners#tulu), and [GMurphy](/handbook/awakeners#gmurphy) — get gigantic buffs when put in a team together.
 
 ### Keyflare Rouse
 

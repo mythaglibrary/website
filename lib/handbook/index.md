@@ -22,9 +22,9 @@ icon: lucide/book-open
 
 !!! note "Last updated"
 
-    27 July 2026
+    24 August 2026
 
-    V2.5.3.0 - GLotan
+    V2.5.4.0 - Caraboo
 
 !!! info ""
 
@@ -43,12 +43,13 @@ Thanks to the following players for their feedback: Al, Alice, Angbak, Anna, Ara
 ## Links and Resources
 
 - [Official Discord](https://discord.gg/RAegY8wcGx){target="_blank"}
-- [Mythag Library Discord](https://discord.gg/H2MUYUSEBx){target="_blank"}
+- [Mythag Library Discord](https://discord.gg/H2MUYUSEBx){target="_blank"} - English fan community
 - [r/morimenstactics](https://www.reddit.com/r/morimenstactics/){target="_blank"}
 
 ---
 
 - [SKeyDB](https://skeydb.com){target="_blank"} - comprehensive awakener reference and online tools
+- [Mother Tree](https://mothertree.vercel.app/){target="_blank"} - another database with searchable tags
 - [Mythag Compendium](https://docs.google.com/spreadsheets/d/1TCU7LJRzqKeuvLe97y_TfGZ-j6jq5bZX6hskAAJ2mFQ/){target="_blank"} - spreadsheet with wheels, posses, and builds
 - [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
 - [Morimens Game Mechanics](https://docs.google.com/presentation/d/1pnheXD_pkjz8YGmWWlQPnw4eXr6NRm-W6267c0K1_QU/){target="_blank"}
@@ -64,13 +65,13 @@ Thanks to the following players for their feedback: Al, Alice, Angbak, Anna, Ara
 - [How to kidnap a whale supporter](https://www.reddit.com/r/Morimens/comments/1r2lmmw/how_to_kidnap_a_whale_supporter/){target="_blank"}
 - [Aurora's Guide to F2P Greed](https://docs.google.com/document/d/15l3tCxItkLVLwLKKV4vPFph1wYWRQbFgGHDZLYbT9Fo/){target="_blank"} - tips for fastest new player progression
 - [Braindump-ed in a vat](https://docs.google.com/presentation/d/1XDs_D-NOo88Q1Jkk6b6s_69_gxMFrx-1HBJoS8wXG10/){target="_blank"} - quick reference character guides
+- [Angbak's E0-E3 Tier List](https://www.reddit.com/r/Morimens/comments/1vjle7d/angbak_e0e3_tierlist/){target="_blank"} - aimed at D-Effect Zone Alert 4-5
 - [luffyomg's D-tide Tier List](https://drive.google.com/file/d/184eGAZ4JbkDOIQQtQL_30PwS6rfg_JfP/view){target="_blank"} - aimed at low investment Alert 5 clears
-- [cornonthemacabre's Morimens Character Guide](https://docs.google.com/document/d/1liixnERyCP2wot_yHQKNq9jQNa4MTs93z0VSjNXQP5I/){target="_blank"} - includes D-Effect Zone tier list, a bit outdated
 - [moncher's 400 Dtide +4 Tier List](https://www.reddit.com/r/Morimens/comments/1sedg6e/morimens_tier_list_400_dtide_4_vortice_version/){target="_blank"} - for highly invested players, a bit outdated
 
 ---
 
-- [Gothgirlfriend](https://www.youtube.com/@goth.girlfriendd){target="_blank"} - video guides
+- [Gothgirlfriend](https://www.youtube.com/@gothgirIfriend){target="_blank"} - video guides
 - [Rose Guardian Reya](https://www.youtube.com/@Alessiel){target="_blank"} - video guides and playthroughs
 - [Dracozion](https://www.youtube.com/@phonicdraconic697/streams){target="_blank"} - D-Effect Zone streams
 - [satri-jynni](https://www.youtube.com/@satriyajynni){target="_blank"} - hard mode clears
