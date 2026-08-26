@@ -337,7 +337,7 @@ This talent is automatically unlocked for limited characters. You can manually u
 
 **Buy whatever you need from the shop.** This is a good place to get XP potions and skill upgrade materials.
 
-**Don't spend more Rose Scrip than you need to.** Early on you might feel like you’re drowning in money, but that money will quickly evaporate once you start upgrading your covenants and increasing the level caps of your characters. Only buy something from the Rose Scrip shop if you are going to use it right away.
+**Don't spend more Rose Scrip than you need to.** Early on you might feel like you’re drowning in money, but that money will quickly evaporate once you start upgrading your covenants and increasing the level caps of your characters. Only buy something from the shop if you're going to use it right away.
 
 
 ### Sediment
@@ -360,8 +360,7 @@ This talent is automatically unlocked for limited characters. You can manually u
 **If you bought the Extra Curriculum *(Battle Pass)*, buy wheel dupes here too.**
 
 ![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
-![](/images/icons/exp/gnosis-primer.png){width="80" loading=lazy}
-![](/images/icons/exp/refined-gnosis-primer.png){width="80" loading=lazy}
+![](/images/icons/shop/gnosis-fragment.png){width="80" loading=lazy}
 ![](/images/icons/cores/luminous.png){width="80" loading=lazy}
 ![](/images/covenants/scarlet-embrace.png){width="80" loading=lazy}
 ![](/images/covenants/paradox.png){width="80" loading=lazy}
@@ -408,11 +407,10 @@ You can get the Luminous Cores and Pure Cores if you want. These are one-time on
 **Buy copies of [Rewinding Time](https://skeydb.com/database/wheels/rewinding-time){target="_blank"} and [Celestial Beast](https://skeydb.com/database/wheels/celestial-beast){target="_blank"}.** These are strong, universally useful wheels which can only be obtained here. If you have a wheel at +12, you can equip it at the same time as another SSR wheel.
 
 ![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
-![](/images/icons/exp/gnosis-primer.png){width="80" loading=lazy}
-![](/images/icons/exp/refined-gnosis-primer.png){width="80" loading=lazy}
+![](/images/icons/shop/gnosis-fragment.png){width="80" loading=lazy}
 ![](/images/wheels/deathless-ascent--mini.png){width="80" loading=lazy}
 
-If you have extra currency, you can buy Mimetic Crystals, Gnosis Primers, or copies of [Deathless Ascent](https://skeydb.com/database/wheels/deathless-ascent){target="_blank"}.
+If you have extra currency, you can buy Mimetic Crystals, Gnosis Fragments, or copies of [Deathless Ascent](https://skeydb.com/database/wheels/deathless-ascent){target="_blank"}.
 
 ![](/images/covenants/feast-from-afar.png){width="80" loading=lazy}
 
@@ -441,9 +439,9 @@ You can buy SR wheels if you want. [Gateway of Truth](https://skeydb.com/databas
 **Buy shards for [Aigis](/handbook/awakeners#aigis) if you have leftover D-Jewels.** She is one of the best characters in the game and worth getting to OE. You can also buy shards for [Aurita](/handbook/awakeners#aurita) or [Erica](/handbook/awakeners#erica) if you want.
 
 ![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
-![](/images/icons/exp/gnosis-primer.png){width="80" loading=lazy}
+![](/images/icons/shop/gnosis-fragment.png){width="80" loading=lazy}
 
-You can get Mimetic Crystals and Gnosis Primers if you have nothing else to buy.
+You can get Mimetic Crystals and Gnosis Fragments if you have nothing else to buy.
 
 ![](/images/wheels/core-meltdown--mini.png){width="80" loading=lazy}
 ![](/images/wheels/winters-requiem--mini.png){width="80" loading=lazy}
