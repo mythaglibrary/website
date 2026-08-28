@@ -278,6 +278,7 @@ Even if you don't have 100% uptime, you should have weakness and vulnerable some
 
 Teams that don't want weakness or vulnerable are rare:
 
+- [GLotan](/handbook/awakeners/primordia-chaos/glotan) gets stronger when there’s more incoming damage, so inflicting weakness is a DPS loss.
 - [Mouchette](/handbook/awakeners#mouchette) prefers to trigger death resistance rather than mitigate damage, so her teams don't need weakness.
 - Fixed poison and counter aren't affected by vulnerable, so characters like [Faros](/handbook/awakeners#faros) that deal damage mainly through status effects benefit less from it.
 
