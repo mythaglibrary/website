@@ -24,7 +24,7 @@ icon: lucide/book-open
 
     24 August 2026
 
-    V2.5.4.0 - Caraboo
+    V2.6.0 - Caraboo
 
 !!! info ""
 
