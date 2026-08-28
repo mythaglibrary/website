@@ -281,7 +281,7 @@ logo = "images/logo.png"
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
 [project.theme.font]
-text = "Rubik"
+text = "Noto Serif"
 # code = "Jetbrains Mono"
 
 # ----------------------------------------------------------------------------
