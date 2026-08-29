@@ -159,7 +159,7 @@
   padding-block: 0 0.3rem;
   color: var(--md-default-fg-color);
   font: inherit;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 650;
   line-height: 1.25;
   text-align: center;
@@ -177,7 +177,7 @@
 
 .mythag-team__note {
   color: var(--md-default-fg-color--light);
-  font-size: 0.72rem;
+  font-size: 0.66rem;
   line-height: 1.35;
   text-align: start;
 }
