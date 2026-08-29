@@ -365,7 +365,7 @@ Think of the posse as a 5th character on the team. It should round out the team 
 - If your team keeps dying and needs more sustain, try [Warded Injection](https://skeydb.com/database/posses/warded-injection){target="_blank"}.
 - If your DPS needs STR but your team can't make STR, try [Obsession Eternal](https://skeydb.com/database/posses/obsession-eternal){target="_blank"}.
 
-The [Awakener Guides](/handbook/awakeners) section has a suggested posse for every character, but these are just suggestions. There are many viable posses and you can't repeat posses in D-Effect Zone. Experiment and see what works best for your playstyle.
+The [Awakener Guides](/handbook/awakeners/index) section has a suggested posse for every character, but these are just suggestions. There are many viable posses and you can't repeat posses in D-Effect Zone. Experiment and see what works best for your playstyle.
 
 ## Building Characters
 
