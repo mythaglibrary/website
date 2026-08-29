@@ -167,9 +167,9 @@ awakener:
             'docs_dir = "lib"\n'
             'site_name = "Test"\n'
             'nav = [\n'
-            '  { "Awakener Guides" = "handbook/awakeners.md" }, '
+            ' { "Awakener Guides" = [ "handbook/awakeners/index.md", '
             '# @mythag-awakener-nav\n'
-            ']\n'
+            '] }\n'
             '\n[project.markdown_extensions."mythag_site.team_extension"]\n',
             encoding="utf-8",
         )
