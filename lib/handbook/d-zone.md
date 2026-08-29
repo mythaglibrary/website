@@ -1,6 +1,6 @@
 ---
 title: D-Zone For Dummies
-description: Beginner-friendly guide to Morimens D-Effect Zone (D-tide), covering difficulty levels, scoring, relics, and free Alert 5 clears.
+description: Beginner-friendly guide to Morimens D-Effect Zone (D-tide), covering difficulty levels, scoring, relics, and in-depth strategy.
 icon: lucide/triangle-alert
 ---
 

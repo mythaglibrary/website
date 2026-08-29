@@ -1,6 +1,6 @@
 ---
 title: SSR Wheel Tier List (For New Players)
-description: "Guide for new players on SSR wheels: tier rankings, best picks for teams, store availability, and which wheels are worth pulling or skipping."
+description: A Morimens SSR Wheel of Destiny tier list aimed at new players, breaking down the most universally useful wheels and which wheels are most worthwhile to invest in.
 icon: lucide/ship-wheel
 ---
 

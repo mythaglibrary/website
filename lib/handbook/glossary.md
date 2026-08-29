@@ -1,6 +1,6 @@
 ---
 title: Glossary
-description: Morimens terms used in the game and community.
+description: A glossary of terms used by the Morimens community.
 icon: lucide/book-a
 ---
 

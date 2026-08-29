@@ -1,6 +1,6 @@
 ---
 title: Awakener Guides
-description: Quick reference character guides covering roles, DPS and support rankings, optimal team setups, and builds for new players, including key power spike enlightens and recommended gear.
+description: Quick reference Morimens character guides covering roles, DPS and support rankings, optimal team setups, and builds for new players, including key power spike enlightens and recommended gear.
 icon: lucide/users-round
 ---
 

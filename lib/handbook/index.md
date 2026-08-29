@@ -1,6 +1,6 @@
 ---
 title: Morimens New Player Handbook
-description: Morimens beginner guide covering tutorials and tips for new players.
+description: Cheri's all-in-one beginner guide to Morimens, featuring strategy tips, tier lists, awakener guides, and build recommendations.
 icon: lucide/book-open
 ---
 

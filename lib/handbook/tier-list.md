@@ -1,6 +1,6 @@
 ---
 title: Awakener Tier List (For New Players)
-description: A beginner-friendly tier list designed to help new players with no starting resources quickly identify the best characters to invest in for fast and efficient progression.
+description: A Morimens awakener tier list aimed at new players, showcasing the characters that are the most effective and powerful with the bare minimum of investment.
 icon: lucide/podium
 ---
 

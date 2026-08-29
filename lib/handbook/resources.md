@@ -1,6 +1,6 @@
 ---
 title: Spending Your Resources
-description: How to spend Silver, Pure Cores, Menophin, Rose Scrip, and other resources in Morimen, including which banners and awakeners to prioritize.
+description: How to spend Silver, Menophin, Rose Scrip, and other resources in Morimens, as well as which banners to prioritize, and how to get the most out of real money spending.
 icon: lucide/wallet
 ---
 
