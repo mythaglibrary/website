@@ -8,17 +8,19 @@ icon: lucide/podium
   ![](/images/emojis/doll-grading.png){width="196"}
 </figure>
 
-# Awakener Tier List *(For New Players)*
+<h1 style="margin: 0;" markdown>
+  Awakener Tier Lists *(For New Players)*
+</h1>
 
 This is a quick guide for new players who have nothing and want to know what characters they should invest in to progress the fastest.
 
-There are two tier lists provided here. The DPS Tier List is for the main damage dealer that a team is built around. The Support Tier List is for the other 3 characters who help to enable the DPS.
+There are two tier lists provided here. The DPS Tier List is for the main damage dealer that [a team is built around](/handbook/team). The Support Tier List is for the other 3 characters who help to enable the DPS.
 
 **These are "poverty newbie tier lists,"** not necessarily Alert 5 or speed clearing tier lists. They assume that the character is at most E3 and you don't have many limited characters or wheels. If a specific enlighten is important, it's specified.
 
 For more endgame/D-Effect Zone focused tier lists, refer to [Links and Resources](/handbook#links-and-resources).
 
-**The order of characters in each tier doesn't matter.**
+**The order of characters in each tier doesn't matter.** They're listed in realm order.
 
 **There are no useless characters in this game.** With enough investment and patience you can clear with anything. This tier list just tells you how hard it is to make a character work.
 

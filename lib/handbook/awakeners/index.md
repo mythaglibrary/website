@@ -12,7 +12,7 @@ icon: lucide/users-round
 
 These quick reference guides summarize what each character does and how they're normally used by veteran players. They also suggest wheels, covenants, posses, and teammates that each character can use.
 
-Each character's DPS Rank and Support Rank refers to that character's rank in the [Tier List (For New Players)](/handbook/tier-list), where you can find a description of what each rank means.
+Each character's DPS Rank and Support Rank refers to that character's rank in the [Awakener Tier Lists (For New Players)](/handbook/tier-list), where you can find a description of what each rank means.
 
 "Stopping Points" refers to specific enlightens (dupes) where the character has a power spike. If it says "E0" or "Any," it means the character is worth using even without any enlightens. Otherwise, it means the character is significantly weaker without at least the listed enlightens.
 
