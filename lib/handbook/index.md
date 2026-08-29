@@ -40,6 +40,8 @@ This info is based on my experience as a veteran player and speedrunner, as well
 
 Thanks to the following players for their feedback: Al, Alice, Angbak, Anna, Arandomflamev2, Aria, Arintal, Arisu, Aurora, Bagels, Blecnes, Bluelien, Calliphora, Catato, cornonthemacabre, dracozion, dudu, Ellie, Exo, Fibrinogen, fish, Frosthief, John Morimens, Jolly, Juice, juno, Jynn, Kaly, Klips, L, Lens, Lil poison bro, Linasera, Megidola, Melwyn, Mengluo, Mika, monchi, Null, PolkaRain, ppep, Rascal, Redz, Reya, smile, Snorlax, Soma, Spooky, Tea, VxVendetta, Zekiel, Zyocuh.
 
+Thanks to Sor and Fjant for building the web version of the guide.
+
 ## Links and Resources
 
 - [Official Discord](https://discord.gg/RAegY8wcGx){target="_blank"}
@@ -49,7 +51,7 @@ Thanks to the following players for their feedback: Al, Alice, Angbak, Anna, Ara
 ---
 
 - [SKeyDB](https://skeydb.com){target="_blank"} - comprehensive awakener reference and online tools
-- [Mother Tree](https://mothertree.vercel.app/){target="_blank"} - another database with searchable tags
+- [Mother Tree](https://mothertree.vercel.app/){target="_blank"} - awakener database with searchable tags and stat calculators
 - [Mythag Compendium](https://docs.google.com/spreadsheets/d/1TCU7LJRzqKeuvLe97y_TfGZ-j6jq5bZX6hskAAJ2mFQ/){target="_blank"} - spreadsheet with wheels, posses, and builds
 - [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
 - [Morimens Game Mechanics](https://docs.google.com/presentation/d/1pnheXD_pkjz8YGmWWlQPnw4eXr6NRm-W6267c0K1_QU/){target="_blank"}
