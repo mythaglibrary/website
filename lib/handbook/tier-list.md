@@ -32,7 +32,7 @@ For more endgame/D-Effect Zone focused tier lists, refer to [Links and Resources
 
 <span style="color: var(--md-tier-b);">**B (Decent):**</span> This character deals enough damage to clear normal story mode as main DPS, but needs specific teammates or high investment to complete all story chapters.
 
-<span style="color: var(--md-tier-c-plus);">**C (Usable):**</span> This character needs an unrealistic amount of effort for a new player to clear normal story mode with. They can be used as a main DPS in early chapters, but are better used later on as a support or secondary DPS.
+<span style="color: var(--md-tier-c);">**C (Usable):**</span> This character needs an unrealistic amount of effort for a new player to clear normal story mode with. They can be used as a main DPS in early chapters, but are better used later on as a support or secondary DPS.
 
 A <span style="background-color: var(--md-tier-free);">yellow</span> background means it's a free character you can get without using pulls.
 
@@ -130,9 +130,8 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 </div>
 </div>
 
-## B {.tier .text-center style="background-color: var(--md-tier-b);"}
+### B {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-<div class="text-center" markdown="span" style="margin-bottom: 8px; font-size: 1.2em;">**DPS**</div>
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
   [![Lotan](/images/awakeners/chaos/lotan--mini.png)](/handbook/awakeners/chaos/lotan)
