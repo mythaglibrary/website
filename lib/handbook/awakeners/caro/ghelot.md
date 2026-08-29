@@ -8,6 +8,7 @@ awakener:
     - Bleed
     - Strikes
     - Heals
+    - STR
     - Remove Enemy Shields
   ranks:
     dps:
@@ -17,10 +18,9 @@ awakener:
       - tier: C+
         note: Niche
   stopping_points:
-    - E3
-    - OE
+    - 'E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - steppenwolf

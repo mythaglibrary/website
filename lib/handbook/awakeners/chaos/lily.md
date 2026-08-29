@@ -17,26 +17,26 @@ awakener:
       - tier: A
         note: Great
   stopping_points:
-    - E3
-    - OE
+    - 'E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Tank)
       covenants:
         - feast-from-afar
         - twisted-twins-white
       wheels:
         early_game:
           - id: cloaked-in-the-night
-            note: Any Death Res.
+            note: (Any DR)
           - id: the-land-of-nonexistence
         astral_reign:
           - id: grace-through-pain
-            note: Any Death Res.
+            note: (Any DR)
           - id: the-land-of-nonexistence
   suggested_posses:
     - id: plague-of-illusions
+      note: Astral Reign Ch. 1
     - id: tiny-wish
-      note: Early game
+      note: Faded Legacy Ch. 1
   works_well_with:
     - gdoll
     - xu
@@ -44,7 +44,7 @@ awakener:
   works_well_with_note: Anyone
 ---
 
-One of the best defensive awakeners. When invested and loaded up with death resistance stats, an E3 Lily can outheal all incoming damage and carry the entire team.
+A simple but effective shielder and healer. When invested and loaded up with death resistance stats, an E3 Lily can outheal all incoming damage and carry the entire team.
 
 She deals a surprising amount of damage as well, making her a strong secondary DPS.
 

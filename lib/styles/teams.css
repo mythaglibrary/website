@@ -156,9 +156,9 @@
 [dir] .md-typeset .mythag-team__awakener figcaption {
   max-width: none;
   margin: 0;
-  padding-block: 0 0.3rem;
+  padding-block: 0.3rem 0.3rem;
   color: var(--md-default-fg-color);
-  font: inherit;
+  font-family: var(--md-heading-font-family);
   font-size: 1rem;
   font-weight: 650;
   line-height: 1.25;
@@ -176,8 +176,8 @@
 }
 
 .mythag-team__note {
-  color: var(--md-default-fg-color--light);
-  font-size: 0.66rem;
+  color: var(--md-default-fg-color);
+  font-size: 0.60rem;
   line-height: 1.35;
   text-align: start;
 }

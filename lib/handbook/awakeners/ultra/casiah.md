@@ -9,7 +9,7 @@ awakener:
     - Card Copy
     - Discard Symptoms
     - Multihit
-    - Temp. STR
+    - STR
     - Strikes
   ranks:
     dps:
@@ -21,29 +21,29 @@ awakener:
   stopping_points:
     - Any
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - dream-of-medicine
         - scarlet-embrace
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: happy-magic-show
-            note: Any support
+            note: (Any support)
           - id: to-my-dearest-friend
-            note: Any support
-      covenants_note: Any support
+            note: (Any support)
   suggested_posses: []
+  suggested_posses_note: Any
   works_well_with:
     - mouchette
+    - glotan
     - corposant
-    - daffodil
-    - tawil
-  suggested_posses_note: Any
+    - pontos
 ---
 
 A dedicated card draw support who fills your hand, replays cards from Ultra Space, and sets up multi-card combo turns for your DPS.

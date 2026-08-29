@@ -24,19 +24,19 @@ awakener:
       covenants:
         - scarlet-embrace
         - burial-grounds-sighs
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: hymn-of-the-sovereign
-            note: Any support
+            note: (Any support)
           - id: to-my-dearest-friend
-            note: Any support
-      covenants_note: Any support
-    - name: Example Build (Main DPS)
+            note: (Any support)
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - crimson-pulse
@@ -48,15 +48,17 @@ awakener:
           - id: blade-of-the-titan
           - id: analysis-of-death
   suggested_posses:
+    - id: tiny-wish
+      note: Faded Legacy Ch. 1
     - id: giants-reign
       note: 'Psyche Deepdive: Goliath'
   works_well_with:
-    - clementine
+    - saya
     - castor
-    - lily
+    - arachne
     - winkle
 ---
 
-Jenkin's exalt and rouse make buckets of Crit DMG and Crit Rate, making her a strong damage buffer for any damage dealer that can crit. She also does a lot of AOE hits which can be used for popping barriers or tanking Chains of Resentment.
+Jenkin's exalt and rouse make buckets of Crit DMG and Crit Rate, making her a solid damage buffer for any damage dealer that can crit. She also does a lot of AOE hits which can be used for popping barriers or tanking Chains of Resentment.
 
 Jenkin can work as a main DPS herself, but needs high levels or STR buffs to do enough damage against endgame bosses.

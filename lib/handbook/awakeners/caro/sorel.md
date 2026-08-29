@@ -7,8 +7,8 @@ awakener:
   roles:
     - Multihit
     - Heals
-    - Temp. STR
-    - Embryo
+    - STR
+    - Embryo Fusion
     - Crit Rate
   ranks:
     dps:
@@ -18,10 +18,9 @@ awakener:
       - tier: C
         note: Usable
   stopping_points:
-    - Any
-    - OE
+    - 'Any, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - crimson-pulse
@@ -38,8 +37,8 @@ awakener:
   works_well_with:
     - pickman
     - thais
-    - leigh
     - celeste
+    - gmurphy
 ---
 
 A DPS who is completely reliant on other characters to feed her embryos, STR, and damage buffs. While she's weak at low investment, her exalt deals serious damage when enabled by a team of dedicated supports.

@@ -16,9 +16,7 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E2
-    - E3
-    - OE (You get her for free)
+    - 'E2, E3, OE'
   builds:
     - name: Example Build (Keyflare Support)
       covenants:
@@ -26,14 +24,14 @@ awakener:
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: merciful-nurturing
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
           - id: gateway-of-truth
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
     - name: Example Build (Posse Spam DPS)
       covenants:
         - april-tribute

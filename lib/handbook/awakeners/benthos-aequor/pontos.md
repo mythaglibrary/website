@@ -9,8 +9,9 @@ awakener:
     - Tentacle DMG
     - Crit DMG
     - Aliemus
-    - Arith.
+    - Arithmetica
     - Multihit
+    - AOE
   ranks:
     dps:
       - tier: B+
@@ -24,24 +25,25 @@ awakener:
     - name: Example Build
       covenants:
         - dream-of-medicine
-        - crimson-pulse
+        - deus-ex-machina
       wheels:
         early_game:
-          - id: analysis-of-death
+          - id: critical-point
+            note: (Any Crit DMG)
           - id: aged
         astral_reign:
           - id: the-living-cage
-            note: Any Crit DMG stat
+            note: (Any Crit DMG)
           - id: critical-point
-            note: Any Crit DMG stat
+            note: (Any Crit DMG)
   suggested_posses:
     - id: encounter-in-pure-white
       note: Faded Legacy Ch. 3
   works_well_with:
     - corposant
-    - aurita
     - casiah
-    - gmurphy
+    - caecus
+    - caraboo
 ---
 
 A flexible support and DPS for Aequor teams, Pontos massively reduces enemy STR while giving various boosts with his Gaunt cards.

@@ -22,15 +22,13 @@ icon: lucide/book-open
 
 !!! note "Last updated"
 
-    24 August 2026
+    29 August 2026
 
     V2.6.0 - Caraboo
 
 !!! info ""
 
-    This website is under construction and sections may be **outdated or incomplete.**
-
-    See [the original Google Doc](https://docs.google.com/document/d/1THjxR9hHs4NWHqSWHHa2dHAGuE_cRGelfzXdBfCnIlM/edit?usp=sharing){target="_blank"} for the latest version.
+    This is a living document, all info is subject to change
     
     Let me know on [Discord](https://discord.com/channels/1131791637933199470/1477730088299663431){target="_blank"} if you have any feedback or suggestions!
 

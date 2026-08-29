@@ -5,7 +5,7 @@ template: awakeners/awakener.html
 awakener:
   tagline: Hard-to-Kill Death Resistance Tank
   roles:
-    - Death Res.
+    - DR
     - Weakness
     - Heals
     - Shields
@@ -19,23 +19,22 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - Any
-    - OE
+    - 'Any, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Tank)
       covenants:
         - burial-grounds-sighs
       wheels:
         early_game:
           - id: cloaked-in-the-night
-            note: Any Death Res.
+            note: (Any DR)
           - id: memory-syndrome
-            note: Any Death Res.
+            note: (Any DR)
         astral_reign:
           - id: dusk-and-dawn
-            note: Any Death Res.
+            note: (Any DR)
           - id: cloaked-in-the-night
-            note: Any Death Res.
+            note: (Any DR)
   suggested_posses: []
   works_well_with:
     - gdoll
@@ -47,4 +46,4 @@ awakener:
 
 Faint's exalt can stack tons of death resistance, buying multiple turns where you can survive any hit no matter how high the damage. This makes her a top-tier endgame support, as the more difficult a fight is, the better she is compared to other defensive characters.
 
-Faint is often paired with [GDoll](/handbook/awakeners/chaos/gdoll/) for boss fights, but fits in any team that needs to live just a bit longer.
+Faint is often paired with [GDoll](/handbook/awakeners/chaos/gdoll/) to cheese boss fights, but fits in any team that needs to live just a bit longer.

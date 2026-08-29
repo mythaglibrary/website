@@ -5,10 +5,11 @@ template: awakeners/awakener.html
 awakener:
   tagline: Arithmetica Printer & Card Copyist
   roles:
-    - Arith.
+    - Arithmetica
     - Card Draw
     - Card Copy
-    - STR Steal
+    - STR Down
+    - STR
     - Multihit
     - Pierce DMG
   ranks:
@@ -19,23 +20,22 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E2
+    - 'E0, E2'
   builds:
-    - name: Example Build
+    - name: Example Build (Keyflare Support)
       covenants:
         - life-drain
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: merciful-nurturing
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
           - id: gateway-of-truth
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:

@@ -3,16 +3,17 @@ title: Saya
 description: 'Builds and new-player guidance for the Propagation: Caro Awakener Saya.'
 template: awakeners/awakener.html
 awakener:
-  tagline: Corrosion Nuker & Combo Setup Artist
+  tagline: Deck-Cycling Corrosion Nuker
   roles:
     - Corrosion
     - AOE
     - Discard
     - Card Draw
+    - Shield
+    - Embryo Fusion
     - Card Copy
     - Aliemus
-    - Arith.
-    - Shield
+    - Arithmetica Discount
   ranks:
     dps:
       - tier: F
@@ -21,37 +22,37 @@ awakener:
       - tier: S
         note: Insane
   stopping_points:
-    - E0
-    - E1
-    - E3
+    - 'E0, E1, E3'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - dream-of-medicine
         - deus-ex-machina
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: whisper
-            note: Any support
+            note: (Any support)
           - id: emerge
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: rewinding-time
           - id: adventurers-pack
-            note: Any support or Sigil Yield
-      covenants_note: Any support
+            note: (Any support or Sigil Yield)
   suggested_posses:
     - id: encounter-in-pure-white
       note: Faded Legacy Ch. 3
+    - id: gateway-of-retrospection
+      note: 'Psyche Deepdive: GRamona'
   works_well_with:
     - sanga
-    - goliath
-    - jenkin
+    - glotan
+    - corposant
   works_well_with_note: Anyone
 ---
 
-Viscera Blossoms applies an absurd amount of corrosion, multiplying your damage by 4x and enabling even [bottom-tier DPS](/handbook/tier-list) to clear.
+Viscera Blossoms applies an absurd amount of corrosion, multiplying your damage by 4× and enabling even [bottom-tier DPS](/handbook/tier-list) to clear.
 
-Saya can also funnel aliemus to her teammates, or seed your deck with 0-cost copies of their cards, setting up crazy plays for future turns.
+Saya can also rapidly discard and draw through your deck, or seed it with 0-cost copies of a teammate's cards to set up crazy plays later.
 
-She discards cards and messes with your hand, so she works best with teammates that don't need specific cards to function.
+She works best with teammates that don't mind if you discard your hand, but she's so strong that she'll fit into most teams regardless.

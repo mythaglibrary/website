@@ -6,9 +6,9 @@ awakener:
   tagline: High-Rolling Damage Buff Dispenser
   roles:
     - Card Draw
-    - Crit Rate
-    - Crit DMG
     - Vulnerable
+    - Crit DMG
+    - Crit Rate
     - Keyflare
     - AOE
   ranks:
@@ -21,21 +21,21 @@ awakener:
   stopping_points:
     - Any
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - scarlet-embrace
         - burial-grounds-sighs
       wheels:
         early_game:
           - id: frenzy
-            note: Any support
+            note: (Any support)
           - id: emerge
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: fragrant-morphogenesis
-            note: Any support
+            note: (Any support)
           - id: adventurers-pack
-            note: Any support
+            note: (Any support)
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:

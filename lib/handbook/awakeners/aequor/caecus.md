@@ -17,25 +17,24 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E2
+    - 'E0, E2, AA'
   builds:
     - name: Example Build (Support)
       covenants:
         - burial-grounds-sighs
         - cursed-rabbit
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: fin-of-sorrow
           - id: elevated-focus
-            note: Any support
-      covenants_note: Any support
-    - name: Example Build (Counter DPS)
+            note: (Any support)
+    - name: Example Build (DPS)
       covenants:
         - steppenwolf
         - april-tribute
@@ -50,12 +49,14 @@ awakener:
     - id: feast-of-decay
       note: 'Psyche Deepdive: Wanda'
   works_well_with:
-    - tawil
     - pickman
+    - pontos
     - arachne
-  works_well_with_note: Anyone
+    - tawil
 ---
 
-A support with good healing over time and consistent access to vulnerable from his exalt. He can multiply counter triggers for one turn, making him a niche but strong counter support.
+A support who brings easy access to vulnerable, and also heals for a lot after being roused.
 
-In fights where you can stall and build counter, Caecus works as a main DPS. His counter scales with STR and critical hits, making him one of the rare endgame viable counter stackers (with enough buffs from his teammates).
+In long fights where you can stall and build counter, Caecus works as a (very slow) DPS.
+
+His counter scales with STR and critical hits, making him one of the rare endgame viable counter stackers (with enough buffs from his teammates).

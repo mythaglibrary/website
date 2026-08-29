@@ -6,7 +6,7 @@ awakener:
   tagline: Healer for Living Dangerously
   roles:
     - Heals
-    - Embryo
+    - Embryo Fusion
     - Shields
     - STR
     - Pierce DMG
@@ -19,10 +19,9 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - Any
-    - OE
+    - 'Any, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Tank)
       covenants:
         - burial-grounds-sighs
         - cursed-rabbit
@@ -33,16 +32,18 @@ awakener:
             note: Any support
         astral_reign:
           - id: the-gluttons-tale
-          - id: data-is-flesh
+          - id: noblemans-staff
   suggested_posses: []
   works_well_with:
+    - ghelot
     - uvhash
     - sorel
-    - ghelot
   suggested_posses_note: Any
   works_well_with_note: Anyone
 ---
 
-A dedicated healer who heals for a ton when you're low on HP. This makes her a good partner for characters that stay under a HP threshold like [Uvhash](/handbook/awakeners/caro/uvhash/) and [Sorel](/handbook/awakeners/caro/sorel/).
+A dedicated healer who heals for a ton when you're low on HP. This makes her a good partner for characters that need to stay under a HP threshold like [Uvhash](/handbook/awakeners/caro/uvhash/) and [Sorel](/handbook/awakeners/caro/sorel/).
 
-Leigh makes a lot of embryo when roused, and her OE is a good source of STR too. Unlike [Faint](/handbook/awakeners/caro/faint/), she doesn't have diminishing returns in long explorations, so you can use her to carry your squishy DPS through fight after fight.
+Leigh is a decent embryo generator when roused, and her OE is a good source of STR too.
+
+Unlike [Faint](/handbook/awakeners/caro/faint/), she doesn't have diminishing returns in long explorations, so she can keep your squishy DPS alive through fight after fight.

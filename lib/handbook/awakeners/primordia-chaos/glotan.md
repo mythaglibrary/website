@@ -35,18 +35,18 @@ awakener:
       covenants:
         - scarlet-embrace
         - burial-grounds-sighs
-      covenants_note: Any support
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: emerge
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: fragrant-morphogenesis
-            note: Any support
+            note: (Any support)
           - id: sever-and-scar
-            note: Any support
+            note: (Any support)
   suggested_posses:
     - id: cetus-devouring-storm
       note: 'Psyche Deepdive: GLotan'

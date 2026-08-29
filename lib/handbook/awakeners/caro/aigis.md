@@ -8,7 +8,7 @@ awakener:
     - Stun
     - Vulnerable
     - Keyflare
-    - Embryo
+    - Embryo Fusion
     - Final DMG
   ranks:
     dps:
@@ -18,39 +18,39 @@ awakener:
       - tier: S
         note: Insane
   stopping_points:
-    - Any
-    - OE
+    - 'Any, OE'
   builds:
     - name: Example Build (Keyflare Support)
       covenants:
         - life-drain
-      wheels:
-        early_game:
-          - id: gluttony
-            note: Any support
-          - id: frenzy
-            note: Any support
-        astral_reign:
-          - id: rewinding-time
-            note: Any Keyflare Regen stat
-          - id: gateway-of-truth
-            note: Any Keyflare Regen stat
-    - name: Example Build (Exalt Support)
-      covenants:
-        - burial-grounds-sighs
         - deus-ex-machina
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
+        astral_reign:
+          - id: rewinding-time
+            note: (Any Keyflare Regen)
+          - id: gateway-of-truth
+            note: (Any Keyflare Regen)
+    - name: Example Build (Petrify Support)
+      covenants:
+        - burial-grounds-sighs
+        - deus-ex-machina
+      covenants_note: (Any support)
+      wheels:
+        early_game:
+          - id: gluttony
+            note: (Any support)
+          - id: frenzy
+            note: (Any support)
         astral_reign:
           - id: hymn-of-the-sovereign
-            note: Any aliemus
+            note: (Any aliemus)
           - id: elevated-focus
-            note: Any aliemus
-      covenants_note: Any support
+            note: (Any aliemus)
   suggested_posses: []
   works_well_with:
     - ghelot
@@ -62,6 +62,6 @@ awakener:
 
 Aigis's unique petrify ability effectively gives you an extra turn in every fight.
 
-She's also the best vulnerable applier in the game, and an excellent keyflare and embryo generator, and her OE grants a +25% Final DMG bonus.
+She's also the best vulnerable applier in the game, *and* an excellent keyflare and embryo generator, *and* her OE grants a +25% Final DMG bonus.
 
 Aigis is a great support for any team, but she pairs especially well with glass cannon DPS who need a turn of breathing room to set up.

@@ -10,7 +10,7 @@ awakener:
     - Shields
     - Weakness
     - Vulnerable
-    - Arith.
+    - Arithmetica
   ranks:
     dps:
       - tier: D
@@ -19,23 +19,22 @@ awakener:
       - tier: A
         note: Great
   stopping_points:
-    - E1
-    - OE
+    - 'E1, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Keyflare Support)
       covenants:
         - life-drain
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: rewinding-time
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
           - id: elevated-focus
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
   suggested_posses: []
   works_well_with:
     - vortice
@@ -45,7 +44,7 @@ awakener:
   works_well_with_note: Anyone
 ---
 
-A keyflare support with great defense for any Aequor team that needs help surviving.
+A keyflare support who brings weakness, vulnerable, and fantastic defensive abilities for any Aequor team that needs help surviving.
 
 Her exalt converts incoming damage into damage over time, letting you survive massive attacks, then self-cleanse with Vortex Reversal.
 

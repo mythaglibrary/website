@@ -6,7 +6,7 @@ awakener:
   tagline: Alert Stalling Poison Tank
   roles:
     - Alert
-    - Embryo
+    - Embryo Fusion
     - Poison
     - Shields
   ranks:
@@ -27,14 +27,14 @@ awakener:
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: gluttony
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: pale-descendant
           - id: mind-barrier
-            note: Any support
-    - name: Example Build (Poison DPS)
+            note: (Any support)
+    - name: Example Build (DPS)
       covenants:
         - dream-of-medicine
         - crimson-pulse
@@ -46,6 +46,10 @@ awakener:
           - id: gift-of-decay
           - id: blade-of-the-titan
   suggested_posses:
+    - id: plague-of-illusions
+      note: Astral Reign Ch. 1
+    - id: lakeside-glimpse
+      note: 'Psyche Deepdive: Agrippa'
     - id: a-mouses-wisdom
       note: Faded Legacy Ch. 2
   works_well_with:
@@ -57,6 +61,6 @@ awakener:
 
 Agrippa's exalt permanently stacks alert, boosting teamwide shields more and more over time. This makes her the ideal support for [Castor](/handbook/awakeners/ultra/castor/) stall teams that plan to survive forever.
 
-She can also generate a lot of embryo and trigger poison for poison teams.
+She can also generate a lot of embryo fusion and trigger poison for poison teams.
 
-At high investment, Colorless Spiral applies a lot of poison with critical hits, making Agrippa herself usable as a poison DPS.
+At high investment, Colorless Spiral applies a fair amount of poison with critical hits, making Agrippa herself usable as a poison DPS.

@@ -115,7 +115,7 @@ members:
   - awakener: leigh
     archetype: tank
     role: Tank
-    note: Heals and shields when devouring
+    note: Heals and shields
     covenant: cursed-rabbit
     wheels: [the-gluttons-tale, noblemans-staff]
   - awakener: agrippa
@@ -208,13 +208,13 @@ members:
     wheels: [merciful-nurturing, frenzy]
   - awakener: caecus
     archetype: support
-    role: Support
+    role: Counter / Support
     note: Heals, debuffs, turns STR into counter
     covenant: april-tribute
     wheels: [fin-of-sorrow, to-my-dearest-friend]
   - awakener: nautila
     archetype: tank
-    role: Tank
+    role: Counter / Tank
     note: Shields, turns counter into damage
     covenant: cursed-rabbit
     wheels: [gluttony, emerge]
@@ -710,7 +710,7 @@ Many people misread the effect and think this set generates extra permanent tent
 <div class="grid cards" markdown>
   <span class="grid-1/1/1">
     <span>**Source** <br /> Store <br /> *(Rose Scrip)*</span>
-    <span>**Used by** <br /> Fixed poison/counter DPS</span>
+    <span>**Used by** <br /> Base DMG and fixed poison/counter DPS</span>
     <span style="padding: 0 4px; background-color: var(--md-highlight-no)">**Team Unique?** <br /> No</span>
   </span>
 </div>
@@ -731,7 +731,7 @@ If you can crit, you should probably run [April Tribute](#april-tribute) instead
 <div class="grid cards" markdown>
   <span class="grid-1/1/1">
     <span>**Source** <br /> Store <br /> *(Rose Scrip)*</span>
-    <span>**Used by** <br /> Aliemus supports in Faded Legacy</span>
+    <span>**Used by** <br /> Aliemus supports in [Faded Legacy](/handbook/storylines#faded-legacy-arc-1)</span>
     <span style="padding: 0 4px; background-color: var(--md-highlight-yes)">**Team Unique?** <br /> Yes</span>
   </span>
 </div>

@@ -6,12 +6,13 @@ awakener:
   tagline: Temporary Buff Stacking Sub DPS
   roles:
     - Discover
-    - STR Steal
+    - STR
+    - STR Down
     - AOE
-    - Aliemus
-    - Embryo
+    - Embryo Fusion
     - Weakness
     - Vulnerable
+    - Aliemus
   ranks:
     dps:
       - tier: C
@@ -20,25 +21,23 @@ awakener:
       - tier: A
         note: Great
   stopping_points:
-    - E2
-    - E3
-    - OE
+    - 'E2, E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - dream-of-medicine
         - burial-grounds-sighs
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: manikin-of-oblivion
-            note: Any support
+            note: (Any support)
           - id: to-my-dearest-friend
-            note: Any support
+            note: (Any support)
       covenants_note: Any support
   suggested_posses:
     - id: voracious-resolve
@@ -47,11 +46,11 @@ awakener:
     - sorel
     - doresain
     - thais
-    - vortice
+    - caecus
 ---
 
 A support and secondary DPS who can access many effects with his painted orisons and relics.
 
 By Discovering a lot, Pickman can make a pile of relics and spam Chromaphage for AOE damage and temporary STR. This gives a huge one-turn damage boost to your main DPS.
 
-Works best with a main DPS that relies on their exalt and doesn't need arithmetica. The posse Voracious Resolve is highly recommended.
+Works best with a main DPS who relies on their exalt and doesn't need arithmetica. The posse Voracious Resolve is highly recommended.

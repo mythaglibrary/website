@@ -29,34 +29,34 @@ awakener:
         early_game:
           - id: data-is-flesh
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: unbearable-freedom
-            note: Any support
+            note: (Any support)
           - id: data-is-flesh
     - name: Example Build (Hybrid DPS)
       covenants:
         - steppenwolf
         - photosynthesis-ritual
+      covenants_note: Mix of 2 sets with 3-piece DMG amplification bonus
       wheels:
         early_game:
           - id: cursed-binding
-            note: Any DMG Amp
+            note: (Any DMG Amp.)
           - id: sever-and-scar
-            note: Any DMG Amp
+            note: (Any DMG Amp.)
         astral_reign:
           - id: chains-unbound
-            note: Any DMG Amp
+            note: (Any DMG Amp.)
           - id: sever-and-scar
-            note: Any DMG Amp
-      covenants_note: Mix of 2 sets with 3-piece DMG amplification bonus
+            note: (Any DMG Amp.)
   suggested_posses:
     - id: derision-of-destiny
       note: 'Dreamscape: "Beyond the Skies, Part I"'
   works_well_with:
     - pollux
-    - arachne
     - agrippa
+    - erica
   works_well_with_note: Anyone
 ---
 

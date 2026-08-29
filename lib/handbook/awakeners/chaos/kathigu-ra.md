@@ -17,10 +17,9 @@ awakener:
       - tier: C
         note: Usable
   stopping_points:
-    - E3
-    - OE
+    - 'E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - feast-from-afar
         - paradox

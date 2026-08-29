@@ -18,12 +18,9 @@ awakener:
       - tier: F
         note: ???
   stopping_points:
-    - E1
-    - E2
-    - E3
-    - OE
+    - 'E1, E2, E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - steppenwolf
@@ -46,4 +43,4 @@ awakener:
 
 A finicky but rewarding poison applier. If you babysit Liz enough to set up her exalt, she applies massive amounts of poison with Deadly Flames and becomes the best sustained damage dealer on the standard banner.
 
-Hard to use early on, but gets much better with teammates that give her defense, aliemus, and STR. Also prefers her posse, E1 or better, and a hand size wheel carried by one of her supports.
+She's hard to use early on, but gets much better with teammates that give her defense, aliemus, and STR. She also prefers her posse, E1 or better, and a hand size wheel carried by one of her supports.

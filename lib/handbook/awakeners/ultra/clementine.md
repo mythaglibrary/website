@@ -3,7 +3,7 @@ title: Clementine
 description: Builds and new-player guidance for the Ultra Awakener Clementine.
 template: awakeners/awakener.html
 awakener:
-  tagline: Universal Buffing Keyflare Support-Carry
+  tagline: Universal Buff/Debuff Keyflare Support
   roles:
     - Unique Debuffs
     - Keyflare
@@ -20,7 +20,7 @@ awakener:
         note: Insane
   stopping_points:
     - 'Support: Any, OE'
-    - 'DPS: E2'
+    - 'DPS: E2, AA'
   builds:
     - name: Example Build (Keyflare Support)
       covenants:
@@ -29,30 +29,30 @@ awakener:
         early_game:
           - id: analysis-of-death
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: merciful-nurturing
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
           - id: gateway-of-truth
-            note: Any Keyflare Regen stat
-    - name: Example Build (STR Buff Support)
+            note: (Any Keyflare Regen)
+    - name: Example Build (STR Support)
       covenants:
         - twisted-twins-black
       wheels:
         early_game:
           - id: analysis-of-death
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: amidst-the-downpour
           - id: sever-and-scar
-            note: Any support
+            note: (Any support)
   suggested_posses: []
+  suggested_posses_note: Any
   works_well_with:
     - doresain
     - kathigu-ra
-    - liz
-  suggested_posses_note: Any
+    - corposant
   works_well_with_note: Anyone
 ---
 

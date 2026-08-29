@@ -22,30 +22,28 @@ awakener:
       - tier: A
         note: Great
   stopping_points:
-    - E1
-    - E2
-    - E3
-    - OE
+    - 'E1, E2, E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - dream-of-medicine
         - burial-grounds-sighs
       wheels:
         early_game:
           - id: elevated-focus
-            note: Any aliemus
+            note: (Any aliemus)
           - id: gluttony
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: manikin-of-oblivion
-            note: Any aliemus
+            note: (Any aliemus)
           - id: elevated-focus
-            note: Any aliemus
+            note: (Any aliemus)
   suggested_posses:
     - id: plague-of-illusions
+      note: Astral Reign Ch. 1
     - id: tiny-wish
-      note: Early game
+      note: Faded Legacy Ch. 1
   works_well_with:
     - lily
     - xu

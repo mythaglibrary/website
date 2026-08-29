@@ -13,6 +13,7 @@ awakener:
     - Poison
     - Crit DMG
     - STR
+    - Tentacle DMG
   ranks:
     dps:
       - tier: D
@@ -21,34 +22,33 @@ awakener:
       - tier: A
         note: Great
   stopping_points:
-    - E0
-    - E2
+    - 'E0, E2'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - burial-grounds-sighs
         - deus-ex-machina
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: manikin-of-oblivion
-            note: Any support
+            note: (Any support)
           - id: elevated-focus
-            note: Any support
-      covenants_note: Any support
+            note: (Any support)
   suggested_posses: []
   works_well_with:
     - gmurphy
-    - '24'
     - sanga
+    - murphy
   suggested_posses_note: Any
   works_well_with_note: Anyone
 ---
 
-The premier do-everything Aequor support. She makes aliemus, applies premium debuffs, boosts team damage, heals you when you're low, and even triggers poison for poison teams. Her only drawback is her reliance on her rouse.
+The premier do-everything Aequor support. She generates aliemus, gives various buffs, inflicts weakness and vulnerable, heals you when you're low, and even triggers poison for poison teams. Her only drawback is her reliance on her rouse.
 
 At endgame, Miryam is usually seen supporting [GMurphy](/handbook/awakeners/benthos-aequor/gmurphy/) Lemurian teams, but she works great in any team comp that has blue in it.

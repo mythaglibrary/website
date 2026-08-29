@@ -22,7 +22,7 @@ awakener:
     - 'Support: Any'
     - 'DPS: E2, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Tank)
       covenants:
         - paradox
         - cursed-rabbit
@@ -30,7 +30,7 @@ awakener:
         early_game:
           - id: data-is-flesh
           - id: gluttony
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: the-last-verse
           - id: data-is-flesh
@@ -39,7 +39,7 @@ awakener:
       note: Faded Legacy Ch. 7
   works_well_with:
     - thais
-    - xu
+    - caraboo
     - horla
   works_well_with_note: Anyone
 ---

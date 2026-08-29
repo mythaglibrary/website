@@ -18,8 +18,7 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E1
-    - E3
+    - 'E1, E3'
   builds:
     - name: Example Build (Keyflare Support)
       covenants:
@@ -27,30 +26,30 @@ awakener:
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: merciful-nurturing
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
           - id: gateway-of-truth
-            note: Any Keyflare Regen stat
-    - name: Example Build (Mono Chaos Healer)
+            note: (Any Keyflare Regen)
+    - name: Example Build (Mono Chaos Tank)
       covenants:
         - cursed-rabbit
         - burial-grounds-sighs
-      covenants_note: Any support
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: aged
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: happy-magic-show
-            note: Any Realm Mastery
+            note: (Any RM)
           - id: data-is-flesh
-            note: Any Realm Mastery
+            note: (Any RM)
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:

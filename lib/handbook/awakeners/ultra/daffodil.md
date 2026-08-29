@@ -7,6 +7,7 @@ awakener:
   roles:
     - Temp. Counter
     - Poison
+    - Discover
     - Card Draw
     - Vulnerable
     - AOE
@@ -19,11 +20,9 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E2
-    - OE
+    - 'E0, E2, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - steppenwolf
@@ -39,12 +38,12 @@ awakener:
       note: Faded Legacy Ch. 1
   works_well_with:
     - arachne
-    - clementine
     - gdoll
+    - clementine
     - nautila
 ---
 
-A burst DPS with a lot of small utility bonuses on her cards. At low levels, Skull Reaver scales with last hits and deals a lot of damage.
+A burst DPS with lots small utility bonuses on her cards. At low levels, Skull Reaver scales with last hits and deals lots of damage.
 
 At endgame Daffodil is used for her Thousand Mirages, which make tons of temporary counter or poison. This enables high-damage combo turns with [Arachne](/handbook/awakeners/singularity-ultra/arachne/), [Nautila](/handbook/awakeners/chaos/nautila/), etc.
 

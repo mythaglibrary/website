@@ -6,7 +6,7 @@ awakener:
   tagline: The King of Tentacle DMG
   roles:
     - Lemurian
-    - Temp. STR
+    - STR
     - Tentacle DMG
     - Crit Rate
     - AOE
@@ -19,28 +19,27 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E1
-    - E3
-    - OE
+    - 'E0, E1, E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - burial-grounds-sighs
         - deus-ex-machina
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: elevated-focus
-            note: Any support
+            note: (Any support)
           - id: to-my-dearest-friend
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: hymn-of-the-sovereign
-            note: Any support
+            note: (Any support)
           - id: to-my-dearest-friend
-            note: Any support
-      covenants_note: Any support
+            note: (Any support)
   suggested_posses:
+    - id: giants-reign
+      note: 'Psyche Deepdive: Goliath'
     - id: tiny-wish
       note: Faded Legacy Ch. 1
   works_well_with:

@@ -26,18 +26,18 @@ awakener:
       covenants:
         - burial-grounds-sighs
         - feast-from-afar
-      covenants_note: Any support
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: elevated-focus
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: dusk-and-dawn
-            note: Any support
+            note: (Any support)
           - id: elevated-focus
-            note: Any support
+            note: (Any support)
     - name: Example Build (Precision Slash DPS)
       covenants:
         - dream-of-medicine

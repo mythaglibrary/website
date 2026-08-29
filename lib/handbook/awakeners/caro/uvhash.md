@@ -7,7 +7,6 @@ awakener:
   roles:
     - Immune to Seal
     - AOE
-    - Scaling
     - Multihit
     - STR
   ranks:
@@ -22,7 +21,7 @@ awakener:
   stopping_points:
     - OE
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - crimson-pulse
@@ -37,9 +36,9 @@ awakener:
     - id: roaring-blood-and-sand
       note: 'Psyche Deepdive: Uvhash'
   works_well_with:
+    - saya
     - thais
     - clementine
-    - saya
     - faint
 ---
 

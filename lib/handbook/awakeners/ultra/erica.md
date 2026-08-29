@@ -9,6 +9,7 @@ awakener:
     - Weakness
     - Vulnerable
     - Keyflare
+    - STR
     - Dispel Fragile/Weakness
   ranks:
     dps:
@@ -18,30 +19,28 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E1
-    - E3
+    - 'E0, E1, E3'
   builds:
-    - name: Example Build
+    - name: Example Build (Keyflare Support)
       covenants:
         - life-drain
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: core-meltdown
           - id: elevated-focus
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
   suggested_posses: []
+  suggested_posses_note: Any
   works_well_with:
     - castor
     - agrippa
     - corposant
     - winkle
-  suggested_posses_note: Any
 ---
 
 A free keyflare support with a strong exalt that inflicts weakness and vulnerable.

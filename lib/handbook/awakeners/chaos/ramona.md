@@ -7,7 +7,7 @@ awakener:
   roles:
     - Keyflare
     - Card Draw
-    - Arith. Discount
+    - Arithmetica Discount
   ranks:
     dps:
       - tier: D
@@ -16,9 +16,9 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - Any (You get her for free)
+    - Any
   builds:
-    - name: Example Build
+    - name: Example Build (Keyflare Support)
       covenants:
         - life-drain
       wheels:

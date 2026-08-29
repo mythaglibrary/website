@@ -9,7 +9,6 @@ awakener:
     - Card Draw
     - Poison
     - Shields
-    - Multihit
     - Dispel Vulnerable
   ranks:
     dps:
@@ -26,19 +25,19 @@ awakener:
       covenants:
         - burial-grounds-sighs
         - deus-ex-machina
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: dusk-and-dawn
-            note: Any support
+            note: (Any support)
           - id: mind-barrier
-            note: Any support
-      covenants_note: Any support
-    - name: Example Build (Poison DPS)
+            note: (Any support)
+    - name: Example Build (DPS)
       covenants:
         - dream-of-medicine
         - steppenwolf
@@ -46,11 +45,13 @@ awakener:
         early_game:
           - id: cursed-binding
           - id: sever-and-scar
-            note: Any DMG Amp
+            note: (Any DMG Amp.)
         astral_reign:
-          - id: amidst-the-downpour
+          - id: gift-of-decay
           - id: cursed-binding
   suggested_posses:
+    - id: plague-of-illusions
+      note: Astral Reign Ch. 1
     - id: festival-of-tides
       note: 'Dreamscape: "Desecrate"'
   works_well_with:

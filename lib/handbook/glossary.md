@@ -482,6 +482,10 @@ Caro (the realm).
 
 Counter. Abbreviation of the old English translation.
 
+### RM
+
+Realm Mastery.
+
 ### Rotan
 
 [Lotan: Cetarchon](/handbook/awakeners#glotan), after an old English mistranslation. Also stands for “Red Lotan.”

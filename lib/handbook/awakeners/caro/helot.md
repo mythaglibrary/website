@@ -23,18 +23,18 @@ awakener:
       covenants:
         - burial-grounds-sighs
         - scarlet-embrace
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: hymn-of-the-sovereign
-            note: Any support
+            note: (Any support)
           - id: to-my-dearest-friend
-            note: Any support
-      covenants_note: Any support
+            note: (Any support)
     - name: Example Build (Shattering Strike DPS)
       covenants:
         - steppenwolf
@@ -47,6 +47,8 @@ awakener:
           - id: chains-unbound
           - id: blade-of-the-titan
   suggested_posses:
+    - id: the-mountains-resolve
+      note: 'Special Ops: GHelot'
     - id: the-lone-seed
       note: Faded Legacy Ch. 7
   works_well_with:

@@ -18,33 +18,30 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E2
-    - E3
-    - OE
+    - 'E0, E2, E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - burial-grounds-sighs
         - cursed-rabbit
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: memory-spiral
-            note: Any support
+            note: (Any support)
           - id: cloaked-in-the-night
-            note: Any support
+            note: (Any support)
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:
     - tawil
     - pandia
-    - alva
     - daffodil
+    - alva
 ---
 
 A defensive combo piece for specific teams. Her unique exalt takes your existing shield and multiplies it, which is not only a strong defensive tool, but also a damage multiplier for shield scaling DPS like [Sanga](/handbook/awakeners/aequor/sanga/) and [Alva](/handbook/awakeners/chaos/alva/).

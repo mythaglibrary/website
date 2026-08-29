@@ -18,31 +18,39 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E1
-    - E3
-    - OE
+    - 'E0, E3, OE, AA'
   builds:
-    - name: Example Build
+    - name: Example Build (E3 Support)
       covenants:
         - burial-grounds-sighs
         - twisted-twins-white
       wheels:
         early_game:
           - id: memory-syndrome
-            note: Any Death Res.
+            note: (Any DR)
           - id: analysis-of-death
         astral_reign:
           - id: dusk-and-dawn
-            note: Any Death Res.
+            note: (Any DR)
+          - id: memory-syndrome
+            note: (Any DR)
+    - name: Example Build (OE Main DPS)
+      covenants:
+        - feast-from-afar
+        - twisted-twins-white
+      wheels:
+        astral_reign:
+          - id: will-unyielding
           - id: analysis-of-death
   suggested_posses:
     - id: tiny-wish
       note: Faded Legacy Ch. 1
+    - id: ephemeral-eternity
+      note: 'Psyche Deepdive: Erica'
   works_well_with:
     - saya
     - miryam
-    - nautila
+    - caraboo
     - winkle
 ---
 

@@ -5,9 +5,9 @@ template: awakeners/awakener.html
 awakener:
   tagline: Arithmetica Delivery Service
   roles:
-    - Arith.
-    - Poison
+    - Arithmetica
     - Weakness
+    - Poison
     - Heals
     - Dispel Stagnation
   ranks:
@@ -18,26 +18,24 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E3
-    - OE
+    - 'E0, E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - deus-ex-machina
         - burial-grounds-sighs
-      covenants_note: Any support
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: hymn-of-the-sovereign
-            note: Any support
+            note: (Any support)
           - id: elevated-focus
-            note: Any support
+            note: (Any support)
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:

@@ -17,10 +17,9 @@ awakener:
       - tier: D
         note: Meme
   stopping_points:
-    - E3
-    - OE
+    - 'E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - crimson-pulse
@@ -41,8 +40,8 @@ awakener:
     - winkle
 ---
 
-A burst DPS who revolves around refreshing and abusing the Atonement by Pain buff, which boosts the first card he plays each turn.
+A DPS who refreshes the Atonement by Pain buff to power up his cards. Building Sin Mark with Sacred Hearts enables big combos later on.
 
-Atonement by Pain gets stronger after every fight, making Pollux incredible in long explorations. However, he needs setup and works best with teammates that can buy time.
+Atonement by Pain gets stronger after every fight, making Pollux great in long explorations. However, he needs setup to do his thing and works best with teammates that can buy time.
 
 Needs E1 for consistency and E3 for high damage. OE makes him one of the top DPS.

@@ -3,9 +3,8 @@ title: Horla
 description: Builds and new-player guidance for the Ultra Awakener Horla.
 template: awakeners/awakener.html
 awakener:
-  tagline: Universal Multiplier Aura Support
+  tagline: Debuffer & Teamwide Aura Support
   roles:
-    - Moods
     - Weakness
     - Vulnerable
     - Aliemus
@@ -20,30 +19,29 @@ awakener:
       - tier: S
         note: Insane
   stopping_points:
-    - E1
-    - E2
+    - 'E1,  E2'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - twisted-twins-white
         - twisted-twins-black
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: dusk-and-dawn
-            note: Any Death Res.
+            note: (Any DR)
           - id: memory-syndrome
-            note: Any Death Res.
+            note: (Any DR)
   suggested_posses: []
+  suggested_posses_note: Any
   works_well_with:
     - pollux
     - ghelot
     - kathigu-ra
-  suggested_posses_note: Any
   works_well_with_note: Anyone
 ---
 

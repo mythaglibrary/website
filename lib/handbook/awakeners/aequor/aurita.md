@@ -8,6 +8,7 @@ awakener:
     - Multihit
     - Discard
     - Card Draw
+    - Tentacle DMG
     - Pierce DMG
   ranks:
     dps:
@@ -17,10 +18,9 @@ awakener:
       - tier: D
         note: Meme
   stopping_points:
-    - E1
-    - OE
+    - 'E1, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - crimson-pulse
         - scarlet-embrace
@@ -32,12 +32,14 @@ awakener:
           - id: path-forsaken
           - id: analysis-of-death
   suggested_posses:
+    - id: encounter-in-pure-white
+      note: Faded Legacy Ch. 3
     - id: auritas-treasure
       note: 'Psyche Deepdive: Aurita'
   works_well_with:
     - corposant
-    - pontos
     - tulu
+    - pontos
     - faros
 ---
 

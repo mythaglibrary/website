@@ -8,7 +8,7 @@ awakener:
     - Multihit
     - Strikes
     - AOE
-    - Death Res. Abuse
+    - DR Abuse
     - Stun
   ranks:
     dps:
@@ -20,12 +20,9 @@ awakener:
       - tier: C
         note: at OE
   stopping_points:
-    - E2
-    - E3
-    - OE
-    - AA
+    - 'E2, E3, OE, AA'
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - crimson-pulse

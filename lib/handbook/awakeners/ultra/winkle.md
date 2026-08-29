@@ -20,33 +20,31 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E3
-    - OE
+    - 'E0, E3, OE'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - burial-grounds-sighs
         - deus-ex-machina
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: manikin-of-oblivion
-            note: Any support
+            note: (Any support)
           - id: elevated-focus
-            note: Any support
-      covenants_note: Any support
+            note: (Any support)
   suggested_posses: []
+  suggested_posses_note: Any
   works_well_with:
     - daffodil
-    - wanda
-    - sanga
     - jenkin
-  suggested_posses_note: Any
+    - sanga
+  works_well_with_note: Anyone
 ---
 
 A solid aliemus battery with a variety of defensive tools. While not the best at anything, she's a low-cost, well-rounded filler option for Ultra teams.

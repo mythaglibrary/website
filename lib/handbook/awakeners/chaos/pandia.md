@@ -16,10 +16,10 @@ awakener:
       - tier: C+
         note: Niche
   stopping_points:
-    - 'Support: Any'
     - 'DPS: E1, E3, OE'
+    - 'Support: Any'
   builds:
-    - name: Example Build (Counter DPS)
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - steppenwolf
@@ -36,17 +36,19 @@ awakener:
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: merciful-nurturing
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
           - id: gateway-of-truth
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
   suggested_posses:
     - id: tiny-wish
       note: Faded Legacy Ch. 1
+    - id: feast-of-decay
+      note: 'Psyche Deepdive: Wanda'
   works_well_with:
     - tawil
     - daffodil

@@ -3,9 +3,9 @@ title: Tinct
 description: Builds and new-player guidance for the Ultra Awakener Tinct.
 template: awakeners/awakener.html
 awakener:
-  tagline: Arithmetica and Crit Buff Support
+  tagline: Arithmetica & Crit Buff Support
   roles:
-    - Arith.
+    - Arithmetica
     - Crit Rate
     - Crit DMG
     - Shields
@@ -18,27 +18,24 @@ awakener:
       - tier: B
         note: Decent
   stopping_points:
-    - E0
-    - E2
-    - E3
-    - OE
+    - 'E0, E2, E3, OE'
   builds:
     - name: Example Build (Exalt Support)
       covenants:
         - burial-grounds-sighs
         - deus-ex-machina
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: hymn-of-the-sovereign
-            note: Any support
+            note: (Any support)
           - id: elevated-focus
-            note: Any support
-      covenants_note: Any support
+            note: (Any support)
     - name: Example Build (E2 Defense Build)
       covenants:
         - feast-from-afar
@@ -51,12 +48,12 @@ awakener:
           - id: memory-spiral
           - id: the-land-of-nonexistence
   suggested_posses: []
+  suggested_posses_note: Any
   works_well_with:
     - kathigu-ra
-    - pollux
     - ghelot
+    - pollux
     - doresain
-  suggested_posses_note: Any
 ---
 
 In addition to giving big crit buffs, Tinct discounts up to 5 arithmetica with every exalt, making her a perfect teammate for DPS that retain full hands of cards for combo turns.

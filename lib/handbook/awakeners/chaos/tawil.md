@@ -8,7 +8,8 @@ awakener:
     - Keyflare
     - Discover
     - Card Draw
-    - STR Steal
+    - STR
+    - STR Down
     - Multihit
     - HP % Damage
   ranks:
@@ -19,8 +20,7 @@ awakener:
       - tier: A
         note: Great
   stopping_points:
-    - E2
-    - OE
+    - 'E2, OE'
   builds:
     - name: Example Build (Keyflare Support)
       covenants:
@@ -28,14 +28,14 @@ awakener:
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: merciful-nurturing
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
           - id: gateway-of-truth
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
     - name: Example Build (Wing Spam Carry)
       covenants:
         - dream-of-medicine

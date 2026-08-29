@@ -21,7 +21,7 @@ awakener:
   stopping_points:
     - Any
   builds:
-    - name: Example Build
+    - name: Example Build (DPS)
       covenants:
         - april-tribute
         - crimson-pulse
@@ -35,6 +35,8 @@ awakener:
   suggested_posses:
     - id: giants-reign
       note: 'Psyche Deepdive: Goliath'
+    - id: tiny-wish
+      note: Faded Legacy Ch. 1
   works_well_with:
     - pickman
     - clementine

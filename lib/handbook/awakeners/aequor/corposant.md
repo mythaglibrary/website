@@ -20,29 +20,31 @@ awakener:
       - tier: A
         note: Great
   stopping_points:
-    - E3
-    - OE
+    - 'E3, OE'
   builds:
-    - name: Example Build (Shield Support)
+    - name: Example Build (Support)
       covenants:
         - burial-grounds-sighs
+        - crimson-pulse
       wheels:
         early_game:
-          - id: data-is-flesh
+          - id: to-my-dearest-friend
+            note: (Any support)
           - id: gluttony
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: dusk-and-dawn
-            note: Any Death Res.
-          - id: data-is-flesh
-    - name: Example Build (Main DPS)
+            note: (Any support)
+          - id: to-my-dearest-friend
+            note: (Any support)
+    - name: Example Build (DPS)
       covenants:
         - dream-of-medicine
         - crimson-pulse
       wheels:
         early_game:
-          - id: to-my-dearest-friend
           - id: analysis-of-death
+          - id: to-my-dearest-friend
         astral_reign:
           - id: blade-of-the-titan
           - id: to-my-dearest-friend
@@ -58,4 +60,4 @@ awakener:
 
 A flexible defensive and offensive support with access to both weakness and vulnerable at E3. In a discard-focused team that consistently triggers Aftershock, her Pilots rapidly stack STR and Tentacle DMG.
 
-Corposant is notably strong in story mode and Hectic Skybound Rail, as she easily abuses many Ch. resonance gimmicks. Her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent makes her deal high damage to Aequor enemies, including Ch.-end bosses.
+Corposant is notably strong in story mode and Hectic Skybound Rail, as she can abuse many chapter resonance gimmicks. Her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent makes her deal high damage to Aequor enemies, including chapter-end bosses.

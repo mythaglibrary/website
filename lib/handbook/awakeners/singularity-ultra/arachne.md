@@ -5,11 +5,13 @@ template: awakeners/awakener.html
 awakener:
   tagline: Damage Amplifier, Harbinger of Doom
   roles:
+    - Final Verdict
+    - AOE
     - Temp. Prism
     - DMG Amp.
-    - Card Copy
-    - AOE
     - Shields
+    - Card Copy
+    - Aliemus
     - Dispel Stagnation
   ranks:
     dps:
@@ -19,37 +21,37 @@ awakener:
       - tier: S
         note: Insane
   stopping_points:
-    - E0
-    - E2
-    - E3
+    - 'E0, E2, E3'
   builds:
-    - name: Example Build
+    - name: Example Build (Support)
       covenants:
         - dream-of-medicine
         - burial-grounds-sighs
+      covenants_note: (Any support)
       wheels:
         early_game:
           - id: aged
-            note: Any support
+            note: (Any support)
           - id: whisper
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: eternal-weave
-            note: Any Realm Mastery
+            note: (Any RM)
           - id: data-is-flesh
-            note: Any Realm Mastery
-      covenants_note: Any support
+            note: (Any RM)
   suggested_posses:
+    - id: orbis-fatum
+      note: Astral Reign Ch. 5
     - id: festival-of-tides
       note: 'Dreamscape: "Desecrate"'
   works_well_with:
     - daffodil
-    - mouchette
     - castor
     - jenkin
+  works_well_with_note: Anyone
 ---
 
-A complex but powerful support. Her rouse and pursuit multiply the effectiveness of your team's command cards. She also brings good shields and huge [DMG amplification](/handbook/team#dmg-amplification-base-dmg) buffs.
+A complex but powerful support. Each trigger of her pursuit multiplies the power of command cards for that turn. She also brings big shields and huge [DMG amplification](/handbook/team#dmg-amplification-base-dmg) buffs.
 
 Arachne's Final Verdict outdamages many DPS, while also ignoring shields and invulnerability, trivializing many boss mechanics.
 
