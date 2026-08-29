@@ -808,7 +808,7 @@ def _guides_by_realm(guides: list[Guide]) -> dict[str, list[Guide]]:
 def _render_nav(guides: list[Guide], indent: str) -> str:
     grouped = _guides_by_realm(guides)
 
-    lines = [f'{indent}{{ "Awakener Guides" = [', f'{indent}  "handbook/awakeners.md",']
+    lines = [f'{indent}{{ "Awakener Guides" = [', f'{indent}  "handbook/awakeners/index.md",']
     for family_name, realms in REALM_FAMILIES:
         if not any(grouped.get(realm) for realm, _ in realms):
             continue
