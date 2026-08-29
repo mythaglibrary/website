@@ -41,7 +41,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Wheel Unseen**
 
-  [Tawil](/handbook/awakeners#tawil)
+  [Tawil](/handbook/awakeners/chaos/tawil)
 
   *(hand size, keyflare, for many DPS)*
 </div>
@@ -50,7 +50,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Merciful Nurturing**
 
-  [Thais](/handbook/awakeners#thais)
+  [Thais](/handbook/awakeners/caro/thais)
 
   *(hand size, keyflare, aliemus)*
 </div>
@@ -72,7 +72,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Blade of the Titan**
 
-  [Goliath](/handbook/awakeners#goliath)
+  [Goliath](/handbook/awakeners/aequor/goliath)
 
   *(for many DPS)*
 </div>
@@ -81,7 +81,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Eternal Requiem**
 
-  [Hameln](/handbook/awakeners#hameln)
+  [Hameln](/handbook/awakeners/chaos/hameln)
 
   *(keyflare, for many DPS)*
 </div>
@@ -90,7 +90,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Manikin of Oblivion**
 
-  [GDoll](/handbook/awakeners#gdoll)
+  [GDoll](/handbook/awakeners/chaos/gdoll)
 
   *(aliemus)*
 </div>
@@ -99,7 +99,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Hymn of the Sovereign**
 
-  [Tulu](/handbook/awakeners#tulu)
+  [Tulu](/handbook/awakeners/aequor/tulu)
 
   *(aliemus)*
 </div>
@@ -108,7 +108,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Uteri Somnia**
 
-  [GMurphy](/handbook/awakeners#gmurphy)
+  [GMurphy](/handbook/awakeners/aequor/gmurphy)
 
   *(hand size, keyflare, aliemus)*
 </div>
@@ -117,7 +117,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Fragrant Morphogenesis**
 
-  [Saya](/handbook/awakeners#saya)
+  [Saya](/handbook/awakeners/propagation-caro/saya)
 
   *(arithmetica)*
 </div>
@@ -126,7 +126,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Unbearable Freedom**
 
-  [Castor](/handbook/awakeners#castor)
+  [Castor](/handbook/awakeners/ultra/castor)
 
   *(hand size, team damage)*
 </div>
@@ -135,7 +135,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **The Last Verse**
 
-  [Horla](/handbook/awakeners#horla)
+  [Horla](/handbook/awakeners/ultra/horla)
 
   *(keyflare, for many DPS)*
 </div>
@@ -211,7 +211,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Gift of Decay**
 
-  [Nymphaea](/handbook/awakeners#nymphaea)
+  [Nymphaea](/handbook/awakeners/chaos/nymphaea)
 
   *(aliemus, for poison DPS)*
 </div>
@@ -220,7 +220,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Memory Spiral**
 
-  [Nautila](/handbook/awakeners#nautila)
+  [Nautila](/handbook/awakeners/chaos/nautila)
 
   *(shields)*
 </div>
@@ -229,7 +229,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Amidst the Downpour**
 
-  [Faros](/handbook/awakeners#faros)
+  [Faros](/handbook/awakeners/aequor/faros)
 
   *(for supports that use strikes)*
 </div>
@@ -238,7 +238,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Bloody Feast**
 
-  [Uvhash](/handbook/awakeners#uvhash)
+  [Uvhash](/handbook/awakeners/caro/uvhash)
 
   *(for exalt DPS)*
 </div>
@@ -247,7 +247,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Happy Magic Show**
 
-  [Casiah](/handbook/awakeners#casiah)
+  [Casiah](/handbook/awakeners/ultra/casiah)
 
   *(keyflare, aliemus)*
 </div>
@@ -256,7 +256,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Incalculable Factor**
 
-  [Winkle](/handbook/awakeners#winkle)
+  [Winkle](/handbook/awakeners/ultra/winkle)
 
   *(keyflare, aliemus)*
 </div>
@@ -265,7 +265,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Path Forsaken**
 
-  [Jenkin](/handbook/awakeners#jenkin)
+  [Jenkin](/handbook/awakeners/ultra/jenkin)
 
   *(for multihit DPS)*
 </div>
@@ -274,7 +274,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Grace Through Pain**
 
-  [Lily](/handbook/awakeners#lily)
+  [Lily](/handbook/awakeners/chaos/lily)
 
   *(for characters that use strikes)*
 </div>
@@ -283,7 +283,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Amber-Tinted Death**
 
-  [Kathigu-Ra](/handbook/awakeners#kathigu-ra)
+  [Kathigu-Ra](/handbook/awakeners/chaos/kathigu-ra)
 
   *(for STR generators)*
 </div>
@@ -292,7 +292,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Flamebound Navigator**
 
-  [Corposant](/handbook/awakeners#corposant)
+  [Corposant](/handbook/awakeners/aequor/corposant)
 
   *(death resistance, team damage)*
 </div>
@@ -301,7 +301,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Power of the Pious**
 
-  [Miryam](/handbook/awakeners#miryam)
+  [Miryam](/handbook/awakeners/aequor/miryam)
 
   *(bonus tentacle, team damage)*
 </div>
@@ -310,7 +310,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Shrouded Birth**
 
-  [Murphy](/handbook/awakeners#murphy)
+  [Murphy](/handbook/awakeners/aequor/murphy)
 
   *(keyflare, team damage)*
 </div>
@@ -319,25 +319,16 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **The Living Cage**
 
-  [Pontos](/handbook/awakeners#pontos)
+  [Pontos](/handbook/awakeners/benthos-aequor/pontos)
 
   *(aliemus, team damage)*
-</div>
-<div class="item" markdown>
-  ![Eternal Weave](/images/wheels/eternal-weave.png)
-
-  **Eternal Weave**
-
-  [Arachne](/handbook/awakeners#arachne)
-
-  *(aliemus)*
 </div>
 <div class="item" markdown>
   ![Treasured Rarity](/images/wheels/treasured-rarity.png)
 
   **Treasured Rarity**
 
-  [Daffodil](/handbook/awakeners#daffodil)
+  [Daffodil](/handbook/awakeners/ultra/daffodil)
 
   *(for many DPS)*
 </div>
@@ -346,7 +337,7 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Twisted Knight Ballad**
 
-  [Pollux](/handbook/awakeners#pollux)
+  [Pollux](/handbook/awakeners/ultra/pollux)
 
   *(for many DPS)*
 </div>
@@ -355,9 +346,18 @@ Wheels not on this list are not recommended for new players to spend resources o
 
   **Veiled Anguish**
 
-  [Clementine](/handbook/awakeners#clementine)
+  [Clementine](/handbook/awakeners/ultra/clementine)
 
   *(keyflare, aliemus)*
+</div>
+<div class="item" markdown>
+  ![Eternal Weave](/images/wheels/eternal-weave.png)
+
+  **Eternal Weave**
+
+  [Arachne](/handbook/awakeners/singularity-ultra/arachne)
+
+  *(aliemus)*
 </div>
 <div class="item" markdown>
   ![Falling Upward](/images/wheels/falling-upward.png)

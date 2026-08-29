@@ -209,7 +209,7 @@ members:
   - awakener: caecus
     archetype: support
     role: Counter / Support
-    note: Heals, debuffs, turns STR into counter
+    note: Heals, turns STR into counter
     covenant: april-tribute
     wheels: [fin-of-sorrow, to-my-dearest-friend]
   - awakener: nautila
@@ -413,7 +413,7 @@ When building your DPS, keep in mind which of their skills are actually doing da
 
 - Those with high Base DMG multipliers, like [GHelot](/handbook/awakeners/caro/ghelot) or [Kathigu-Ra](/handbook/awakeners/chaos/kathigu-ra)
 - Those that mainly generate fixed poison or counter, like [Nymphaea](/handbook/awakeners/chaos/nymphaea) or [Faros](/handbook/awakeners/aequor/faros)
-- Those that rely on unique effects scaling with DMG amp, like [Castor](/handbook/awakeners/ultra/castor) and [Arachne](/handbook/awakeners/singularity-ultra/arachne)
+- Those that rely on unique effects scaling with DMG amp, like [Castor](/handbook/awakeners/ultra/castor) or [Arachne](/handbook/awakeners/singularity-ultra/arachne)
 
 For DPS that simply have high Base DMG, building crit is usually a higher priority than DMG amp, but they can make good use of incidental DMG amp from relics and substats. They also benefit from effects that boost Base DMG, such as the wheel [Hand of Oblivion](https://skeydb.com/database/wheels/hand-of-oblivion){target="_blank"}.
 
@@ -552,7 +552,7 @@ Prioritize Death Resistance and Keyflare Regen.
 
 A generic support set that gives a bit of arithmetica.
 
-If you aren't in danger of dying, or if you have a carry like [GHelot](/handbook/awakeners#ghelot) or [GLotan](/handbook/awakeners#glotan) who needs a lot of arithmetica, you can run this instead of [Burial Ground's Sighs](#burial-grounds-sighs).
+If you aren't in danger of dying, or if you have a carry like [GHelot](/handbook/awakeners/caro/ghelot) or [GLotan](/handbook/awakeners/primordia-chaos/glotan) who needs a lot of arithmetica, you can run this instead of [Burial Ground's Sighs](#burial-grounds-sighs).
 
 Prioritize Keyflare Regen and any supportive stats of your choice.
 
@@ -638,7 +638,7 @@ Prioritize crit if a crit DPS is holding this, teamwide stats otherwise. Keyflar
 
 Gives you a copy of the wielder's defense card every other turn.
 
-This is only worth it if there's something special about the defense that makes you want it every turn. For example, [Horla](/handbook/awakeners#horla)'s defense inflicts weakness at E1, making this a great covenant set for her.
+This is only worth it if there's something special about the defense that makes you want it every turn. For example, [Horla](/handbook/awakeners/ultra/horla)'s defense inflicts weakness at E1, making this a great covenant set for her.
 
 #### Twisted Twins: Black
 
@@ -657,7 +657,7 @@ This is only worth it if there's something special about the defense that makes 
 
 Gives you a copy of the wielder's strike card every other turn.
 
-This is only worth it if there's something special about the strike that makes you want it every turn. For example, [Clementine](/handbook/awakeners#clementine)'s cards generate STR when played as the first card each turn.
+This is only worth it if there's something special about the strike that makes you want it every turn. For example, [Clementine](/handbook/awakeners/ultra/clementine)'s cards generate STR when played as the first card each turn.
 
 Works great with the SSR wheel [Amidst the Downpour](https://skeydb.com/database/wheels/amidst-the-downpour){target="_blank"}.
 
@@ -701,7 +701,7 @@ Gives a tiny amount of STR at the start of the battle; or in Aequor teams, gives
 
 Many people misread the effect and think this set generates extra permanent tentacles. In fact, Tentacle Gathering only lasts one turn.
 
-[Vortice](/handbook/awakeners#vortice) is the only character that can use this effectively.
+[Vortice](/handbook/awakeners/benthos-aequor/vortice) is the only character that can use this effectively.
 
 #### Steppenwolf
 
@@ -718,7 +718,7 @@ Many people misread the effect and think this set generates extra permanent tent
   </span>
 </div>
 
-For DPS that mainly apply fixed poison or counter, like [Nymphaea](/handbook/awakeners#nymphaea), this is the highest-damage option.
+For DPS that mainly apply fixed poison or counter, like [Nymphaea](/handbook/awakeners/chaos/nymphaea), this is the highest-damage option.
 
 Prioritize DMG Amplification and Keyflare Regen.
 
@@ -741,7 +741,7 @@ If you can crit, you should probably run [April Tribute](#april-tribute) instead
 
 Increases the wielder's aliemus generation, at the cost of reducing your death resistance.
 
-If you're a god gamer who never dies, you can put this on [Thais](/handbook/awakeners#thais) or [GDoll](/handbook/awakeners#gdoll) to push your Phantasmal Dive Madness leaderboard score.
+If you're a god gamer who never dies, you can put this on [Thais](/handbook/awakeners/caro/thais) or [GDoll](/handbook/awakeners/chaos/gdoll) to push your Phantasmal Dive Madness leaderboard score.
 
 Almost useless in [Astral Reign](/handbook/storylines#astral-reign-arc-2) due to rules changes.
 
@@ -783,7 +783,7 @@ Not a good DPS set because it doesn't actually increase damage.
 
 Buffs command cards, but makes the wielder's exalt cost more.
 
-For most DPS, this is a lower-damage option than [April Tribute](#april-tribute). Specific characters like [Kathigu-Ra](/handbook/awakeners#kathigu-ra) and [Salvador](/handbook/awakeners#salvador) can use this because they also benefit from the shielding and healing boost.
+For most DPS, this is a lower-damage option than [April Tribute](#april-tribute). Specific characters like [Kathigu-Ra](/handbook/awakeners/chaos/kathigu-ra) and [Salvador](/handbook/awakeners/caro/salvador) can use this because they also benefit from the shielding and healing boost.
 
 #### Photosynthesis Ritual
 
@@ -840,7 +840,7 @@ Theoretically good in some scenarios, but it takes too much setup for this to be
 
 Gives a big buff when you switch tentacle stance and use Annihilation in the same turn.
 
-Not a bad effect, but there aren't a lot of Aequor/Ultra teams that can use it effectively. If you have a heavily invested [Vortice](/handbook/awakeners#vortice), you can try it out.
+Not a bad effect, but there aren't a lot of Aequor/Ultra teams that can use it effectively. If you have a heavily invested [Vortice](/handbook/awakeners/benthos-aequor/vortice), you can try it out.
 
 #### Feast from Afar
 
@@ -857,7 +857,7 @@ Not a bad effect, but there aren't a lot of Aequor/Ultra teams that can use it e
   </span>
 </div>
 
-Boosts the shield from the wielder's defense card. Niche but strong on specific characters like [Kathigu-Ra](/handbook/awakeners#kathigu-ra).
+Boosts the shield from the wielder's defense card. Niche but strong on specific characters like [Kathigu-Ra](/handbook/awakeners/chaos/kathigu-ra).
 
 Usually paired with the SR wheel [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"} or some other way to get more defense cards. Otherwise, this only buffs 1 card in the deck out of 16.
 
@@ -878,7 +878,7 @@ Usually paired with the SR wheel [The Land of Nonexistence](https://skeydb.com/d
 
 Buffs the wielder's exalt, but makes your posse cost more keyflare.
 
-Theoretically better than [April Tribute](#april-tribute) for characters like [Sorel](/handbook/awakeners#sorel), but the drawback is very annoying. It's like the anti-[Life Drain](#life-drain).
+Theoretically better than [April Tribute](#april-tribute) for characters like [Sorel](/handbook/awakeners/caro/sorel), but the drawback is very annoying. It's like the anti-[Life Drain](#life-drain).
 
 Usable if you don't mind having to work harder for your keyflare.
 

@@ -51,7 +51,7 @@ This is the easiest difficulty and can be done as soon as you unlock D-tide.
 
 In Alert 1, the enemy HP is so low that you only need one leveled DPS to cruise to victory. The rest of the team can be level 1. (Don't forget to unlock [soulforge level 1](/handbook/resources#soulforge-aptitude) though.)
 
-If the team has a limited character with big numbers like [Arachne](/handbook/awakeners#arachne) or [Saya](/handbook/awakeners#saya), you may not even need level 40 to clear.
+If the team has a limited character with big numbers like [Arachne](/handbook/awakeners/singularity-ultra/arachne) or [Saya](/handbook/awakeners/propagation-caro/saya), you may not even need level 40 to clear.
 </div>
 
 ![](/images/handbook/d-zone/alert-1.png){width="256" loading=lazy}
@@ -87,7 +87,7 @@ If the team has any limited units, or a level 60 DPS with soulforge levels, this
 </div>
 
 <figure markdown="span">
-  ![](/images/handbook/d-zone/alert-2-clear.png){width="600" loading=lazy} <figcaption>In Ultra Ring, a level 40 [Arachne](/handbook/awakeners#arachne) solos Alert 2. Credit: Angbak</figcaption>
+  ![](/images/handbook/d-zone/alert-2-clear.png){width="600" loading=lazy} <figcaption>In Ultra Ring, a level 40 [Arachne](/handbook/awakeners/singularity-ultra/arachne) solos Alert 2. Credit: Angbak</figcaption>
 </figure>
 
 ### Alert III (Lv. 60-68)
@@ -115,7 +115,7 @@ If you have any limited units or invested DPS on the team, this difficulty is on
 </div>
 
 <figure markdown="span">
-  ![](/images/handbook/d-zone/alert-3-clear.png){width="600" loading=lazy} <figcaption>In Caro Ring, a level 60 [Doresain](/handbook/awakeners#doresain) solos Alert 3. Credit: südoëncounterənce</figcaption>
+  ![](/images/handbook/d-zone/alert-3-clear.png){width="600" loading=lazy} <figcaption>In Caro Ring, a level 60 [Doresain](/handbook/awakeners/caro/doresain) solos Alert 3. Credit: südoëncounterənce</figcaption>
 </figure>
 
 ### Alert IV (Lv. 70-74)
@@ -135,7 +135,7 @@ This is around the difficulty of Chapter 3 and onward of [Astral Reign](/handboo
 
 Alert 4 is when the game gets serious and you can't clear with random characters anymore. You need [weakness and vulnerable](/handbook/team#weakness-vulnerable) and a [keyflare bot](/handbook/team#the-almighty-keyflare-bot). You need characters that synergize with each other and a game plan that scales well against tougher enemies.
 
-If the team has a strong limited carry like [Vortice](/handbook/awakeners#vortice) or [GHelot](/handbook/awakeners#ghelot), this difficulty is straightforward and you can get away with using level 60 soulforge 5 units. Otherwise, you may need more investment depending on how questionable your team is.
+If the team has a strong limited carry like [Vortice](/handbook/awakeners/benthos-aequor/vortice) or [GHelot](/handbook/awakeners/caro/ghelot), this difficulty is straightforward and you can get away with using level 60 soulforge 5 units. Otherwise, you may need more investment depending on how questionable your team is.
 </div>
 
 ![](/images/handbook/d-zone/alert-4.png){width="256" loading=lazy}
@@ -143,7 +143,7 @@ If the team has a strong limited carry like [Vortice](/handbook/awakeners#vortic
 </div>
 
 <figure markdown="span">
-  ![](/images/handbook/d-zone/alert-4-clear.png){width="600" loading=lazy} <figcaption>If the boss is weak to counter, a level 60 [Caecus](/handbook/awakeners#caecus) and [Wanda](/handbook/awakeners#wanda) team clears Alert 4. Credit: Me</figcaption>
+  ![](/images/handbook/d-zone/alert-4-clear.png){width="600" loading=lazy} <figcaption>If the boss is weak to counter, a level 60 [Caecus](/handbook/awakeners/aequor/caecus) and [Wanda](/handbook/awakeners/ultra/wanda) team clears Alert 4. Credit: Me</figcaption>
 </figure>
 
 ### Alert V (Lv. 75-78)
@@ -173,7 +173,7 @@ Alert 5 is not for everyone, but the rewards are great and the taste of success 
 </div>
 
 <figure markdown="span">
-  ![](/images/handbook/d-zone/alert-5-clear.png){width="600" loading=lazy} <figcaption>With good wheels and persistence, a level 60 soulforge 10 [GHelot](/handbook/awakeners#ghelot) clears Alert 5. Credit: Me</figcaption>
+  ![](/images/handbook/d-zone/alert-5-clear.png){width="600" loading=lazy} <figcaption>With good wheels and persistence, a level 60 soulforge 10 [GHelot](/handbook/awakeners/caro/ghelot) clears Alert 5. Credit: Me</figcaption>
 </figure>
 
 ## Rules of D-Tide
@@ -228,7 +228,7 @@ The second relic will always be either Chaos Ring, Aequor Ring, Caro Ring, or Ul
 
 If you use any characters from the specified realm, you get their Dimensional Image Relic for free. This is a special relic which gives that character 15 aliemus per turn, and also has a bonus effect depending on the character.
 
-In most cases, a character's image relic will move them up "half a tier" on the tier list. Some characters, like [GMurphy](/handbook/awakeners#gmurphy), [Xu](/handbook/awakeners#xu), and [Arachne](/handbook/awakeners#arachne), have especially powerful image relics that make them meta-defining during that D-tide rotation.
+In most cases, a character's image relic will move them up "half a tier" on the tier list. Some characters, like [GMurphy](/handbook/awakeners/aequor/gmurphy), [Xu](/handbook/awakeners/caro/xu), and [Arachne](/handbook/awakeners/singularity-ultra/arachne), have especially powerful image relics that make them meta-defining during that D-tide rotation.
 
 **Even standard units become powerful when their Ring is active**. This is why [all the standard units are endgame viable](/handbook/resources#your-first-awakening) and why [you should pull all the realms rather than sticking to one realm](/handbook/resources#pure-cores-standard-pulls).
 
@@ -240,10 +240,10 @@ You can see what each Dimensional Image does by clicking on the "Astral Reign" b
 
 Before you dive into D-tide, plan your strategy by checking the relic, enemies, and boss of each wave. Different conditions are going to favor different team comps.
 
-- If the boss has only one HP bar, it favors Max HP % damage characters like OE [Lotan](/handbook/awakeners#lotan).
-- If the boss uses multihit attacks, it favors STR down and counter DPS like [Caecus](/handbook/awakeners#caecus).
-- If the boss summons more enemies, it favors DPS with good AOE like [Kathigu-Ra](/handbook/awakeners#kathigu-ra).
-- If the boss has Ancient Embers, it favors DPS that deal damage every turn like [Vortice](/handbook/awakeners#vortice).
+- If the boss has only one HP bar, it favors Max HP % damage characters like OE [Lotan](/handbook/awakeners/chaos/lotan).
+- If the boss uses multihit attacks, it favors STR down and counter DPS like [Caecus](/handbook/awakeners/aequor/caecus).
+- If the boss summons more enemies, it favors DPS with good AOE like [Kathigu-Ra](/handbook/awakeners/chaos/kathigu-ra).
+- If the boss has Ancient Embers, it favors DPS that deal damage every turn like [Vortice](/handbook/awakeners/benthos-aequor/vortice).
 - If the boss seals you or has other annoying restrictions, it favors teams that can ignore or bypass those restrictions.
 
 If you don't know what the boss does, you can watch replays from the leaderboard, or check the [Morimens Boss Compendium](https://docs.google.com/spreadsheets/d/1QYciqHJY3BilDcdvBiIT_dOqXOdqGX-4FBDj5rL6qyA/){target="_blank"}, or ask in [one of the community Discords](https://discord.gg/RAegY8wcGx){target="_blank"}, or scout the stage at a lower difficulty first.
@@ -255,7 +255,7 @@ Each wave also has a roughly consistent length:
 - Wave 4 is always **2 elites and a boss** with no mob fights and 1 shop.
 - Wave 3 is always **a single boss fight** with no mob fights and no shops.
 
-Long exploration stages favor characters that grow stronger after each fight, such as [Ryker](/handbook/awakeners#ryker) and [Pollux](/handbook/awakeners#pollux). Boss-only stages favor characters that have trouble with mob fights, such as [GDoll](/handbook/awakeners#gdoll) and most poison characters.
+Long exploration stages favor characters that grow stronger after each fight, such as [Ryker](/handbook/awakeners/chaos/ryker) and [Pollux](/handbook/awakeners/ultra/pollux). Boss-only stages favor characters that have trouble with mob fights, such as [GDoll](/handbook/awakeners/chaos/gdoll) and most poison characters.
 
 ## Starve Your Teams
 
@@ -272,8 +272,8 @@ If you use all your good characters and wheels on one team, you may have an easi
 
 The smart strategy is to split your good characters and wheels across as many teams as possible. In other words, **make the worst possible team that can still clear each wave**.
 
-- Which gives more points: clearing one wave at Alert 5 with a team of [GHelot](/handbook/awakeners#ghelot), [Thais](/handbook/awakeners#thais), [Salvador](/handbook/awakeners#salvador), and [Arachne](/handbook/awakeners#arachne), or clearing four waves at Alert 1 with each of those characters individually?
-- Do you *need* [Thais](/handbook/awakeners#thais) to clear that wave, or can you substitute a less powerful support and still clear?
+- Which gives more points: clearing one wave at Alert 5 with a team of [GHelot](/handbook/caro/ghelot), [Thais](/handbook/awakeners/caro/thais), [Salvador](/handbook/awakeners/caro/salvador), and [Arachne](/handbook/awakeners/ultra/arachne), or clearing four waves at Alert 1 with each of those characters individually?
+- Do you *need* [Thais](/handbook/awakeners/caro/thais) to clear that wave, or can you substitute a less powerful support and still clear?
 - Do you *need* the extra damage from Blade of the Titan, or can you substitute a less powerful wheel?
 - In fact, do you *need* to put wheels on your supports at all?
 
@@ -287,12 +287,12 @@ For one of your clears each D-tide rotation, you're allowed to borrow a support 
 
 What this practically means is that in addition to whatever characters are on your account, you are also allowed to use one free, fully maxed, +12 level 90 limited carry with whatever wheels and covenants you want.
 
-If you're new, I recommend borrowing a [Mouchette](/handbook/awakeners#mouchette) to clear one wave at Alert 5 difficulty. It's literally free points.
+If you're new, I recommend borrowing a [Mouchette](/handbook/awakeners/chaos/mouchette) to clear one wave at Alert 5 difficulty. It's literally free points.
 
-(If it's a bad matchup for [Mouchette](/handbook/awakeners#mouchette), you can also borrow a [Pollux](/handbook/awakeners#pollux), [GHelot](/handbook/awakeners#ghelot), etc.)
+(If it's a bad matchup for [Mouchette](/handbook/awakeners/chaos/mouchette), you can also borrow a [Pollux](/handbook/awakeners/ultra/pollux), [GHelot](/handbook/awakeners/caro/ghelot), etc.)
 
 <figure markdown="span">
-  ![](/images/handbook/d-zone/mouchette-clear.png){width="600" loading=lazy} <figcaption>If you hit death resistance enough times, a borrowed [Mouchette](/handbook/awakeners#mouchette) solos W3A5. Credit: Angbak</figcaption>
+  ![](/images/handbook/d-zone/mouchette-clear.png){width="600" loading=lazy} <figcaption>If you hit death resistance enough times, a borrowed [Mouchette](/handbook/awakeners/chaos/mouchette) solos W3A5. Credit: Angbak</figcaption>
 </figure>
 
 ## Cheri's Flowchart of Diminishing Respect
