@@ -303,6 +303,10 @@ Dimensional Image Relic. Refers to a series of rare relics in [Astral Reign](/ha
 
 [Incalculable Factor](https://skeydb.com/database/wheels/fin-of-sorrow){target="_blank"} ([Winkle](/handbook/awakeners#winkle)'s SSR wheel).
 
+### Investment
+
+The amount of resources that are spent on an awakener or team. In this guide, enlightens, levels, limited or ascended wheels, upgraded covenants, and strong teammates are all considered "investment."
+
 ## J
 
 ### JP Aequor

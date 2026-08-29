@@ -51,59 +51,59 @@ Faded Legacy rules are the ones you're already familiar with. They're used in:
 
 Many new players ignore R wheels. These wheels are actually better than most SR and even SSR wheels. They're so powerful they had to be nerfed by removing their abilities in Astral Reign stages.
 
-**If you're new, put R wheels on all your supports.** The benefit of SSR and SR wheels is raw stats, which are only important on your main damage dealer and shielder. Everyone else is more useful holding R wheels.
+**If you're new, put R wheels on all your supports.** Most SSR and SR wheels only give raw stats, which are only important on your main damage dealer and shielder. Most of the time, your supports will be more effective holding R wheels.
 
 <figure markdown="span">
-  ![](/images/handbook/storylines/p-dive.png){width="600" loading=lazy} <figcaption>I got Dominator rank in Phantasmal Dive with level 60 characters holding R wheels</figcaption>
+  ![](/images/handbook/storylines/p-dive.png){width="600" class="on-glb" loading=lazy} <figcaption>I got Legendary rank in Phantasmal Dive with level 60 characters holding R wheels</figcaption>
 </figure>
 
 Here are some of the best wheels in the game:
 
 <div class="grid-mobile-1/1 grid-desktop-1/1/1" markdown>
-<div class="item text-left" markdown>
+<div class="item" markdown>
   [![Gluttony](/images/wheels/gluttony.png){width="96"}](https://skeydb.com/database/wheels/gluttony){target="_blank"}
 
-  **[Gluttony](https://skeydb.com/database/wheels/gluttony){target="_blank"}**
+  <div class="storylines-r-wheel-name" markdown>[Gluttony](https://skeydb.com/database/wheels/gluttony){target="_blank"}</div>
 
   Increases your max HP by 44% multiplicatively. This also affects Aequor stances and Crimson Furnace.
 </div>
 
-<div class="item text-left" markdown>
+<div class="item" markdown>
   [![Frenzy](/images/wheels/frenzy.png){width="96"}](https://skeydb.com/database/wheels/frenzy){target="_blank"}
 
-  **[Frenzy](https://skeydb.com/database/wheels/frenzy){target="_blank"}**
+  <div class="storylines-r-wheel-name" markdown>[Frenzy](https://skeydb.com/database/wheels/frenzy){target="_blank"}</div>
 
   Lets you buy cursed relics for cheap. Many of these are overpowered and can carry runs by themselves.
 </div>
 
-<div class="item text-left" markdown>
+<div class="item" markdown>
   [![Emerge](/images/wheels/emerge.png){width="96"}](https://skeydb.com/database/wheels/emerge){target="_blank"}
 
-  **[Emerge](https://skeydb.com/database/wheels/emerge){target="_blank"}**
+  <div class="storylines-r-wheel-name" markdown>[Emerge](https://skeydb.com/database/wheels/emerge){target="_blank"}</div>
 
   Lets you refresh the shop more often so you can fish for overpowered relics (especially cursed relics).
 </div>
 
-<div class="item text-left" markdown>
+<div class="item" markdown>
   [![Aged](/images/wheels/aged.png){width="96"}](https://skeydb.com/database/wheels/aged){target="_blank"}
 
-  **[Aged](https://skeydb.com/database/wheels/aged){target="_blank"}**
+  <div class="storylines-r-wheel-name" markdown>[Aged](https://skeydb.com/database/wheels/aged){target="_blank"}</div>
 
   Lets you start fights with full keyflare. This is often enough to kill on turn 1.
 </div>
 
-<div class="item text-left" markdown>
+<div class="item" markdown>
   [![Whisper](/images/wheels/whisper.png){width="96"}](https://skeydb.com/database/wheels/whisper){target="_blank"}
 
-  **[Whisper](https://skeydb.com/database/wheels/whisper){target="_blank"}**
+  <div class="storylines-r-wheel-name" markdown>[Whisper](https://skeydb.com/database/wheels/whisper){target="_blank"}</div>
 
   Lets you start fights with +50 aliemus. One of the best aliemus wheels.
 </div>
 
-<div class="item text-left" markdown>
+<div class="item" markdown>
   [![Hope](/images/wheels/hope.png){width="96"}](https://skeydb.com/database/wheels/hope){target="_blank"}
 
-  **[Hope](https://skeydb.com/database/wheels/hope){target="_blank"}**
+  <div class="storylines-r-wheel-name" markdown>[Hope](https://skeydb.com/database/wheels/hope){target="_blank"}</div>
 
   Think you might die? This gives crazy damage buffs after Emergency Gnosis.
 </div>
@@ -133,9 +133,9 @@ Each level of Soulforge Aptitude also increases CON, ATK, and DEF by 3% in Astra
 
 Here are some of the most impactful soulforge talents:
 
-- [Kathigu-Ra](/handbook/awakeners#kathigu-ra), [Pollux](/handbook/awakeners#pollux), and [Vortice](/handbook/awakeners#vortice) become much stronger.
-- [Corposant](/handbook/awakeners#corposant) deals massive bonus damage to Aequor enemies.
-- The Lemurians — [Faros](/handbook/awakeners#faros), [Goliath](/handbook/awakeners#goliath), [Miryam](/handbook/awakeners#miryam), [Tulu](/handbook/awakeners#tulu), and [GMurphy](/handbook/awakeners#gmurphy) — get gigantic buffs when put in a team together.
+- [Kathigu-Ra](/handbook/awakeners/chaos/kathigu-ra), [Pollux](/handbook/awakeners/ultra/pollux), and [Vortice](/handbook/awakeners/benthos-aequor/vortice) become much stronger.
+- [Corposant](/handbook/awakeners/aequor/corposant) deals massive bonus damage to Aequor enemies.
+- The Lemurians — [Faros](/handbook/awakeners/aequor/faros), [Goliath](/handbook/awakeners/aequor/goliath), [Miryam](/handbook/awakeners/aequor/miryam), [Tulu](/handbook/awakeners/aequor/tulu), and [GMurphy](/handbook/awakeners/benthos-aequor/gmurphy) — get gigantic buffs when put in a team together.
 
 ### Keyflare Rouse
 
@@ -148,7 +148,7 @@ Here are some of the most impactful soulforge talents:
 
 You can't rouse characters at healing junctions or shops like in Faded Legacy. The main way to get rouses is to use Keyflare Rouse.
 
-Once each turn, you can spend 1000 keyflare (one full meter) to add a rouse to your hand. Each time you do this, the cost increases by 1000 for the rest of the battle.
+Once each turn, you can spend 1000 keyflare to add a rouse to your hand. Each time you do this, the cost to Keyflare Rouse increases by 1000 for the rest of the battle.
 
 **Keyflare Regen is incredibly important in Astral Reign** because of Keyflare Rouse. Without enough keyflare, you can't rouse your characters and they don't do anything.
 
@@ -170,7 +170,7 @@ You can have a maximum of 12 arithmetica. Any more is converted into keyflare.
 
 #### Aliemus Harmony
 
-Effects that increase aliemus generation (e.g. the SSR wheel Incalculable Factor) are halved.
+Effects that increase aliemus generation (e.g. the SSR wheel [Incalculable Factor](https://skeydb.com/database/wheels/incalculable-factor){target="_blank"}) are halved.
 
 Each time you use an exalt, that exalt costs 10 more aliemus for the rest of the battle.
 
@@ -194,7 +194,7 @@ Poison on enemies is reduced each turn if they have more poison than 30× your m
 
 Poison and counter are 25% more effective for each roused awakener in the battle.
 
-Attacks that get bonus damage based on your counter have severely reduced scaling. This means [Pandia](/handbook/awakeners#pandia), Ultra ["24"](/handbook/awakeners#24), and [Wanda](/handbook/awakeners#wanda) are much weaker (but not [Nautila](/handbook/awakeners#nautila)'s Fixed DMG).
+Attacks that get bonus damage based on your counter have severely reduced scaling. This means [Pandia](/handbook/awakeners/chaos/pandia), Ultra ["24"](/handbook/awakeners/chaos/24), and [Wanda](/handbook/awakeners/ultra/wanda) are much weaker (but not [Nautila](/handbook/awakeners/chaos/nautila)'s Fixed DMG).
 
 #### Light Cone of Fate
 

@@ -23,7 +23,7 @@ icon: lucide/blocks
 
 When you build a team in Morimens, you aren't building it for no reason. Your goal is to use that team to clear a specific stage, in a specific game mode and ruleset.
 
-**The "best" team you can make is different for every stage.** There is no such thing as a team that can do everything. Even if you have a super-strong carry like [Mouchette](/handbook/awakeners#mouchette) or [GLotan](/handbook/awakeners#glotan), they will still get hard countered by some bosses.
+**The "best" team you can make is different for every stage.** There is no such thing as a team that can do everything. Even if you have a super-strong carry like [Mouchette](/handbook/awakeners/chaos/mouchette) or [GLotan](/handbook/awakeners/primordia-chaos/glotan), they will still get hard countered by some bosses.
 
 Most characters in this game are situationally good — they perform much better in certain situations than others. Part of learning Morimens is understanding which situations are best for each character and which characters are best for each stage.
 
@@ -94,7 +94,7 @@ The supports can also provide:
 - arithmetica and cards, so the team can do more stuff every turn
 - healing and shielding, for dangerous fights or multi-phase bosses
 
-Sometimes the supports include secondary DPS who also contribute damage. For example, [GMurphy](/handbook/awakeners#gmurphy) has trouble killing multiple enemies at once, so you might bring [Tulu](/handbook/awakeners#tulu), who is both a good support for her and a good damage dealer against mob waves.
+Sometimes the supports include secondary DPS who also contribute damage. For example, [GMurphy](/handbook/awakeners/benthos-aequor/gmurphy) has trouble killing multiple enemies at once, so you might bring [Tulu](/handbook/awakeners/aequor/tulu), who is both a good support for her and a good damage dealer against mob waves.
 
 The [Newbie DPS Tier List](/handbook/tier-list) and [Newbie Support Tier List](/handbook/tier-list) rank characters based on how well they fit into this type of team.
 
@@ -182,7 +182,7 @@ Poison characters get stronger the more of them you put together. The more poiso
 
 When building a poison team, consider which characters will apply poison and which characters will trigger poison. Most poison characters can do both, but some are better at applying poison (and should be built as damage dealers), while others are better at triggering poison (and should be built as supports).
 
-A poison team is usually also a stall team, but it can be faster depending on the characters you use. A team with [Liz](/handbook/awakeners#liz) and [Xu](/handbook/awakeners#xu) can apply tons of poison and trigger it right away, killing as fast as a hypercarry team.
+A poison team is usually also a stall team, but it can be faster depending on the characters you use. A team with [Liz](/handbook/awakeners/ultra/liz) and [Xu](/handbook/awakeners/caro/xu) can apply tons of poison and trigger it right away, killing as fast as a hypercarry team.
 
 **Poison teams need to rouse everyone in [Astral Reign](/handbook/storylines).** This is because [Prismatic Lens](/handbook/storylines/#prismatic-lens) makes poison tick faster each turn for each roused character in the team.
 
@@ -222,11 +222,11 @@ members:
 
 **A niche strategy for specific fights.**
 
-Counter teams are about stacking so much counter that enemies die when they attack you. At low levels, this is pretty easy. At endgame, it's harder, but [Daffodil](/handbook/awakeners#daffodil) and [Caecus](/handbook/awakeners#caecus) can do it because their counter scales with buffs.
+Counter teams are about stacking so much counter that enemies die when they attack you. At low levels, this is pretty easy. At endgame, it's harder, but [Daffodil](/handbook/awakeners/ultra/daffodil) and [Caecus](/handbook/awakeners/aequor/caecus) can do it because their counter scales with buffs.
 
 The effectiveness of counter varies depending on the stage. It's amazing when enemies do a lot of multihit attacks. It's awful against enemies that attack in big single hits, or against attacks that don't trigger counter (such as poison, bleed, or tentacles).
 
-A good counter team has a plan B for when the enemies don't trigger counter. The example team can use [Tawil](/handbook/awakeners#tawil) as a normal DPS and just kill enemies with Tawil's cards. It can also use [Nautila](/handbook/awakeners#nautila)'s exalt to convert counter into guaranteed damage.
+A good counter team has a plan B for when the enemies don't trigger counter. The example team can use [Tawil](/handbook/awakeners/chaos/tawil) as a normal DPS and just kill enemies with Tawil's cards. It can also use [Nautila](/handbook/awakeners/chaos/nautila)'s exalt to convert counter into guaranteed damage.
 
 **If you rely on permanent counter, you need to rouse everyone in [Astral Reign](/handbook/storylines).** This is because [Prismatic Lens](/handbook/storylines/#prismatic-lens) gives you bonus temporary counter each turn for each roused character in the team.
 
@@ -250,9 +250,9 @@ A good counter team has a plan B for when the enemies don't trigger counter. The
 - Your team is Caro, so [Life Drain](#life-drain) has a different effect. You still need a keyflare bot, but you can use a different covenant set if you don't want the embryo.
 - Your team is [Primordia: Chaos](#mono-chaos-teams), so the keyflare system is different, and you get a lot of keyflare at the start of the battle.
 - You are a speedrunner and planning to finish every battle on turn 1, so [Life Drain](#life-drain)'s end-of-turn effect will never trigger.
-- You are playing a [GMurphy](/handbook/awakeners#gmurphy) team and your main DPS already makes tons of keyflare.
+- You are playing a [GMurphy](/handbook/awakeners/benthos-aequor/gmurphy) team and your main DPS already makes tons of keyflare.
 
-Dedicated keyflare supports like [Ramona](/handbook/awakeners#ramona) and [Aigis](/handbook/awakeners#aigis) scale with Keyflare Regen and don't need any other stats to work, making them the best keyflare bots. However, any character can be a keyflare bot as long as they hold [Life Drain](#life-drain) and Keyflare Regen wheels.
+Dedicated keyflare supports like [Ramona](/handbook/awakeners/chaos/ramona) and [Aigis](/handbook/awakeners/caro/aigis) scale with Keyflare Regen and don't need any other stats to work, making them the best keyflare bots. However, any character can be a keyflare bot as long as they hold [Life Drain](#life-drain) and Keyflare Regen wheels.
 
 <h3 class="flex-center-inline" markdown="span">
   ![](/images/icons/effects/weakness.png){width="24" loading=lazy}
@@ -272,15 +272,15 @@ Do you like dealing more damage? How about 50% more damage?
 
 **Weakness and vulnerable are the best debuffs in the game.** There's a huge difference between a team that can consistently apply weakness and vulnerable and a team that can't.
 
-Some characters, like [Thais](/handbook/awakeners#thais) and [Horla](/handbook/awakeners#horla), can achieve close to 100% uptime of weakness and vulnerable. These are naturally the best supports in the game.
+Some characters, like [Thais](/handbook/awakeners/caro/thais) and [Horla](/handbook/awakeners/ultra/horla), can achieve close to 100% uptime of weakness and vulnerable. These are naturally the best supports in the game.
 
-Even if you don't have 100% uptime, you should have weakness and vulnerable somewhere, so you have them when you really need them. For example, [Erica](/handbook/awakeners#erica)'s exalt inflicts vulnerable for one turn, which is good enough to unload all your burst damage.
+Even if you don't have 100% uptime, you should have weakness and vulnerable somewhere, so you have them when you really need them. For example, [Erica](/handbook/awakeners/ultra/erica)'s exalt inflicts vulnerable for one turn, which is good enough to unload all your burst damage.
 
 Teams that don't want weakness or vulnerable are rare:
 
 - [GLotan](/handbook/awakeners/primordia-chaos/glotan) gets stronger when there’s more incoming damage, so inflicting weakness is a DPS loss.
-- [Mouchette](/handbook/awakeners#mouchette) prefers to trigger death resistance rather than mitigate damage, so her teams don't need weakness.
-- Fixed poison and counter aren't affected by vulnerable, so characters like [Faros](/handbook/awakeners#faros) that deal damage mainly through status effects benefit less from it.
+- [Mouchette](/handbook/awakeners/chaos/mouchette) prefers to trigger death resistance rather than mitigate damage, so her teams don't need weakness.
+- Fixed poison and counter aren't affected by vulnerable, so characters like [Faros](/handbook/awakeners/aequor/faros) that deal damage mainly through status effects benefit less from it.
 
 **If all else fails, you can run the [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} posse**, and cry yourself to sleep dreaming of all the other posses you could use if only you had weakness and vulnerable on your team.
 
@@ -308,7 +308,7 @@ In Mono Chaos you don't have a gimmick to rely on like any of the other realms. 
 
 **Mono Chaos isn't a good option for new players.** It's great if you're a veteran player with 50 unlocked posses, OE characters, and +12 realm mastery wheels. It sucks if your only options from dual posse are [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} and [Tiny Wish](https://skeydb.com/database/posses/tiny-wish){target="_blank"}.
 
-**Primordia Chaos:** Some characters like [GLotan](/handbook/awakeners#glotan) change how Chaos mechanics work when they're on your team. In Primordia Chaos, the normal Chaos mechanics no longer apply; keyflare generation works differently; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you combine random unlocked posses.
+**Primordia Chaos:** Some characters like [GLotan](/handbook/awakeners/primordia-chaos/glotan) change how Chaos mechanics work when they're on your team. In Primordia Chaos, the normal Chaos mechanics no longer apply; keyflare generation works differently; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you combine random unlocked posses.
 
 ### Teams with Aequor
 
@@ -322,7 +322,7 @@ Aequor gives you a free shield every turn from Tranquil Sea stance, which adds u
 
 **Passive tentacle damage is good early but weak later on.** When you're fighting level 40+ enemies, you need big damage buffs for your end-of-turn slaps to have any impact. Spamming Tranquil Sea stance for shields is usually better than sitting in Surging Tides stance to get more tentacles.
 
-**Benthos Aequor:** Some characters like [GMurphy](/handbook/awakeners#gmurphy) change how Aequor mechanics work when they're on your team. In Benthos Aequor, the stances are stronger but have a 3-turn cooldown.
+**Benthos Aequor:** Some characters like [GMurphy](/handbook/awakeners/benthos-aequor/gmurphy) change how Aequor mechanics work when they're on your team. In Benthos Aequor, the stances are stronger but have a 3-turn cooldown.
 
 ### Teams with Caro
 
@@ -332,11 +332,11 @@ Aequor gives you a free shield every turn from Tranquil Sea stance, which adds u
 
 You get a lot of free healing by using Crimson Furnace. Embryos let you exalt more often and crit more often. You even get shields and temporary STR when you Devour and trigger the Caro Realm Mastery effect.
 
-**A well-rounded realm for both newbies and veterans.** Adding [Aigis](/handbook/awakeners#aigis) and mixing in Caro is the easiest way for new players to make a good team.
+**A well-rounded realm for both newbies and veterans.** Adding [Aigis](/handbook/awakeners/caro/aigis) and mixing in Caro is the easiest way for new players to make a good team.
 
 **Remember that you need to build more keyflare.** The [Life Drain](#life-drain) covenant provides embryo fusion instead of keyflare, so your [keyflare bot](#the-almighty-keyflare-bot) will be less effective.
 
-**Propagation Caro:** Some characters like [Saya](/handbook/awakeners#saya) change how Caro mechanics work when they're on your team. In Propagation Caro, your exalts are buffed; embryos and Realm Mastery further buff your exalts instead of providing shields and STR; and Crimson Furnace is stronger but has a 3-turn cooldown.
+**Propagation Caro:** Some characters like [Saya](/handbook/awakeners/propagation-caro/saya) change how Caro mechanics work when they're on your team. In Propagation Caro, your exalts are buffed; embryos and Realm Mastery further buff your exalts instead of providing shields and STR; and Crimson Furnace is stronger but has a 3-turn cooldown.
 
 ### Teams with Ultra
 
@@ -344,11 +344,11 @@ You get a lot of free healing by using Crimson Furnace. Embryos let you exalt mo
 
 **Play more cards, take extra turns.**
 
-Ultra is the strongest support realm. Its realm mechanics are simply the most powerful. Ultra supports like [Clementine](/handbook/awakeners#clementine) and [Horla](/handbook/awakeners#horla) are extra valuable because they also give access to Annihilation and Ultra Rounds.
+Ultra is the strongest support realm. Its realm mechanics are simply the most powerful. Ultra supports like [Clementine](/handbook/awakeners/ultra/clementine) and [Horla](/handbook/awakeners/ultra/horla) are extra valuable because they also give access to Annihilation and Ultra Rounds.
 
-**Pure Ultra depends on how good your characters are.** If you aren't in Aequor or Caro, you don't have free damage, shields, or healing — your cards are all you have. Your characters need to function all by themselves, and you might need a defensive character like [Lily](/handbook/awakeners#lily) or [Castor](/handbook/awakeners#castor) to survive long fights.
+**Pure Ultra depends on how good your characters are.** If you aren't in Aequor or Caro, you don't have free damage, shields, or healing — your cards are all you have. Your characters need to function all by themselves, and you might need a defensive character like [Lily](/handbook/awakeners/chaos/lily) or [Castor](/handbook/awakeners/ultra/castor) to survive long fights.
 
-**Singularity Ultra:** Some characters like [Arachne](/handbook/awakeners#arachne) change how Ultra mechanics work when they're on your team. In Singularity Ultra, your command cards are buffed; Ultra Round extends the current turn instead of starting a new turn; and Annihilation is changed to put the leftmost card from Ultra Space into your hand with a 3-turn cooldown.
+**Singularity Ultra:** Some characters like [Arachne](/handbook/awakeners/singularity-ultra/arachne) change how Ultra mechanics work when they're on your team. In Singularity Ultra, your command cards are buffed; Ultra Round extends the current turn instead of starting a new turn; and Annihilation is changed to put the leftmost card from Ultra Space into your hand with a 3-turn cooldown.
 
 ## Choosing a Posse
 
@@ -382,16 +382,16 @@ DPS builds are straightforward: give them the build that make them deal the most
   Crit Rate & Crit DMG
 </h4>
 
-[![Lotan](/images/awakeners/chaos/lotan--mini.png "Lotan"){width="80" loading=lazy}](/handbook/awakeners#lotan)
-[![Goliath](/images/awakeners/aequor/goliath--mini.png "Goliath"){width="80" loading=lazy}](/handbook/awakeners#goliath)
-[![Uvhash](/images/awakeners/caro/uvhash--mini.png "Uvhash"){width="80" loading=lazy}](/handbook/awakeners#uvhash)
-[![Liz](/images/awakeners/ultra/liz--mini.png "Liz"){width="80" loading=lazy}](/handbook/awakeners#liz)
+[![Mouchette](/images/awakeners/chaos/mouchette--mini.png "Mouchette"){width="80" loading=lazy}](/handbook/awakeners/chaos/mouchette)
+[![GMurphy](/images/awakeners/aequor/gmurphy--mini.png "GMurphy"){width="80" loading=lazy}](/handbook/awakeners/aequor/gmurphy)
+[![Sorel](/images/awakeners/caro/sorel--mini.png "Sorel"){width="80" loading=lazy}](/handbook/awakeners/caro/sorel)
+[![Pollux](/images/awakeners/ultra/pollux--mini.png "pollux"){width="80" loading=lazy}](/handbook/awakeners/ultra/pollux)
 
 **If the DPS can crit, build crit.**
 
 In Morimens, investing in Crit Rate has better returns than Crit DMG, until you have a 100% chance to crit, at which point Crit DMG is obviously better.
 
-When building your DPS, keep in mind which of their skills are actually doing damage. For example, the wheel [Twisted Knight Ballad](https://skeydb.com/database/wheels/twisted-knight-ballad){target="_blank"} increases the Crit Rate and Crit DMG of command cards, but [Sorel](/handbook/awakeners#sorel) benefits very little from it because all her damage comes from her exalt.
+When building your DPS, keep in mind which of their skills are actually doing damage. For example, the wheel [Twisted Knight Ballad](https://skeydb.com/database/wheels/twisted-knight-ballad){target="_blank"} increases the Crit Rate and Crit DMG of command cards, but [Sorel](/handbook/awakeners/caro/sorel) benefits very little from it because all her damage comes from her exalt.
 
 **Example SSR wheels:** [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"}, [Celestial Beast](https://skeydb.com/database/wheels/celestial-beast){target="_blank"}
 
@@ -404,16 +404,16 @@ When building your DPS, keep in mind which of their skills are actually doing da
   DMG Amplification & Base DMG
 </h4>
 
-[![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png "Nymphaea"){width="80" loading=lazy}](/handbook/awakeners#nymphaea)
-[![Faros](/images/awakeners/aequor/faros--mini.png "Faros"){width="80" loading=lazy}](/handbook/awakeners#faros)
-[![Helot](/images/awakeners/caro/helot--mini.png "Helot"){width="80" loading=lazy}](/handbook/awakeners#helot)
-[![Castor](/images/awakeners/ultra/castor--mini.png "Castor"){width="80" loading=lazy}](/handbook/awakeners#castor)
+[![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png "Nymphaea"){width="80" loading=lazy}](/handbook/awakeners/chaos/nymphaea)
+[![Faros](/images/awakeners/aequor/faros--mini.png "Faros"){width="80" loading=lazy}](/handbook/awakeners/aequor/faros)
+[![Xu](/images/awakeners/caro/xu--mini.png "Xu"){width="80" loading=lazy}](/handbook/awakeners/caro/xu)
+[![Arachne](/images/awakeners/ultra/arachne--mini.png "Arachne"){width="80" loading=lazy}](/handbook/awakeners/singularity-ultra/arachne)
 
 **DMG amplification is situational.** It only multiplies Base DMG and effects that create a fixed amount of poison or counter. It doesn't apply to STR or other bonuses to your damage. This means it's only useful for a few types of DPS:
 
-- Those with high Base DMG multipliers, like [GHelot](/handbook/awakeners#ghelot) or [Kathigu-Ra](/handbook/awakeners#kathigu-ra)
-- Those that mainly generate fixed poison or counter, like [Nymphaea](/handbook/awakeners#nymphaea) or [Faros](/handbook/awakeners#faros)
-- Those that rely on unique effects scaling with DMG amp, like [Castor](/handbook/awakeners#castor) and [Arachne](/handbook/awakeners#arachne)
+- Those with high Base DMG multipliers, like [GHelot](/handbook/awakeners/caro/ghelot) or [Kathigu-Ra](/handbook/awakeners/chaos/kathigu-ra)
+- Those that mainly generate fixed poison or counter, like [Nymphaea](/handbook/awakeners/chaos/nymphaea) or [Faros](/handbook/awakeners/aequor/faros)
+- Those that rely on unique effects scaling with DMG amp, like [Castor](/handbook/awakeners/ultra/castor) and [Arachne](/handbook/awakeners/singularity-ultra/arachne)
 
 For DPS that simply have high Base DMG, building crit is usually a higher priority than DMG amp, but they can make good use of incidental DMG amp from relics and substats. They also benefit from effects that boost Base DMG, such as the wheel [Hand of Oblivion](https://skeydb.com/database/wheels/hand-of-oblivion){target="_blank"}.
 
@@ -427,16 +427,16 @@ For DPS that simply have high Base DMG, building crit is usually a higher priori
 
 #### Other Considerations
 
-Some characters scale with stats other than crit or DMG amp. For example, [Mouchette](/handbook/awakeners#mouchette)'s E1 gives her a lot of crit from death resistance. This means building death resistance on Mouchette is as good as building crit on her.
+Some characters scale with stats other than crit or DMG amp. For example, [Mouchette](/handbook/awakeners/chaos/mouchette)'s E1 gives her a lot of crit from death resistance. This means building death resistance on Mouchette is as good as building crit on her.
 
 Specific characters may have other needs as well. Some might want the wheel [Will Unyielding](https://skeydb.com/database/wheels/will-unyielding){target="_blank"} to get more strikes and defenses. Others might want the covenant [Dream of Medicine](#dream-of-medicine) to have more copies of a key card.
 
 ### Building Supports
 
-[![Doll](/images/awakeners/chaos/doll--mini.png "Doll"){width="80" loading=lazy}](/handbook/awakeners#doll)
-[![Celeste](/images/awakeners/aequor/celeste--mini.png "Celeste"){width="80" loading=lazy}](/handbook/awakeners#celeste)
-[![Faint](/images/awakeners/caro/faint--mini.png "Faint"){width="80" loading=lazy}](/handbook/awakeners#faint)
-[![Casiah](/images/awakeners/ultra/casiah--mini.png "Casiah"){width="80" loading=lazy}](/handbook/awakeners#casiah)
+[![Ramona](/images/awakeners/chaos/ramona--mini.png "Ramona"){width="80" loading=lazy}](/handbook/awakeners/chaos/ramona)
+[![Celeste](/images/awakeners/aequor/celeste--mini.png "Celeste"){width="80" loading=lazy}](/handbook/awakeners/aequor/celeste)
+[![Aigis](/images/awakeners/caro/aigis--mini.png "Aigis"){width="80" loading=lazy}](/handbook/awakeners/caro/aigis)
+[![Casiah](/images/awakeners/ultra/casiah--mini.png "Casiah"){width="80" loading=lazy}](/handbook/awakeners/ultra/casiah)
 
 Stats don't matter on the vast majority of supports. This means they can hold any wheels and covenants and still do their job.
 
@@ -444,7 +444,7 @@ Stats don't matter on the vast majority of supports. This means they can hold an
 
 In [Astral Reign](/handbook/storylines#astral-reign-arc-2), they can hold wheels and covenants that give them aliemus, have a useful teamwide effect, or boost the specific supportive thing they do (like healing or shielding).
 
-Some supports do need a specific stat to function. For example, [Faint](/handbook/awakeners#faint)'s exalt is stronger the more death resistance her wheels and covenants have. In this case you should obviously give her as much death resistance as possible.
+Some supports do need a specific stat to function. For example, [Faint](/handbook/awakeners/caro/faint)'s exalt is stronger the more death resistance her wheels and covenants have. In this case you should obviously give her as much death resistance as possible.
 
 **Remember to have a [keyflare bot](#the-almighty-keyflare-bot) holding [Life Drain](#life-drain)!**
 
@@ -476,15 +476,22 @@ Here are the possible main stats for each piece:
   ![](/images/covenants/covenant-stats.png){loading=lazy}
 </figure>
 
+| I | II | III | IV | V | VI |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <span class="inline-flex-center">![](/images/icons/stats/crit-rate.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-rate--dark.png#only-light){width="16" loading=lazy} Crit Rate</span> | <span class="inline-flex-center">![](/images/icons/stats/crit-rate.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-rate--dark.png#only-light){width="16" loading=lazy} Crit Rate</span> | <span class="inline-flex-center">![](/images/icons/stats/crit-rate.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-rate--dark.png#only-light){width="16" loading=lazy} Crit Rate</span> | <span class="inline-flex-center">![](/images/icons/stats/aliemus-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/aliemus-regen--dark.png#only-light){width="16" loading=lazy} Aliemus Regen</span> | <span class="inline-flex-center">![](/images/icons/stats/aliemus-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/aliemus-regen--dark.png#only-light){width="16" loading=lazy} Aliemus Regen</span> | <span class="inline-flex-center">![](/images/icons/stats/realm-mastery.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/realm-mastery--dark.png#only-light){width="16" loading=lazy} Realm Mastery</span> |
+| <span class="inline-flex-center">![](/images/icons/stats/crit-dmg.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-dmg--dark.png#only-light){width="16" loading=lazy} Crit DMG</span> | <span class="inline-flex-center">![](/images/icons/stats/crit-dmg.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-dmg--dark.png#only-light){width="16" loading=lazy} Crit DMG</span> | <span class="inline-flex-center">![](/images/icons/stats/crit-dmg.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-dmg--dark.png#only-light){width="16" loading=lazy} Crit DMG</span> | <span class="inline-flex-center">![](/images/icons/stats/keyflare-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="16" loading=lazy} Keyflare Regen</span> | <span class="inline-flex-center">![](/images/icons/stats/keyflare-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="16" loading=lazy} Keyflare Regen</span> | <span class="inline-flex-center">![](/images/icons/stats/sigil-yield.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/sigil-yield--dark.png#only-light){width="16" loading=lazy} Sigil Yield</span> |
+| <span class="inline-flex-center">![](/images/icons/stats/aliemus-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/aliemus-regen--dark.png#only-light){width="16" loading=lazy} Aliemus Regen</span> | <span class="inline-flex-center">![](/images/icons/stats/realm-mastery.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/realm-mastery--dark.png#only-light){width="16" loading=lazy} Realm Mastery</span> | <span class="inline-flex-center">![](/images/icons/stats/dmg-amp.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="16" loading=lazy} DMG Amplification</span> | <span class="inline-flex-center">![](/images/icons/stats/realm-mastery.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/realm-mastery--dark.png#only-light){width="16" loading=lazy} Realm Mastery</span> | <span class="inline-flex-center">![](/images/icons/stats/dmg-amp.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="16" loading=lazy} DMG Amplification</span> | <span class="inline-flex-center">![](/images/icons/stats/dmg-amp.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="16" loading=lazy} DMG Amplification</span> |
+| <span class="inline-flex-center">![](/images/icons/stats/keyflare-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="16" loading=lazy} Keyflare Regen</span> | <span class="inline-flex-center">![](/images/icons/stats/sigil-yield.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/sigil-yield--dark.png#only-light){width="16" loading=lazy} Sigil Yield</span> | <span class="inline-flex-center">![](/images/icons/stats/death-resistance.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/death-resistance--dark.png#only-light){width="16" loading=lazy} Death Resistance</span> | <span class="inline-flex-center">![](/images/icons/stats/sigil-yield.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/sigil-yield--dark.png#only-light){width="16" loading=lazy} Sigil Yield</span> | <span class="inline-flex-center">![](/images/icons/stats/death-resistance.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/death-resistance--dark.png#only-light){width="16" loading=lazy} Death Resistance</span> | <span class="inline-flex-center">![](/images/icons/stats/death-resistance.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/death-resistance--dark.png#only-light){width="16" loading=lazy} Death Resistance</span> |
+
 For most covenant sets, you only care about one or two specific stats and don't care about the rest. On pieces that don't have those stats, you can just pick whatever stat you think will be the least useless.
 
-Personally, I default to <span class="inline-flex-center">Keyflare Regen ![](/images/icons/stats/keyflare-regen.png#only-dark){width="10" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="10" loading=lazy}</span> and <span class="inline-flex-center">Death Resistance ![](/images/icons/stats/death-resistance.png#only-dark){width="18" loading=lazy} ![](/images/icons/stats/death-resistance--dark.png#only-light){width="18" loading=lazy}</span>, as these stats are always useful regardless of the character, team, or stage.
+Personally, I default to <span class="inline-flex-center">![](/images/icons/stats/keyflare-regen.png#only-dark){width="10" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="10" loading=lazy} Keyflare Regen</span> and <span class="inline-flex-center">![](/images/icons/stats/death-resistance.png#only-dark){width="18" loading=lazy} ![](/images/icons/stats/death-resistance--dark.png#only-light){width="18" loading=lazy} Death Resistance</span>, as these stats are always useful regardless of the character, team, or stage.
 
 Some stats to be wary of investing in:
 
-- <span class="inline-flex-center">Realm Mastery ![](/images/icons/stats/realm-mastery.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/realm-mastery--dark.png#only-light){width="16" loading=lazy}</span> is only strong in specific realms (Mono Chaos and Benthos Aequor). It's a middling stat for most realm combinations, and nearly useless in base Ultra.
-- <span class="inline-flex-center">DMG Amplification ![](/images/icons/stats/dmg-amp.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="12" loading=lazy}</span> is only good for [specific teams](#dmg-amplification-base-dmg).
-- <span class="inline-flex-center">Aliemus Regen ![](/images/icons/stats/aliemus-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/aliemus-regen--dark.png#only-light){width="16" loading=lazy}</span> has very low returns on investment and is basically never worth building.
+- <span class="inline-flex-center">![](/images/icons/stats/realm-mastery.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/realm-mastery--dark.png#only-light){width="16" loading=lazy} Realm Mastery</span> is only strong in specific realms (Mono Chaos and Benthos Aequor). It's a middling stat for most realm combinations, and nearly useless in base Ultra.
+- <span class="inline-flex-center">![](/images/icons/stats/dmg-amp.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="12" loading=lazy} DMG Amplification</span> is only good for [specific teams](#dmg-amplification-base-dmg).
+- <span class="inline-flex-center">![](/images/icons/stats/aliemus-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/aliemus-regen--dark.png#only-light){width="16" loading=lazy} Aliemus Regen</span> has very low returns on investment and is basically never worth building.
 
 Start by making one of each covenant set you're going to use. When you're a veteran player with a lot of resources, you can build extra covenant sets for specific characters and tailor the stats to exactly what they need.
 

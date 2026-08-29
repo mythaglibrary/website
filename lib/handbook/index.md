@@ -20,15 +20,15 @@ icon: lucide/book-open
   "May the Silver Key guide your way"
 </p>
 
-!!! note "Last updated"
+!!! note ""
 
-    29 August 2026
-
-    V2.6.0 - Caraboo
+    Last updated 29 August 2026 (V2.6.0 - Caraboo)
 
 !!! info ""
 
-    This is a living document, all info is subject to change
+    This is a living document, all info is subject to change.
+    
+    This website is under construction. Please be patient! The original Google Doc can be found [here](https://docs.google.com/document/d/1THjxR9hHs4NWHqSWHHa2dHAGuE_cRGelfzXdBfCnIlM/edit?usp=sharing).
     
     Let me know on [Discord](https://discord.com/channels/1131791637933199470/1477730088299663431){target="_blank"} if you have any feedback or suggestions!
 
@@ -67,7 +67,6 @@ Thanks to the following players for their feedback: Al, Alice, Angbak, Anna, Ara
 - [Braindump-ed in a vat](https://docs.google.com/presentation/d/1XDs_D-NOo88Q1Jkk6b6s_69_gxMFrx-1HBJoS8wXG10/){target="_blank"} - quick reference character guides
 - [Angbak's E0-E3 Tier List](https://www.reddit.com/r/Morimens/comments/1vjle7d/angbak_e0e3_tierlist/){target="_blank"} - aimed at D-Effect Zone Alert 4-5
 - [luffyomg's D-tide Tier List](https://drive.google.com/file/d/184eGAZ4JbkDOIQQtQL_30PwS6rfg_JfP/view){target="_blank"} - aimed at low investment Alert 5 clears
-- [moncher's 400 Dtide +4 Tier List](https://www.reddit.com/r/Morimens/comments/1sedg6e/morimens_tier_list_400_dtide_4_vortice_version/){target="_blank"} - for highly invested players, a bit outdated
 
 ---
 
@@ -128,4 +127,4 @@ Once you reach the midgame, Morimens stops holding your hand. Enemies will no lo
 
 Treat each defeat as a lesson rather than a setback. This game is 10% pay-to-win and 90% skill and patience. If you spend thousands of dollars on a bad team, you will still die. If you pay attention, build your team right, and play your cards right, you'll overcome challenges that seem impossible.
 
-One more thing: there's no shame in using Emergency Gnosis. The game gives you a free revive every day. Unless you're aiming for achievements or bragging rights, why waste it?
+One more thing: there's no shame in using Emergency Gnoses. The game gives you a free revive every day. Unless you're aiming for achievements or bragging rights, why waste it?

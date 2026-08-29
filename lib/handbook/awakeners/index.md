@@ -1,8 +1,7 @@
 ---
 title: Awakener Guides
 description: Quick reference character guides covering roles, DPS and support rankings, optimal team setups, and builds for new players, including key power spike enlightens and recommended gear.
-icon: lucide/book-user
-template: awakeners/index.html
+icon: lucide/users-round
 ---
 
 <figure markdown="span">

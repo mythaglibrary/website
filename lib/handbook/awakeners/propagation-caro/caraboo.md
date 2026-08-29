@@ -49,7 +49,7 @@ awakener:
   works_well_with_note: Anyone
 ---
 
-A shielder who inflicts weakness and buffs your Max HP in long explorations. For a support, she contributes relatively high DPS and can solo carry stages at low levels.
+A shielder who inflicts weakness and buffs your Max HP in long explorations. For a support, she contributes relatively high damage and can solo carry stages at low levels.
 
 Her Blessings have powerful effects, but can’t be relied on too much, as the randomness and Veiled Malice debuffs can screw you over.
 

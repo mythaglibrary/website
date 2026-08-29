@@ -1,7 +1,7 @@
 ---
 title: SSR Wheel Tier List (For New Players)
 description: "Guide for new players on SSR wheels: tier rankings, best picks for teams, store availability, and which wheels are worth pulling or skipping."
-icon: lucide/list-ordered
+icon: lucide/ship-wheel
 ---
 
 <figure markdown="span">
@@ -10,24 +10,22 @@ icon: lucide/list-ordered
 
 # SSR Wheel Tier List *(For New Players)*
 
-<div class="accordion no-icon" markdown>
-??? quote "About the Tier List"
-    This is a reference for new players who are unsure what SSR wheels are worth pulling from banners or buying from the Store.
+This is a reference for new players who are unsure what SSR wheels are worth pulling from banners or buying from the Store.
 
-    <span style="color: var(--md-tier-s);">**S (Insane):**</span> This wheel is extremely good and best in slot for many teams. Get E3 or better if you can.
+<span style="color: var(--md-tier-s);">**S (Insane):**</span> This wheel is extremely good and best in slot for many teams. Get E3 or better if you can.
 
-    <span style="color: var(--md-tier-a);">**A (Great):**</span> This wheel is good in many teams and worth getting.
+<span style="color: var(--md-tier-a);">**A (Great):**</span> This wheel is good in many teams and worth getting.
 
-    <span style="color: var(--md-tier-b);">**B (Decent):**</span> This wheel is good in specific teams, or a useful backup wheel for D-Effect Zone. You can consider getting it.
+<span style="color: var(--md-tier-b);">**B (Decent):**</span> This wheel is good in specific teams, or a useful backup wheel for D-Effect Zone. You can consider getting it.
 
-    A <span style="background-color: var(--md-tier-free);">yellow</span> background means you can buy it from the Store without using pulls.
+A <span style="background-color: var(--md-tier-free);">yellow</span> background means you can buy it from the Store without using pulls.
 
-    A <span style="background-color: var(--md-tier-standard);">blue</span> background means it is a standard wheel you can get with Pure Cores.
+A <span style="background-color: var(--md-tier-standard);">blue</span> background means it is a standard wheel you can get with Pure Cores.
 
-    Wheels not on this list are not recommended for new players to spend resources on.
-</div>
+Wheels not on this list are not recommended for new players to spend resources on.
 
 ## S {.tier .text-center style="background-color: var(--md-tier-s);"}
+
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
   ![Dusk & Dawn](/images/wheels/dusk-and-dawn.png)

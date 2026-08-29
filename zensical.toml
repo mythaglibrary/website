@@ -52,9 +52,12 @@ nav = [
     { "Faded Legacy & Astral Reign" = "handbook/storylines.md" },
     { "How to Build a Team" = "handbook/team.md" },
     { "D-Zone For Dummies" = "handbook/d-zone.md" },
-    { "Awakener Tier List (For New Players)" = "handbook/tier-list.md" },
+    { "Awakener Tier Lists (For New Players)" = "handbook/tier-list.md" },
     { "SSR Wheel Tier List (For New Players)" = "handbook/wheels.md" },
-    { "Awakener Guides" = "handbook/awakeners.md" }, # @mythag-awakener-nav
+    { "Awakener Guides" = [
+      "handbook/awakeners/index.md",
+      # @mythag-awakener-nav
+    ] },
     { "Glossary" = "handbook/glossary.md" }
   ]},
 ]
@@ -337,7 +340,8 @@ link = "https://github.com/mythaglibrary/website"
 [project.markdown_extensions.pymdownx.keys]
 [project.markdown_extensions.pymdownx.magiclink]
 [project.markdown_extensions.pymdownx.mark]
-[project.markdown_extensions.pymdownx.smartsymbols]
+# [project.markdown_extensions.pymdownx.smartsymbols]
+# SmartSymbols caused problems with some formatting, disabling it for now.
 [project.markdown_extensions.pymdownx.tilde]
 
 [project.markdown_extensions.toc]
