@@ -8,11 +8,11 @@ icon: lucide/book-open
   ![](/images/emojis/doll-waiting.png)
 </figure>
 
-<h1 class="text-center" style="margin: 0; font-size: 3em;">
+<h1 class="text-center" style="font-size: 3em;">
   Morimens New Player Handbook
 </h1>
 
-<p class="text-center" style="margin: 0;">
+<p class="text-center" style="font-size: 1em; margin: 0;">
   By Cheri, with help from the Morimens EN Discord and Mythag Library
 </p>
 

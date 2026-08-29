@@ -7,7 +7,7 @@ icon: lucide/sparkles
   ![](images/emojis/aurita-cheering.png)
 </figure>
 
-<h1 class="text-center" style="margin: 0; font-size: 3em;">
+<h1 class="text-center" style="font-size: 3em;">
   Mythag Library
 </h1>
 

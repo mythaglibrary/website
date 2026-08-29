@@ -8,9 +8,7 @@ icon: lucide/ship-wheel
   ![](/images/emojis/doll-questioning.png){width="196"}
 </figure>
 
-<h1 style="margin: 0;" markdown>
-  SSR Wheel Tier List *(For New Players)*
-</h1>
+# SSR Wheel Tier List *(For New Players)*
 
 This is a reference for new players who are unsure what SSR wheels are worth pulling from banners or buying from the Store.
 

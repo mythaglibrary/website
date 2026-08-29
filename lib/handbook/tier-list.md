@@ -8,9 +8,7 @@ icon: lucide/podium
   ![](/images/emojis/doll-grading.png){width="196"}
 </figure>
 
-<h1 style="margin: 0;" markdown>
-  Awakener Tier Lists *(For New Players)*
-</h1>
+# Awakener Tier Lists *(For New Players)*
 
 This is a quick guide for new players who have nothing and want to know what characters they should invest in to progress the fastest.
 
