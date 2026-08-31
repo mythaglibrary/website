@@ -8,7 +8,7 @@ icon: lucide/triangle-alert
   ![](/images/emojis/doll-exhausted.png){width="196"}
 </figure>
 
-# D-Zone For Dummies
+# D-Zone For Dummies (OUTDATED)
 
 ![](/images/handbook/d-zone/d-zone.png){width="117.95" loading=lazy}
 ![](/images/handbook/d-zone/regional-d-effect-zone.png){width="384" loading=lazy}
