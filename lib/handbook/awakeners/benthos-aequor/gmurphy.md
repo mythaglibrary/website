@@ -67,4 +67,4 @@ A high-damage keyflare support who carries Aequor teams with her insane skills a
 
 The downside is that she loves sabotaging you with self-inflicted damage, requiring good management of sacrifice and stance cooldowns.
 
-GMurphy is a viable endgame DPS with OE and high investment. In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, she works well in all-Lemurian teams with [Miryam](/handbook/awakeners/aequor/miryam/), [Tulu](/handbook/awakeners/aequor/tulu/), [Goliath](/handbook/awakeners/aequor/goliath/), and/or [Faros](/handbook/awakeners/aequor/faros/).
+GMurphy is a viable endgame DPS with OE and high investment. In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, she works well in all-Lemurian teams with [Miryam](/handbook/awakeners/miryam/), [Tulu](/handbook/awakeners/tulu/), [Goliath](/handbook/awakeners/goliath/), and/or [Faros](/handbook/awakeners/faros/).

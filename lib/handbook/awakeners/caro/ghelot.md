@@ -41,6 +41,6 @@ awakener:
     - horla
 ---
 
-Playing Crimson Shackles 3 times gives you Bloodthirsty Flail, a powerful card with prepare and retain. By copying this card over and over with the Lone Seed posse and [Thais](/handbook/awakeners/caro/thais/), GHelot can set up a full hand of Flails and use her exalt to pull off one-shot combo turns.
+Playing Crimson Shackles 3 times gives you Bloodthirsty Flail, a powerful card with prepare and retain. By copying this card over and over with the Lone Seed posse and [Thais](/handbook/awakeners/thais/), GHelot can set up a full hand of Flails and use her exalt to pull off one-shot combo turns.
 
-Needs E3 and The Lone Seed for consistency. She works best with [Aigis](/handbook/awakeners/caro/aigis/) or other teammates who can buy time while she's setting up.
+Needs E3 and The Lone Seed for consistency. She works best with [Aigis](/handbook/awakeners/aigis/) or other teammates who can buy time while she's setting up.

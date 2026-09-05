@@ -117,10 +117,10 @@ class AwakenerContentTests(unittest.TestCase):
                     index = config["project"]["extra"]["awakener_index"]
                     guide_ids = {guide.slug for guide in guides}
                     html = (
-                        Path(temporary) / "awakeners" / "index.html"
+                        Path(temporary) / "handbook" / "awakeners" / "index.html"
                     ).read_text(encoding="utf-8")
                     rendered_guides = {
-                        guide.slug: (Path(temporary) / "awakeners" / guide.slug / "index.html").read_text(encoding="utf-8")
+                        guide.slug: (Path(temporary) / "handbook" / "awakeners" / guide.slug / "index.html").read_text(encoding="utf-8")
                         for guide in guides
                     }
                     legacy_redirects = {
@@ -157,7 +157,7 @@ class AwakenerContentTests(unittest.TestCase):
                 self.assertEqual(card["href"], expected["url"])
                 self.assertEqual(card["label"], expected["label"])
                 self.assertEqual(card["src"], expected["image"])
-                self.assertIn(f'/awakeners/{guide.slug}/', rendered_guides[guide.slug])
+                self.assertIn(f'/handbook/awakeners/{guide.slug}/', rendered_guides[guide.slug])
                 self.assertIn('location.replace(', legacy_redirects[guide.slug])
                 self.assertIn(expected["url"], legacy_redirects[guide.slug])
 

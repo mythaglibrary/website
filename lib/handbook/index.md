@@ -28,7 +28,7 @@ icon: lucide/book-open
 
     This is a living document, all info is subject to change.
     
-    **This website is under construction.** Some formatting is wonky and the [Awakener Guides](/handbook/awakeners/index) are not fully updated. Please be patient!
+    **This website is under construction.** Some formatting is wonky and the [Awakener Guides](/handbook/awakeners/) are not fully updated. Please be patient!
     
     Let me know on [Discord](https://discord.com/channels/1131791637933199470/1477730088299663431){target="_blank"} if you have any feedback or suggestions!
 

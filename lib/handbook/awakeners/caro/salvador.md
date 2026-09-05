@@ -46,6 +46,6 @@ awakener:
 
 A tough defensive support who generates Crimson Furnace and makes huge shields with End of Suffering. He also has access to both weakness and vulnerable.
 
-If you copy End of Suffering over and over with the Lone Seed posse and [Thais](/handbook/awakeners/caro/thais/), Salvador can be used as a slow, grindy, unkillable carry.
+If you copy End of Suffering over and over with the Lone Seed posse and [Thais](/handbook/awakeners/thais/), Salvador can be used as a slow, grindy, unkillable carry.
 
 Works best with high-CON teammates, as your Crimson Furnace scales with your max HP.

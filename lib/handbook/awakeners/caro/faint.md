@@ -46,4 +46,4 @@ awakener:
 
 Faint's exalt can stack tons of death resistance, buying multiple turns where you can survive any hit no matter how high the damage. This makes her a top-tier endgame support, as the more difficult a fight is, the better she is compared to other defensive characters.
 
-Faint is often paired with [GDoll](/handbook/awakeners/chaos/gdoll/) to cheese boss fights, but fits in any team that needs to live just a bit longer.
+Faint is often paired with [GDoll](/handbook/awakeners/gdoll/) to cheese boss fights, but fits in any team that needs to live just a bit longer.

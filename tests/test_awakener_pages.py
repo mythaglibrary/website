@@ -147,7 +147,7 @@ class AwakenerPreparationTests(unittest.TestCase):
             self.assertEqual(index["guide"]["example"]["label"], "Example")
             self.assertEqual(
                 index["guide"]["example"]["url"],
-                "/awakeners/example/",
+                "/handbook/awakeners/example/",
             )
 
     def test_check_validates_generated_config_without_writing_it(self) -> None:
@@ -184,10 +184,10 @@ class AwakenerPreparationTests(unittest.TestCase):
         ]
 
         realm = nav[0]["Awakener Guides"][1]["Aequor"]
-        self.assertEqual(realm[0], "awakeners/aurita.md")
+        self.assertEqual(realm[0], "handbook/awakeners/aurita.md")
         self.assertEqual(
             nav[0]["Awakener Guides"][2]["Benthos Aequor"],
-            ["awakeners/pontos.md"],
+            ["handbook/awakeners/pontos.md"],
         )
 
     def test_reports_multiple_schema_errors_with_field_paths(self) -> None:

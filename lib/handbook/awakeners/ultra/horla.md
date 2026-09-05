@@ -47,6 +47,6 @@ awakener:
 
 Horla gives a teamwide buff of your choice for the whole exploration, scaling in magnitude with her death resistance, merely by playing any of her cards once.
 
-Carol Psalm is a good source of aliemus which lets you retain arithmetica across turns, useful for setting up specific DPS like [Daffodil](/handbook/awakeners/ultra/daffodil/).
+Carol Psalm is a good source of aliemus which lets you retain arithmetica across turns, useful for setting up specific DPS like [Daffodil](/handbook/awakeners/daffodil/).
 
 At E1, Horla is also one of the most consistent weakness and vulnerable appliers in the game.

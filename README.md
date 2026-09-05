@@ -196,7 +196,8 @@ See:
 
 ### Stable Awakener URLs
 
-The public index is `/awakeners/`, and each guide is `/awakeners/<id>/`.
+The public index is `/handbook/awakeners/`, and each guide is
+`/handbook/awakeners/<id>/`.
 Authored guide files stay organized by realm under `lib/handbook/awakeners/`.
 Both build and preview generate a flat page tree in `generated-docs/`, so moving
 an existing character between realm folders does not change its public URL.

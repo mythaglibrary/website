@@ -32,16 +32,16 @@ ASSETS = {
     "portraits": {},
     "awakeners": {
         "member-a": asset(
-            "Awakener A", "/images/member-a.png", "/awakeners/member-a/"
+            "Awakener A", "/images/member-a.png", "/handbook/awakeners/member-a/"
         ),
         "member-b": asset(
-            "Awakener B", "/images/member-b.png", "/awakeners/member-b/"
+            "Awakener B", "/images/member-b.png", "/handbook/awakeners/member-b/"
         ),
         "member-c": asset(
-            "Awakener C", "/images/member-c.png", "/awakeners/member-c/"
+            "Awakener C", "/images/member-c.png", "/handbook/awakeners/member-c/"
         ),
         "member-d": asset(
-            "Awakener D", "/images/member-d.png", "/awakeners/member-d/"
+            "Awakener D", "/images/member-d.png", "/handbook/awakeners/member-d/"
         ),
     },
     "covenants": {
@@ -215,7 +215,7 @@ awakener:
         rendered = render_team(view)
 
         self.assertIn("Example &amp; Friends", rendered)
-        self.assertIn('/awakeners/member-a/', rendered)
+        self.assertIn('/handbook/awakeners/member-a/', rendered)
         self.assertIn('/images/covenant-a--icon.png', rendered)
         self.assertIn('title="Awakener A"', rendered)
         self.assertIn('title="Covenant A"', rendered)
@@ -469,8 +469,8 @@ awakener:
                     )
                     rendered = render(
                         team_extension._strip_front_matter(document)[0],
-                        "awakeners/example.md",
-                        "/awakeners/example/",
+                        "handbook/awakeners/example.md",
+                        "/handbook/awakeners/example/",
                         json.dumps(yaml.safe_load(document.split("---", 2)[1])),
                     )
             finally:

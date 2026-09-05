@@ -137,7 +137,7 @@ class Guide:
 
     @property
     def url(self) -> str:
-        return f"/awakeners/{self.slug}/"
+        return f"/handbook/awakeners/{self.slug}/"
 
 
 class AwakenerValidationError(Exception):
@@ -856,7 +856,7 @@ def _guides_by_realm(guides: list[Guide]) -> dict[str, list[Guide]]:
 def _render_nav(guides: list[Guide], indent: str) -> str:
     grouped = _guides_by_realm(guides)
 
-    lines = [f'{indent}{{ "Awakener Guides" = [', f'{indent}  "awakeners/index.md",']
+    lines = [f'{indent}{{ "Awakener Guides" = [', f'{indent}  "handbook/awakeners/index.md",']
     for family_name, realms in REALM_FAMILIES:
         if not any(grouped.get(realm) for realm, _ in realms):
             continue
@@ -869,7 +869,7 @@ def _render_nav(guides: list[Guide], indent: str) -> str:
                 lines.append(f'{indent}    {{ {_toml_string(subgroup_name)} = [')
             guide_indent = indent + ("      " if subgroup_name is not None else "    ")
             lines.extend(
-                f'{guide_indent}{_toml_string(f"awakeners/{guide.slug}.md")},'
+                f'{guide_indent}{_toml_string(f"handbook/awakeners/{guide.slug}.md")},'
                 for guide in realm_guides
             )
             if subgroup_name is not None:

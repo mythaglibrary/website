@@ -51,4 +51,4 @@ awakener:
 
 A support with one purpose: to make your tentacles hit like trucks. With the Tentacle DMG and crit rate from his exalt, other characters can deal high damage with multihit attacks in Raging Waves stance.
 
-At low levels, Abyss Order and tentacle slaps are enough to make Tulu usable as a solo DPS. At endgame he is mainly used as a damage buffer in [Corposant](/handbook/awakeners/aequor/corposant/) or [GMurphy](/handbook/awakeners/benthos-aequor/gmurphy/) teams.
+At low levels, Abyss Order and tentacle slaps are enough to make Tulu usable as a solo DPS. At endgame he is mainly used as a damage buffer in [Corposant](/handbook/awakeners/corposant/) or [GMurphy](/handbook/awakeners/gmurphy/) teams.

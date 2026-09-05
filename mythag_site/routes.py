@@ -17,13 +17,14 @@ def _legacy_routes(guides: list[Guide]) -> dict[str, str]:
     from mythag_site.awakeners import KNOWN_REALMS
 
     routes = {
-        "/handbook/awakeners": "/awakeners/",
-        "/handbook/awakeners/index": "/awakeners/",
+        "/awakeners": "/handbook/awakeners/",
+        "/handbook/awakeners/index": "/handbook/awakeners/",
     }
     for guide in guides:
+        routes[f"/awakeners/{guide.slug}"] = f"/handbook/awakeners/{guide.slug}/"
         # Preserve bookmarks even if the authored guide later changes realm.
         for realm in sorted(KNOWN_REALMS):
-            routes[f"/handbook/awakeners/{realm}/{guide.slug}"] = f"/awakeners/{guide.slug}/"
+            routes[f"/handbook/awakeners/{realm}/{guide.slug}"] = f"/handbook/awakeners/{guide.slug}/"
     return routes
 
 
@@ -77,10 +78,9 @@ def sync_docs(root: Path, guides: list[Guide]) -> None:
     )
     guide_paths = {
         Path("handbook/awakeners") / guide.realm / f"{guide.slug}.md":
-        Path("awakeners") / f"{guide.slug}.md"
+        Path("handbook/awakeners") / f"{guide.slug}.md"
         for guide in guides
     }
-    guide_paths[Path("handbook/awakeners/index.md")] = Path("awakeners/index.md")
 
     for path in source.rglob("*"):
         if not path.is_file():

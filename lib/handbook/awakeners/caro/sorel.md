@@ -43,4 +43,4 @@ awakener:
 
 A DPS who is completely reliant on other characters to feed her embryos, STR, and damage buffs. While she's weak at low investment, her exalt deals serious damage when enabled by a team of dedicated supports.
 
-Usually seen with [Pickman](/handbook/awakeners/caro/pickman/), as he builds STR for her and massively buffs her exalt. She also works well in Aequor/Caro as she triggers lots of tentacle hits in Raging Waves stance.
+Usually seen with [Pickman](/handbook/awakeners/pickman/), as he builds STR for her and massively buffs her exalt. She also works well in Aequor/Caro as she triggers lots of tentacle hits in Raging Waves stance.
