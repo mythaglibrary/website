@@ -1,39 +1,62 @@
 # Inline shortcuts: add entries here without Python changes.
 aliemus-regen:
-  label: Aliemus regen
+  label: Aliemus Regen
   icon: /images/icons/stats/aliemus-regen.png
   light_icon: /images/icons/stats/aliemus-regen--dark.png
 crit-dmg:
-  label: Crit dmg
+  label: Crit DMG
   icon: /images/icons/stats/crit-dmg.png
   light_icon: /images/icons/stats/crit-dmg--dark.png
 crit-rate:
-  label: Crit rate
+  label: Crit Rate
   icon: /images/icons/stats/crit-rate.png
   light_icon: /images/icons/stats/crit-rate--dark.png
 death-resistance:
-  label: Death resistance
+  label: Death Resistance
   icon: /images/icons/stats/death-resistance.png
   light_icon: /images/icons/stats/death-resistance--dark.png
 dmg-amp:
-  label: Dmg amp
+  label: DMG Amplification
   icon: /images/icons/stats/dmg-amp.png
   light_icon: /images/icons/stats/dmg-amp--dark.png
-skey:
-  label: Keyflare regen
+dr:
+  label: Death Resistance
+  icon: /images/icons/stats/death-resistance.png
+  light_icon: /images/icons/stats/death-resistance--dark.png
+keyflare-regen:
+  label: Keyflare Regen
   icon: /images/icons/stats/keyflare-regen.png
   light_icon: /images/icons/stats/keyflare-regen--dark.png
-realm-mastery:
-  label: Realm mastery
+rm:
+  label: Realm Mastery
   icon: /images/icons/stats/realm-mastery.png
   light_icon: /images/icons/stats/realm-mastery--dark.png
-sigil-yield:
-  label: Sigil yield
+realm-mastery:
+  label: Realm Mastery
+  icon: /images/icons/stats/realm-mastery.png
+  light_icon: /images/icons/stats/realm-mastery--dark.png
+sigil:
+  label: Sigil Yield
   icon: /images/icons/stats/sigil-yield.png
   light_icon: /images/icons/stats/sigil-yield--dark.png
+sigil-yield:
+  label: Sigil Yield
+  icon: /images/icons/stats/sigil-yield.png
+  light_icon: /images/icons/stats/sigil-yield--dark.png
+skey:
+  label: Keyflare Regen
+  icon: /images/icons/stats/keyflare-regen.png
+  light_icon: /images/icons/stats/keyflare-regen--dark.png
 vuln:
+  label: Vulnerable
+  icon: /images/icons/effects/vulnerable.png
+vulnerable:
   label: Vulnerable
   icon: /images/icons/effects/vulnerable.png
 weak:
   label: Weakness
   icon: /images/icons/effects/weakness.png
+weakness:
+  label: Weakness
+  icon: /images/icons/effects/weakness.png
+

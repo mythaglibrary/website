@@ -14,8 +14,8 @@ icon: lucide/blocks
 
     1. Pick a character as your **main DPS**.
     2. Add 3 **supports**.
-    3. Make sure you have **weakness** and **vulnerable**.
-    4. If you finished Faded Legacy Ch. 7, one support should be a **keyflare bot** holding the covenant [Life Drain](#life-drain) and two Keyflare Regen wheels.
+    3. Make sure you have :weak: **weakness** and :vuln: **vulnerable**.
+    4. If you finished Faded Legacy Ch. 7, one support should be a **keyflare bot** holding the covenant [Life Drain](#life-drain) and two :skey: Keyflare Regen wheels.
 
 ## The Purpose of a Team
 
@@ -84,8 +84,8 @@ A hypercarry team is built around a single damage dealer (the "DPS" or "carry") 
 The other 3 characters are there to support the DPS. The most important things they can provide are:
 
 - **keyflare** for posses (and [Keyflare Rouse](/handbook/storylines#keyflare-rouse) in [Astral Reign](/handbook/storylines#astral-reign-arc-2))
-- the **vulnerable** debuff (+50% damage dealt)
-- the **weakness** debuff (-25% damage taken)
+- the :vuln: **vulnerable** debuff (+50% damage dealt)
+- the :weak: **weakness** debuff (-25% damage taken)
 
 The supports can also provide:
 
@@ -166,12 +166,12 @@ members:
     note: Keyflare, triggers poison
     covenant: life-drain
     wheels: [merciful-nurturing, gateway-of-truth]
-  - awakener: lily
+  - awakener: faint
     archetype: tank
-    role: Poison / Tank
-    note: Shields, heals, poison
-    covenant: feast-from-afar
-    wheels: [dusk-and-dawn, the-land-of-nonexistence]
+    role: Tank
+    note: Weakness, death resistance
+    covenant: burial-grounds-sighs
+    wheels: [dusk-and-dawn, cloaked-in-the-night]
 ```
 
 **An alternative strategy that ramps up over time.**
@@ -241,11 +241,11 @@ A good counter team has a plan B for when the enemies don't trigger counter. The
   </span> <figcaption>So much power…</figcaption>
 </figure>
 
-**Keyflare** ![](/images/icons/stats/keyflare-regen.png#only-dark){width="10" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="10" loading=lazy}</span> **is the best resource in the game.** Your posse is very powerful and having a lot of keyflare lets you use it every turn. Keyflare is even more important in [Astral Reign](/handbook/storylines#astral-reign-arc-2), as you need it to [Keyflare Rouse](/handbook/storylines#keyflare-rouse).
+**Keyflare** :keyflare-regen: **is the best resource in the game.** Your posse is very powerful and having a lot of keyflare lets you use it every turn. Keyflare is even more important in [Astral Reign](/handbook/storylines#astral-reign-arc-2), as you need it to [Keyflare Rouse](/handbook/storylines#keyflare-rouse).
 
-**This is what your keyflare bot is for.** The job of a keyflare bot is to hold the covenant [Life Drain](#life-drain) (unlocked after completing Faded Legacy Chapter 7) and as much Keyflare Regen as possible. This will give you keyflare at the end of each turn and whenever you play their cards.
+**This is what your keyflare bot is for.** The job of a keyflare bot is to hold the covenant [Life Drain](#life-drain) (unlocked after completing Faded Legacy Chapter 7) and as much :skey: Keyflare Regen as possible. This will give you keyflare at the end of each turn and whenever you play their cards.
 
-**You need a keyflare bot.** The moment you unlock [Life Drain](#life-drain), you should be putting it on every team. There are only a few reasons not to do this:
+The moment you unlock [Life Drain](#life-drain), you should be putting it on every team. There are only a few reasons not to do this:
 
 - Your team is Caro, so [Life Drain](#life-drain) has a different effect. You still need a keyflare bot, but you can use a different covenant set if you don't want the embryo.
 - Your team is [Primordia: Chaos](#mono-chaos-teams), so the keyflare system is different, and you get a lot of keyflare at the start of the battle.
@@ -377,9 +377,7 @@ The [Awakener Guides](/handbook/awakeners/) section has a suggested posse for ev
 
 DPS builds are straightforward: give them the build that make them deal the most damage.
 <h4 class="flex-center-inline" markdown="span">
-  ![](/images/icons/stats/crit-rate.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-rate--dark.png#only-light){width="16" loading=lazy}
-  ![](/images/icons/stats/crit-dmg.png#only-dark){width="16" loading=lazy}![](/images/icons/stats/crit-dmg--dark.png#only-light){width="16" loading=lazy}
-  Crit Rate & Crit DMG
+  :crit-rate: Crit Rate & :crit-dmg: Crit DMG
 </h4>
 
 [![Mouchette](/images/awakeners/chaos/mouchette--mini.png "Mouchette"){width="80" loading=lazy}](/handbook/awakeners/mouchette/)
@@ -400,8 +398,7 @@ When building your DPS, keep in mind which of their skills are actually doing da
 **Example covenants:** [Crimson Pulse](#crimson-pulse), [April Tribute](#april-tribute)
 
 <h4 class="flex-center-inline" markdown="span">
-  ![](/images/icons/stats/dmg-amp.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="12" loading=lazy}
-  DMG Amplification & Base DMG
+  :dmg-amp: DMG Amplification & Base DMG
 </h4>
 
 [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png "Nymphaea"){width="80" loading=lazy}](/handbook/awakeners/nymphaea/)
@@ -415,9 +412,9 @@ When building your DPS, keep in mind which of their skills are actually doing da
 - Those that mainly generate fixed poison or counter, like [Nymphaea](/handbook/awakeners/nymphaea/) or [Faros](/handbook/awakeners/faros/)
 - Those that rely on unique effects scaling with DMG amp, like [Castor](/handbook/awakeners/castor/) or [Arachne](/handbook/awakeners/arachne/)
 
-For DPS that simply have high Base DMG, building crit is usually a higher priority than DMG amp, but they can make good use of incidental DMG amp from relics and substats. They also benefit from effects that boost Base DMG, such as the wheel [Hand of Oblivion](https://skeydb.com/database/wheels/hand-of-oblivion){target="_blank"}.
+For DPS that simply have high Base DMG, building crit is usually a higher priority than :dmg-amp: DMG Amplification, but they can make good use of incidental DMG amp from relics and substats. They also benefit from effects that boost Base DMG, such as the wheel [Hand of Oblivion](https://skeydb.com/database/wheels/hand-of-oblivion){target="_blank"}.
 
-**DMG amp is teamwide, so it can be on your supports too.** However, DPS that rely on DMG amp often have a talent that gives them bonus scaling from equipped DMG amp gear, so it isn't a waste to put it on them.
+**DMG amp is teamwide, so it can be on your supports too.** However, DPS that rely on DMG amp often have a talent that gives them bonus scaling from equipped DMG amp, so it isn't a waste to put it on them.
 
 **Example SSR wheels:** [Gift of Decay](https://skeydb.com/database/wheels/gift-of-decay){target="_blank"}, [Chains Unbound](https://skeydb.com/database/wheels/chains-unbound){target="_blank"}
 
@@ -427,7 +424,7 @@ For DPS that simply have high Base DMG, building crit is usually a higher priori
 
 #### Other Considerations
 
-Some characters scale with stats other than crit or DMG amp. For example, [Mouchette](/handbook/awakeners/mouchette/)'s E1 gives her a lot of crit from death resistance. This means building death resistance on Mouchette is as good as building crit on her.
+Some characters scale with stats other than crit or :dmg-amp: DMG Amplification. For example, [Mouchette](/handbook/awakeners/mouchette/)'s E1 gives her a lot of crit from :dr: Death Resistance. This means building death resistance on Mouchette is as good as building crit on her.
 
 Specific characters may have other needs as well. Some might want the wheel [Will Unyielding](https://skeydb.com/database/wheels/will-unyielding){target="_blank"} to get more strikes and defenses. Others might want the covenant [Dream of Medicine](#dream-of-medicine) to have more copies of a key card.
 
@@ -444,7 +441,7 @@ Stats don't matter on the vast majority of supports. This means they can hold an
 
 In [Astral Reign](/handbook/storylines#astral-reign-arc-2), they can hold wheels and covenants that give them aliemus, have a useful teamwide effect, or boost the specific supportive thing they do (like healing or shielding).
 
-Some supports do need a specific stat to function. For example, [Faint](/handbook/awakeners/faint/)'s exalt is stronger the more death resistance her wheels and covenants have. In this case you should obviously give her as much death resistance as possible.
+Some supports do need a specific stat to function. For example, [Faint](/handbook/awakeners/faint/)'s exalt is stronger the more :dr: Death Resistance her wheels and covenants have. In this case you should obviously give her as much death resistance as possible.
 
 **Remember to have a [keyflare bot](#the-almighty-keyflare-bot) holding [Life Drain](#life-drain)!**
 
@@ -474,20 +471,20 @@ Here are the possible main stats for each piece:
 
 | I | II | III | IV | V | VI |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| ![](/images/icons/stats/crit-rate.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-rate--dark.png#only-light){width="16" loading=lazy} Crit Rate | ![](/images/icons/stats/crit-rate.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-rate--dark.png#only-light){width="16" loading=lazy} Crit Rate | ![](/images/icons/stats/crit-rate.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-rate--dark.png#only-light){width="16" loading=lazy} Crit Rate | ![](/images/icons/stats/aliemus-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/aliemus-regen--dark.png#only-light){width="16" loading=lazy} Aliemus Regen | ![](/images/icons/stats/aliemus-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/aliemus-regen--dark.png#only-light){width="16" loading=lazy} Aliemus Regen | ![](/images/icons/stats/realm-mastery.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/realm-mastery--dark.png#only-light){width="16" loading=lazy} Realm Mastery |
-| ![](/images/icons/stats/crit-dmg.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-dmg--dark.png#only-light){width="16" loading=lazy} Crit DMG | ![](/images/icons/stats/crit-dmg.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-dmg--dark.png#only-light){width="16" loading=lazy} Crit DMG | ![](/images/icons/stats/crit-dmg.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/crit-dmg--dark.png#only-light){width="16" loading=lazy} Crit DMG | ![](/images/icons/stats/keyflare-regen.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="12" loading=lazy} Keyflare Regen | ![](/images/icons/stats/keyflare-regen.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="12" loading=lazy} Keyflare Regen | ![](/images/icons/stats/sigil-yield.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/sigil-yield--dark.png#only-light){width="16" loading=lazy} Sigil Yield |
-| ![](/images/icons/stats/aliemus-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/aliemus-regen--dark.png#only-light){width="16" loading=lazy} Aliemus Regen | ![](/images/icons/stats/realm-mastery.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/realm-mastery--dark.png#only-light){width="16" loading=lazy} Realm Mastery | ![](/images/icons/stats/dmg-amp.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="12" loading=lazy} DMG Amplification | ![](/images/icons/stats/realm-mastery.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/realm-mastery--dark.png#only-light){width="16" loading=lazy} Realm Mastery | ![](/images/icons/stats/dmg-amp.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="12" loading=lazy} DMG Amplification | ![](/images/icons/stats/dmg-amp.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="12" loading=lazy} DMG Amplification |
-| ![](/images/icons/stats/keyflare-regen.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="12" loading=lazy} Keyflare Regen | ![](/images/icons/stats/sigil-yield.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/sigil-yield--dark.png#only-light){width="16" loading=lazy} Sigil Yield | ![](/images/icons/stats/death-resistance.png#only-dark){width="18" loading=lazy} ![](/images/icons/stats/death-resistance--dark.png#only-light){width="18" loading=lazy} Death Resistance | ![](/images/icons/stats/sigil-yield.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/sigil-yield--dark.png#only-light){width="16" loading=lazy} Sigil Yield | ![](/images/icons/stats/death-resistance.png#only-dark){width="18" loading=lazy} ![](/images/icons/stats/death-resistance--dark.png#only-light){width="18" loading=lazy} Death Resistance | ![](/images/icons/stats/death-resistance.png#only-dark){width="18" loading=lazy} ![](/images/icons/stats/death-resistance--dark.png#only-light){width="18" loading=lazy} Death Resistance |
+| :crit-rate: Crit Rate | :crit-rate: Crit Rate | :crit-rate: Crit Rate | :aliemus-regen: Aliemus Regen | :aliemus-regen: Aliemus Regen | :realm-mastery: Realm Mastery |
+| :crit-dmg: Crit DMG | :crit-dmg: Crit DMG | :crit-dmg: Crit DMG | :keyflare-regen: Keyflare Regen | :keyflare-regen: Keyflare Regen | :sigil-yield: Sigil Yield |
+| :aliemus-regen: Aliemus Regen | :realm-mastery: Realm Mastery | :dmg-amp: DMG Amplification | :realm-mastery: Realm Mastery | :dmg-amp: DMG Amplification | :dmg-amp: DMG Amplification |
+| :keyflare-regen: Keyflare Regen | :sigil-yield: Sigil Yield | :death-resistance: Death Resistance | :sigil-yield: Sigil Yield | :death-resistance: Death Resistance | :death-resistance: Death Resistance |
 
 For most covenant sets, you only care about one or two specific stats and don't care about the rest. On pieces that don't have those stats, you can just pick whatever stat you think will be the least useless.
 
-Personally, I default to ![](/images/icons/stats/keyflare-regen.png#only-dark){width="10" loading=lazy} ![](/images/icons/stats/keyflare-regen--dark.png#only-light){width="10" loading=lazy} Keyflare Regen and ![](/images/icons/stats/death-resistance.png#only-dark){width="18" loading=lazy} ![](/images/icons/stats/death-resistance--dark.png#only-light){width="18" loading=lazy} Death Resistance, as these stats are always useful regardless of the character, team, or stage.
+Personally, I default to :keyflare-regen: Keyflare Regen and :death-resistance: Death Resistance, as these stats are always useful regardless of the character, team, or stage.
 
 Some stats to be wary of investing in:
 
-- ![](/images/icons/stats/realm-mastery.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/realm-mastery--dark.png#only-light){width="16" loading=lazy} Realm Mastery is only strong in specific realms (Mono Chaos and Benthos Aequor). It's a middling stat for most realm combinations, and nearly useless in base Ultra.
-- ![](/images/icons/stats/dmg-amp.png#only-dark){width="12" loading=lazy} ![](/images/icons/stats/dmg-amp--dark.png#only-light){width="12" loading=lazy} DMG Amplification is only good for [specific teams](#dmg-amplification-base-dmg).
-- ![](/images/icons/stats/aliemus-regen.png#only-dark){width="16" loading=lazy} ![](/images/icons/stats/aliemus-regen--dark.png#only-light){width="16" loading=lazy} Aliemus Regen has very low returns on investment and is basically never worth building.
+- :realm-mastery: Realm Mastery is only strong in specific realms (Mono Chaos and Benthos Aequor). It's a middling stat for most realm combinations, and nearly useless in base Ultra.
+- :dmg-amp: DMG Amplification is only good for [specific teams](#dmg-amplification-base-dmg).
+- :aliemus-regen: Aliemus Regen has very low returns on investment and is basically never worth building.
 
 Start by making one of each covenant set you're going to use. When you're a veteran player with a lot of resources, you can build extra covenant sets for specific characters and tailor the stats to exactly what they need.
 
@@ -512,7 +509,7 @@ Gives keyflare every turn, or embryo fusion in Caro teams.
 
 [As you know](#the-almighty-keyflare-bot), this is one of the best covenant sets. In Caro it's less good, but usually still better than other options.
 
-Build as much Keyflare Regen as possible.
+Build as much :skey: Keyflare Regen as possible.
 
 #### Burial Ground's Sighs
 
@@ -533,7 +530,7 @@ Gives a lot of death resistance, and aliemus when you trigger DR.
 
 This is a good generic covenant set if you don't know what to put on your supports. Death resistance is never bad to have. It isn't Team Unique, so you can put 2 or even 3 sets on your team.
 
-Prioritize Death Resistance and Keyflare Regen.
+Prioritize :dr: Death Resistance and :skey: Keyflare Regen.
 
 #### Deus Ex Machina
 
@@ -554,7 +551,7 @@ A generic support set that gives a bit of arithmetica.
 
 If you aren't in danger of dying, or if you have a carry like [GHelot](/handbook/awakeners/ghelot/) or [GLotan](/handbook/awakeners/glotan/) who needs a lot of arithmetica, you can run this instead of [Burial Ground's Sighs](#burial-grounds-sighs).
 
-Prioritize Keyflare Regen and any supportive stats of your choice.
+Prioritize :skey: Keyflare Regen and any supportive stats of your choice.
 
 #### April Tribute
 
@@ -575,7 +572,7 @@ Gives big crit buffs at the start of your turn if the enemies have more than 75%
 
 This is the best set for most DPS if you aren't doing Nightmare or Madness difficulty. Most bosses have multiple phases, and each phase counts as a new HP bar, so the condition is easier to fulfil than it looks.
 
-Prioritize Crit DMG, Crit Rate, and Keyflare Regen.
+Prioritize :crit-dmg: Crit DMG, :crit-rate: Crit Rate, and :skey: Keyflare Regen.
 
 #### Crimson Pulse
 
@@ -596,7 +593,7 @@ Gives crit rate when you posse. (You have a [keyflare bot](#the-almighty-keyflar
 
 If you haven't unlocked [April Tribute](#april-tribute), this is the next best option. It's also better in fights where enemies spend most of the fight below 75% HP, such as bosses that have death resistance or giant HP bars.
 
-Prioritize Crit DMG, Crit Rate, and Keyflare Regen.
+Prioritize :crit-dmg: Crit DMG, :crit-rate: Crit Rate, and :skey: Keyflare Regen.
 
 #### Steppenwolf
 
@@ -617,7 +614,7 @@ This is the highest-damage option For DPS that apply fixed poison or counter, li
 
 If the DPS scales with critical hits and can't reach 100% Crit Rate on their own, you should probably run [April Tribute](#april-tribute) or [Crimson Pulse](#crimson-pulse) instead.
 
-Prioritize Crit DMG and Crit Rate if a crit DPS is holding this, DMG Amplification otherwise. Keyflare Regen is always good.
+Prioritize :crit-dmg: Crit DMG and :crit-rate: Crit Rate if a crit DPS is holding this, :dmg-amp: DMG Amplification otherwise. :skey: Keyflare Regen is always good.
 
 #### Dream of Medicine
 
@@ -638,7 +635,7 @@ Adds extra copies of the wielder's skill cards to your deck.
 
 This is a powerful covenant set for specific characters where the extra cards make a difference. It's Team Unique, so you have to consider which of your characters needs it the most.
 
-Prioritize Crit DMG and Crit Rate if a crit DPS is holding this, teamwide stats otherwise. Keyflare Regen is always good.
+Prioritize :crit-dmg: Crit DMG and :crit-rate: Crit Rate if a crit DPS is holding this, teamwide stats otherwise. :skey: Keyflare Regen is always good.
 
 ### Other Covenant Sets
 
@@ -699,7 +696,7 @@ Works great with the SSR wheel [Amidst the Downpour](https://skeydb.com/database
 
 Heals for a very tiny amount when you use your posse.
 
-Keyflare Regen is a good 3-piece set bonus, but it's hard to imagine a scenario where the healing from this covenant matters.
+:skey: Keyflare Regen is a good 3-piece set bonus, but it's hard to imagine a scenario where the healing from this covenant matters.
 
 Maybe if a character with 500 CON is released, this will be good.
 
@@ -857,7 +854,7 @@ Not a bad effect, but there aren't a lot of Aequor/Ultra teams that can use it e
   </span>
 </div>
 
-Boosts the shield from the wielder's defense card. Niche but strong on specific characters like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/).
+Boosts the shields from the wielder's defense card. Niche but strong on specific characters like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/).
 
 Usually paired with the SR wheel [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"} or some other way to get more defense cards. Otherwise, this only buffs 1 card in the deck out of 16.
 

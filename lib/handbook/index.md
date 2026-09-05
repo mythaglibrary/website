@@ -48,7 +48,6 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [Official Discord](https://discord.gg/RAegY8wcGx){target="_blank"}
 - [Mythag Library Discord](https://discord.gg/H2MUYUSEBx){target="_blank"} - English fan community
 - [r/morimenstactics](https://www.reddit.com/r/morimenstactics/){target="_blank"}
-- [Original Google Docs version of this guide](https://docs.google.com/document/d/1THjxR9hHs4NWHqSWHHa2dHAGuE_cRGelfzXdBfCnIlM/edit?usp=sharing) (outdated)
 
 ---
 
@@ -121,7 +120,7 @@ The best way to learn what codes are currently active is to ask in the [official
 ## You Will Die
 
 <figure markdown="span">
-  ![](/images/handbook/introduction/you-will-die.png){width="400" loading=lazy} <figcaption>Art by [calcduc](https://twitter.com/calcduc/status/2095424561915605200)</figcaption>
+  ![](/images/handbook/introduction/you-will-die.png){width="600" class="on-glb" loading=lazy} <figcaption>Art by [calcduc](https://twitter.com/calcduc/status/2095424561915605200)</figcaption>
 </figure>
 
 As a new player, you start in a honeymoon period. Chapters 1-5 of [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) are relatively easy and can be beaten with random characters playing random cards.

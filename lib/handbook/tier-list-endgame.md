@@ -28,22 +28,22 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Lotan](/images/awakeners/chaos/lotan--mini.png)](/handbook/awakeners/chaos/lotan)
+  [![Lotan](/images/awakeners/chaos/lotan--mini.png)](/handbook/awakeners/lotan)
 
   Lotan (OE)
 </div>
 <div class="item" markdown>
-  [!["24"](/images/awakeners/chaos/24--mini.png)](/handbook/awakeners/chaos/24)
+  [!["24"](/images/awakeners/chaos/24--mini.png)](/handbook/awakeners/24)
 
   "24"
 </div>
 <div class="item" markdown>
-  [![Vortice](/images/awakeners/aequor/vortice--mini.png)](/handbook/awakeners/benthos-aequor/vortice)
+  [![Vortice](/images/awakeners/aequor/vortice--mini.png)](/handbook/awakeners/vortice)
 
   Vortice (OE)
 </div>
 <div class="item" markdown>
-  [![Clementine](/images/awakeners/ultra/clementine--mini.png)](/handbook/awakeners/ultra/clementine)
+  [![Clementine](/images/awakeners/ultra/clementine--mini.png)](/handbook/awakeners/clementine)
 
   Clementine (AA)
 </div>
@@ -55,22 +55,22 @@ Given enough investment and support, these characters can reach the ~10 million 
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
-  [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png)](/handbook/awakeners/chaos/kathigu-ra)
+  [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png)](/handbook/awakeners/kathigu-ra)
 
   Kathigu-Ra (AA)
 </div>
 <div class="item" markdown>
-  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png)](/handbook/awakeners/benthos-aequor/gmurphy)
+  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png)](/handbook/awakeners/gmurphy)
 
   GMurphy (OE)
 </div>
 <div class="item" markdown>
-  [![GHelot](/images/awakeners/caro/ghelot--mini.png)](/handbook/awakeners/caro/ghelot)
+  [![GHelot](/images/awakeners/caro/ghelot--mini.png)](/handbook/awakeners/ghelot)
 
   GHelot (E3)
 </div>
 <div class="item" markdown>
-  [![Pollux](/images/awakeners/ultra/pollux--mini.png)](/handbook/awakeners/ultra/pollux)
+  [![Pollux](/images/awakeners/ultra/pollux--mini.png)](/handbook/awakeners/pollux)
 
   Pollux (OE)
 </div>
@@ -82,32 +82,32 @@ Given enough investment and support, these characters can reach the ~5 million d
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Alva](/images/awakeners/chaos/alva--mini.png)](/handbook/awakeners/chaos/alva)
+  [![Alva](/images/awakeners/chaos/alva--mini.png)](/handbook/awakeners/alva)
 
   Alva (AA)
 </div>
 <div class="item" markdown>
-  [![Mouchette](/images/awakeners/chaos/mouchette--mini.png)](/handbook/awakeners/chaos/mouchette)
+  [![Mouchette](/images/awakeners/chaos/mouchette--mini.png)](/handbook/awakeners/mouchette)
 
   Mouchette (OE)
 </div>
 <div class="item" markdown>
-  [![GLotan](/images/awakeners/chaos/glotan--mini.png)](/handbook/awakeners/primordia-chaos/glotan)
+  [![GLotan](/images/awakeners/chaos/glotan--mini.png)](/handbook/awakeners/glotan)
 
   GLotan (E3)
 </div>
 <div class="item" markdown>
-  [![Sorel](/images/awakeners/caro/sorel--mini.png)](/handbook/awakeners/caro/sorel)
+  [![Sorel](/images/awakeners/caro/sorel--mini.png)](/handbook/awakeners/sorel)
 
   Sorel
 </div>
 <div class="item" markdown>
-  [![Xu](/images/awakeners/caro/xu--mini.png)](/handbook/awakeners/caro/xu)
+  [![Xu](/images/awakeners/caro/xu--mini.png)](/handbook/awakeners/xu)
 
   Xu (E3)
 </div>
 <div class="item" markdown>
-  [![Daffodil](/images/awakeners/ultra/daffodil--mini.png)](/handbook/awakeners/ultra/daffodil)
+  [![Daffodil](/images/awakeners/ultra/daffodil--mini.png)](/handbook/awakeners/daffodil)
 
   Daffodil (OE)
 </div>
@@ -119,22 +119,22 @@ These characters can contribute a meaningful amount of damage as secondary DPS (
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
-  [![GDoll](/images/awakeners/chaos/gdoll--mini.png)](/handbook/awakeners/chaos/gdoll)
+  [![GDoll](/images/awakeners/chaos/gdoll--mini.png)](/handbook/awakeners/gdoll)
 
   GDoll
 </div>
 <div class="item" markdown>
-  [![Tawil](/images/awakeners/chaos/tawil--mini.png)](/handbook/awakeners/chaos/tawil)
+  [![Tawil](/images/awakeners/chaos/tawil--mini.png)](/handbook/awakeners/tawil)
 
   Tawil
 </div>
 <div class="item" markdown>
-  [![Doresain](/images/awakeners/caro/doresain--mini.png)](/handbook/awakeners/caro/doresain)
+  [![Doresain](/images/awakeners/caro/doresain--mini.png)](/handbook/awakeners/doresain)
 
   Doresain (OE)
 </div>
 <div class="item" markdown>
-  [![Xu](/images/awakeners/caro/xu--mini.png)](/handbook/awakeners/caro/xu)
+  [![Xu](/images/awakeners/caro/xu--mini.png)](/handbook/awakeners/xu)
 
   Xu
 </div>
@@ -148,17 +148,17 @@ These characters provide huge damage multipliers that can elevate lower-tier DPS
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
-  [![Saya](/images/awakeners/caro/saya--mini.png)](/handbook/awakeners/propagation-caro/saya)
+  [![Saya](/images/awakeners/caro/saya--mini.png)](/handbook/awakeners/saya)
 
   Saya (E3)
 </div>
 <div class="item" markdown>
-  [![Clementine](/images/awakeners/ultra/clementine--mini.png)](/handbook/awakeners/ultra/clementine)
+  [![Clementine](/images/awakeners/ultra/clementine--mini.png)](/handbook/awakeners/clementine)
 
   Clementine (E3)
 </div>
 <div class="item" markdown>
-  [![Arachne](/images/awakeners/ultra/arachne--mini.png)](/handbook/awakeners/singularity-ultra/arachne)
+  [![Arachne](/images/awakeners/ultra/arachne--mini.png)](/handbook/awakeners/arachne)
 
   Arachne (E3)
 </div>
@@ -170,57 +170,57 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Lotan](/images/awakeners/chaos/lotan--mini.png)](/handbook/awakeners/chaos/lotan)
+  [![Lotan](/images/awakeners/chaos/lotan--mini.png)](/handbook/awakeners/lotan)
 
   Lotan (OE)
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Aigis](/images/awakeners/caro/aigis--mini.png)](/handbook/awakeners/caro/aigis)
+  [![Aigis](/images/awakeners/caro/aigis--mini.png)](/handbook/awakeners/aigis)
 
   Aigis
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Celeste](/images/awakeners/aequor/celeste--mini.png)](/handbook/awakeners/aequor/celeste)
+  [![Celeste](/images/awakeners/aequor/celeste--mini.png)](/handbook/awakeners/celeste)
 
   Celeste
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Faint](/images/awakeners/caro/faint--mini.png)](/handbook/awakeners/caro/faint)
+  [![Faint](/images/awakeners/caro/faint--mini.png)](/handbook/awakeners/faint)
 
   Faint
 </div>
 <div class="item" markdown>
-  [![GDoll](/images/awakeners/chaos/gdoll--mini.png)](/handbook/awakeners/chaos/gdoll)
+  [![GDoll](/images/awakeners/chaos/gdoll--mini.png)](/handbook/awakeners/gdoll)
 
   GDoll
 </div>
 <div class="item" markdown>
-  [![Tawil](/images/awakeners/chaos/tawil--mini.png)](/handbook/awakeners/chaos/tawil)
+  [![Tawil](/images/awakeners/chaos/tawil--mini.png)](/handbook/awakeners/tawil)
 
   Tawil
 </div>
 <div class="item" markdown>
-  [![Murphy](/images/awakeners/aequor/murphy--mini.png)](/handbook/awakeners/aequor/murphy)
+  [![Murphy](/images/awakeners/aequor/murphy--mini.png)](/handbook/awakeners/murphy)
 
   Murphy (E1)
 </div>
 <div class="item" markdown>
-  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png)](/handbook/awakeners/aequor/gmurphy)
+  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png)](/handbook/awakeners/gmurphy)
 
   GMurphy
 </div>
 <div class="item" markdown>
-  [![Salvador](/images/awakeners/caro/salvador--mini.png)](/handbook/awakeners/caro/salvador)
+  [![Salvador](/images/awakeners/caro/salvador--mini.png)](/handbook/awakeners/salvador)
 
   Salvador
 </div>
 <div class="item" markdown>
-  [![Thais](/images/awakeners/caro/thais--mini.png)](/handbook/awakeners/caro/thais)
+  [![Thais](/images/awakeners/caro/thais--mini.png)](/handbook/awakeners/thais)
 
   Thais (E2)
 </div>
 <div class="item" markdown>
-  [![Horla](/images/awakeners/ultra/horla--mini.png)](/handbook/awakeners/ultra/horla)
+  [![Horla](/images/awakeners/ultra/horla--mini.png)](/handbook/awakeners/horla)
 
   Horla (E1)
 </div>
@@ -232,112 +232,112 @@ In specific teams, this character might be useful enough to run in Nightmare and
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Ogier](/images/awakeners/chaos/ogier--mini.png)](/handbook/awakeners/chaos/ogier)
+  [![Ogier](/images/awakeners/chaos/ogier--mini.png)](/handbook/awakeners/ogier)
 
   Ogier (AA)
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Ramona](/images/awakeners/chaos/ramona--mini.png)](/handbook/awakeners/chaos/ramona)
+  [![Ramona](/images/awakeners/chaos/ramona--mini.png)](/handbook/awakeners/ramona)
 
   Ramona
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![GRamona](/images/awakeners/chaos/gramona--mini.png)](/handbook/awakeners/chaos/gramona)
+  [![GRamona](/images/awakeners/chaos/gramona--mini.png)](/handbook/awakeners/gramona)
 
   GRamona
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Nautila](/images/awakeners/chaos/nautila--mini.png)](/handbook/awakeners/chaos/nautila)
+  [![Nautila](/images/awakeners/chaos/nautila--mini.png)](/handbook/awakeners/nautila)
 
   Nautila
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png)](/handbook/awakeners/chaos/nymphaea)
+  [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png)](/handbook/awakeners/nymphaea)
 
   Nymphaea
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Goliath](/images/awakeners/aequor/goliath--mini.png)](/handbook/awakeners/aequor/goliath)
+  [![Goliath](/images/awakeners/aequor/goliath--mini.png)](/handbook/awakeners/goliath)
 
   Goliath
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Helot](/images/awakeners/caro/helot--mini.png)](/handbook/awakeners/caro/helot)
+  [![Helot](/images/awakeners/caro/helot--mini.png)](/handbook/awakeners/helot)
 
   Helot
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Leigh](/images/awakeners/caro/leigh--mini.png)](/handbook/awakeners/caro/leigh)
+  [![Leigh](/images/awakeners/caro/leigh--mini.png)](/handbook/awakeners/leigh)
 
   Leigh (OE)
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Casiah](/images/awakeners/ultra/casiah--mini.png)](/handbook/awakeners/ultra/casiah)
+  [![Casiah](/images/awakeners/ultra/casiah--mini.png)](/handbook/awakeners/casiah)
 
   Casiah
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png)](/handbook/awakeners/ultra/jenkin)
+  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png)](/handbook/awakeners/jenkin)
 
   Jenkin
 </div>
 <div class="item" markdown>
-  [![Lily](/images/awakeners/chaos/lily--mini.png)](/handbook/awakeners/chaos/lily)
+  [![Lily](/images/awakeners/chaos/lily--mini.png)](/handbook/awakeners/lily)
 
   Lily (E3)
 </div>
 <div class="item" markdown>
-  [![Mouchette](/images/awakeners/chaos/mouchette--mini.png)](/handbook/awakeners/chaos/mouchette)
+  [![Mouchette](/images/awakeners/chaos/mouchette--mini.png)](/handbook/awakeners/mouchette)
 
   Mouchette (OE)
 </div>
 <div class="item" markdown>
-  [![Ryker](/images/awakeners/chaos/ryker--mini.png)](/handbook/awakeners/chaos/ryker)
+  [![Ryker](/images/awakeners/chaos/ryker--mini.png)](/handbook/awakeners/ryker)
 
   Ryker
 </div>
 <div class="item" markdown>
-  [![Miryam](/images/awakeners/aequor/miryam--mini.png)](/handbook/awakeners/aequor/miryam)
+  [![Miryam](/images/awakeners/aequor/miryam--mini.png)](/handbook/awakeners/miryam)
 
   Miryam
 </div>
 <div class="item" markdown>
-  [![Tulu](/images/awakeners/aequor/tulu--mini.png)](/handbook/awakeners/aequor/tulu)
+  [![Tulu](/images/awakeners/aequor/tulu--mini.png)](/handbook/awakeners/tulu)
 
   Tulu
 </div>
 <div class="item" markdown>
-  [![Pontos](/images/awakeners/aequor/pontos--mini.png)](/handbook/awakeners/benthos-aequor/pontos)
+  [![Pontos](/images/awakeners/aequor/pontos--mini.png)](/handbook/awakeners/pontos)
 
   Pontos (E3)
 </div>
 <div class="item" markdown>
-  [![Vortice](/images/awakeners/aequor/vortice--mini.png)](/handbook/awakeners/benthos-aequor/vortice)
+  [![Vortice](/images/awakeners/aequor/vortice--mini.png)](/handbook/awakeners/vortice)
 
   Vortice (E1)
 </div>
 <div class="item" markdown>
-  [![Pickman](/images/awakeners/caro/pickman--mini.png)](/handbook/awakeners/caro/pickman)
+  [![Pickman](/images/awakeners/caro/pickman--mini.png)](/handbook/awakeners/pickman)
 
   Pickman (E2)
 </div>
 <div class="item" markdown>
-  [![Xu](/images/awakeners/caro/xu--mini.png)](/handbook/awakeners/caro/xu)
+  [![Xu](/images/awakeners/caro/xu--mini.png)](/handbook/awakeners/xu)
 
   Xu
 </div>
 <div class="item" markdown>
-  [![Caraboo](/images/awakeners/caro/caraboo--mini.png)](/handbook/awakeners/propagation-caro/caraboo)
+  [![Caraboo](/images/awakeners/caro/caraboo--mini.png)](/handbook/awakeners/caraboo)
 
   Caraboo
 </div>
 <div class="item" markdown>
-  [![Castor](/images/awakeners/ultra/castor--mini.png)](/handbook/awakeners/ultra/castor)
+  [![Castor](/images/awakeners/ultra/castor--mini.png)](/handbook/awakeners/castor)
 
   Castor
 </div>
 <div class="item" markdown>
-  [![Daffodil](/images/awakeners/ultra/daffodil--mini.png)](/handbook/awakeners/ultra/daffodil)
+  [![Daffodil](/images/awakeners/ultra/daffodil--mini.png)](/handbook/awakeners/daffodil)
 
   Daffodil
 </div>
@@ -349,12 +349,12 @@ This character isn't a useful support in the majority of Nightmare and Madness s
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Alva](/images/awakeners/chaos/alva--mini.png)](/handbook/awakeners/chaos/alva)
+  [![Alva](/images/awakeners/chaos/alva--mini.png)](/handbook/awakeners/alva)
 
   Alva
 </div>
 <div class="item" markdown>
-  [![GHelot](/images/awakeners/caro/ghelot--mini.png)](/handbook/awakeners/caro/ghelot)
+  [![GHelot](/images/awakeners/caro/ghelot--mini.png)](/handbook/awakeners/ghelot)
 
   GHelot (E3)
 </div>

@@ -56,7 +56,8 @@ nav = [
     { "SSR Wheel Tier List" = "handbook/wheels.md" },
     { "Awakener Guides" = "handbook/awakeners/index.md" }, # @mythag-awakener-nav
     { "D-Zone For Dummies (OUTDATED)" = "handbook/d-zone.md" },
-    { "Glossary" = "handbook/glossary.md" }
+    { "Glossary" = "handbook/glossary.md" },
+    { "Changelog" = "handbook/changelog.md" }
   ]},
 ]
 
