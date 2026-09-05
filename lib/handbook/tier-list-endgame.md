@@ -267,6 +267,11 @@ In specific teams, this character might be useful enough to run in Nightmare and
   Helot
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
+  [![Leigh](/images/awakeners/caro/leigh--mini.png)](/handbook/awakeners/caro/leigh)
+
+  Leigh (OE)
+</div>
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
   [![Casiah](/images/awakeners/ultra/casiah--mini.png)](/handbook/awakeners/ultra/casiah)
 
   Casiah
@@ -310,11 +315,6 @@ In specific teams, this character might be useful enough to run in Nightmare and
   [![Vortice](/images/awakeners/aequor/vortice--mini.png)](/handbook/awakeners/benthos-aequor/vortice)
 
   Vortice (E1)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Leigh](/images/awakeners/caro/leigh--mini.png)](/handbook/awakeners/caro/leigh)
-
-  Leigh (OE)
 </div>
 <div class="item" markdown>
   [![Pickman](/images/awakeners/caro/pickman--mini.png)](/handbook/awakeners/caro/pickman)
