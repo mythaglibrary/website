@@ -162,9 +162,9 @@ If you *only* care about meta, go to the [official Discord](https://discord.gg/R
 
 Keeper level (account level) is the most valuable stat in this game. Everything else can be fixed with patience or money, but there's no way to get a high keeper level other than sticking to one account for a long time.
 
-Morimens is one of the most generous gacha games in existence. Even a free-to-play player earns enough pulls to get a character to E3 every other patch. In addition, it is very difficult to brick your account in this game, as all characters are viable in Hard and Nightmare D-Effect Zone.
+Morimens is one of the most generous gacha games in existence. Even a free-to-play player earns enough pulls to get a character to E3 every other patch. Also, you can't really brick your account in this game, as all characters are viable in Hard and Nightmare D-Effect Zone.
 
-If you still regret your investment decisions, you can wait for the developers to give out Origins of Time. These are items given out during major updates, which can be used to reset characters and refund the level-up resources you invested in them.
+If you still regret your investment decisions, you can wait for the developers to give out Origins of Time during major updates. These items can be used to refund the level-up resources you invested in a character.
 
 <figure markdown="span">
   ![](/images/emojis/ryker-shy.png){width="128" loading=lazy} <figcaption>"99% of gamblers quit before they hit the jackpot."</figcaption>
