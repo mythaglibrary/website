@@ -33,6 +33,7 @@ class SymbolsTests(unittest.TestCase):
     def test_invalid_registry_and_missing_assets(self):
         for source in (
             'custom: {}\n',
+            'heart: {label: Custom, icon: /images/icon.png}\n',
             'custom: {label: Custom, icon: /images/missing.png}\n',
             'custom: {}\ncustom: {}\n',
         ):

@@ -12,7 +12,8 @@ my-symbol:
 ```
 
 Names use lowercase letters, numbers, underscores or hyphens and start with a
-letter. `label` and `icon` are required. `light_icon` optionally supplies a second
+letter. Names already used by built-in emoji are reserved; choose a different
+name for those icons. `label` and `icon` are required. `light_icon` optionally supplies a second
 image for light mode; with both images, `icon` is the dark-mode image. Paths must
 reference existing files under `lib/images/`. Descriptions are optional: omit
 them when no verified explanation is available.

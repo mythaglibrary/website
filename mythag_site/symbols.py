@@ -37,6 +37,8 @@ def load_symbols(root: Path = ROOT) -> dict[str, dict[str, str]]:
         location = f"{path}: {name}"
         if not isinstance(name, str) or not re.fullmatch(r"[a-z][a-z0-9_-]*", name):
             raise SymbolValidationError(f"{location}: expected a lowercase symbol name")
+        if name in _emoji_names():
+            raise SymbolValidationError(f"{location}: name is reserved by a built-in emoji; choose another symbol name")
         if not isinstance(entry, dict) or set(entry) - {"label", "icon", "light_icon", "description"}:
             raise SymbolValidationError(f"{location}: expected label, icon, optional light_icon and description")
         for field in ("label", "icon", *[key for key in ("light_icon", "description") if key in entry]):
