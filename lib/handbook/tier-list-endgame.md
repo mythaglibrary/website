@@ -1,5 +1,5 @@
 ---
-title: Awakener Tier Lists (Endgame)
+title: Awakener Tier Lists (For Endgame)
 description: A Morimens awakener tier list for the hardest difficulties of D-Effect Zone.
 icon: lucide/list-sort-descending
 ---
@@ -8,7 +8,7 @@ icon: lucide/list-sort-descending
   ![](/images/emojis/doll-sigh.png){width="196"}
 </figure>
 
-# Awakener Tier Lists *(Endgame)*
+# Awakener Tier Lists *(For Endgame)*
 
 This is a quick guide to what characters are viable in the Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for a while and have all characters, enlightens, and SSR wheels needed to make a team work.
 
@@ -76,7 +76,7 @@ Given enough investment and support, these characters can reach the ~10 million 
 </div>
 </div>
 
-### C1 (Nightmare Viable) {.tier .text-center style="background-color: var(--md-tier-c);"}
+### C (Nightmare Viable) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
 Given enough investment and support, these characters can reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They can't realistically deal enough damage to beat Madness stages, but may be viable if they have a favorable matchup or you use Emergency Gnoses.
 
@@ -113,7 +113,7 @@ Given enough investment and support, these characters can reach the ~5 million d
 </div>
 </div>
 
-### C2 (Sub DPS) {.tier .text-center style="background-color: var(--md-tier-c);"}
+### D (Secondary DPS) {.tier .text-center style="background-color: var(--md-tier-d);"}
 
 These characters can contribute a meaningful amount of damage as secondary DPS (usually because they have a Max HP % nuke in their kit).
 
@@ -142,9 +142,31 @@ These characters can contribute a meaningful amount of damage as secondary DPS (
 
 ## Endgame Support Tier List
 
+### S (Meta Defining) {.tier .text-center style="background-color: var(--md-tier-s);"}
+
+These characters provide huge damage multipliers that can elevate lower-tier DPS into Nightmare and Madness viability.
+
+<div class="grid-96" markdown>
+<div class="item" markdown>
+  [![Saya](/images/awakeners/caro/saya--mini.png)](/handbook/awakeners/propagation-caro/saya)
+
+  Saya (E3)
+</div>
+<div class="item" markdown>
+  [![Clementine](/images/awakeners/ultra/clementine--mini.png)](/handbook/awakeners/ultra/clementine)
+
+  Clementine (E3)
+</div>
+<div class="item" markdown>
+  [![Arachne](/images/awakeners/ultra/arachne--mini.png)](/handbook/awakeners/singularity-ultra/arachne)
+
+  Arachne (E3)
+</div>
+</div>
+
 ### A (Game Changing) {.tier .text-center style="background-color: var(--md-tier-a);"}
 
-These characters provide damage multipliers, defensive abilities, extra turns, or other effects that are crucial for beating Nightmare and Madness stages.
+These characters provide defensive abilities, extra turns, Max HP % damage, or other effects that are crucial for beating Nightmare and Madness stages.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -188,34 +210,19 @@ These characters provide damage multipliers, defensive abilities, extra turns, o
   GMurphy
 </div>
 <div class="item" markdown>
-  [![Thais](/images/awakeners/caro/thais--mini.png)](/handbook/awakeners/caro/thais)
-
-  Thais (E2)
-</div>
-<div class="item" markdown>
   [![Salvador](/images/awakeners/caro/salvador--mini.png)](/handbook/awakeners/caro/salvador)
 
   Salvador
 </div>
 <div class="item" markdown>
-  [![Saya](/images/awakeners/caro/saya--mini.png)](/handbook/awakeners/propagation-caro/saya)
+  [![Thais](/images/awakeners/caro/thais--mini.png)](/handbook/awakeners/caro/thais)
 
-  Saya (E3)
-</div>
-<div class="item" markdown>
-  [![Clementine](/images/awakeners/ultra/clementine--mini.png)](/handbook/awakeners/ultra/clementine)
-
-  Clementine (E3)
+  Thais (E2)
 </div>
 <div class="item" markdown>
   [![Horla](/images/awakeners/ultra/horla--mini.png)](/handbook/awakeners/ultra/horla)
 
   Horla (E1)
-</div>
-<div class="item" markdown>
-  [![Arachne](/images/awakeners/ultra/arachne--mini.png)](/handbook/awakeners/singularity-ultra/arachne)
-
-  Arachne (E3)
 </div>
 </div>
 
@@ -224,6 +231,11 @@ These characters provide damage multipliers, defensive abilities, extra turns, o
 In specific teams, this character might be useful enough to run in Nightmare and Madness stages instead of a more universally useful support.
 
 <div class="grid-96" markdown>
+<div class="item" markdown style="background-color: var(--md-tier-free);">
+  [![Ogier](/images/awakeners/chaos/ogier--mini.png)](/handbook/awakeners/chaos/ogier)
+
+  Ogier (AA)
+</div>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
   [![Ramona](/images/awakeners/chaos/ramona--mini.png)](/handbook/awakeners/chaos/ramona)
 
@@ -265,6 +277,11 @@ In specific teams, this character might be useful enough to run in Nightmare and
   Jenkin
 </div>
 <div class="item" markdown>
+  [![Lily](/images/awakeners/chaos/lily--mini.png)](/handbook/awakeners/chaos/lily)
+
+  Lily (E3)
+</div>
+<div class="item" markdown>
   [![Mouchette](/images/awakeners/chaos/mouchette--mini.png)](/handbook/awakeners/chaos/mouchette)
 
   Mouchette (OE)
@@ -293,6 +310,11 @@ In specific teams, this character might be useful enough to run in Nightmare and
   [![Vortice](/images/awakeners/aequor/vortice--mini.png)](/handbook/awakeners/benthos-aequor/vortice)
 
   Vortice (E1)
+</div>
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
+  [![Leigh](/images/awakeners/caro/leigh--mini.png)](/handbook/awakeners/caro/leigh)
+
+  Leigh (OE)
 </div>
 <div class="item" markdown>
   [![Pickman](/images/awakeners/caro/pickman--mini.png)](/handbook/awakeners/caro/pickman)

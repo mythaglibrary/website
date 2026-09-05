@@ -16,7 +16,7 @@ There are two tier lists provided here. The DPS Tier List is for the main damage
 
 **These are "poverty newbie tier lists."** They assume you're a new player and your goal is to do story stages, event stages, and D-tide Normal and Hard difficulty. They also assume the character is at most E3 and you don't have many limited awakeners or SSR wheels.
 
-For notes on Nightmare and Madness difficulty, you can check [Awakener Tier Lists (Endgame)](/handbook/tier-list-endgame).
+For notes on Nightmare and Madness difficulty, you can check [Awakener Tier Lists (For Endgame)](/handbook/tier-list-endgame).
 
 **If an enlighten is specified, it means it's important for the character to work.** Without that enlighten, the character will be one or two tiers lower on the tier list.
 
