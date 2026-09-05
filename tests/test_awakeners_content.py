@@ -78,7 +78,15 @@ class AwakenerContentTests(unittest.TestCase):
             generated_config = Path(generated_name)
             try:
                 with patch.object(awakeners, "GENERATED_CONFIG", generated_config):
-                    guides = awakeners.prepare_awakeners()
+                    # Exercise a Windows checkout through the real Zensical build.
+                    read_bytes = Path.read_bytes
+                    def windows_markdown(path):
+                        content = read_bytes(path)
+                        if path.suffix == ".md" and path.is_relative_to(ROOT / "lib"):
+                            return content.replace(b"\r\n", b"\n").replace(b"\n", b"\r\n")
+                        return content
+                    with patch.object(Path, "read_bytes", windows_markdown):
+                        guides = awakeners.prepare_awakeners()
                     generated = generated_config.read_text(encoding="utf-8")
                     site_dir = Path(temporary).relative_to(ROOT).as_posix()
                     generated = generated.replace(
