@@ -491,7 +491,7 @@ Sepirot and Fated Captures (obtained by spending real money) are random selector
 ![](/images/icons/consumables/chaos-echo.png){width="80" loading=lazy}
 ![](/images/icons/consumables/chaos-experiment.png){width="80" loading=lazy}
 
-If you spend a LOT of money, you can get limited character and wheel selectors. To decide what to get, you can check this guide's [Awakener Tier Lists](/handbook/tier-list) and an [SSR Wheel Tier List](/handbook/wheels). Alternatively, you can look at other tier lists that are linked in [Links and Resources](/index#links-and-resources).
+If you spend a LOT of money, you can get limited character and wheel selectors. To decide what to get, you can check this guide's [Awakener Tier Lists](/handbook/tier-list) and [SSR Wheel Tier List](/handbook/wheels).
 
 ## Reality Verges
 
