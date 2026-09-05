@@ -45,6 +45,6 @@ awakener:
 
 A burst DPS with lots small utility bonuses on her cards. At low levels, Skull Reaver scales with last hits and deals lots of damage.
 
-At endgame Daffodil is used for her Thousand Mirages, which make tons of temporary counter or poison. This enables high-damage combo turns with [Arachne](/handbook/awakeners/singularity-ultra/arachne/), [Nautila](/handbook/awakeners/chaos/nautila/), etc.
+At endgame Daffodil is used for her Thousand Mirages, which make tons of temporary counter or poison. This enables high-damage combo turns with [Arachne](/handbook/awakeners/arachne/), [Nautila](/handbook/awakeners/nautila/), etc.
 
 Her OE puts three Mirages in hand, enabling silly burst damage with high investment.

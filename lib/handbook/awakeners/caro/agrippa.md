@@ -59,7 +59,7 @@ awakener:
     - gdoll
 ---
 
-Agrippa's exalt permanently stacks alert, boosting teamwide shields more and more over time. This makes her the ideal support for [Castor](/handbook/awakeners/ultra/castor/) stall teams that plan to survive forever.
+Agrippa's exalt permanently stacks alert, boosting teamwide shields more and more over time. This makes her the ideal support for [Castor](/handbook/awakeners/castor/) stall teams that plan to survive forever.
 
 She can also generate a lot of embryo fusion and trigger poison for poison teams.
 

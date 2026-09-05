@@ -133,9 +133,9 @@ Each level of Soulforge Aptitude also increases CON, ATK, and DEF by 3% in Astra
 
 Here are some of the most impactful soulforge talents:
 
-- [Kathigu-Ra](/handbook/awakeners/chaos/kathigu-ra), [Pollux](/handbook/awakeners/ultra/pollux), and [Vortice](/handbook/awakeners/benthos-aequor/vortice) become much stronger.
-- [Corposant](/handbook/awakeners/aequor/corposant) deals massive bonus damage to Aequor enemies.
-- The Lemurians — [Faros](/handbook/awakeners/aequor/faros), [Goliath](/handbook/awakeners/aequor/goliath), [Miryam](/handbook/awakeners/aequor/miryam), [Tulu](/handbook/awakeners/aequor/tulu), and [GMurphy](/handbook/awakeners/benthos-aequor/gmurphy) — get gigantic buffs when put in a team together.
+- [Kathigu-Ra](/handbook/awakeners/kathigu-ra/), [Pollux](/handbook/awakeners/pollux/), and [Vortice](/handbook/awakeners/vortice/) become much stronger.
+- [Corposant](/handbook/awakeners/corposant/) deals massive bonus damage to Aequor enemies.
+- The Lemurians — [Faros](/handbook/awakeners/faros/), [Goliath](/handbook/awakeners/goliath/), [Miryam](/handbook/awakeners/miryam/), [Tulu](/handbook/awakeners/tulu/), and [GMurphy](/handbook/awakeners/gmurphy/) — get gigantic buffs when put in a team together.
 
 ### Keyflare Rouse
 
@@ -194,7 +194,7 @@ Poison on enemies is reduced each turn if they have more poison than 30× your m
 
 Poison and counter are 25% more effective for each roused awakener in the battle.
 
-Attacks that get bonus damage based on your counter have severely reduced scaling. This means [Pandia](/handbook/awakeners/chaos/pandia), Ultra ["24"](/handbook/awakeners/chaos/24), and [Wanda](/handbook/awakeners/ultra/wanda) are much weaker (but not [Nautila](/handbook/awakeners/chaos/nautila)'s Fixed DMG).
+Attacks that get bonus damage based on your counter have severely reduced scaling. This means [Pandia](/handbook/awakeners/pandia/), Ultra ["24"](/handbook/awakeners/24/), and [Wanda](/handbook/awakeners/wanda/) are much weaker (but not [Nautila](/handbook/awakeners/nautila/)'s Fixed DMG).
 
 #### Light Cone of Fate
 

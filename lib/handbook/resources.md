@@ -21,29 +21,29 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
   ![](/images/realms/chaos.png){style="aspect-ratio: 1 / 1; object-fit: contain;"}
 </div>
 <div class="item" markdown>
-  [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png)](/handbook/awakeners/chaos/nymphaea)
+  [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png)](/handbook/awakeners/nymphaea/)
 
-  [Nymphaea](/handbook/awakeners/chaos/nymphaea)
+  [Nymphaea](/handbook/awakeners/nymphaea/)
 </div>
 <div class="item" markdown>
-  [![Alva](/images/awakeners/chaos/alva--mini.png)](/handbook/awakeners/chaos/alva)
+  [![Alva](/images/awakeners/chaos/alva--mini.png)](/handbook/awakeners/alva/)
 
-  [Alva](/handbook/awakeners/chaos/alva)
+  [Alva](/handbook/awakeners/alva/)
 </div>
 <div class="item" markdown>
-  [![Pandia](/images/awakeners/chaos/pandia--mini.png)](/handbook/awakeners/chaos/pandia)
+  [![Pandia](/images/awakeners/chaos/pandia--mini.png)](/handbook/awakeners/pandia/)
 
-  [Pandia](/handbook/awakeners/chaos/pandia)
+  [Pandia](/handbook/awakeners/pandia/)
 </div>
 <div class="item" markdown>
-  [![Nautila](/images/awakeners/chaos/nautila--mini.png)](/handbook/awakeners/chaos/nautila)
+  [![Nautila](/images/awakeners/chaos/nautila--mini.png)](/handbook/awakeners/nautila/)
 
-  [Nautila](/handbook/awakeners/chaos/nautila)
+  [Nautila](/handbook/awakeners/nautila/)
 </div>
 <div class="item" markdown>
-  [![Karen](/images/awakeners/chaos/karen--mini.png)](/handbook/awakeners/chaos/karen)
+  [![Karen](/images/awakeners/chaos/karen--mini.png)](/handbook/awakeners/karen/)
 
-  [Karen](/handbook/awakeners/chaos/karen)
+  [Karen](/handbook/awakeners/karen/)
 </div>
 </div>
 
@@ -54,29 +54,29 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
   ![](/images/realms/aequor.png){style="aspect-ratio: 1 / 1; object-fit: contain;"}
 </div>
 <div class="item" markdown>
-  [![Sanga](/images/awakeners/aequor/sanga--mini.png)](/handbook/awakeners/aequor/sanga)
+  [![Sanga](/images/awakeners/aequor/sanga--mini.png)](/handbook/awakeners/sanga/)
 
-  [Sanga](/handbook/awakeners/aequor/sanga)
+  [Sanga](/handbook/awakeners/sanga/)
 </div>
 <div class="item" markdown>
-  [![Celeste](/images/awakeners/aequor/celeste--mini.png)](/handbook/awakeners/aequor/celeste)
+  [![Celeste](/images/awakeners/aequor/celeste--mini.png)](/handbook/awakeners/celeste/)
 
-  [Celeste](/handbook/awakeners/aequor/#celeste)
+  [Celeste](/handbook/awakeners/celeste/)
 </div>
 <div class="item" markdown>
-  [![Faros](/images/awakeners/aequor/faros--mini.png)](/handbook/awakeners/aequor/faros)
+  [![Faros](/images/awakeners/aequor/faros--mini.png)](/handbook/awakeners/faros/)
 
-  [Faros](/handbook/awakeners/aequor/faros)
+  [Faros](/handbook/awakeners/faros/)
 </div>
 <div class="item" markdown>
-  [![Caecus](/images/awakeners/aequor/caecus--mini.png)](/handbook/awakeners/aequor/caecus)
+  [![Caecus](/images/awakeners/aequor/caecus--mini.png)](/handbook/awakeners/caecus/)
 
-  [Caecus](/handbook/awakeners/aequor/caecus)
+  [Caecus](/handbook/awakeners/caecus/)
 </div>
 <div class="item" markdown>
-  [![Goliath](/images/awakeners/aequor/goliath--mini.png)](/handbook/awakeners/aequor/goliath)
+  [![Goliath](/images/awakeners/aequor/goliath--mini.png)](/handbook/awakeners/goliath/)
 
-  [Goliath](/handbook/awakeners/aequor/goliath)
+  [Goliath](/handbook/awakeners/goliath/)
 </div>
 </div>
 
@@ -87,29 +87,29 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
   ![](/images/realms/caro.png){style="aspect-ratio: 1 / 1; object-fit: contain;"}
 </div>
 <div class="item" markdown>
-  [![Leigh](/images/awakeners/caro/leigh--mini.png)](/handbook/awakeners/caro/leigh)
+  [![Leigh](/images/awakeners/caro/leigh--mini.png)](/handbook/awakeners/leigh/)
 
-  [Leigh](/handbook/awakeners/caro/leigh)
+  [Leigh](/handbook/awakeners/leigh/)
 </div>
 <div class="item" markdown>
-  [![Faint](/images/awakeners/caro/faint--mini.png)](/handbook/awakeners/caro/faint)
+  [![Faint](/images/awakeners/caro/faint--mini.png)](/handbook/awakeners/faint/)
 
-  [Faint](/handbook/awakeners/caro/faint)
+  [Faint](/handbook/awakeners/faint/)
 </div>
 <div class="item" markdown>
-  [![Helot](/images/awakeners/caro/helot--mini.png)](/handbook/awakeners/caro/helot)
+  [![Helot](/images/awakeners/caro/helot--mini.png)](/handbook/awakeners/helot/)
 
-  [Helot](/handbook/awakeners/caro/helot)
+  [Helot](/handbook/awakeners/helot/)
 </div>
 <div class="item" markdown>
-  [![Agrippa](/images/awakeners/caro/agrippa--mini.png)](/handbook/awakeners/caro/agrippa)
+  [![Agrippa](/images/awakeners/caro/agrippa--mini.png)](/handbook/awakeners/agrippa/)
 
-  [Agrippa](/handbook/awakeners/caro/agrippa)
+  [Agrippa](/handbook/awakeners/agrippa/)
 </div>
 <div class="item" markdown>
-  [![Uvhash](/images/awakeners/caro/uvhash--mini.png)](/handbook/awakeners/caro/uvhash)
+  [![Uvhash](/images/awakeners/caro/uvhash--mini.png)](/handbook/awakeners/uvhash/)
 
-  [Uvhash](/handbook/awakeners/caro/uvhash)
+  [Uvhash](/handbook/awakeners/uvhash/)
 </div>
 </div>
 
@@ -120,29 +120,29 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
   ![](/images/realms/ultra.png){style="aspect-ratio: 1 / 1; object-fit: contain;"}
 </div>
 <div class="item" markdown>
-  [![Casiah](/images/awakeners/ultra/casiah--mini.png)](/handbook/awakeners/caro/casiah)
+  [![Casiah](/images/awakeners/ultra/casiah--mini.png)](/handbook/awakeners/casiah/)
 
-  [Casiah](/handbook/awakeners/caro/casiah)
+  [Casiah](/handbook/awakeners/casiah/)
 </div>
 <div class="item" markdown>
-  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png)](/handbook/awakeners/caro/jenkin)
+  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png)](/handbook/awakeners/jenkin/)
 
-  [Jenkin](/handbook/awakeners/caro/jenkin)
+  [Jenkin](/handbook/awakeners/jenkin/)
 </div>
 <div class="item" markdown>
-  [![Liz](/images/awakeners/ultra/liz--mini.png)](/handbook/awakeners/caro/liz)
+  [![Liz](/images/awakeners/ultra/liz--mini.png)](/handbook/awakeners/liz/)
 
-  [Liz](/handbook/awakeners/caro/liz)
+  [Liz](/handbook/awakeners/liz/)
 </div>
 <div class="item" markdown>
-  [![Tinct](/images/awakeners/ultra/tinct--mini.png)](/handbook/awakeners/caro/tinct)
+  [![Tinct](/images/awakeners/ultra/tinct--mini.png)](/handbook/awakeners/tinct/)
 
-  [Tinct](/handbook/awakeners/caro/tinct)
+  [Tinct](/handbook/awakeners/tinct/)
 </div>
 <div class="item" markdown>
-  [![Winkle](/images/awakeners/ultra/winkle--mini.png)](/handbook/awakeners/caro/winkle)
+  [![Winkle](/images/awakeners/ultra/winkle--mini.png)](/handbook/awakeners/winkle/)
 
-  [Winkle](/handbook/awakeners/caro/winkle)
+  [Winkle](/handbook/awakeners/winkle/)
 </div>
 </div>
 
@@ -150,7 +150,7 @@ My advice: **Pick whoever you think is cool.**
 
 You get standard pulls like water in this game, and you get standard characters when you miss on a limited banner, so you are going to own all of these characters eventually.
 
-All the standard characters are equally good and usable in some way, from early game all the way to endgame. (The only exceptions are [Pandia](/handbook/awakeners/chaos/pandia) and [Uvhash](/handbook/awakeners/caro/uvhash), who are still usable at endgame, just harder to make work than the others.)
+All the standard characters are equally good and usable in some way, from early game all the way to endgame. (The only exceptions are [Pandia](/handbook/awakeners/pandia/) and [Uvhash](/handbook/awakeners/uvhash/), who are still usable at endgame, just harder to make work than the others.)
 
 You will probably have more fun doing the story mode with a character you like, rather than a character who is 5% stronger but you don't care much about.
 
@@ -191,11 +191,11 @@ This guide includes [Awakener Tier Lists](/handbook/tier-list) and an [SSR Wheel
 
 The Moonless Guide banner lets you select 4 limited characters from the first year of Morimens. To summarize this guide's [Awakener Tier Lists](/handbook/tier-list):
 
-- [Thais](/handbook/awakeners/caro/thais) and [Horla](/handbook/awakeners/ultra/horla) are very powerful and highly recommended for new players.
-- [Lily](/handbook/awakeners/chaos/lily), [Ryker](/handbook/awakeners/chaos/ryker), [Tawil](/handbook/awakeners/chaos/tawil), [Miryam](/handbook/awakeners/aequor/miryam), [Murphy](/handbook/awakeners/aequor/murphy), [GHelot](/handbook/awakeners/caro/ghelot), and [Salvador](/handbook/awakeners/caro/salvador) are strong and solid choices.
-- ["24"](/handbook/awakeners/chaos/24) is weak for new players but quite good in endgame content. She can be considered as an investment if you like her.
-- [Hameln](/handbook/awakeners/chaos/hameln), [Tulu](/handbook/awakeners/aequor/tulu), and [Daffodil](/handbook/awakeners/ultra/daffodil) are niche and not especially powerful.
-- [Sorel](/handbook/awakeners/caro/sorel) and [Wanda](/handbook/awakeners/ultra/wanda) are not recommended for new players unless you really like them.
+- [Thais](/handbook/awakeners/thais/) and [Horla](/handbook/awakeners/horla/) are very powerful and highly recommended for new players.
+- [Lily](/handbook/awakeners/lily/), [Ryker](/handbook/awakeners/ryker/), [Tawil](/handbook/awakeners/tawil/), [Miryam](/handbook/awakeners/miryam/), [Murphy](/handbook/awakeners/murphy/), [GHelot](/handbook/awakeners/ghelot/), and [Salvador](/handbook/awakeners/salvador/) are strong and solid choices.
+- ["24"](/handbook/awakeners/24/) is weak for new players but quite good in endgame content. She can be considered as an investment if you like her.
+- [Hameln](/handbook/awakeners/hameln/), [Tulu](/handbook/awakeners/tulu/), and [Daffodil](/handbook/awakeners/daffodil/) are niche and not especially powerful.
+- [Sorel](/handbook/awakeners/sorel/) and [Wanda](/handbook/awakeners/wanda/) are not recommended for new players unless you really like them.
 
 Once you hit a recommended stopping point for any of the selected characters, this banner is no longer worth pulling on because of the risk of getting useless dupes, and you should spend your pulls on the dedicated rate-up banners instead.
 
@@ -211,7 +211,7 @@ You need at least 2 characters from each realm to complete Lightless Realm and e
 
 Morimens is a deckbuilding game. All the standard characters in this game are useful in some way. If you have problems clearing a stage, the solution is often to change your team composition. You can't do this if you have no characters.
 
-**Aim for characters that work well with the limited character(s) you pulled for.** The [Awakener Guides](/handbook/awakeners/index) section has an overview of what each character does and what teammates they might want.
+**Aim for characters that work well with the limited character(s) you pulled for.** The [Awakener Guides](/handbook/awakeners/) section has an overview of what each character does and what teammates they might want.
 
 **Don't focus on enlightens for standard characters as a new player.** If you have trouble clearing normal story stages, learning the game mechanics and having other characters to swap in is more important.
 
@@ -219,17 +219,17 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
     ![](/images/awakeners/chaos/gramona--mini.png){width="88.4833" loading=lazy}
     ![](/images/handbook/resources/genesis-form.png){width="384" loading=lazy}
 
-    [Ramona: Timeworn (GRamona)](/handbook/awakeners/chaos/gramona) is an alternate form of Ramona with different abilities. If you want her, she costs 60 Pure Cores to unlock. You also need to unlock and complete her Psyche Deepdive side story, "One Step Away."
+    [Ramona: Timeworn (GRamona)](/handbook/awakeners/gramona/) is an alternate form of Ramona with different abilities. If you want her, she costs 60 Pure Cores to unlock. You also need to unlock and complete her Psyche Deepdive side story, "One Step Away."
 
 ![](/images/handbook/resources/wheels.png){width="384" loading=lazy}
 
-**If you have enough characters, you can pull for wheels in Wheels of Rotation.** The [Awakener Guides](/handbook/awakeners/index) section has suggested SSR wheels for each character. The [SSR Wheel Tier List](/handbook/wheels) lists wheels that are generally useful for many teams. Start by getting E3 of every wheel you plan to use in your main team or in [D-Effect Zone](/handbook/d-zone).
+**If you have enough characters, you can pull for wheels in Wheels of Rotation.** The [Awakener Guides](/handbook/awakeners/) section has suggested SSR wheels for each character. The [SSR Wheel Tier List](/handbook/wheels) lists wheels that are generally useful for many teams. Start by getting E3 of every wheel you plan to use in your main team or in [D-Effect Zone](/handbook/d-zone).
 
 **If you already did all of the above and don't know what to pull next**, you can:
 
 - Get any standard character enlightens you are missing.
 - Pull on the standard character banner to fish for limited characters and +12 standards.
-- Go to "wheel jail" and try to get a wheel to +12. You can equip two SSR wheels at once if one of them is at +12. [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners/aequor/goliath)'s SSR wheel) is a good candidate for this.
+- Go to "wheel jail" and try to get a wheel to +12. You can equip two SSR wheels at once if one of them is at +12. [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners/goliath/)'s SSR wheel) is a good candidate for this.
 - Unlock [Gnostic Potential](#gnostic-potential) for your standard characters.
 
 ## Spending Menophin (Stamina)
@@ -246,10 +246,10 @@ There are two kinds of events: "shop" events, which let you pick rewards from a 
 
 **After fully unlocking the event, don't be afraid to use Special Potion Supply** *(stamina refills)*. As a new player, getting keeper level XP and level up materials *right now* is probably more worthwhile than whatever you are saving for in the future.
 
-**You can do the highest difficulty and get maximum rewards.** Unlike interludes, events are not gated by keeper level. The highest difficulties can easily be beaten by borrowing a level 90 [Mouchette](/handbook/awakeners/chaos/mouchette) from the leaderboards. (See [How to clear event lvl 60 stages at lvl 1](https://www.reddit.com/r/Morimens/comments/1shmgbs/how_to_clear_event_lvl_60_stages_at_level_1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button){target="_blank"}.)
+**You can do the highest difficulty and get maximum rewards.** Unlike interludes, events are not gated by keeper level. The highest difficulties can easily be beaten by borrowing a level 90 [Mouchette](/handbook/awakeners/mouchette/) from the leaderboards. (See [How to clear event lvl 60 stages at lvl 1](https://www.reddit.com/r/Morimens/comments/1shmgbs/how_to_clear_event_lvl_60_stages_at_level_1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button){target="_blank"}.)
 
 <figure markdown="span">
-  ![](/images/handbook/resources/madness-clear.png){width="600" class="on-glb" loading=lazy} <figcaption>Even a level 5 account can clear Madness difficulty with a maxed out [Mouchette](/handbook/awakeners/chaos/mouchette)</figcaption>
+  ![](/images/handbook/resources/madness-clear.png){width="600" class="on-glb" loading=lazy} <figcaption>Even a level 5 account can clear Madness difficulty with a maxed out [Mouchette](/handbook/awakeners/mouchette/)</figcaption>
 </figure>
 
 After you clear a stage once, you can re-enact it to instantly get rewards. As a new player, it's worth it to spend a few Emergency Gnoses to clear the level 60 stages, so you get all achievements and huge value for your menophin for the next 2 weeks.
@@ -268,7 +268,7 @@ Sometimes you're unlucky and can't get a specific resource you need from events.
 
 **Don't worry about substats or binding as a new player.** Grinding covenants is incredibly expensive and best left for endgame when you have nothing else to spend Rose Scrip on. For now, focus on getting a 6-piece set with the correct main stats for each covenant set you plan to use.
 
-The [Awakener Guides](/handbook/awakeners/index) section suggests covenants for each character. The [Building Covenants](/handbook/team#building-covenants) section suggests main stats and substats to aim for.
+The [Awakener Guides](/handbook/awakeners/) section suggests covenants for each character. The [Building Covenants](/handbook/team#building-covenants) section suggests main stats and substats to aim for.
 
 ## Upgrading Characters
 
@@ -282,7 +282,7 @@ The [Awakener Guides](/handbook/awakeners/index) section suggests covenants for 
 
 **Raise everyone to at least level 60.** This increases their CON and thus your max HP. You also unlock milestones in the Records for having level 60 characters. Level 60 is cheap to reach if you [farm limited-time events](#events).
 
-**Prioritize damage dealers and shielders** — characters where the numbers matter. ATK and DEF only affect the numbers on an awakener's command cards and exalt. For a character like [Aigis](/handbook/awakeners/caro/aigis), her debuffs are the same at level 1 or level 90, so leveling her up has less of an impact than leveling up your main damage dealer.
+**Prioritize damage dealers and shielders** — characters where the numbers matter. ATK and DEF only affect the numbers on an awakener's command cards and exalt. For a character like [Aigis](/handbook/awakeners/aigis/), her debuffs are the same at level 1 or level 90, so leveling her up has less of an impact than leveling up your main damage dealer.
 
 ### Skills
 
@@ -295,7 +295,7 @@ The [Awakener Guides](/handbook/awakeners/index) section suggests covenants for 
 
 **Raise all command cards to at least level 3.**
 
-**Prioritize skills where the numbers matter.** For example, leveling up [Lotan](/handbook/awakeners/chaos/lotan)'s rouse only increases the amount of aliemus you get from the rouse — a bonus you only get once per fight. In contrast, leveling up her exalt increases the damage of her highest-damage skill, *and* the rate at which it scales up over time, *and* the damage and aliemus from the generated strikes at E3.
+**Prioritize skills where the numbers matter.** For example, leveling up [Lotan](/handbook/awakeners/lotan/)'s rouse only increases the amount of aliemus you get from the rouse — a bonus you only get once per fight. In contrast, leveling up her exalt increases the damage of her highest-damage skill, *and* the rate at which it scales up over time, *and* the damage and aliemus from the generated strikes at E3.
 
 **Don't neglect strikes and defenses.** These give more aliemus when upgraded, which is important for all characters.
 
@@ -320,7 +320,7 @@ Each soulforge level increases CON, ATK, and DEF by 3% in Astral Reign stages. T
 
 This talent is super expensive to unlock. The only thing it does is make the character start the stage with 5 more aliemus per level.
 
-It's useful on some characters who need to exalt in the first fight (e.g. [Aigis](/handbook/awakeners/caro/aigis)), but you don't have to worry about it as a new player.
+It's useful on some characters who need to exalt in the first fight (e.g. [Aigis](/handbook/awakeners/aigis/)), but you don't have to worry about it as a new player.
 
 ### Gnostic Potential
 
@@ -385,7 +385,7 @@ Heart of Silver has Keyflare Regen as a main stat and can be used for cheesy Eme
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
 
-**Buy shards for [Lotan](/handbook/awakeners/chaos/lotan), [Ogier](/handbook/awakeners/chaos/ogier), and [Doll](/handbook/awakeners/chaos/doll).** All of these characters are useful in D-Effect Zone, and OE Lotan is one of the few DPS that are viable in Madness difficulty.
+**Buy shards for [Lotan](/handbook/awakeners/lotan/), [Ogier](/handbook/awakeners/ogier/), and [Doll](/handbook/awakeners/doll/).** All of these characters are useful in D-Effect Zone, and OE Lotan is one of the few DPS that are viable in Madness difficulty.
 
 ![](/images/covenants/crimson-pulse.png){width="80" loading=lazy}
 ![](/images/covenants/dream-of-medicine.png){width="80" loading=lazy}
@@ -437,7 +437,7 @@ You can buy SR wheels if you want. [Gateway of Truth](https://skeydb.com/databas
 
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
 
-**Buy shards for [Aigis](/handbook/awakeners/caro/aigis) if you have leftover D-Jewels.** She is one of the best characters in the game and worth getting to OE. You can also buy shards for [Aurita](/handbook/awakeners/aequor/aurita) or [Erica](/handbook/awakeners/ultra/erica) if you want.
+**Buy shards for [Aigis](/handbook/awakeners/aigis/) if you have leftover D-Jewels.** She is one of the best characters in the game and worth getting to OE. You can also buy shards for [Aurita](/handbook/awakeners/aurita/) or [Erica](/handbook/awakeners/erica/) if you want.
 
 ![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
 ![](/images/icons/shop/gnosis-fragment.png){width="80" loading=lazy}
@@ -501,7 +501,7 @@ Completing dailies gives you Reality Verges, which are used to unlock side stori
 
 **Use these to unlock posses.** Each Psyche Deepdive, Dreamscape, and Special Ops gives you a posse. Unlocking more posses boosts the power of all posses and relics in [Astral Reign](/handbook/storylines) stages.
 
-The [Awakener Guides](/handbook/awakeners/index) section suggests posses that work well with each DPS.
+The [Awakener Guides](/handbook/awakeners/) section suggests posses that work well with each DPS.
 
 **Remember that events can rerun.** If an event reruns, you unlock the event story for free.
 

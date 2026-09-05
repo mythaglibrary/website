@@ -20,7 +20,7 @@ mythag-serve = "mythag_site.awakeners:serve_main"
 
 [dependency-groups]
 dev = [
-    "zensical==0.0.53",
+    "zensical==0.0.59",
 ]
 
 [tool.setuptools]

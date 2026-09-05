@@ -45,4 +45,4 @@ awakener:
 
 Aurita's gimmick is that she hits lots of times, triggering 25+ tentacle attacks in one turn when in Raging Waves stance. This makes her a good character for converting STR and Tentacle DMG into burst damage.
 
-Her actual damage is low, so she needs a team that stacks lots of STR and Tentacle DMG, or another payoff for tentacle attacks such as [Faros](/handbook/awakeners/aequor/faros/) 's Deep Currents.
+Her actual damage is low, so she needs a team that stacks lots of STR and Tentacle DMG, or another payoff for tentacle attacks such as [Faros](/handbook/awakeners/faros/) 's Deep Currents.

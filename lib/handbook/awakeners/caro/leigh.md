@@ -42,8 +42,8 @@ awakener:
   works_well_with_note: Anyone
 ---
 
-A dedicated healer who heals for a ton when you're low on HP. This makes her a good partner for characters that need to stay under a HP threshold like [Uvhash](/handbook/awakeners/caro/uvhash/) and [Sorel](/handbook/awakeners/caro/sorel/).
+A dedicated healer who heals for a ton when you're low on HP. This makes her a good partner for characters that need to stay under a HP threshold like [Uvhash](/handbook/awakeners/uvhash/) and [Sorel](/handbook/awakeners/sorel/).
 
 Leigh is a decent embryo generator when roused, and her OE is a good source of STR too.
 
-Unlike [Faint](/handbook/awakeners/caro/faint/), she doesn't have diminishing returns in long explorations, so she can keep your squishy DPS alive through fight after fight.
+Unlike [Faint](/handbook/awakeners/faint/), she doesn't have diminishing returns in long explorations, so she can keep your squishy DPS alive through fight after fight.

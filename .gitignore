@@ -6,3 +6,5 @@
 .venv
 *.egg-info/
 site
+
+generated-docs/

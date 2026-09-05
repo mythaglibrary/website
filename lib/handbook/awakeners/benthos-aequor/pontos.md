@@ -50,4 +50,4 @@ A flexible support and DPS for Aequor teams, Pontos massively reduces enemy STR 
 
 His Fixed DMG is good for clearing mobs, but he takes a long time to kill bosses on his own and appreciates another DPS backing him up.
 
-He works best with E3 and high levels, in Aftershock-focused teams with [Corposant](/handbook/awakeners/aequor/corposant/).
+He works best with E3 and high levels, in Aftershock-focused teams with [Corposant](/handbook/awakeners/corposant/).

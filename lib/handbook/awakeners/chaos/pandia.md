@@ -58,6 +58,6 @@ awakener:
 
 Pandia’s exalt converts your counter into high AOE damage. She’s a solid damage dealer in [Faded Legacy](/handbook/storylines#faded-legacy-arc-1), but [Astral Reign](/handbook/storylines#astral-reign-arc-2) rules severely nerf her damage output.
 
-In endgame content, Pandia is most commonly used as a secondary DPS in Mono Chaos [Tawil](/handbook/awakeners/chaos/tawil/) teams to help with mob fights.
+In endgame content, Pandia is most commonly used as a secondary DPS in Mono Chaos [Tawil](/handbook/awakeners/tawil/) teams to help with mob fights.
 
 She can also be brought as a support to dispel counter from enemies with Wax-Hot Desire.

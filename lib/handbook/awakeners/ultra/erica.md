@@ -47,4 +47,4 @@ A free keyflare support with a strong exalt that inflicts weakness and vulnerabl
 
 Once roused, she generates temporary alert each time she makes a shield. With Function Overload, she can make a huge shield and a huge one-turn buff to all your shielding.
 
-Usually seen in stall teams with [Castor](/handbook/awakeners/ultra/castor/) because each Onyx Plume benefits individually from alert, allowing [Castor](/handbook/awakeners/ultra/castor/) to stack giant shields.
+Usually seen in stall teams with [Castor](/handbook/awakeners/castor/) because each Onyx Plume benefits individually from alert, allowing [Castor](/handbook/awakeners/castor/) to stack giant shields.

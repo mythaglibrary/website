@@ -3,6 +3,8 @@ title: Awakener Name
 description: Builds and new-player guidance for Awakener Name.
 template: awakeners/awakener.html
 awakener:
+  # Optional: overrides the shared content/skeydb.yaml mapping.
+  # skeydb_slug: doll-inferno
   tagline: Short description of what this Awakener does
   roles:
     - Main role
@@ -37,7 +39,12 @@ awakener:
   works_well_with_note: Optional note such as Anyone
 ---
 
-Write the guide as ordinary Markdown here.
+Write the overview as ordinary Markdown here.
+
+## How to Play
+
+Optional: explain how to use this Awakener here. Remove this heading and text
+if the section is not ready. Use ### headings for subsections.
 
 Optional example teams can be added as standalone top-level `team` fences
 below the prose. Awakener guides render them in a separate Example Teams

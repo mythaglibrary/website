@@ -1,5 +1,10 @@
 {% extends "main.html" %}
 
+{% macro prose(value) -%}
+  {%- set symbols = page.meta.mythag_symbols | default({}) -%}
+  {%- if value in symbols -%}{{ symbols[value] | safe }}{%- else -%}{{ value }}{%- endif -%}
+{%- endmacro %}
+
 {% macro wheel_column(title, wheels, assets) %}
   <div class="awakener-wheel-column">
     <h3>{{ title }}</h3>
@@ -7,10 +12,12 @@
       {% for wheel in wheels %}
         {% set wheel_asset = assets.wheels[wheel.id] %}
         <figure>
+          {% if wheel_asset.skeydb_url %}<a href="{{ wheel_asset.skeydb_url }}" target="_blank" rel="noopener noreferrer">{% endif %}
           <img src="{{ wheel_asset.image }}" alt="" loading="lazy">
           <figcaption>
-            {{ wheel_asset.label }}{% if wheel.note %}<em class="awakener-flex-note">{{ wheel.note }}</em>{% endif %}
+            {{ wheel_asset.label }}{% if wheel.note %}<em class="awakener-flex-note">{{ prose(wheel.note) }}</em>{% endif %}
           </figcaption>
+          {% if wheel_asset.skeydb_url %}</a>{% endif %}
         </figure>
       {% endfor %}
     </div>
@@ -22,26 +29,29 @@
   {% set assets = config.extra.content_assets %}
   {% set portrait = assets.portraits[page.meta.title] %}
   {% set guide_teams = page.meta.mythag_teams | default([]) %}
+  {% set how_to_play = page.meta.mythag_how_to_play | default("") %}
 
   {% include "partials/actions.html" %}
 
   <div class="awakener-guide" data-abbreviations>
     <header class="awakener-header">
-      <h1>{{ page.meta.title }}</h1>
-      <p class="awakener-tagline">{{ guide.tagline }}</p>
+      <h1><img class="awakener-realm-icon" src="{{ portrait.realm_icon }}" alt="" width="40" height="40"> {{ page.meta.title }}</h1>
+      {% if portrait.skeydb_url %}<a class="awakener-database-link" href="{{ portrait.skeydb_url }}" target="_blank" rel="noopener noreferrer">View on SKeyDB</a>{% endif %}
+      <p class="awakener-tagline">{{ prose(guide.tagline) }}</p>
       <ul class="awakener-roles" aria-label="Roles and mechanics">
         {% for role in guide.roles %}
-          <li class="awakener-role" data-role="{{ role }}">{{ role }}</li>
+          <li class="awakener-role" data-role="{{ role }}">{{ prose(role) }}</li>
         {% endfor %}
       </ul>
       {% set has_recommendations = guide.suggested_posses or guide.suggested_posses_note
         or guide.works_well_with or guide.works_well_with_note %}
       {% set section_count = guide.builds|length + (1 if has_recommendations else 0)
-        + (1 if guide_teams else 0) %}
+        + (1 if guide_teams else 0) + (1 if how_to_play else 0) %}
       {% if section_count > 1 %}
         <nav class="awakener-jump" aria-label="Guide sections">
+          {% if how_to_play %}<a href="#how-to-play">How to Play</a>{% endif %}
           {% for build in guide.builds %}
-            <a href="#build-{{ loop.index }}">{{ build.name }}</a>
+            <a href="#build-{{ loop.index }}">{{ prose(build.name) }}</a>
           {% endfor %}
           {% if has_recommendations %}
             <a href="#recommendations">Recommendations</a>
@@ -65,7 +75,7 @@
               <h2>DPS Rank</h2>
               {% for rank in guide.ranks.dps %}
                 <p class="awakener-rank" data-tier="{{ rank.tier }}">
-                  {{ rank.tier }}{% if rank.note %} <em>{{ rank.note }}</em>{% endif %}
+                  {{ rank.tier }}{% if rank.note %} <em>{{ prose(rank.note) }}</em>{% endif %}
                 </p>
               {% endfor %}
             </section>
@@ -76,7 +86,7 @@
               <h2>Support Rank</h2>
               {% for rank in guide.ranks.support %}
                 <p class="awakener-rank" data-tier="{{ rank.tier }}">
-                  {{ rank.tier }}{% if rank.note %} <em>{{ rank.note }}</em>{% endif %}
+                  {{ rank.tier }}{% if rank.note %} <em>{{ prose(rank.note) }}</em>{% endif %}
                 </p>
               {% endfor %}
             </section>
@@ -87,7 +97,7 @@
           <h2>Stopping Points</h2>
           <ul class="awakener-stopping-points">
             {% for point in guide.stopping_points %}
-              <li>{{ point }}</li>
+              <li>{{ prose(point) }}</li>
             {% endfor %}
           </ul>
         </section>
@@ -98,10 +108,16 @@
       </div>
     </div>
 
+    {% if how_to_play %}
+      <section class="awakener-section awakener-how-to-play">
+        {{ how_to_play | safe }}
+      </section>
+    {% endif %}
+
     {% for build in guide.builds %}
       <section class="awakener-section awakener-build" id="build-{{ loop.index }}">
-        <h2>{{ build.name }}</h2>
-        <div class="awakener-build-grid{% if not build.wheels.early_game or not build.wheels.astral_reign %} awakener-build-grid--one-wheel{% endif %}">
+        <h2>{{ prose(build.name) }}</h2>
+        <div class="awakener-build-grid">
           <div class="awakener-covenant-column">
             <div class="awakener-covenants">
               {% for covenant in build.covenants %}
@@ -118,7 +134,7 @@
               {% endfor %}
             </div>
             {% if build.covenants_note %}
-              <p class="awakener-section-note awakener-covenant-note">{{ build.covenants_note }}</p>
+              <p class="awakener-section-note awakener-covenant-note">{{ prose(build.covenants_note) }}</p>
             {% endif %}
           </div>
 
@@ -139,7 +155,7 @@
             <div class="awakener-recommendation-label">
               <h2>Suggested Posse</h2>
               {% if guide.suggested_posses_note %}
-                <p class="awakener-section-note">{{ guide.suggested_posses_note }}</p>
+                <p class="awakener-section-note">{{ prose(guide.suggested_posses_note) }}</p>
               {% endif %}
             </div>
             {% if guide.suggested_posses %}
@@ -147,10 +163,12 @@
                 {% for posse in guide.suggested_posses %}
                   {% set posse_asset = assets.posses[posse.id] %}
                   <figure>
+                    {% if posse_asset.skeydb_url %}<a href="{{ posse_asset.skeydb_url }}" target="_blank" rel="noopener noreferrer">{% endif %}
                     <img src="{{ posse_asset.image }}" alt="" loading="lazy">
                     <figcaption>
-                      {{ posse_asset.label }}{% if posse.note %}<em class="awakener-flex-note">{{ posse.note }}</em>{% endif %}
+                      {{ posse_asset.label }}{% if posse.note %}<em class="awakener-flex-note">{{ prose(posse.note) }}</em>{% endif %}
                     </figcaption>
+                    {% if posse_asset.skeydb_url %}</a>{% endif %}
                   </figure>
                 {% endfor %}
               </div>
@@ -163,7 +181,7 @@
             <div class="awakener-recommendation-label">
               <h2>Works Well With</h2>
               {% if guide.works_well_with_note %}
-                <p class="awakener-section-note">{{ guide.works_well_with_note }}</p>
+                <p class="awakener-section-note">{{ prose(guide.works_well_with_note) }}</p>
               {% endif %}
             </div>
             {% if guide.works_well_with %}
@@ -172,7 +190,7 @@
                   {% set related_asset = assets.awakeners[related] %}
                   <figure>
                     <a href="{{ related_asset.url }}">
-                      <img src="{{ related_asset.mini }}" alt="" loading="lazy">
+                      <img src="{{ related_asset.chibi }}" alt="" loading="lazy">
                       <figcaption>{{ related_asset.label }}</figcaption>
                     </a>
                   </figure>

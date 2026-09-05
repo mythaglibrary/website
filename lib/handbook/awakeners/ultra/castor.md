@@ -62,6 +62,6 @@ awakener:
 
 A shielder who hoards Onyx Plumes in hand to accumulate shields at the end of each turn.
 
-By himself, he's a great defensive support for any team. When paired with teammates that buff shields like [Agrippa](/handbook/awakeners/caro/agrippa/) and [Erica](/handbook/awakeners/ultra/erica/), he can stall the hardest bosses forever.
+By himself, he's a great defensive support for any team. When paired with teammates that buff shields like [Agrippa](/handbook/awakeners/agrippa/) and [Erica](/handbook/awakeners/erica/), he can stall the hardest bosses forever.
 
 Castor can deal solid damage by tossing Plumes to inflict corrosion stacks, but you need another source of damage to trigger the corrosion.

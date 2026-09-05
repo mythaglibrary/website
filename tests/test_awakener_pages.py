@@ -147,7 +147,7 @@ class AwakenerPreparationTests(unittest.TestCase):
             self.assertEqual(index["guide"]["example"]["label"], "Example")
             self.assertEqual(
                 index["guide"]["example"]["url"],
-                "/handbook/awakeners/chaos/example/",
+                "/handbook/awakeners/example/",
             )
 
     def test_check_validates_generated_config_without_writing_it(self) -> None:
@@ -164,7 +164,7 @@ class AwakenerPreparationTests(unittest.TestCase):
 
             self.assertFalse((root / ".zensical.generated.toml").exists())
 
-    def test_nests_subrealm_guides_under_their_realm_family(self) -> None:
+    def test_places_divine_realms_beside_base_realms(self) -> None:
         guides = [
             awakeners.Guide(
                 Path("lib/handbook/awakeners/aequor/aurita.md"),
@@ -184,10 +184,10 @@ class AwakenerPreparationTests(unittest.TestCase):
         ]
 
         realm = nav[0]["Awakener Guides"][1]["Aequor"]
-        self.assertEqual(realm[0], "handbook/awakeners/aequor/aurita.md")
+        self.assertEqual(realm[0], "handbook/awakeners/aurita.md")
         self.assertEqual(
-            realm[1]["Benthos Aequor"],
-            ["handbook/awakeners/benthos-aequor/pontos.md"],
+            nav[0]["Awakener Guides"][2]["Benthos Aequor"],
+            ["handbook/awakeners/pontos.md"],
         )
 
     def test_reports_multiple_schema_errors_with_field_paths(self) -> None:

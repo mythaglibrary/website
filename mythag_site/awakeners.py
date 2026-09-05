@@ -7,6 +7,7 @@ import re
 import subprocess
 import sys
 import tomllib
+import threading
 from collections.abc import Callable
 from dataclasses import dataclass
 from pathlib import Path
@@ -37,13 +38,14 @@ NAV_MARKER = "@mythag-awakener-nav"
 TEMPLATE_NAME = "awakeners/awakener.html"
 
 REALM_FAMILIES: tuple[tuple[str, tuple[tuple[str, str | None], ...]], ...] = (
-    ("Chaos", (("chaos", None), ("primordia-chaos", "Primordia Chaos"))),
-    (
-        "Aequor",
-        (("aequor", None), ("benthos-aequor", "Benthos Aequor")),
-    ),
-    ("Caro", (("caro", None), ("propagation-caro", "Propagation Caro"))),
-    ("Ultra", (("ultra", None), ("singularity-ultra", "Singularity Ultra"))),
+    ("Chaos", (("chaos", None),)),
+    ("Primordia Chaos", (("primordia-chaos", None),)),
+    ("Aequor", (("aequor", None),)),
+    ("Benthos Aequor", (("benthos-aequor", None),)),
+    ("Caro", (("caro", None),)),
+    ("Propagation Caro", (("propagation-caro", None),)),
+    ("Ultra", (("ultra", None),)),
+    ("Singularity Ultra", (("singularity-ultra", None),)),
 )
 KNOWN_REALMS = {
     realm for _, realms in REALM_FAMILIES for realm, _ in realms
@@ -58,8 +60,9 @@ ALLOWED_AWAKENER_FIELDS = {
     "suggested_posses_note",
     "works_well_with",
     "works_well_with_note",
+    "skeydb_slug",
 }
-EXTENSION_OWNED_METADATA_FIELDS = {"mythag_teams"}
+EXTENSION_OWNED_METADATA_FIELDS = {"mythag_teams", "mythag_symbols", "mythag_how_to_play"}
 TIER_STYLE_NAMES = {
     "S": "s",
     "A": "a",
@@ -122,6 +125,7 @@ class Guide:
     path: Path
     title: str
     awakener: Awakener
+    skeydb_slug: str | None = None
 
     @property
     def slug(self) -> str:
@@ -133,8 +137,7 @@ class Guide:
 
     @property
     def url(self) -> str:
-        source = self.path.relative_to("lib").with_suffix("").as_posix()
-        return f"/{source}/"
+        return f"/handbook/awakeners/{self.slug}/"
 
 
 class AwakenerValidationError(Exception):
@@ -510,6 +513,12 @@ def _parse_guide(
             "awakener.works_well_with_note",
         )
 
+    skeydb_slug = None
+    if "skeydb_slug" in awakener:
+        skeydb_slug, error = parse_content_id(awakener["skeydb_slug"])
+        if error:
+            _issue(issues, relative, "awakener.skeydb_slug", error)
+
     if validate_location:
         realm = path.parent.name
         if realm not in KNOWN_REALMS:
@@ -539,6 +548,7 @@ def _parse_guide(
             tuple(works_well_with),
             works_well_with_note,
         ),
+        skeydb_slug,
     )
 
 
@@ -754,12 +764,15 @@ def build_asset_catalog(
         )
         if full is None or mini is None:
             continue
+        chibi = mini.with_name(f"{content_id}--chibi.png")
         portrait = {"image": _site_url(full), "mini": _site_url(mini)}
+        portrait["realm_icon"] = f"/images/realms/{target.realm.split('-')[-1]}.png"
         catalog["portraits"][label] = portrait
         catalog["awakeners"][content_id] = {
             "label": label,
             **portrait,
             "url": target.url,
+            "chibi": _site_url(chibi if chibi.is_file() else mini),
         }
 
     covenant_source = (CONTENT_ROOT / "covenants.yaml").relative_to(ROOT)
@@ -789,7 +802,42 @@ def build_asset_catalog(
                 "label": label,
                 "image": _site_url(image),
             }
+    _add_skeydb_links(catalog, guides, issues)
     return catalog
+
+
+def _add_skeydb_links(
+    catalog: AssetCatalog, guides: list[Guide], issues: list[ValidationIssue]
+) -> None:
+    source = CONTENT_ROOT / "skeydb.yaml"
+    mappings = {}
+    if source.is_file():
+        try:
+            mappings = load_yaml(source.read_text(encoding="utf-8"))
+        except yaml.YAMLError as error:
+            _issue(issues, source.relative_to(ROOT), "", str(error))
+            return
+        if not isinstance(mappings, dict):
+            _issue(issues, source.relative_to(ROOT), "", "expected a mapping")
+            return
+    for category, entries in mappings.items():
+        if category not in ("awakeners", "wheels", "posses") or not isinstance(entries, dict):
+            _issue(issues, source.relative_to(ROOT), str(category), "expected awakeners, wheels, or posses mapping")
+            continue
+        for content_id, value in entries.items():
+            slug, error = parse_content_id(value)
+            if content_id not in catalog[category]:
+                error = f"unknown {category} ID {content_id!r}"
+            if error:
+                _issue(issues, source.relative_to(ROOT), f"{category}.{content_id}", error)
+            else:
+                catalog[category][content_id]["skeydb_url"] = f"https://skeydb.com/database/{category}/{slug}"
+    for guide in guides:
+        if guide.skeydb_slug and guide.slug in catalog["awakeners"]:
+            catalog["awakeners"][guide.slug]["skeydb_url"] = f"https://skeydb.com/database/awakeners/{guide.skeydb_slug}"
+        asset = catalog["awakeners"].get(guide.slug, {})
+        if "skeydb_url" in asset:
+            catalog["portraits"][guide.title]["skeydb_url"] = asset["skeydb_url"]
 
 
 def _toml_string(value: str) -> str:
@@ -821,7 +869,7 @@ def _render_nav(guides: list[Guide], indent: str) -> str:
                 lines.append(f'{indent}    {{ {_toml_string(subgroup_name)} = [')
             guide_indent = indent + ("      " if subgroup_name is not None else "    ")
             lines.extend(
-                f'{guide_indent}{_toml_string(guide.path.relative_to("lib").as_posix())},'
+                f'{guide_indent}{_toml_string(f"handbook/awakeners/{guide.slug}.md")},'
                 for guide in realm_guides
             )
             if subgroup_name is not None:
@@ -965,6 +1013,11 @@ def validate_reference_examples(
 
 def render_generated_config(guides: list[Guide], catalog: AssetCatalog) -> str:
     source = SOURCE_CONFIG.read_text(encoding="utf-8")
+    docs_setting = 'docs_dir = "generated-docs"'
+    if re.search(r"(?m)^docs_dir\s*=", source):
+        source = re.sub(r"(?m)^docs_dir\s*=.*$", docs_setting, source, count=1)
+    else:
+        source = source.replace("[project]", f"[project]\n{docs_setting}", 1)
     marker = re.compile(
         rf"^(?P<indent>[ \t]*).*{re.escape(NAV_MARKER)}.*$", re.MULTILINE
     )
@@ -994,6 +1047,8 @@ def render_generated_config(guides: list[Guide], catalog: AssetCatalog) -> str:
 
 
 def write_generated_config(generated: str) -> None:
+    if GENERATED_CONFIG.is_file() and GENERATED_CONFIG.read_text(encoding="utf-8") == generated:
+        return
     temporary = GENERATED_CONFIG.with_suffix(".tmp.toml")
     temporary.write_text(generated, encoding="utf-8", newline="\n")
     temporary.replace(GENERATED_CONFIG)
@@ -1001,7 +1056,10 @@ def write_generated_config(generated: str) -> None:
 
 def prepare_awakeners() -> list[Guide]:
     guides, catalog = collect_and_validate_awakeners()
-    write_generated_config(render_generated_config(guides, catalog))
+    from mythag_site.routes import sync_docs
+    generated = render_generated_config(guides, catalog)
+    sync_docs(ROOT, guides)
+    write_generated_config(generated)
     return guides
 
 
@@ -1017,6 +1075,8 @@ def check_main() -> None:
             for path in sorted(root.rglob("*.md"))
             for issue in validate_team_document(path, catalog)
         ]
+        from mythag_site.symbols import validate_symbol_documents
+        validate_symbol_documents(markdown_roots, root=ROOT)
         reference_issues = validate_reference_examples(
             catalog,
             {guide.slug for guide in guides},
@@ -1030,21 +1090,54 @@ def check_main() -> None:
     print(f"Content: {len(guides)} Awakener guides and inline teams valid")
 
 
+def _preview_sources() -> tuple[tuple[str, int, int], ...]:
+    paths = [SOURCE_CONFIG]
+    for directory in (ROOT / "lib", CONTENT_ROOT):
+        paths.extend(path for path in directory.rglob("*") if path.is_file())
+    return tuple((str(path), path.stat().st_mtime_ns, path.stat().st_size) for path in sorted(paths))
+
+
+def _sync_preview(stop: threading.Event, previous: tuple) -> None:
+    while not stop.wait(0.5):
+        try:
+            current = _preview_sources()
+            if current == previous:
+                continue
+            prepare_awakeners()
+            previous = current
+        except (AwakenerValidationError, OSError, ValueError) as error:
+            print(f"Preview update failed: {error}", file=sys.stderr, flush=True)
+            # Retry on the next edit rather than flooding the terminal.
+            try:
+                previous = _preview_sources()
+            except OSError:
+                pass
+
+
 def serve_main() -> None:
+    previous = _preview_sources()
     try:
         guides = prepare_awakeners()
     except AwakenerValidationError as error:
         raise SystemExit(str(error)) from error
-    print(
-        f"Awakener content: {len(guides)} guides valid; "
-        "fast preview only (run mythag-build for production output); "
-        "restart after adding, renaming, or removing a guide"
-    )
-    subprocess.run(
+    print(f"Awakener content: {len(guides)} guides valid; watching authored pages and assets", flush=True)
+    stop = threading.Event()
+    watcher = threading.Thread(target=_sync_preview, args=(stop, previous), daemon=True)
+    process = subprocess.Popen(
         [sys.executable, "-m", "zensical", "serve", "--config-file", str(GENERATED_CONFIG)],
         cwd=ROOT,
-        check=True,
     )
+    watcher.start()
+    try:
+        code = process.wait()
+        if code:
+            raise SystemExit(code)
+    finally:
+        stop.set()
+        watcher.join(timeout=5)
+        if process.poll() is None:
+            process.terminate()
+            process.wait()
 
 
 if __name__ == "__main__":

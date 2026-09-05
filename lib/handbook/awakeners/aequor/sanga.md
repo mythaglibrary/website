@@ -56,4 +56,4 @@ awakener:
 
 If you can stack a lot of shield in one turn, Sanga's exalt converts it into significant AOE damage. This makes her useful in stall teams that have trouble killing normal enemies fast.
 
-Sanga can solo DPS at low levels, but she struggles with enemies that have a lot of HP. Unless you have her OE, or a support that multiplies her damage like [Saya](/handbook/awakeners/propagation-caro/saya/), she's best used as a supportive secondary DPS.
+Sanga can solo DPS at low levels, but she struggles with enemies that have a lot of HP. Unless you have her OE, or a support that multiplies her damage like [Saya](/handbook/awakeners/saya/), she's best used as a supportive secondary DPS.

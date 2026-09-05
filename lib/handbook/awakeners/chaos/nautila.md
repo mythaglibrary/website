@@ -44,6 +44,6 @@ awakener:
     - alva
 ---
 
-A defensive combo piece for specific teams. Her unique exalt takes your existing shield and multiplies it, which is not only a strong defensive tool, but also a damage multiplier for shield scaling DPS like [Sanga](/handbook/awakeners/aequor/sanga/) and [Alva](/handbook/awakeners/chaos/alva/).
+A defensive combo piece for specific teams. Her unique exalt takes your existing shield and multiplies it, which is not only a strong defensive tool, but also a damage multiplier for shield scaling DPS like [Sanga](/handbook/awakeners/sanga/) and [Alva](/handbook/awakeners/alva/).
 
-Nautila's exalt can support [Tawil](/handbook/awakeners/chaos/tawil/) or [Daffodil](/handbook/awakeners/ultra/daffodil/) counter teams by converting counter into AOE damage. At E3, it also blocks incoming debuffs, useful for many boss fights.
+Nautila's exalt can support [Tawil](/handbook/awakeners/tawil/) or [Daffodil](/handbook/awakeners/daffodil/) counter teams by converting counter into AOE damage. At E3, it also blocks incoming debuffs, useful for many boss fights.

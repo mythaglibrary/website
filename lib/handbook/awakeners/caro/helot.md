@@ -58,6 +58,6 @@ awakener:
     - aigis
 ---
 
-Helot's exalt draws two strikes from your deck and multiplies all damage from strikes for that turn. This makes her a fantastic support for strike-based DPS like [Mouchette](/handbook/awakeners/chaos/mouchette/) and [GHelot](/handbook/awakeners/caro/ghelot/).
+Helot's exalt draws two strikes from your deck and multiplies all damage from strikes for that turn. This makes her a fantastic support for strike-based DPS like [Mouchette](/handbook/awakeners/mouchette/) and [GHelot](/handbook/awakeners/ghelot/).
 
 Helot can also be built as a DPS that focuses on setting up huge Shattering Strikes. However, she needs a lot of setup that clogs your hand with bad cards, and has trouble killing normal enemies fast.

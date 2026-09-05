@@ -48,4 +48,4 @@ A keyflare support who brings weakness, vulnerable, and fantastic defensive abil
 
 Her exalt converts incoming damage into damage over time, letting you survive massive attacks, then self-cleanse with Vortex Reversal.
 
-Works well with [GMurphy](/handbook/awakeners/benthos-aequor/gmurphy/) even though she isn't a Lemurian, as she can clear [GMurphy](/handbook/awakeners/benthos-aequor/gmurphy/)'s self-inflicted sacrifice.
+Works well with [GMurphy](/handbook/awakeners/gmurphy/) even though she isn't a Lemurian, as she can clear [GMurphy](/handbook/awakeners/gmurphy/)'s self-inflicted sacrifice.

@@ -11,11 +11,9 @@ If you have feedback or suggestions, feel free to create an [Issue](https://gith
    project dependencies.
 3. Run `uv run mythag-serve` to preview the website locally.
 
-The preview shows ordinary content, template, and CSS changes in real time (you
-might need to reload the page occasionally). Restart the preview after adding,
-renaming, moving, or removing an Awakener guide, editing a content catalog, or
-adding or removing structured covenant, wheel, posse, or related-Awakener IDs.
-Those changes refresh generated navigation and asset lookups only at startup.
+The preview watches authored pages, assets, and content catalogs and refreshes
+its generated inputs automatically. Reload the browser if needed. Source files
+remain under `lib/`; `generated-docs/` is generated and must not be edited.
 This is a fast authoring preview: AVIF URL rewriting, production abbreviation
 expansion, and redundant-PNG pruning run only during `mythag-build`.
 
@@ -178,3 +176,35 @@ See:
 ---
 
 &copy; 2026 Mythag Library
+
+### Guide additions
+
+- Add inline icons such as `:skey:` through [`content/symbols.yaml`](content/symbols.yaml).
+  See [symbol authoring](docs/symbols.md) for custom names and optional hover text.
+- [SKeyDB mappings](docs/skeydb-links.md) are stored locally and need no network access to build.
+  An optional `awakener.skeydb_slug` in a guide overrides its shared mapping.
+- For **Works Well With**, place `<id>--chibi.png` alongside that character's
+  existing `<id>--mini.png` image. The chibi is used automatically when present;
+  otherwise the portrait crop is used. No YAML field is needed. Index and team
+  portraits are unchanged.
+
+- Add an optional `## How to Play` heading after the overview prose. Its Markdown
+  content appears full-width before builds, with a guide jump link. Use `###`
+  headings for subsections; the next `##` heading ends the section. Omit the
+  heading until content is ready. Standalone `team` fences still appear in
+  Example Teams. Code examples containing the heading are left alone.
+
+### Stable Awakener URLs
+
+The public index is `/handbook/awakeners/`, and each guide is
+`/handbook/awakeners/<id>/`.
+Authored guide files stay organized by realm under `lib/handbook/awakeners/`.
+Both build and preview generate a flat page tree in `generated-docs/`, so moving
+an existing character between realm folders does not change its public URL.
+Use the character's existing content ID, such as `gmurphy`, in new links.
+
+Old realm-based addresses redirect to the new routes. The production `_redirects`
+file supplies permanent redirects on Cloudflare Pages, and HTML redirect pages
+also work in local previews and ordinary static hosting. Query strings and
+section anchors are preserved by the HTML fallback. Existing authored links are
+updated in generated Markdown, leaving source content intact.
