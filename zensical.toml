@@ -54,7 +54,7 @@ nav = [
     { "Awakener Tier Lists (For New Players)" = "handbook/tier-list.md" },
     { "Awakener Tier Lists (Endgame)" = "handbook/tier-list-endgame.md" },
     { "SSR Wheel Tier List" = "handbook/wheels.md" },
-    # @mythag-awakener-nav
+    { "Awakener Guides" = "handbook/awakeners/index.md" }, # @mythag-awakener-nav
     { "D-Zone For Dummies (OUTDATED)" = "handbook/d-zone.md" },
     { "Glossary" = "handbook/glossary.md" }
   ]},

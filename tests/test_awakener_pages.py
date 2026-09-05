@@ -56,7 +56,7 @@ class AwakenerPreparationTests(unittest.TestCase):
                 [project]
                 site_name = "Test"
                 nav = [
-                    # @mythag-awakener-nav
+                    { "Awakener Guides" = "handbook/awakeners.md" }, # @mythag-awakener-nav
                 ]
                 """
             ),
