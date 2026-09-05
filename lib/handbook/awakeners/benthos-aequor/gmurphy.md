@@ -16,12 +16,12 @@ awakener:
   ranks:
     dps:
       - tier: B+
-        note: Good Early
+        note: Good in Normal Difficulty
       - tier: A
         note: at OE
     support:
       - tier: A
-        note: Great
+        note: Game Changing
   stopping_points:
     - 'Support: E0, E1, E3'
     - 'DPS: E2, E3, OE'

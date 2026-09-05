@@ -12,10 +12,10 @@ awakener:
   ranks:
     dps:
       - tier: B
-        note: Decent
+        note: Viable with Support
     support:
       - tier: B
-        note: Decent
+        note: Role Player
   stopping_points:
     - 'Support: Any'
     - 'DPS: E1, E3, OE'

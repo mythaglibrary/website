@@ -25,7 +25,7 @@
           {% endif %}
             <a href="{{ member.awakener.url }}" aria-label="{{ member.awakener.label }}" title="{{ member.awakener.label }}">
               <figcaption>{{ member.awakener.label }}</figcaption>
-              <img src="{{ member.awakener.image }}" alt="" loading="lazy">
+              <img src="{{ member.awakener.image }}" loading="lazy">
           </a>
         </figure>
         <div class="mythag-team__context">
@@ -48,7 +48,7 @@
         <ol class="mythag-team__wheels" aria-label="{{ member.awakener.label }} wheels">
           {% for wheel in member.wheels %}
             <li class="mythag-team__wheel" title="{{ wheel.label }}">
-              <img src="{{ wheel.image }}" alt="" loading="lazy">
+              <img src="{{ wheel.image }}" loading="lazy">
               <span>{{ wheel.label }}</span>
             </li>
           {% endfor %}

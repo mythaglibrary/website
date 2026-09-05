@@ -22,15 +22,16 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 29 August 2026 (V2.6.0 - Caraboo)
+    Last updated 5 September 2026 (V2.6.0.3 - New D-tide)
 
 !!! info ""
 
     This is a living document, all info is subject to change.
     
-    This website is under construction. Please be patient! The original Google Doc can be found [here](https://docs.google.com/document/d/1THjxR9hHs4NWHqSWHHa2dHAGuE_cRGelfzXdBfCnIlM/edit?usp=sharing).
+    **This website is under construction.** Some formatting is wonky and the [Awakener Guides](/handbook/awakeners/index) are not fully updated. Please be patient!
     
     Let me know on [Discord](https://discord.com/channels/1131791637933199470/1477730088299663431){target="_blank"} if you have any feedback or suggestions!
+
 
 ## Welcome to Morimens!
 
@@ -47,6 +48,7 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [Official Discord](https://discord.gg/RAegY8wcGx){target="_blank"}
 - [Mythag Library Discord](https://discord.gg/H2MUYUSEBx){target="_blank"} - English fan community
 - [r/morimenstactics](https://www.reddit.com/r/morimenstactics/){target="_blank"}
+- [Original Google Docs version of this guide](https://docs.google.com/document/d/1THjxR9hHs4NWHqSWHHa2dHAGuE_cRGelfzXdBfCnIlM/edit?usp=sharing) (outdated)
 
 ---
 
@@ -67,8 +69,6 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [How to kidnap a whale supporter](https://www.reddit.com/r/Morimens/comments/1r2lmmw/how_to_kidnap_a_whale_supporter/){target="_blank"}
 - [Aurora's Guide to F2P Greed](https://docs.google.com/document/d/15l3tCxItkLVLwLKKV4vPFph1wYWRQbFgGHDZLYbT9Fo/){target="_blank"} - tips for fastest new player progression
 - [Braindump-ed in a vat](https://docs.google.com/presentation/d/1XDs_D-NOo88Q1Jkk6b6s_69_gxMFrx-1HBJoS8wXG10/){target="_blank"} - quick reference character guides
-- [Angbak's E0-E3 Tier List](https://www.reddit.com/r/Morimens/comments/1vjle7d/angbak_e0e3_tierlist/){target="_blank"} - aimed at D-Effect Zone Alert 4-5
-- [luffyomg's D-tide Tier List](https://drive.google.com/file/d/184eGAZ4JbkDOIQQtQL_30PwS6rfg_JfP/view){target="_blank"} - aimed at low investment Alert 5 clears
 
 ---
 
@@ -77,6 +77,7 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [Dracozion](https://www.youtube.com/@phonicdraconic697/streams){target="_blank"} - D-Effect Zone streams
 - [satri-jynni](https://www.youtube.com/@satriyajynni){target="_blank"} - hard mode clears
 - [Kiro Takahashi](https://www.youtube.com/@linireo){target="_blank"} - hard mode clears
+
 
 !!! info "What about Flares?"
 
@@ -120,13 +121,13 @@ The best way to learn what codes are currently active is to ask in the [official
 ## You Will Die
 
 <figure markdown="span">
-  ![](/images/handbook/introduction/you-will-die.png){width="400" loading=lazy}
+  ![](/images/handbook/introduction/you-will-die.png){width="400" loading=lazy} <figcaption>Art by [calcduc](https://twitter.com/calcduc/status/2095424561915605200)</figcaption>
 </figure>
 
 As a new player, you start in a honeymoon period. Chapters 1-5 of [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) are relatively easy and can be beaten with random characters playing random cards.
 
 Once you reach the midgame, Morimens stops holding your hand. Enemies will no longer roll over to basic attacks. You will see incoming damage that is higher than your whole HP bar. You will probably die the first time you attempt many bosses.
 
-Treat each defeat as a lesson rather than a setback. This game is 10% pay-to-win and 90% skill and patience. If you spend thousands of dollars on a bad team, you will still die. If you pay attention, build your team right, and play your cards right, you'll overcome challenges that seem impossible.
+Treat each defeat as a lesson rather than a setback. This game is 25% pay-to-win and 75% skill and patience. If you spend thousands of dollars on a bad team, you will still die. If you pay attention, build your team right, and play your cards right, you'll overcome challenges that seem impossible.
 
 One more thing: there's no shame in using Emergency Gnoses. The game gives you a free revive every day. Unless you're aiming for achievements or bragging rights, why waste it?

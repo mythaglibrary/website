@@ -12,10 +12,10 @@ awakener:
   ranks:
     dps:
       - tier: A
-        note: Great
+        note: Good in Hard Difficulty
     support:
       - tier: C
-        note: Usable
+        note: Technically Usable
   stopping_points:
     - 'E3, OE'
   builds:

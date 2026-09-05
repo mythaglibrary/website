@@ -23,7 +23,7 @@ icon: lucide/blocks
 
 When you build a team in Morimens, you aren't building it for no reason. Your goal is to use that team to clear a specific stage, in a specific game mode and ruleset.
 
-**The "best" team you can make is different for every stage.** There is no such thing as a team that can do everything. Even if you have a super-strong carry like [Mouchette](/handbook/awakeners/chaos/mouchette) or [GLotan](/handbook/awakeners/primordia-chaos/glotan), they will still get hard countered by some bosses.
+**The "best" team you can make is different for every stage.** There is no such thing as a team that can do everything at every difficulty. Even if you have a strong newbie carry like [Mouchette](/handbook/awakeners/chaos/mouchette) or [GLotan](/handbook/awakeners/primordia-chaos/glotan), they will still get hard countered by specific stages.
 
 Most characters in this game are situationally good — they perform much better in certain situations than others. Part of learning Morimens is understanding which situations are best for each character and which characters are best for each stage.
 
@@ -101,42 +101,42 @@ The [Newbie DPS Tier List](/handbook/tier-list) and [Newbie Support Tier List](/
 ### Stall
 
 ```team
-name: Castor Agrippa Stall
+name: Caro Vortice
 context: Astral Reign - D-Effect Zone
-summary: A team that outlasts enemies while waiting for relics to kill them
-posse: derision-of-destiny
+summary: A team that outlasts enemies and grinds them down
+posse: drowned-innocence
 members:
-  - awakener: castor
-    archetype: tank
-    role: Tank
-    note: Shields, applies weakness
-    covenant: dream-of-medicine
-    wheels: [unbearable-freedom, data-is-flesh]
-  - awakener: leigh
-    archetype: tank
-    role: Tank
-    note: Heals and shields
+  - awakener: vortice
+    archetype: dps
+    role: DPS
+    note: Main damage dealer
     covenant: cursed-rabbit
-    wheels: [the-gluttons-tale, noblemans-staff]
-  - awakener: agrippa
-    archetype: support
-    role: Support
-    note: Alert, embryos, poison
-    covenant: burial-grounds-sighs
-    wheels: [pale-descendant, mind-barrier]
-  - awakener: erica
-    archetype: support
-    role: Support
-    note: Keyflare, shields, temp. alert
+    wheels: [birth-of-a-soul, data-is-flesh]
+  - awakener: murphy
+    archetype: tank
+    role: Tank
+    note: Shields, keyflare
     covenant: life-drain
-    wheels: [core-meltdown, moment-of-reunion]
+    wheels: [shrouded-birth, moment-of-reunion]
+  - awakener: celeste
+    archetype: tank
+    role: Tank
+    note: Weakness, heals, revive
+    covenant: burial-grounds-sighs
+    wheels: [the-gluttons-tale, memory-syndrome]
+  - awakener: faint
+    archetype: tank
+    role: Tank
+    note: Weakness, death resistance
+    covenant: burial-grounds-sighs
+    wheels: [lullaby-devoured, cloaked-in-the-night]
 ```
 
 **A steady grind for patient players.**
 
 A stall team is based on surviving as long as possible. If you can survive forever, you don't need to do much damage to beat a stage — a bit of damage each turn is enough.
 
-This type of team is most common in D-Effect Zone, where some stages start you with a relic that generates poison or counter. Having an external source of damage means you can focus completely on defense and still win.
+This type of team is most useful against chapter-end bosses and D-Effect Zone Madness difficulty, where the enemies have too much HP for any damage dealer to kill in one shot.
 
 Stall teams have to be wary of [Gaze](/handbook/storylines#light-cone-of-fate) if they take too long in normal fights. They also have to actually survive every attack to work properly. Some bosses deal too much damage, or scale too much over time, to be stalled.
 
@@ -145,7 +145,7 @@ Stall teams have to be wary of [Gaze](/handbook/storylines#light-cone-of-fate) i
 ```team
 name: Xu Poison
 context: Astral Reign - Story
-summary: A team that applies poison and triggers it to deal damage.
+summary: A team that applies and triggers poison
 posse: plague-of-illusions
 members:
   - awakener: xu
@@ -154,24 +154,24 @@ members:
     note: Applies and triggers poison
     covenant: steppenwolf
     wheels: [gift-of-decay, cursed-binding]
-  - awakener: nymphaea
-    archetype: support
-    role: Poison / Support
-    note: Keyflare, triggers poison
-    covenant: life-drain
-    wheels: [merciful-nurturing, moment-of-reunion]
   - awakener: gdoll
     archetype: support
     role: Poison / Support
     note: Aliemus, applies poison
     covenant: dream-of-medicine
     wheels: [manikin-of-oblivion, elevated-focus]
-  - awakener: faint
+  - awakener: nymphaea
+    archetype: support
+    role: Poison / Support
+    note: Keyflare, triggers poison
+    covenant: life-drain
+    wheels: [merciful-nurturing, gateway-of-truth]
+  - awakener: lily
     archetype: tank
-    role: Tank
-    note: Death resistance, weakness
-    covenant: burial-grounds-sighs
-    wheels: [dusk-and-dawn, cloaked-in-the-night]
+    role: Poison / Tank
+    note: Shields, heals, poison
+    covenant: feast-from-afar
+    wheels: [dusk-and-dawn, the-land-of-nonexistence]
 ```
 
 **An alternative strategy that ramps up over time.**
@@ -189,35 +189,35 @@ A poison team is usually also a stall team, but it can be faster depending on th
 ### Counter
 
 ```team
-name: Counter Bluwil
+name: Arachne Counter
 context: Faded Legacy - Story Hard Mode
-summary: A team that can stack counter and convert it into damage
-posse: a-mouses-wisdom
+summary: A team that stalls and builds counter
+posse: feast-of-decay
 members:
-  - awakener: tawil
+  - awakener: arachne
     archetype: dps
-    role: DPS
-    note: Keyflare, STR, damage, shields, utility
+    role: DPS / Support
+    note: DMG amp, Final Verdict
     covenant: dream-of-medicine
-    wheels: [wheel-unseen, blade-of-the-titan]
-  - awakener: hameln
-    archetype: support
-    role: Support
-    note: Keyflare, arithmetica, card draw
-    covenant: life-drain
-    wheels: [merciful-nurturing, frenzy]
-  - awakener: caecus
-    archetype: support
-    role: Counter / Support
-    note: Heals, turns STR into counter
-    covenant: april-tribute
-    wheels: [fin-of-sorrow, to-my-dearest-friend]
-  - awakener: nautila
+    wheels: [eternal-weave, rota-fortunae]
+  - awakener: wanda
     archetype: tank
     role: Counter / Tank
-    note: Shields, turns counter into damage
+    note: Shields, builds counter
+    covenant: steppenwolf
+    wheels: [queens-edict, the-gaze-of-isarawu]
+  - awakener: caecus
+    archetype: tank
+    role: Counter / Tank
+    note: Heals, builds counter
     covenant: cursed-rabbit
-    wheels: [gluttony, emerge]
+    wheels: [fin-of-sorrow, gluttony]
+  - awakener: winkle
+    archetype: support
+    role: Support
+    note: Keyflare, aliemus, weakness
+    covenant: life-drain
+    wheels: [merciful-nurturing, emerge]
 ```
 
 **A niche strategy for specific fights.**
@@ -226,7 +226,7 @@ Counter teams are about stacking so much counter that enemies die when they atta
 
 The effectiveness of counter varies depending on the stage. It's amazing when enemies do a lot of multihit attacks. It's awful against enemies that attack in big single hits, or against attacks that don't trigger counter (such as poison, bleed, or tentacles).
 
-A good counter team has a plan B for when the enemies don't trigger counter. The example team can use [Tawil](/handbook/awakeners/chaos/tawil) as a normal DPS and just kill enemies with Tawil's cards. It can also use [Nautila](/handbook/awakeners/chaos/nautila)'s exalt to convert counter into guaranteed damage.
+A good counter team has a plan B for when the enemies don't trigger counter. The example team can use [Wanda](/handbook/awakeners/ultra/wanda) to trigger counter extra times or convert counter directly into damage. It can also use [Arachne](/handbook/awakeners/singularity-ultra/arachne)'s Final Verdict as an alternate source of damage.
 
 **If you rely on permanent counter, you need to rouse everyone in [Astral Reign](/handbook/storylines).** This is because [Prismatic Lens](/handbook/storylines/#prismatic-lens) gives you bonus temporary counter each turn for each roused character in the team.
 
@@ -272,14 +272,14 @@ Do you like dealing more damage? How about 50% more damage?
 
 **Weakness and vulnerable are the best debuffs in the game.** There's a huge difference between a team that can consistently apply weakness and vulnerable and a team that can't.
 
-Some characters, like [Thais](/handbook/awakeners/caro/thais) and [Horla](/handbook/awakeners/ultra/horla), can achieve close to 100% uptime of weakness and vulnerable. These are naturally the best supports in the game.
+Some characters, like [Thais](/handbook/awakeners/caro/thais) and [Horla](/handbook/awakeners/ultra/horla), can achieve close to 100% uptime of weakness and vulnerable. These are naturally two of the best supports in the game.
 
 Even if you don't have 100% uptime, you should have weakness and vulnerable somewhere, so you have them when you really need them. For example, [Erica](/handbook/awakeners/ultra/erica)'s exalt inflicts vulnerable for one turn, which is good enough to unload all your burst damage.
 
 Teams that don't want weakness or vulnerable are rare:
 
-- [GLotan](/handbook/awakeners/primordia-chaos/glotan) gets stronger when there’s more incoming damage, so inflicting weakness is a DPS loss.
 - [Mouchette](/handbook/awakeners/chaos/mouchette) prefers to trigger death resistance rather than mitigate damage, so her teams don't need weakness.
+- [GLotan](/handbook/awakeners/primordia-chaos/glotan)'s exalt gets stronger when there's more incoming damage, so inflicting weakness makes her weaker as well.
 - Fixed poison and counter aren't affected by vulnerable, so characters like [Faros](/handbook/awakeners/aequor/faros) that deal damage mainly through status effects benefit less from it.
 
 **If all else fails, you can run the [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} posse**, and cry yourself to sleep dreaming of all the other posses you could use if only you had weakness and vulnerable on your team.
@@ -306,7 +306,7 @@ Here is a quick guide to what each realm means for a team.
 
 In Mono Chaos you don't have a gimmick to rely on like any of the other realms. Instead, you get more keyflare and more aliemus. A good Mono Chaos team uses dual posse every turn and abuses the Chaos Realm Mastery effect to exalt every turn.
 
-**Mono Chaos isn't a good option for new players.** It's great if you're a veteran player with 50 unlocked posses, OE characters, and +12 realm mastery wheels. It sucks if your only options from dual posse are [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} and [Tiny Wish](https://skeydb.com/database/posses/tiny-wish){target="_blank"}.
+**Mono Chaos isn't a good option for new players.** It's great if you're a veteran player with 50 unlocked posses, OE characters, and +12 Realm Mastery wheels. It sucks if your only options from dual posse are [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} and [Tiny Wish](https://skeydb.com/database/posses/tiny-wish){target="_blank"}.
 
 **Primordia Chaos:** Some characters like [GLotan](/handbook/awakeners/primordia-chaos/glotan) change how Chaos mechanics work when they're on your team. In Primordia Chaos, the normal Chaos mechanics no longer apply; keyflare generation works differently; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you combine random unlocked posses.
 
@@ -318,7 +318,7 @@ In Mono Chaos you don't have a gimmick to rely on like any of the other realms. 
 
 Aequor gives you a free shield every turn from Tranquil Sea stance, which adds up over long fights. Tentacles also add damage to every hit in Raging Waves stance, which works well with characters that have multihit attacks.
 
-**Tentacle damage scales with Crit Rate and Crit DMG.** Aequor teams can equip more crit wheels and covenants to multiply the effectiveness of their tentacle hits. They can also make good use of teamwide crit buffs, such as the SR wheel [To My Dearest Friend](https://skeydb.com/database/wheels/to-my-dearest-friend){target="_blank"}.
+**Tentacle damage scales with Crit Rate and Crit DMG.** Aequor teams can equip more wheels and covenants with these stats to multiply the effectiveness of their tentacle hits. They can also make good use of teamwide crit buffs, such as the SR wheel [To My Dearest Friend](https://skeydb.com/database/wheels/to-my-dearest-friend){target="_blank"}.
 
 **Passive tentacle damage is good early but weak later on.** When you're fighting level 40+ enemies, you need big damage buffs for your end-of-turn slaps to have any impact. Spamming Tranquil Sea stance for shields is usually better than sitting in Surging Tides stance to get more tentacles.
 
@@ -510,7 +510,7 @@ Start by making one of each covenant set you're going to use. When you're a vete
 
 Gives keyflare every turn, or embryo fusion in Caro teams.
 
-[As you know](#the-almighty-keyflare-bot), this is the most important covenant set. It's a must-have for any team that wants keyflare (so, every team). In Caro it's less good, but usually still better than other options.
+[As you know](#the-almighty-keyflare-bot), this is one of the best covenant sets. In Caro it's less good, but usually still better than other options.
 
 Build as much Keyflare Regen as possible.
 
@@ -573,7 +573,7 @@ Prioritize Keyflare Regen and any supportive stats of your choice.
 
 Gives big crit buffs at the start of your turn if the enemies have more than 75% HP remaining.
 
-This is the highest-damage set for most DPS. Most bosses have multiple phases, and each phase counts as a new HP bar, so the condition is easier to fulfil than it looks.
+This is the best set for most DPS if you aren't doing Nightmare or Madness difficulty. Most bosses have multiple phases, and each phase counts as a new HP bar, so the condition is easier to fulfil than it looks.
 
 Prioritize Crit DMG, Crit Rate, and Keyflare Regen.
 
@@ -594,9 +594,30 @@ Prioritize Crit DMG, Crit Rate, and Keyflare Regen.
 
 Gives crit rate when you posse. (You have a [keyflare bot](#the-almighty-keyflare-bot), right?)
 
-If you haven't unlocked [April Tribute](#april-tribute), this is the next best option. It's also better in fights where enemies spend most of the fight below 75% HP (such as bosses with death resistance).
+If you haven't unlocked [April Tribute](#april-tribute), this is the next best option. It's also better in fights where enemies spend most of the fight below 75% HP, such as bosses that have death resistance or giant HP bars.
 
 Prioritize Crit DMG, Crit Rate, and Keyflare Regen.
+
+#### Steppenwolf
+
+<p class="flex-center" markdown="span">
+  ![](/images/covenants/steppenwolf--icon.png){width="136" loading=lazy}
+  ![](/images/covenants/steppenwolf.png){width="96" loading=lazy}
+</p>
+
+<div class="grid cards" markdown>
+  <span class="grid-1/1/1">
+    <span>**Source** <br /> Store <br /> *(Rose Scrip)*</span>
+    <span>**Used by** <br /> Base DMG and fixed poison/counter DPS</span>
+    <span style="padding: 0 4px; background-color: var(--md-highlight-no)">**Team Unique?** <br /> No</span>
+  </span>
+</div>
+
+This is the highest-damage option For DPS that apply fixed poison or counter, like [Nymphaea](/handbook/awakeners/chaos/nymphaea). It can also be used by DPS that have innate Crit Rate buffs and high Base DMG, like ["24"](/handbook/awakeners/chaos/24), [GHelot](/handbook/awakeners/caro/ghelot), and [Daffodil](/handbook/awakeners/ultra/daffodil).
+
+If the DPS scales with critical hits and can't reach 100% Crit Rate on their own, you should probably run [April Tribute](#april-tribute) or [Crimson Pulse](#crimson-pulse) instead.
+
+Prioritize Crit DMG and Crit Rate if a crit DPS is holding this, DMG Amplification otherwise. Keyflare Regen is always good.
 
 #### Dream of Medicine
 
@@ -617,7 +638,7 @@ Adds extra copies of the wielder's skill cards to your deck.
 
 This is a powerful covenant set for specific characters where the extra cards make a difference. It's Team Unique, so you have to consider which of your characters needs it the most.
 
-Prioritize crit if a crit DPS is holding this, teamwide stats otherwise. Keyflare Regen is always good.
+Prioritize Crit DMG and Crit Rate if a crit DPS is holding this, teamwide stats otherwise. Keyflare Regen is always good.
 
 ### Other Covenant Sets
 
@@ -702,27 +723,6 @@ Gives a tiny amount of STR at the start of the battle; or in Aequor teams, gives
 Many people misread the effect and think this set generates extra permanent tentacles. In fact, Tentacle Gathering only lasts one turn.
 
 [Vortice](/handbook/awakeners/benthos-aequor/vortice) is the only character that can use this effectively.
-
-#### Steppenwolf
-
-<p class="flex-center" markdown="span">
-  ![](/images/covenants/steppenwolf--icon.png){width="136" loading=lazy}
-  ![](/images/covenants/steppenwolf.png){width="96" loading=lazy}
-</p>
-
-<div class="grid cards" markdown>
-  <span class="grid-1/1/1">
-    <span>**Source** <br /> Store <br /> *(Rose Scrip)*</span>
-    <span>**Used by** <br /> Base DMG and fixed poison/counter DPS</span>
-    <span style="padding: 0 4px; background-color: var(--md-highlight-no)">**Team Unique?** <br /> No</span>
-  </span>
-</div>
-
-For DPS that mainly apply fixed poison or counter, like [Nymphaea](/handbook/awakeners/chaos/nymphaea), this is the highest-damage option.
-
-Prioritize DMG Amplification and Keyflare Regen.
-
-If you can crit, you should probably run [April Tribute](#april-tribute) instead.
 
 #### Organic Form
 
@@ -821,7 +821,7 @@ Not a bad alternative to [Life Drain](#life-drain) in Caro/Ultra teams. Of cours
 
 Gives a Crit DMG boost when the wielder Devours or you use an embryo card on them.
 
-Theoretically good in some scenarios, but it takes too much setup for this to be better than [April Tribute](#april-tribute). Not really worth building.
+Theoretically good in some scenarios, but it takes too much setup for this to be better than [April Tribute](#april-tribute). Not really worth building for new players.
 
 #### Sweet Slug
 
@@ -897,7 +897,7 @@ Usable if you don't mind having to work harder for your keyflare.
   </span>
 </div>
 
-Adds a multiplier to the wielder's shields and healing. A good generic covenant set for defensive characters.
+Buffs the wielder's shields and healing. A good generic covenant set for defensive characters.
 
 This set is expensive because it costs D-Jewels, which are needed for Dreamshards and other key materials. For most content you can run [Burial Ground's Sighs](#burial-grounds-sighs) and it makes no difference; make sure you actually need this before you start building it.
 

@@ -150,7 +150,7 @@ My advice: **Pick whoever you think is cool.**
 
 You get standard pulls like water in this game, and you get standard characters when you miss on a limited banner, so you are going to own all of these characters eventually.
 
-All the standard characters are equally good and usable in some way, from early game all the way to endgame. (The only exceptions are [Pandia](/handbook/awakeners/chaos/pandia) and [Uvhash](/handbook/awakeners/caro/uvhash), who are still usable at endgame, just not as good as the others.)
+All the standard characters are equally good and usable in some way, from early game all the way to endgame. (The only exceptions are [Pandia](/handbook/awakeners/chaos/pandia) and [Uvhash](/handbook/awakeners/caro/uvhash), who are still usable at endgame, just harder to make work than the others.)
 
 You will probably have more fun doing the story mode with a character you like, rather than a character who is 5% stronger but you don't care much about.
 
@@ -162,9 +162,9 @@ If you *only* care about meta, go to the [official Discord](https://discord.gg/R
 
 Keeper level (account level) is the most valuable stat in this game. Everything else can be fixed with patience or money, but there's no way to get a high keeper level other than sticking to one account for a long time.
 
-Unless you spend 500K silver pulling wheels you don't use, or something similarly ridiculous, it is very difficult to brick your account. You don't need meta characters to clear normal story mode or even get all rewards from D-Effect Zone.
+Morimens is one of the most generous gacha games in existence. Even a free-to-play player earns enough pulls to get a character to E3 every other patch. In addition, it is very difficult to brick your account in this game, as all characters are viable in Hard and Nightmare D-Effect Zone.
 
-Even if you want meta characters, Morimens is one of the most generous gacha games in existence. Just wait for the developers to give you free pulls, and then you can go pull on whatever banner you want.
+If you still regret your investment decisions, you can wait for the developers to give out Origins of Time. These are items given out during major updates, which can be used to reset characters and refund the level-up resources you invested in them.
 
 <figure markdown="span">
   ![](/images/emojis/ryker-shy.png){width="128" loading=lazy} <figcaption>"99% of gamblers quit before they hit the jackpot."</figcaption>
@@ -181,9 +181,9 @@ Even if you want meta characters, Morimens is one of the most generous gacha gam
 
 **Use Silver to buy Luminous Cores. Spend Luminous Cores and Ethereal Cores to pull for limited characters.**
 
-In general, limited characters are more flexible and powerful than standard characters. As a new player with a fresh account, the fastest way to clear harder stages and get more rewards is to pick one or more of the currently running limited characters to focus on.
+In general, limited characters are more flexible and powerful than standard characters. For a new player with a fresh account, the fastest way to clear harder stages and get more rewards is to pick a currently running limited character to focus on.
 
-**You can skip limited Wheels of Destiny if you need to save pulls.** This is because characters don't need their own wheel to function. You can substitute with standard SSR wheels, or even lower-rarity wheels, and it will be enough to clear all content in the game. Sometimes the substitute is more powerful than the character's own wheel.
+**You can skip limited Wheels of Destiny if you need to save pulls.** This is because characters don't need their own wheel to function. You can substitute with standard SSR wheels, or even lower-rarity wheels, for most of the content in the game. Sometimes the substitute is more powerful than the character's own wheel.
 
 This guide includes [Awakener Tier Lists](/handbook/tier-list) and an [SSR Wheel Tier List](/handbook/wheels). The higher tier an awakener or wheel is, the more recommended it is for new players to pull for.
 
@@ -192,9 +192,10 @@ This guide includes [Awakener Tier Lists](/handbook/tier-list) and an [SSR Wheel
 The Moonless Guide banner lets you select 4 limited characters from the first year of Morimens. To summarize this guide's [Awakener Tier Lists](/handbook/tier-list):
 
 - [Thais](/handbook/awakeners/caro/thais) and [Horla](/handbook/awakeners/ultra/horla) are very powerful and highly recommended for new players.
-- [Lily](/handbook/awakeners/chaos/lily), [Ryker](/handbook/awakeners/chaos/ryker), [Tawil](/handbook/awakeners/chaos/tawil), [Miryam](/handbook/awakeners/aequor/miryam), [Murphy](/handbook/awakeners/aequor/murphy), [GHelot](/handbook/awakeners/caro/ghelot), and [Salvador](/handbook/awakeners/caro/salvador) are strong choices.
-- ["24"](/handbook/awakeners/chaos/24), [Hameln](/handbook/awakeners/chaos/hameln), [Tulu](/handbook/awakeners/aequor/tulu), and [Daffodil](/handbook/awakeners/ultra/daffodil) are okay but not amazing choices.
-- [Sorel](/handbook/awakeners/caro/sorel), and [Wanda](/handbook/awakeners/ultra/wanda) aren't worth it for new players unless you really like them.
+- [Lily](/handbook/awakeners/chaos/lily), [Ryker](/handbook/awakeners/chaos/ryker), [Tawil](/handbook/awakeners/chaos/tawil), [Miryam](/handbook/awakeners/aequor/miryam), [Murphy](/handbook/awakeners/aequor/murphy), [GHelot](/handbook/awakeners/caro/ghelot), and [Salvador](/handbook/awakeners/caro/salvador) are strong and solid choices.
+- ["24"](/handbook/awakeners/chaos/24) is weak for new players but quite good in endgame content. She can be considered as an investment if you like her.
+- [Hameln](/handbook/awakeners/chaos/hameln), [Tulu](/handbook/awakeners/aequor/tulu), and [Daffodil](/handbook/awakeners/ultra/daffodil) are niche and not especially powerful.
+- [Sorel](/handbook/awakeners/caro/sorel) and [Wanda](/handbook/awakeners/ultra/wanda) are not recommended for new players unless you really like them.
 
 Once you hit a recommended stopping point for any of the selected characters, this banner is no longer worth pulling on because of the risk of getting useless dupes, and you should spend your pulls on the dedicated rate-up banners instead.
 
@@ -212,7 +213,7 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
 
 **Aim for characters that work well with the limited character(s) you pulled for.** The [Awakener Guides](/handbook/awakeners/index) section has an overview of what each character does and what teammates they might want.
 
-**Don't focus on enlightens for standard characters as a new player.** If you have trouble clearing normal story stages, learning the game mechanics and having other characters to swap in is much more important.
+**Don't focus on enlightens for standard characters as a new player.** If you have trouble clearing normal story stages, learning the game mechanics and having other characters to swap in is more important.
 
 !!! info ""
     ![](/images/awakeners/chaos/gramona--mini.png){width="88.4833" loading=lazy}
@@ -228,7 +229,7 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
 
 - Get any standard character enlightens you are missing.
 - Pull on the standard character banner to fish for limited characters and +12 standards.
-- Go to "wheel jail" and try to +12 a wheel. You can equip two SSR wheels at once if one of them is at +12. [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners/aequor/goliath)'s SSR wheel) is a good candidate to +12.
+- Go to "wheel jail" and try to get a wheel to +12. You can equip two SSR wheels at once if one of them is at +12. [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners/aequor/goliath)'s SSR wheel) is a good candidate for this.
 - Unlock [Gnostic Potential](#gnostic-potential) for your standard characters.
 
 ## Spending Menophin (Stamina)
@@ -245,10 +246,10 @@ There are two kinds of events: "shop" events, which let you pick rewards from a 
 
 **After fully unlocking the event, don't be afraid to use Special Potion Supply** *(stamina refills)*. As a new player, getting keeper level XP and level up materials *right now* is probably more worthwhile than whatever you are saving for in the future.
 
-**You can do the highest difficulty and get maximum rewards.** Unlike interludes, events are not gated by keeper level. The highest difficulties can easily be beaten by borrowing a level 90 [Mouchette](/handbook/awakeners/chaos/mouchette) from the leaderboards (See [How to clear event lvl 60 stages at lvl 1](https://www.reddit.com/r/Morimens/comments/1shmgbs/how_to_clear_event_lvl_60_stages_at_level_1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button){target="_blank"}).
+**You can do the highest difficulty and get maximum rewards.** Unlike interludes, events are not gated by keeper level. The highest difficulties can easily be beaten by borrowing a level 90 [Mouchette](/handbook/awakeners/chaos/mouchette) from the leaderboards. (See [How to clear event lvl 60 stages at lvl 1](https://www.reddit.com/r/Morimens/comments/1shmgbs/how_to_clear_event_lvl_60_stages_at_level_1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button){target="_blank"}.)
 
 <figure markdown="span">
-  ![](/images/handbook/resources/madness-clear.png){width="600" loading=lazy} <figcaption>A maxed out [Mouchette](/handbook/awakeners/chaos/mouchette) easily clears Madness difficulty by herself</figcaption>
+  ![](/images/handbook/resources/madness-clear.png){width="600" class="on-glb" loading=lazy} <figcaption>Even a level 5 account can clear Madness difficulty with a maxed out [Mouchette](/handbook/awakeners/chaos/mouchette)</figcaption>
 </figure>
 
 After you clear a stage once, you can re-enact it to instantly get rewards. As a new player, it's worth it to spend a few Emergency Gnoses to clear the level 60 stages, so you get all achievements and huge value for your menophin for the next 2 weeks.
@@ -337,7 +338,7 @@ This talent is automatically unlocked for limited characters. You can manually u
 
 **Buy whatever you need from the shop.** This is a good place to get XP potions and skill upgrade materials.
 
-**Don't spend more Rose Scrip than you need to.** Early on you might feel like you’re drowning in money, but that money will quickly evaporate once you start upgrading your covenants and increasing the level caps of your characters. Only buy something from the shop if you're going to use it right away.
+**Don't spend more Rose Scrip than you need to.** Early on, you might feel like you’re drowning in money, but that money will quickly evaporate once you start upgrading your covenants and increasing the level caps of your characters. Only buy something from the shop if you're going to use it right away.
 
 
 ### Sediment
@@ -369,7 +370,7 @@ If you have leftover Sediment each month, you can buy other stuff like Mimetic C
 
 ![](/images/wheels/heart-of-silver--mini.png){width="80" loading=lazy}
 
-If you don't have enough keyflare wheels for D-Effect Zone, you can get one copy of Heart of Silver.
+Heart of Silver has Keyflare Regen as a main stat and can be used for cheesy Emergency Gnosis strategies. You can buy it if you have Sediment to spare.
 
 ### Badges
 
@@ -384,7 +385,7 @@ If you don't have enough keyflare wheels for D-Effect Zone, you can get one copy
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
 
-**Buy shards for [Lotan](/handbook/awakeners/chaos/lotan), [Ogier](/handbook/awakeners/chaos/ogier), and [Doll](/handbook/awakeners/chaos/doll).** All of these characters are usable in D-Effect Zone. Better to have them at OE and not need them, than realize you need OE Lotan and can't get her because you can only buy 3 shards per month.
+**Buy shards for [Lotan](/handbook/awakeners/chaos/lotan), [Ogier](/handbook/awakeners/chaos/ogier), and [Doll](/handbook/awakeners/chaos/doll).** All of these characters are useful in D-Effect Zone, and OE Lotan is one of the few DPS that are viable in Madness difficulty.
 
 ![](/images/covenants/crimson-pulse.png){width="80" loading=lazy}
 ![](/images/covenants/dream-of-medicine.png){width="80" loading=lazy}
@@ -446,7 +447,7 @@ You can get Mimetic Crystals and Gnosis Fragments if you have nothing else to bu
 ![](/images/wheels/core-meltdown--mini.png){width="80" loading=lazy}
 ![](/images/wheels/winters-requiem--mini.png){width="80" loading=lazy}
 
-[Core Meltdown](https://skeydb.com/database/wheels/core-meltdown){target="_blank"} and [Winter's Requiem](https://skeydb.com/database/wheels/winters-requiem){target="_blank"} are useful wheels for D-Effect Zone. If you don't have enough keyflare wheels, you can get one copy of each.
+[Core Meltdown](https://skeydb.com/database/wheels/core-meltdown){target="_blank"} and [Winter's Requiem](https://skeydb.com/database/wheels/winters-requiem){target="_blank"} are useful wheels for D-Effect Zone. If you don't have enough Keyflare Regen wheels, you can get one copy of each.
 
 ![](/images/icons/cores/luminous.png){width="80" loading=lazy}
 ![](/images/icons/cores/pure.png){width="80" loading=lazy}
@@ -464,7 +465,7 @@ The covenants [Cursed Rabbit](/handbook/team#cursed-rabbit) and [Re-evolution](/
 
 **Save your Protoparadises until you know exactly what you want.**
 
-You get a lot of Pure Cores from the main story and new player rewards. You will probably pull dozens of standard characters in the first week of playing. Do you really need a specific character right away to clear normal story mode?
+You get a lot of Pure Cores from the main story and new player rewards. You will probably pull dozens of standard characters in the first week of playing. Do you really need a specific character right away to beat the easiest stages in the game?
 
 Use your Protoparadise if you've already pulled a lot and have most of the characters, but you're still missing a specific character you want. Or if you're missing a specific enlighten that you're 100% sure will help you clear a specific stage.
 

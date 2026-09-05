@@ -16,10 +16,10 @@ awakener:
   ranks:
     dps:
       - tier: B+
-        note: Good Early
+        note: Good in Normal Difficulty
     support:
       - tier: S
-        note: Insane
+        note: Meta Defining
   stopping_points:
     - 'E0, E2, E3'
   builds:

@@ -12,10 +12,10 @@ awakener:
   ranks:
     dps:
       - tier: S
-        note: Insane
+        note: Newbie Solo Carry
     support:
       - tier: B
-        note: Decent
+        note: Role Player
   stopping_points:
     - 'DPS: E2, E3, OE'
     - 'PChaos Bot: Any'

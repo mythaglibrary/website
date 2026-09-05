@@ -13,10 +13,10 @@ awakener:
   ranks:
     dps:
       - tier: D
-        note: Meme
+        note: Meme Tier
     support:
       - tier: S
-        note: Insane
+        note: Meta Defining
   stopping_points:
     - 'Any, OE'
   builds:

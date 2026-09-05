@@ -14,10 +14,12 @@ awakener:
   ranks:
     dps:
       - tier: C
-        note: Usable
+        note: Secondary DPS
+      - tier: B+
+        note: at AA
     support:
       - tier: S
-        note: Insane
+        note: Meta Defining
   stopping_points:
     - 'Support: Any, OE'
     - 'DPS: E2, AA'

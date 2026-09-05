@@ -11,10 +11,10 @@ awakener:
   ranks:
     dps:
       - tier: C
-        note: Usable
+        note: Secondary DPS
     support:
       - tier: C+
-        note: Niche
+        note: Niche Role
   stopping_points:
     - 'DPS: E1, E3, OE'
     - 'Support: Any'

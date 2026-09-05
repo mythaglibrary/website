@@ -12,12 +12,6 @@ icon: lucide/ship-wheel
 
 This is a reference for new players who are unsure what SSR wheels are worth pulling from banners or buying from the Store.
 
-<span style="color: var(--md-tier-s);">**S (Insane):**</span> This wheel is extremely good and best in slot for many teams. Get E3 or better if you can.
-
-<span style="color: var(--md-tier-a);">**A (Great):**</span> This wheel is good in many teams and worth getting.
-
-<span style="color: var(--md-tier-b);">**B (Decent):**</span> This wheel is good in specific teams, or a useful backup wheel for D-Effect Zone. You can consider getting it.
-
 A <span style="background-color: var(--md-tier-free);">yellow</span> background means you can buy it from the Store without using pulls.
 
 A <span style="background-color: var(--md-tier-standard);">blue</span> background means it is a standard wheel you can get with Pure Cores.
@@ -25,6 +19,8 @@ A <span style="background-color: var(--md-tier-standard);">blue</span> backgroun
 Wheels not on this list are not recommended for new players to spend resources on.
 
 ## S {.tier .text-center style="background-color: var(--md-tier-s);"}
+
+These wheels are extremely good and best in slot for many teams. Get E3 or better if you can.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -66,6 +62,9 @@ Wheels not on this list are not recommended for new players to spend resources o
 </div>
 
 ## A {.tier .text-center style="background-color: var(--md-tier-a);"}
+
+These wheels are good in many teams and worth getting.
+
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
   ![Blade of the Titan](/images/wheels/blade-of-the-titan.png)
@@ -160,6 +159,9 @@ Wheels not on this list are not recommended for new players to spend resources o
 </div>
 
 ## B {.tier .text-center style="background-color: var(--md-tier-b);"}
+
+These wheels are good in specific teams, or are useful backup wheels for D-Effect Zone. You can consider getting them.
+
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
   ![Celestial Beast](/images/wheels/celestial-beast.png)

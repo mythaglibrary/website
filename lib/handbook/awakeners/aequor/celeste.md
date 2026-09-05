@@ -17,7 +17,7 @@ awakener:
         note: ???
     support:
       - tier: B
-        note: Decent
+        note: Role Player
   stopping_points:
     - Any
   builds:

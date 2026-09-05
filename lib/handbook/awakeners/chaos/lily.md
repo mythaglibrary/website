@@ -12,10 +12,10 @@ awakener:
   ranks:
     dps:
       - tier: B
-        note: Decent
+        note: Viable with Support
     support:
       - tier: A
-        note: Great
+        note: Game Changer
   stopping_points:
     - 'E3, OE'
   builds:

@@ -170,7 +170,7 @@ You can have a maximum of 12 arithmetica. Any more is converted into keyflare.
 
 #### Aliemus Harmony
 
-Effects that increase aliemus generation (e.g. the SSR wheel [Incalculable Factor](https://skeydb.com/database/wheels/incalculable-factor){target="_blank"}) are halved.
+Effects that increase Aliemus Generation (e.g. the SSR wheel [Incalculable Factor](https://skeydb.com/database/wheels/incalculable-factor){target="_blank"}) are halved.
 
 Each time you use an exalt, that exalt costs 10 more aliemus for the rest of the battle.
 

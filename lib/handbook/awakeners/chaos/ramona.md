@@ -11,10 +11,10 @@ awakener:
   ranks:
     dps:
       - tier: D
-        note: Meme
+        note: Meme Tier
     support:
       - tier: B
-        note: Decent
+        note: Role Player
   stopping_points:
     - Any
   builds:

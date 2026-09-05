@@ -13,7 +13,7 @@ awakener:
   ranks:
     dps:
       - tier: S
-        note: Insane
+        note: Newbie Solo Carry
     support:
       - tier: F
         note: ???

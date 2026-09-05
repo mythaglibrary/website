@@ -20,7 +20,7 @@ awakener:
         note: ???
     support:
       - tier: S
-        note: Insane
+        note: Meta Defining
   stopping_points:
     - 'E0, E1, E3'
   builds:

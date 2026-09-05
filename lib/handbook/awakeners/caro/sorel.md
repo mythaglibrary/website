@@ -13,10 +13,10 @@ awakener:
   ranks:
     dps:
       - tier: B
-        note: Decent
+        note: Viable with Support
     support:
       - tier: C
-        note: Usable
+        note: Technically Usable
   stopping_points:
     - 'Any, OE'
   builds:

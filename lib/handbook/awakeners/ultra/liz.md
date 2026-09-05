@@ -13,10 +13,10 @@ awakener:
   ranks:
     dps:
       - tier: B
-        note: Decent
+        note: Viable with Support
     support:
-      - tier: F
-        note: ???
+      - tier: D
+        note: Meme Tier
   stopping_points:
     - 'E1, E2, E3, OE'
   builds:

@@ -12,10 +12,10 @@ awakener:
   ranks:
     dps:
       - tier: A
-        note: Great
+        note: Good in Hard Difficulty
     support:
       - tier: D
-        note: Meme
+        note: Meme Tier
   stopping_points:
     - 'E3, OE'
   builds:

@@ -11,12 +11,12 @@ awakener:
   ranks:
     dps:
       - tier: C
-        note: Usable
+        note: Secondary DPS
       - tier: B
         note: at OE
     support:
       - tier: B
-        note: Decent
+        note: Role Player
   stopping_points:
     - 'E0, E3, OE, AA'
   builds:

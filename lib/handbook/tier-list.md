@@ -1,7 +1,7 @@
 ---
 title: Awakener Tier List (For New Players)
-description: A Morimens awakener tier list aimed at new players, showcasing the characters that are the most effective and powerful with the bare minimum of investment.
-icon: lucide/podium
+description: A Morimens awakener tier list aimed at new players, showcasing the characters that are the most effective at clearing story stages with the bare minimum of investment.
+icon: lucide/list-sort-ascending
 ---
 
 <figure markdown="span">
@@ -10,13 +10,15 @@ icon: lucide/podium
 
 # Awakener Tier Lists *(For New Players)*
 
-This is a quick guide for new players who have nothing and want to know what characters they should invest in to progress the fastest.
+This is a quick guide for new players who are just starting out and want to know what characters they should invest in to progress the fastest.
 
-There are two tier lists provided here. The DPS Tier List is for the main damage dealer that [a team is built around](/handbook/team). The Support Tier List is for the other 3 characters who help to enable the DPS.
+There are two tier lists provided here. The DPS Tier List is for the main damage dealer that [a team is built around](handbook/team). The Support Tier List is for the other 3 characters who help to enable the DPS.
 
-**These are "poverty newbie tier lists,"** not necessarily Alert 5 or speed clearing tier lists. They assume that the character is at most E3 and you don't have many limited characters or wheels. If a specific enlighten is important, it's specified.
+**These are "poverty newbie tier lists."** They assume you're a new player and your goal is to do story stages, event stages, and D-tide Normal and Hard difficulty. They also assume the character is at most E3 and you don't have many limited awakeners or SSR wheels.
 
-For more endgame/D-Effect Zone focused tier lists, refer to [Links and Resources](/handbook#links-and-resources).
+For notes on Nightmare and Madness difficulty, you can check [Awakener Tier Lists (Endgame)](handbook/tier-list-endgame).
+
+**If an enlighten is specified, it means it's important for the character to work.** Without that enlighten, the character will be one or two tiers lower on the tier list.
 
 **The order of characters in each tier doesn't matter.** They're listed in realm order.
 
@@ -24,23 +26,15 @@ For more endgame/D-Effect Zone focused tier lists, refer to [Links and Resources
 
 ## Newbie DPS Tier List
 
-<span style="color: var(--md-tier-s);">**S (Insane):**</span> This character needs very little investment to clear story mode and D-Effect Zone. You should strongly consider pulling for them as a new player.
-
-<span style="color: var(--md-tier-a);">**A (Great):**</span> This character deals enough damage to clear normal story mode as main DPS, even with a suboptimal team. They're also good in endgame content like D-tide Alert 5.
-
-<span style="color: var(--md-tier-b-plus);">**B+ (Good Early):**</span> This character deals enough damage to clear normal story mode as main DPS, even with a suboptimal team. However, they need specific teammates or high investment to beat endgame content.
-
-<span style="color: var(--md-tier-b);">**B (Decent):**</span> This character deals enough damage to clear normal story mode as main DPS, but needs specific teammates or high investment to complete all story chapters.
-
-<span style="color: var(--md-tier-c);">**C (Usable):**</span> This character needs an unrealistic amount of effort for a new player to clear normal story mode with. They can be used as a main DPS in early chapters, but are better used later on as a support or secondary DPS.
-
 A <span style="background-color: var(--md-tier-free);">yellow</span> background means it's a free character you can get without using pulls.
 
 A <span style="background-color: var(--md-tier-standard);">blue</span> background means it's a standard character you can get with Pure Cores.
 
 If a character isn't listed, it means you would need a crazy reason to use them as a DPS.
 
-### S {.tier .text-center style="background-color: var(--md-tier-s);"}
+### S (Newbie Solo Carry) {.tier .text-center style="background-color: var(--md-tier-s);"}
+
+These characters need very little investment to clear story mode and Hard difficulty stages, and are excellent support awakeners to borrow for [event stages](handbook/resources#events) and [D-Effect Zone](handbook/d-zone).
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -55,7 +49,9 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 </div>
 </div>
 
-### A {.tier .text-center style="background-color: var(--md-tier-a);"}
+### A (Good in Hard Difficulty) {.tier .text-center style="background-color: var(--md-tier-a);"}
+
+These characters deal enough damage to clear normal story mode as main DPS, even with a suboptimal team. They're also good in Hard difficulty stages.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -80,7 +76,9 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 </div>
 </div>
 
-### B+ {#b-plus .tier .text-center style="background-color: var(--md-tier-b-plus);"}
+### B+ (Good in Normal Difficulty) {#b-plus .tier .text-center style="background-color: var(--md-tier-b-plus);"}
+
+These characters deal enough damage to clear normal story mode as main DPS, even with a suboptimal team. However, they need specific teammates or high investment to beat Hard difficulty stages.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -130,7 +128,9 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 </div>
 </div>
 
-### B {.tier .text-center style="background-color: var(--md-tier-b);"}
+### B (Viable with Support) {.tier .text-center style="background-color: var(--md-tier-b);"}
+
+These characters deal enough damage to clear normal story mode as main DPS, but they need specific teammates or high investment to complete all story chapters.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -205,7 +205,9 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 </div>
 </div>
 
-### C {.tier .text-center style="background-color: var(--md-tier-c);"}
+### C (Secondary DPS) {.tier .text-center style="background-color: var(--md-tier-c);"}
+
+These characters need an unrealistic amount of effort for a new player to clear normal story mode with. They can be used as the main DPS in early chapters, but are better used later on as supports or secondary DPS.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
@@ -262,23 +264,15 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 
 ## Newbie Support Tier List
 
-<span style="color: var(--md-tier-s);">**S (Insane):**</span> This character improves almost any team by being on it. You should strongly consider investing in them as a new player.
-
-<span style="color: var(--md-tier-a);">**A (Great):**</span> This character is a premium support that is strong in a variety of situations. They can help otherwise weak teams punch above their weight.
-
-<span style="color: var(--md-tier-b);">**B (Decent):**</span> This character is good at one or two specific things, which makes them valuable if you need those things.
-
-<span style="color: var(--md-tier-c-plus);">**C+ (Niche):**</span> This character has a unique ability which makes them valuable in some rare situations.
-
-<span style="color: var(--md-tier-c);">**C (Usable):**</span> While this character can be used as a support, they generally aren't the first choice as other characters fill the same role better.
-
 A <span style="background-color: var(--md-tier-free);">yellow</span> background means it's a free character you can get without using pulls.
 
 A <span style="background-color: var(--md-tier-standard);">blue</span> background means it's a standard character you can get with Pure Cores.
 
 If a character isn't listed, it means you would need a crazy reason to use them as a support.
 
-### S {.tier .text-center style="background-color: var(--md-tier-s);"}
+### S (Meta Defining) {.tier .text-center style="background-color: var(--md-tier-s);"}
+
+These characters are extremely powerful supports that are good in many different teams. They can make the difference between an unviable team and a top-tier one.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -313,7 +307,9 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 </div>
 </div>
 
-### A {.tier .text-center style="background-color: var(--md-tier-a);"}
+### A (Game Changing) {.tier .text-center style="background-color: var(--md-tier-a);"}
+
+These characters are premium supports that are strong in a variety of situations. They can help otherwise weak teams punch above their weight.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -342,11 +338,6 @@ If a character isn't listed, it means you would need a crazy reason to use them 
   Corposant (E3)
 </div>
 <div class="item" markdown>
-  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png)](/handbook/awakeners/aequor/gmurphy)
-
-  GMurphy
-</div>
-<div class="item" markdown>
   [![Miryam](/images/awakeners/aequor/miryam--mini.png)](/handbook/awakeners/aequor/miryam)
 
   Miryam
@@ -355,6 +346,11 @@ If a character isn't listed, it means you would need a crazy reason to use them 
   [![Murphy](/images/awakeners/aequor/murphy--mini.png)](/handbook/awakeners/aequor/murphy)
 
   Murphy (E1)
+</div>
+<div class="item" markdown>
+  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png)](/handbook/awakeners/aequor/gmurphy)
+
+  GMurphy
 </div>
 <div class="item" markdown>
   [![Pontos](/images/awakeners/aequor/pontos--mini.png)](/handbook/awakeners/benthos-aequor/pontos)
@@ -388,7 +384,9 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 </div>
 </div>
 
-### B {.tier .text-center style="background-color: var(--md-tier-b);"}
+### B (Role Player) {.tier .text-center style="background-color: var(--md-tier-b);"}
+
+These characters are good at one or two specific things, which makes them valuable if you need those things.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -538,7 +536,9 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 </div>
 </div>
 
-### C+ {#c-plus .tier .text-center style="background-color: var(--md-tier-c-plus);"}
+### C+ (Niche Role) {#c-plus .tier .text-center style="background-color: var(--md-tier-c-plus);"}
+
+These characters have a unique ability that no other character has, which makes them valuable in some rare situations.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
@@ -558,7 +558,9 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 </div>
 </div>
 
-### C {.tier .text-center style="background-color: var(--md-tier-c);"}
+### C (Technically Usable) {.tier .text-center style="background-color: var(--md-tier-c);"}
+
+While this character can be used as a support, they generally aren't the first choice as other characters fill the same role better.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>

@@ -21,7 +21,7 @@ When referring to an awakener or wheel, it means extra copies after E3, using th
 
 ### A1/A2/A3/A4/A5
 
-Stands for Alert 1, 2, 3, etc. in D-Effect Zone.
+Stands for Alert 1, 2, 3, etc., the old D-Effect Zone difficulty system. Alert 1-3 corresponded to Normal difficulty, while Alert 4-5 corresponded to Hard difficulty.
 
 ### AA
 
@@ -225,7 +225,7 @@ Ancient Embers, an effect some high-HP enemies have. They take a certain amount 
 
 ### Endgame
 
-The content available to veteran players who have completed most of the game and fully leveled their characters. In Morimens, the endgame modes are D-Effect Zone, Astral Reign hard mode stages, and the various seasonal leaderboards.
+The content available to veteran players who have completed most of the game and fully leveled their characters. In Morimens, the endgame modes are D-Effect Zone, Astral Reign hard mode achievements, and the various seasonal leaderboards.
 
 ### Engine/Value engine
 
@@ -340,7 +340,6 @@ A support awakener whose main job is to hold the covenant [Life Drain](/handbook
 ### Last hit
 
 To land the killing blow on an enemy.
-
 
 ### Lighthouse
 

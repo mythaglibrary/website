@@ -14,10 +14,10 @@ awakener:
   ranks:
     dps:
       - tier: D
-        note: Meme
+        note: Meme Tier
     support:
       - tier: A
-        note: Great
+        note: Game Changer
   stopping_points:
     - Any
   builds:

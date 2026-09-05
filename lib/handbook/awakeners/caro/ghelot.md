@@ -13,10 +13,10 @@ awakener:
   ranks:
     dps:
       - tier: A
-        note: Great
+        note: Good in Hard Difficulty
     support:
       - tier: C+
-        note: Niche
+        note: Niche Role
   stopping_points:
     - 'E3, OE'
   builds:

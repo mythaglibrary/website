@@ -16,10 +16,10 @@ awakener:
   ranks:
     dps:
       - tier: C
-        note: Usable
+        note: Secondary DPS
     support:
       - tier: A
-        note: Great
+        note: Game Changer
   stopping_points:
     - 'E2, E3, OE'
   builds:

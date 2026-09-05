@@ -14,10 +14,10 @@ awakener:
   ranks:
     dps:
       - tier: B+
-        note: Good Early
+        note: Good in Normal Difficulty
     support:
       - tier: B
-        note: Decent
+        note: Role Player
   stopping_points:
     - Any
   builds:

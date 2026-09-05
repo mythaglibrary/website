@@ -15,10 +15,10 @@ awakener:
   ranks:
     dps:
       - tier: B
-        note: Decent
+        note: Viable with Support
     support:
       - tier: B
-        note: Decent
+        note: Role Player
   stopping_points:
     - 'E0, E2, OE'
   builds:

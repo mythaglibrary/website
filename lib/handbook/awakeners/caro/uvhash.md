@@ -12,12 +12,12 @@ awakener:
   ranks:
     dps:
       - tier: C
-        note: Usable
+        note: Secondary DPS
       - tier: B
         note: at OE
     support:
       - tier: D
-        note: Meme
+        note: Meme Tier
   stopping_points:
     - OE
   builds:
