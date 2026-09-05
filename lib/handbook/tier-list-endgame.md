@@ -1,5 +1,5 @@
 ---
-title: Awakener Tier List (For New Players)
+title: Awakener Tier Lists (Endgame)
 description: A Morimens awakener tier list for the hardest difficulties of D-Effect Zone.
 icon: lucide/list-sort-descending
 ---
@@ -10,15 +10,15 @@ icon: lucide/list-sort-descending
 
 # Awakener Tier Lists *(Endgame)*
 
-This is a quick guide to what characters are viable in Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for a while and have all characters, enlightens, and SSR wheels needed to make a team work.
+This is a quick guide to what characters are viable in the Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for a while and have all characters, enlightens, and SSR wheels needed to make a team work.
 
 If you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
 
-**This tier list assumes you aren't cheesing the boss.** The best way to beat a Madness stage is usually to use some gimmick to circumvent the actual fight. There are too many possible strategies of this kind to take into account, so this tier list only considers how a character would fare against an "average" stage with no gimmicks.
+**This tier list assumes you aren't cheesing the boss.** The best way to beat a Madness stage is to use some gimmick to circumvent the actual fight. There are too many possible strategies of this kind to take into account, so this tier list only considers how a character would fare against an "average" stage with no gimmicks.
 
 **Take this tier list with a grain of salt.** The hard D-Effect Zone difficulties have only just released. As balance changes happen and we get a better idea of what works, this tier list will be updated accordingly.
 
-For explanations of formatting, see [Awakener Tier Lists (For New Players)](handbook/tier-list).
+For explanations of formatting, see [Awakener Tier Lists (For New Players)](/handbook/tier-list).
 
 ## Endgame DPS Tier List
 
@@ -321,7 +321,7 @@ In specific teams, this character might be useful enough to run in Nightmare and
 </div>
 </div>
 
-### C (Niche) {.tier .text-center style="background-color: var(--md-tier-c);"}
+### C (Niche Role) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
 This character isn't a useful support in the majority of Nightmare and Madness stages, but might be useful for specific fights.
 

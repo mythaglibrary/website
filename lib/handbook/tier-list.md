@@ -1,5 +1,5 @@
 ---
-title: Awakener Tier List (For New Players)
+title: Awakener Tier Lists (For New Players)
 description: A Morimens awakener tier list aimed at new players, showcasing the characters that are the most effective at clearing story stages with the bare minimum of investment.
 icon: lucide/list-sort-ascending
 ---
@@ -12,11 +12,11 @@ icon: lucide/list-sort-ascending
 
 This is a quick guide for new players who are just starting out and want to know what characters they should invest in to progress the fastest.
 
-There are two tier lists provided here. The DPS Tier List is for the main damage dealer that [a team is built around](handbook/team). The Support Tier List is for the other 3 characters who help to enable the DPS.
+There are two tier lists provided here. The DPS Tier List is for the main damage dealer that [a team is built around](/handbook/team). The Support Tier List is for the other 3 characters who help to enable the DPS.
 
 **These are "poverty newbie tier lists."** They assume you're a new player and your goal is to do story stages, event stages, and D-tide Normal and Hard difficulty. They also assume the character is at most E3 and you don't have many limited awakeners or SSR wheels.
 
-For notes on Nightmare and Madness difficulty, you can check [Awakener Tier Lists (Endgame)](handbook/tier-list-endgame).
+For notes on Nightmare and Madness difficulty, you can check [Awakener Tier Lists (Endgame)](/handbook/tier-list-endgame).
 
 **If an enlighten is specified, it means it's important for the character to work.** Without that enlighten, the character will be one or two tiers lower on the tier list.
 
@@ -34,7 +34,7 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 
 ### S (Newbie Solo Carry) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
-These characters need very little investment to clear story mode and Hard difficulty stages, and are excellent support awakeners to borrow for [event stages](handbook/resources#events) and [D-Effect Zone](handbook/d-zone).
+These characters need very little investment to clear story mode and Hard difficulty stages, and are excellent support awakeners to borrow for [event stages](/handbook/resources#events) and [D-Effect Zone](/handbook/d-zone).
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
