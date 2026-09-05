@@ -16,13 +16,13 @@ There are two tier lists provided here. The DPS Tier List is for the main damage
 
 **These are "poverty newbie tier lists."** They assume you're a new player and your goal is to do story stages, event stages, and D-tide Normal and Hard difficulty. They also assume the character is at most E3 and you don't have many limited awakeners or SSR wheels.
 
-For notes on Nightmare and Madness difficulty, you can check [Awakener Tier Lists (For Endgame)](/handbook/tier-list-endgame).
+For notes on D-tide Nightmare and Madness difficulty, you can check [Awakener Tier Lists (For Endgame)](/handbook/tier-list-endgame).
 
 **If an enlighten is specified, it means it's important for the character to work.** Without that enlighten, the character will be one or two tiers lower on the tier list.
 
 **The order of characters in each tier doesn't matter.** They're listed in realm order.
 
-**There are no useless characters in this game.** With enough investment and patience you can clear with anything. This tier list just tells you how hard it is to make a character work.
+**There are no useless characters in this game.** With enough investment and patience, most stages can be beaten with anything. This tier list just tells you how much work it takes to make a character viable.
 
 ## Newbie DPS Tier List
 
@@ -34,7 +34,7 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 
 ### S (Newbie Solo Carry) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
-These characters need very little investment to clear story mode and Hard difficulty stages, and are excellent support awakeners to borrow for [event stages](/handbook/resources#events) and [D-Effect Zone](/handbook/d-zone).
+These characters need very little investment to clear story mode and Hard stages, and are excellent support awakeners to borrow for [event stages](/handbook/resources#events) and [D-Effect Zone](/handbook/d-zone).
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -51,7 +51,7 @@ These characters need very little investment to clear story mode and Hard diffic
 
 ### A (Good in Hard Difficulty) {.tier .text-center style="background-color: var(--md-tier-a);"}
 
-These characters deal enough damage to clear normal story mode as main DPS, even with a suboptimal team. They're also good in Hard difficulty stages.
+These characters deal enough damage to clear normal story mode as main DPS, even with a suboptimal team. They're also good in Hard stages.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -78,7 +78,7 @@ These characters deal enough damage to clear normal story mode as main DPS, even
 
 ### B+ (Good in Normal Difficulty) {#b-plus .tier .text-center style="background-color: var(--md-tier-b-plus);"}
 
-These characters deal enough damage to clear normal story mode as main DPS, even with a suboptimal team. However, they need specific teammates or high investment to beat Hard difficulty stages.
+These characters deal enough damage to clear normal story mode as main DPS, even with a suboptimal team. However, they need specific teammates or high investment to beat Hard stages.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -272,7 +272,7 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 
 ### S (Meta Defining) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
-These characters are extremely powerful supports that are good in many different teams. They can make the difference between an unviable team and a top-tier one.
+These characters are extremely powerful supports that are good in many different teams. As a new player, you should strongly consider investing in them.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
