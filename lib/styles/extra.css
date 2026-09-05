@@ -623,3 +623,11 @@
     display: none !important;
   }
 }
+
+/* Inline author-defined symbols share the site's theme-aware image handling. */
+.md-typeset .mythag-symbol img {
+  width: 12px;
+  height: auto;
+  margin: 0;
+  vertical-align: -0.12em;
+}

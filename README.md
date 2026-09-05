@@ -178,3 +178,20 @@ See:
 ---
 
 &copy; 2026 Mythag Library
+
+### Guide additions
+
+- Add inline icons such as `:skey:` through [`content/symbols.yaml`](content/symbols.yaml).
+  See [symbol authoring](docs/symbols.md) for custom names and optional hover text.
+- [SKeyDB mappings](docs/skeydb-links.md) are stored locally and need no network access to build.
+  An optional `awakener.skeydb_slug` in a guide overrides its shared mapping.
+- For **Works Well With**, place `<id>--chibi.png` alongside that character's
+  existing `<id>--mini.png` image. The chibi is used automatically when present;
+  otherwise the portrait crop is used. No YAML field is needed. Restart the
+  preview after adding an image. Index and team portraits are unchanged.
+
+- Add an optional `## How to Play` heading after the overview prose. Its Markdown
+  content appears full-width before builds, with a guide jump link. Use `###`
+  headings for subsections; the next `##` heading ends the section. Omit the
+  heading until content is ready. Standalone `team` fences still appear in
+  Example Teams. Code examples containing the heading are left alone.

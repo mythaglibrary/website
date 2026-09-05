@@ -37,13 +37,14 @@ NAV_MARKER = "@mythag-awakener-nav"
 TEMPLATE_NAME = "awakeners/awakener.html"
 
 REALM_FAMILIES: tuple[tuple[str, tuple[tuple[str, str | None], ...]], ...] = (
-    ("Chaos", (("chaos", None), ("primordia-chaos", "Primordia Chaos"))),
-    (
-        "Aequor",
-        (("aequor", None), ("benthos-aequor", "Benthos Aequor")),
-    ),
-    ("Caro", (("caro", None), ("propagation-caro", "Propagation Caro"))),
-    ("Ultra", (("ultra", None), ("singularity-ultra", "Singularity Ultra"))),
+    ("Chaos", (("chaos", None),)),
+    ("Primordia Chaos", (("primordia-chaos", None),)),
+    ("Aequor", (("aequor", None),)),
+    ("Benthos Aequor", (("benthos-aequor", None),)),
+    ("Caro", (("caro", None),)),
+    ("Propagation Caro", (("propagation-caro", None),)),
+    ("Ultra", (("ultra", None),)),
+    ("Singularity Ultra", (("singularity-ultra", None),)),
 )
 KNOWN_REALMS = {
     realm for _, realms in REALM_FAMILIES for realm, _ in realms
@@ -58,8 +59,9 @@ ALLOWED_AWAKENER_FIELDS = {
     "suggested_posses_note",
     "works_well_with",
     "works_well_with_note",
+    "skeydb_slug",
 }
-EXTENSION_OWNED_METADATA_FIELDS = {"mythag_teams"}
+EXTENSION_OWNED_METADATA_FIELDS = {"mythag_teams", "mythag_symbols", "mythag_how_to_play"}
 TIER_STYLE_NAMES = {
     "S": "s",
     "A": "a",
@@ -122,6 +124,7 @@ class Guide:
     path: Path
     title: str
     awakener: Awakener
+    skeydb_slug: str | None = None
 
     @property
     def slug(self) -> str:
@@ -510,6 +513,12 @@ def _parse_guide(
             "awakener.works_well_with_note",
         )
 
+    skeydb_slug = None
+    if "skeydb_slug" in awakener:
+        skeydb_slug, error = parse_content_id(awakener["skeydb_slug"])
+        if error:
+            _issue(issues, relative, "awakener.skeydb_slug", error)
+
     if validate_location:
         realm = path.parent.name
         if realm not in KNOWN_REALMS:
@@ -539,6 +548,7 @@ def _parse_guide(
             tuple(works_well_with),
             works_well_with_note,
         ),
+        skeydb_slug,
     )
 
 
@@ -754,12 +764,15 @@ def build_asset_catalog(
         )
         if full is None or mini is None:
             continue
+        chibi = mini.with_name(f"{content_id}--chibi.png")
         portrait = {"image": _site_url(full), "mini": _site_url(mini)}
+        portrait["realm_icon"] = f"/images/realms/{target.realm.split('-')[-1]}.png"
         catalog["portraits"][label] = portrait
         catalog["awakeners"][content_id] = {
             "label": label,
             **portrait,
             "url": target.url,
+            "chibi": _site_url(chibi if chibi.is_file() else mini),
         }
 
     covenant_source = (CONTENT_ROOT / "covenants.yaml").relative_to(ROOT)
@@ -789,7 +802,42 @@ def build_asset_catalog(
                 "label": label,
                 "image": _site_url(image),
             }
+    _add_skeydb_links(catalog, guides, issues)
     return catalog
+
+
+def _add_skeydb_links(
+    catalog: AssetCatalog, guides: list[Guide], issues: list[ValidationIssue]
+) -> None:
+    source = CONTENT_ROOT / "skeydb.yaml"
+    mappings = {}
+    if source.is_file():
+        try:
+            mappings = load_yaml(source.read_text(encoding="utf-8"))
+        except yaml.YAMLError as error:
+            _issue(issues, source.relative_to(ROOT), "", str(error))
+            return
+        if not isinstance(mappings, dict):
+            _issue(issues, source.relative_to(ROOT), "", "expected a mapping")
+            return
+    for category, entries in mappings.items():
+        if category not in ("awakeners", "wheels", "posses") or not isinstance(entries, dict):
+            _issue(issues, source.relative_to(ROOT), str(category), "expected awakeners, wheels, or posses mapping")
+            continue
+        for content_id, value in entries.items():
+            slug, error = parse_content_id(value)
+            if content_id not in catalog[category]:
+                error = f"unknown {category} ID {content_id!r}"
+            if error:
+                _issue(issues, source.relative_to(ROOT), f"{category}.{content_id}", error)
+            else:
+                catalog[category][content_id]["skeydb_url"] = f"https://skeydb.com/database/{category}/{slug}"
+    for guide in guides:
+        if guide.skeydb_slug and guide.slug in catalog["awakeners"]:
+            catalog["awakeners"][guide.slug]["skeydb_url"] = f"https://skeydb.com/database/awakeners/{guide.skeydb_slug}"
+        asset = catalog["awakeners"].get(guide.slug, {})
+        if "skeydb_url" in asset:
+            catalog["portraits"][guide.title]["skeydb_url"] = asset["skeydb_url"]
 
 
 def _toml_string(value: str) -> str:
@@ -1017,6 +1065,8 @@ def check_main() -> None:
             for path in sorted(root.rglob("*.md"))
             for issue in validate_team_document(path, catalog)
         ]
+        from mythag_site.symbols import validate_symbol_documents
+        validate_symbol_documents(markdown_roots, root=ROOT)
         reference_issues = validate_reference_examples(
             catalog,
             {guide.slug for guide in guides},

@@ -378,3 +378,7 @@ custom_checkbox = true
 auto = false
 
 [project.markdown_extensions."mythag_site.team_extension"]
+
+[project.markdown_extensions."mythag_site.symbols"]
+
+[project.markdown_extensions."mythag_site.guide_sections"]

@@ -164,7 +164,7 @@ class AwakenerPreparationTests(unittest.TestCase):
 
             self.assertFalse((root / ".zensical.generated.toml").exists())
 
-    def test_nests_subrealm_guides_under_their_realm_family(self) -> None:
+    def test_places_divine_realms_beside_base_realms(self) -> None:
         guides = [
             awakeners.Guide(
                 Path("lib/handbook/awakeners/aequor/aurita.md"),
@@ -186,7 +186,7 @@ class AwakenerPreparationTests(unittest.TestCase):
         realm = nav[0]["Awakener Guides"][1]["Aequor"]
         self.assertEqual(realm[0], "handbook/awakeners/aequor/aurita.md")
         self.assertEqual(
-            realm[1]["Benthos Aequor"],
+            nav[0]["Awakener Guides"][2]["Benthos Aequor"],
             ["handbook/awakeners/benthos-aequor/pontos.md"],
         )
 
