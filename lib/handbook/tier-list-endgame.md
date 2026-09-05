@@ -144,7 +144,7 @@ These characters can contribute a meaningful amount of damage as secondary DPS (
 
 ### S (Meta Defining) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
-These characters provide huge damage multipliers that can elevate lower-tier DPS into Nightmare and Madness viability.
+These characters provide huge damage multipliers that are needed to elevate lower-tier DPS into Nightmare and Madness viability.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -166,7 +166,7 @@ These characters provide huge damage multipliers that can elevate lower-tier DPS
 
 ### A (Game Changing) {.tier .text-center style="background-color: var(--md-tier-a);"}
 
-These characters provide defensive abilities, extra turns, Max HP % damage, or other effects that are crucial for beating Nightmare and Madness stages.
+These characters provide defensive abilities, extra turns, Max HP % damage, or other effects that are crucial for beating high-difficulty stages.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -228,7 +228,7 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
 
 ### B (Role Player) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-In specific teams, this character might be useful enough to run in Nightmare and Madness stages instead of a more universally useful support.
+In specific teams, this character might be useful enough to run in high-difficulty stages instead of a more universally useful support.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -345,7 +345,7 @@ In specific teams, this character might be useful enough to run in Nightmare and
 
 ### C (Niche Role) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
-This character isn't a useful support in the majority of Nightmare and Madness stages, but might be useful for specific fights.
+This character isn't a useful support in the majority of high-difficulty stages, but might be useful for specific fights.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
