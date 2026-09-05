@@ -382,7 +382,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
 <div class="item" markdown>
   [![Soul Synchronization](/images/wheels/soul-synchronization.png){loading=lazy}](https://skeydb.com/database/wheels/soul-synchronization){target="_blank"}
 
-  **Soul Synchronization**
+  [**Soul Synchronization**](https://skeydb.com/database/wheels/soul-synchronization){target="_blank"}
 
   Event
 
