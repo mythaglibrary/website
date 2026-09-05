@@ -61,7 +61,7 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
 <div class="item" markdown>
   [![Celeste](/images/awakeners/aequor/celeste--mini.png)](/handbook/awakeners/aequor/celeste)
 
-  [Celeste](/handbook/awakeners/aequor/#celeste)
+  [Celeste](/awakeners/celeste/)
 </div>
 <div class="item" markdown>
   [![Faros](/images/awakeners/aequor/faros--mini.png)](/handbook/awakeners/aequor/faros)

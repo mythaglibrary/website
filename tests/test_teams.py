@@ -1,6 +1,9 @@
 from __future__ import annotations
 
+import json
 import unittest
+
+import yaml
 from contextlib import ExitStack, contextmanager
 from tempfile import TemporaryDirectory
 from pathlib import Path
@@ -432,9 +435,10 @@ awakener:
                         str(awakeners.GENERATED_CONFIG)
                     )
                     rendered = render(
-                        document,
+                        team_extension._strip_front_matter(document)[0],
                         "handbook/example.md",
                         "/handbook/example/",
+                        json.dumps({"title": "Example team"}),
                     )["content"]
             finally:
                 zensical_config._CONFIG = previous_config
@@ -464,9 +468,10 @@ awakener:
                         str(awakeners.GENERATED_CONFIG)
                     )
                     rendered = render(
-                        document,
-                        "handbook/awakeners/chaos/example.md",
-                        "/handbook/awakeners/chaos/example/",
+                        team_extension._strip_front_matter(document)[0],
+                        "awakeners/example.md",
+                        "/awakeners/example/",
+                        json.dumps(yaml.safe_load(document.split("---", 2)[1])),
                     )
             finally:
                 zensical_config._CONFIG = previous_config

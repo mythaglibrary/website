@@ -177,7 +177,7 @@ def _source_context(md: Markdown, lines: list[str]) -> tuple[Path, int]:
     candidates = (
         [page_path]
         if page_path.is_absolute()
-        else [ROOT / page_path, ROOT / "lib" / page_path]
+        else [ROOT / page_path, ROOT / context.config.get("docs_dir", "lib") / page_path, ROOT / "lib" / page_path]
     )
     source_path = next((candidate for candidate in candidates if candidate.is_file()), None)
     if source_path is None:

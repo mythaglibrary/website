@@ -269,7 +269,7 @@ Something that has high offense and low defense.
 
 ### GMurphy/Gurphy/Gurpy/GMuppet
 
-[Murphy: Fauxborn](/handbook/awakeners/benthos/aequor/gmurphy). Stands for "Genesis Murphy."
+[Murphy: Fauxborn](/awakeners/gmurphy/). Stands for "Genesis Murphy."
 
 ### Goli
 

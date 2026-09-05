@@ -82,8 +82,8 @@ class AwakenerContentTests(unittest.TestCase):
                     generated = generated_config.read_text(encoding="utf-8")
                     site_dir = Path(temporary).relative_to(ROOT).as_posix()
                     generated = generated.replace(
-                        'docs_dir = "lib"\n',
-                        f'docs_dir = "lib"\nsite_dir = "{site_dir}"\n',
+                        'docs_dir = "generated-docs"\n',
+                        f'docs_dir = "generated-docs"\nsite_dir = "{site_dir}"\n',
                         1,
                     )
                     generated_config.write_text(generated, encoding="utf-8")
@@ -117,8 +117,16 @@ class AwakenerContentTests(unittest.TestCase):
                     index = config["project"]["extra"]["awakener_index"]
                     guide_ids = {guide.slug for guide in guides}
                     html = (
-                        Path(temporary) / "handbook" / "awakeners" / "index.html"
+                        Path(temporary) / "awakeners" / "index.html"
                     ).read_text(encoding="utf-8")
+                    rendered_guides = {
+                        guide.slug: (Path(temporary) / "awakeners" / guide.slug / "index.html").read_text(encoding="utf-8")
+                        for guide in guides
+                    }
+                    legacy_redirects = {
+                        guide.slug: (Path(temporary) / guide.path.relative_to("lib").with_suffix("") / "index.html").read_text(encoding="utf-8")
+                        for guide in guides
+                    }
             finally:
                 generated_config.unlink(missing_ok=True)
 
@@ -149,6 +157,9 @@ class AwakenerContentTests(unittest.TestCase):
                 self.assertEqual(card["href"], expected["url"])
                 self.assertEqual(card["label"], expected["label"])
                 self.assertEqual(card["src"], expected["image"])
+                self.assertIn(f'/awakeners/{guide.slug}/', rendered_guides[guide.slug])
+                self.assertIn('location.replace(', legacy_redirects[guide.slug])
+                self.assertIn(expected["url"], legacy_redirects[guide.slug])
 
 
 if __name__ == "__main__":

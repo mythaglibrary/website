@@ -7,6 +7,7 @@ import re
 import subprocess
 import sys
 import tomllib
+import threading
 from collections.abc import Callable
 from dataclasses import dataclass
 from pathlib import Path
@@ -136,8 +137,7 @@ class Guide:
 
     @property
     def url(self) -> str:
-        source = self.path.relative_to("lib").with_suffix("").as_posix()
-        return f"/{source}/"
+        return f"/awakeners/{self.slug}/"
 
 
 class AwakenerValidationError(Exception):
@@ -856,7 +856,7 @@ def _guides_by_realm(guides: list[Guide]) -> dict[str, list[Guide]]:
 def _render_nav(guides: list[Guide], indent: str) -> str:
     grouped = _guides_by_realm(guides)
 
-    lines = [f'{indent}{{ "Awakener Guides" = [', f'{indent}  "handbook/awakeners/index.md",']
+    lines = [f'{indent}{{ "Awakener Guides" = [', f'{indent}  "awakeners/index.md",']
     for family_name, realms in REALM_FAMILIES:
         if not any(grouped.get(realm) for realm, _ in realms):
             continue
@@ -869,7 +869,7 @@ def _render_nav(guides: list[Guide], indent: str) -> str:
                 lines.append(f'{indent}    {{ {_toml_string(subgroup_name)} = [')
             guide_indent = indent + ("      " if subgroup_name is not None else "    ")
             lines.extend(
-                f'{guide_indent}{_toml_string(guide.path.relative_to("lib").as_posix())},'
+                f'{guide_indent}{_toml_string(f"awakeners/{guide.slug}.md")},'
                 for guide in realm_guides
             )
             if subgroup_name is not None:
@@ -1013,6 +1013,11 @@ def validate_reference_examples(
 
 def render_generated_config(guides: list[Guide], catalog: AssetCatalog) -> str:
     source = SOURCE_CONFIG.read_text(encoding="utf-8")
+    docs_setting = 'docs_dir = "generated-docs"'
+    if re.search(r"(?m)^docs_dir\s*=", source):
+        source = re.sub(r"(?m)^docs_dir\s*=.*$", docs_setting, source, count=1)
+    else:
+        source = source.replace("[project]", f"[project]\n{docs_setting}", 1)
     marker = re.compile(
         rf"^(?P<indent>[ \t]*).*{re.escape(NAV_MARKER)}.*$", re.MULTILINE
     )
@@ -1042,6 +1047,8 @@ def render_generated_config(guides: list[Guide], catalog: AssetCatalog) -> str:
 
 
 def write_generated_config(generated: str) -> None:
+    if GENERATED_CONFIG.is_file() and GENERATED_CONFIG.read_text(encoding="utf-8") == generated:
+        return
     temporary = GENERATED_CONFIG.with_suffix(".tmp.toml")
     temporary.write_text(generated, encoding="utf-8", newline="\n")
     temporary.replace(GENERATED_CONFIG)
@@ -1049,7 +1056,10 @@ def write_generated_config(generated: str) -> None:
 
 def prepare_awakeners() -> list[Guide]:
     guides, catalog = collect_and_validate_awakeners()
-    write_generated_config(render_generated_config(guides, catalog))
+    from mythag_site.routes import sync_docs
+    generated = render_generated_config(guides, catalog)
+    sync_docs(ROOT, guides)
+    write_generated_config(generated)
     return guides
 
 
@@ -1080,21 +1090,54 @@ def check_main() -> None:
     print(f"Content: {len(guides)} Awakener guides and inline teams valid")
 
 
+def _preview_sources() -> tuple[tuple[str, int, int], ...]:
+    paths = [SOURCE_CONFIG]
+    for directory in (ROOT / "lib", CONTENT_ROOT):
+        paths.extend(path for path in directory.rglob("*") if path.is_file())
+    return tuple((str(path), path.stat().st_mtime_ns, path.stat().st_size) for path in sorted(paths))
+
+
+def _sync_preview(stop: threading.Event, previous: tuple) -> None:
+    while not stop.wait(0.5):
+        try:
+            current = _preview_sources()
+            if current == previous:
+                continue
+            prepare_awakeners()
+            previous = current
+        except (AwakenerValidationError, OSError, ValueError) as error:
+            print(f"Preview update failed: {error}", file=sys.stderr, flush=True)
+            # Retry on the next edit rather than flooding the terminal.
+            try:
+                previous = _preview_sources()
+            except OSError:
+                pass
+
+
 def serve_main() -> None:
+    previous = _preview_sources()
     try:
         guides = prepare_awakeners()
     except AwakenerValidationError as error:
         raise SystemExit(str(error)) from error
-    print(
-        f"Awakener content: {len(guides)} guides valid; "
-        "fast preview only (run mythag-build for production output); "
-        "restart after adding, renaming, or removing a guide"
-    )
-    subprocess.run(
+    print(f"Awakener content: {len(guides)} guides valid; watching authored pages and assets", flush=True)
+    stop = threading.Event()
+    watcher = threading.Thread(target=_sync_preview, args=(stop, previous), daemon=True)
+    process = subprocess.Popen(
         [sys.executable, "-m", "zensical", "serve", "--config-file", str(GENERATED_CONFIG)],
         cwd=ROOT,
-        check=True,
     )
+    watcher.start()
+    try:
+        code = process.wait()
+        if code:
+            raise SystemExit(code)
+    finally:
+        stop.set()
+        watcher.join(timeout=5)
+        if process.poll() is None:
+            process.terminate()
+            process.wait()
 
 
 if __name__ == "__main__":
