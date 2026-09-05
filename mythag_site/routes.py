@@ -90,7 +90,9 @@ def sync_docs(root: Path, guides: list[Guide]) -> None:
             continue
         output = guide_paths.get(relative, relative)
         if path.suffix.lower() == ".md":
-            text = path.read_bytes().decode("utf-8")
+            # Zensical and source validation must see the same line endings,
+            # including when Git checks out authored Markdown with Windows CRLF.
+            text = path.read_bytes().decode("utf-8").replace("\r\n", "\n").replace("\r", "\n")
             text = pattern.sub(lambda match: routes[match.group().rstrip("/")], text)
             write(output, text.encode("utf-8"))
         else:
