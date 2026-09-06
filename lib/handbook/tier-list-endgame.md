@@ -215,6 +215,11 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
   Salvador
 </div>
 <div class="item" markdown>
+  [![Thais](/images/awakeners/caro/thais--mini.png){loading=lazy}](/handbook/awakeners/thais)
+
+  Thais (E2)
+</div>
+<div class="item" markdown>
   [![Xu](/images/awakeners/caro/xu--mini.png){loading=lazy}](/handbook/awakeners/xu)
 
   Xu
@@ -228,11 +233,6 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
   [![Castor](/images/awakeners/ultra/castor--mini.png){loading=lazy}](/handbook/awakeners/castor)
 
   Castor
-</div>
-<div class="item" markdown>
-  [![Thais](/images/awakeners/caro/thais--mini.png){loading=lazy}](/handbook/awakeners/thais)
-
-  Thais (E2)
 </div>
 <div class="item" markdown>
   [![Horla](/images/awakeners/ultra/horla--mini.png){loading=lazy}](/handbook/awakeners/horla)
