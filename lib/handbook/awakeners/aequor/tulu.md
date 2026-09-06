@@ -14,7 +14,7 @@ awakener:
   ranks:
     dps:
       - tier: C
-        note: Secondary DPS
+        note: Not Recommended
     support:
       - tier: B
         note: Role Player

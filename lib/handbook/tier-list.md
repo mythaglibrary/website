@@ -34,7 +34,7 @@ If a character isn't listed, it means you would need a crazy reason to use them 
 
 ### S (Newbie Solo Carry) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
-These characters need very little investment to clear story mode and Hard stages, and are excellent support awakeners to borrow for [event stages](/handbook/resources#events) and [D-Effect Zone](/handbook/d-zone).
+These characters need very little investment to clear Normal and Hard stages, and are excellent support awakeners to borrow for [event stages](/handbook/resources#events) and [D-Effect Zone](/handbook/d-zone).
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -49,9 +49,9 @@ These characters need very little investment to clear story mode and Hard stages
 </div>
 </div>
 
-### A (Good in Hard Difficulty) {.tier .text-center style="background-color: var(--md-tier-a);"}
+### A (Great in Hard Difficulty) {.tier .text-center style="background-color: var(--md-tier-a);"}
 
-These characters deal enough damage to clear normal story mode as main DPS, even with a suboptimal team. They're also good in Hard stages.
+These characters deal enough damage to clear Normal and Hard stages as main DPS, even with a suboptimal team.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -76,9 +76,9 @@ These characters deal enough damage to clear normal story mode as main DPS, even
 </div>
 </div>
 
-### B+ (Good in Normal Difficulty) {#b-plus .tier .text-center style="background-color: var(--md-tier-b-plus);"}
+### B+ (Great in Normal Difficulty) {#b-plus .tier .text-center style="background-color: var(--md-tier-b-plus);"}
 
-These characters deal enough damage to clear normal story mode as main DPS, even with a suboptimal team. However, they need specific teammates or high investment to beat Hard stages.
+These characters deal enough damage to clear Normal stages as main DPS, even with a suboptimal team. However, they need specific teammates or high investment to beat Hard stages.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -130,7 +130,7 @@ These characters deal enough damage to clear normal story mode as main DPS, even
 
 ### B (Viable with Support) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-These characters deal enough damage to clear normal story mode as main DPS, but they need specific teammates or high investment to complete all story chapters.
+These characters deal enough damage to clear Normal stages as main DPS, but they need specific teammates or high investment to work well.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -205,7 +205,7 @@ These characters deal enough damage to clear normal story mode as main DPS, but 
 </div>
 </div>
 
-### C (Secondary DPS) {.tier .text-center style="background-color: var(--md-tier-c);"}
+### C (Not Recommended) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
 These characters need an unrealistic amount of effort for a new player to clear normal story mode with. They can be used as the main DPS in early chapters, but are better used later on as supports or secondary DPS.
 

@@ -12,7 +12,7 @@ awakener:
   ranks:
     dps:
       - tier: A
-        note: Good in Hard Difficulty
+        note: Great in Hard Difficulty
     support:
       - tier: C
         note: Technically Usable

@@ -14,7 +14,7 @@ awakener:
   ranks:
     dps:
       - tier: B+
-        note: Good in Normal Difficulty
+        note: Great in Normal Difficulty
     support:
       - tier: B
         note: Role Player
