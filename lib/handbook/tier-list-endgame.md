@@ -14,9 +14,9 @@ This is a quick guide to what characters are viable in the Nightmare and Madness
 
 If you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
 
-**This tier list assumes you aren't cheesing the boss.** The best way to beat a Madness stage is to use some gimmick to circumvent the actual fight. There are too many possible strategies of this kind to take into account, so this tier list only considers how a character would fare against an "average" stage with no gimmicks.
+**These tier lists assumes you aren't cheesing the boss.** The best way to beat a Madness stage is to use some gimmick to circumvent the actual fight. There are too many possible strategies of this kind to take into account, so this guide only considers how a character would fare against an "average" stage with no gimmicks.
 
-**Take this tier list with a grain of salt.** The new D-tide difficulties have only just released. As balance changes happen and we get a better idea of what works, this tier list will be updated accordingly.
+**Take these tier lists with a grain of salt.** The new D-tide difficulties have only just released. As balance changes happen and we get a better idea of what works, this guide will be updated accordingly.
 
 For explanations of formatting, see [Awakener Tier Lists (For New Players)](/handbook/tier-list).
 
