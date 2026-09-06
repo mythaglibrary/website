@@ -307,6 +307,11 @@ In specific teams, this character might be useful enough to run in high-difficul
   Ryker
 </div>
 <div class="item" markdown>
+  [![Corposant](/images/awakeners/aequor/corposant--mini.png){loading=lazy}](/handbook/awakeners/corposant)
+
+  Corposant (AA)
+</div>
+<div class="item" markdown>
   [![Miryam](/images/awakeners/aequor/miryam--mini.png){loading=lazy}](/handbook/awakeners/miryam)
 
   Miryam
