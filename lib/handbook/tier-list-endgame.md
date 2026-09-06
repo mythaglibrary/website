@@ -43,6 +43,11 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
   Vortice (OE)
 </div>
 <div class="item" markdown>
+  [![Xu](/images/awakeners/caro/xu--mini.png){loading=lazy}](/handbook/awakeners/xu)
+
+  Xu (AA)
+</div>
+<div class="item" markdown>
   [![Clementine](/images/awakeners/ultra/clementine--mini.png){loading=lazy}](/handbook/awakeners/clementine)
 
   Clementine (AA)
@@ -102,18 +107,13 @@ Given enough investment and support, these characters can reach the ~5 million d
   Sorel
 </div>
 <div class="item" markdown>
-  [![Xu](/images/awakeners/caro/xu--mini.png){loading=lazy}](/handbook/awakeners/xu)
-
-  Xu (E3)
-</div>
-<div class="item" markdown>
   [![Daffodil](/images/awakeners/ultra/daffodil--mini.png){loading=lazy}](/handbook/awakeners/daffodil)
 
   Daffodil (OE)
 </div>
 </div>
 
-### D (Secondary DPS) {.tier .text-center style="background-color: var(--md-tier-d);"}
+### X (Secondary DPS) {.tier .text-center style="background-color: var(--md-tier-c-plus);"}
 
 These characters can contribute a meaningful amount of damage as secondary DPS (usually because they have a Max HP % nuke in their kit).
 
@@ -131,12 +131,7 @@ These characters can contribute a meaningful amount of damage as secondary DPS (
 <div class="item" markdown>
   [![Doresain](/images/awakeners/caro/doresain--mini.png){loading=lazy}](/handbook/awakeners/doresain)
 
-  Doresain (OE)
-</div>
-<div class="item" markdown>
-  [![Xu](/images/awakeners/caro/xu--mini.png){loading=lazy}](/handbook/awakeners/xu)
-
-  Xu
+  Doresain (AA)
 </div>
 </div>
 
@@ -210,9 +205,24 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
   GMurphy
 </div>
 <div class="item" markdown>
+  [![Pontos](/images/awakeners/aequor/pontos--mini.png){loading=lazy}](/handbook/awakeners/pontos)
+
+  Pontos (E3)
+</div>
+<div class="item" markdown>
   [![Salvador](/images/awakeners/caro/salvador--mini.png){loading=lazy}](/handbook/awakeners/salvador)
 
   Salvador
+</div>
+<div class="item" markdown>
+  [![Caraboo](/images/awakeners/caro/caraboo--mini.png){loading=lazy}](/handbook/awakeners/caraboo)
+
+  Caraboo
+</div>
+<div class="item" markdown>
+  [![Castor](/images/awakeners/ultra/castor--mini.png){loading=lazy}](/handbook/awakeners/castor)
+
+  Castor
 </div>
 <div class="item" markdown>
   [![Thais](/images/awakeners/caro/thais--mini.png){loading=lazy}](/handbook/awakeners/thais)
@@ -307,11 +317,6 @@ In specific teams, this character might be useful enough to run in high-difficul
   Tulu
 </div>
 <div class="item" markdown>
-  [![Pontos](/images/awakeners/aequor/pontos--mini.png){loading=lazy}](/handbook/awakeners/pontos)
-
-  Pontos (E3)
-</div>
-<div class="item" markdown>
   [![Vortice](/images/awakeners/aequor/vortice--mini.png){loading=lazy}](/handbook/awakeners/vortice)
 
   Vortice (E1)
@@ -325,16 +330,6 @@ In specific teams, this character might be useful enough to run in high-difficul
   [![Xu](/images/awakeners/caro/xu--mini.png){loading=lazy}](/handbook/awakeners/xu)
 
   Xu
-</div>
-<div class="item" markdown>
-  [![Caraboo](/images/awakeners/caro/caraboo--mini.png){loading=lazy}](/handbook/awakeners/caraboo)
-
-  Caraboo
-</div>
-<div class="item" markdown>
-  [![Castor](/images/awakeners/ultra/castor--mini.png){loading=lazy}](/handbook/awakeners/castor)
-
-  Castor
 </div>
 <div class="item" markdown>
   [![Daffodil](/images/awakeners/ultra/daffodil--mini.png){loading=lazy}](/handbook/awakeners/daffodil)
