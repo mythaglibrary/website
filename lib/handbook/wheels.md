@@ -245,7 +245,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
   *(for exalt DPS)*
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![The Glutton's Tale](/images/wheels/bloody-feast.png){loading=lazy}](https://skeydb.com/database/wheels/the-gluttons-tale){target="_blank"}
+  [![The Glutton's Tale](/images/wheels/the-gluttons-tale.png){loading=lazy}](https://skeydb.com/database/wheels/the-gluttons-tale){target="_blank"}
 
   [**The Glutton's Tale**](https://skeydb.com/database/wheels/the-gluttons-tale){target="_blank"}
 

@@ -115,21 +115,21 @@ members:
   - awakener: murphy
     archetype: tank
     role: Tank
-    note: Shields, keyflare
+    note: Debuffs, shields, keyflare
     covenant: life-drain
     wheels: [shrouded-birth, moment-of-reunion]
+  - awakener: leigh
+    archetype: tank
+    role: Tank
+    note: Shields, heals
+    covenant: burial-grounds-sighs
+    wheels: [memory-spiral, noblemans-staff]
   - awakener: celeste
     archetype: tank
     role: Tank
     note: Weakness, heals, revive
     covenant: burial-grounds-sighs
     wheels: [the-gluttons-tale, memory-syndrome]
-  - awakener: faint
-    archetype: tank
-    role: Tank
-    note: Weakness, death resistance
-    covenant: burial-grounds-sighs
-    wheels: [lullaby-devoured, cloaked-in-the-night]
 ```
 
 **A steady grind for patient players.**
@@ -589,7 +589,7 @@ Prioritize :crit-dmg: Crit DMG, :crit-rate: Crit Rate, and :skey: Keyflare Regen
   </span>
 </div>
 
-Gives crit rate when you posse. (You have a [keyflare bot](#the-almighty-keyflare-bot), right?)
+Gives crit rate when you activate your posse. (You have a [keyflare bot](#the-almighty-keyflare-bot), right?)
 
 If you haven't unlocked [April Tribute](#april-tribute), this is the next best option. It's also better in fights where enemies spend most of the fight below 75% HP, such as bosses that have death resistance or giant HP bars.
 
@@ -610,7 +610,7 @@ Prioritize :crit-dmg: Crit DMG, :crit-rate: Crit Rate, and :skey: Keyflare Regen
   </span>
 </div>
 
-This is the highest-damage option For DPS that apply fixed poison or counter, like [Nymphaea](/handbook/awakeners/nymphaea/). It can also be used by DPS that have innate Crit Rate buffs and high Base DMG, like ["24"](/handbook/awakeners/24/), [GHelot](/handbook/awakeners/ghelot/), and [Daffodil](/handbook/awakeners/daffodil/).
+This is the highest-damage option for DPS that apply fixed poison or counter, like [Nymphaea](/handbook/awakeners/nymphaea/). It can also be used by DPS that have innate Crit Rate buffs and high Base DMG, like ["24"](/handbook/awakeners/24/), [GHelot](/handbook/awakeners/ghelot/), and [Daffodil](/handbook/awakeners/daffodil/).
 
 If the DPS scales with critical hits and can't reach 100% Crit Rate on their own, you should probably run [April Tribute](#april-tribute) or [Crimson Pulse](#crimson-pulse) instead.
 
