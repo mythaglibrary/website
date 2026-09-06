@@ -5,7 +5,7 @@ icon: lucide/ship-wheel
 ---
 
 <figure markdown="span">
-  ![](/images/emojis/doll-questioning.png){width="196" loading=lazy}
+  ![](/images/emojis/doll-questioning.png){width="196"}
 </figure>
 
 # SSR Wheel Tier List *(For New Players)*
@@ -57,7 +57,7 @@ These wheels are extremely good and best in slot for many teams. Get E3 or bette
 
   Battle Pass
 
-  *(best defensive wheel in game)*
+  *(shields, heals, RM)*
 </div>
 </div>
 
@@ -136,7 +136,7 @@ These wheels are good in many teams and worth getting.
 
   [Horla](/handbook/awakeners/horla)
 
-  *(keyflare, for many DPS)*
+  *(keyflare, DR, for many DPS)*
 </div>
 <div class="item" markdown>
   [![Spring in Yakutsk](/images/wheels/spring-in-yakutsk.png){loading=lazy}](https://skeydb.com/database/wheels/spring-in-yakutsk){target="_blank"}
@@ -224,7 +224,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
 
   [Nautila](/handbook/awakeners/nautila)
 
-  *(shields)*
+  *(shields, RM)*
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
   [![Amidst the Downpour](/images/wheels/amidst-the-downpour.png){loading=lazy}](https://skeydb.com/database/wheels/amidst-the-downpour){target="_blank"}
@@ -245,13 +245,22 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
   *(for exalt DPS)*
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
+  [![The Glutton's Tale](/images/wheels/bloody-feast.png){loading=lazy}](https://skeydb.com/database/wheels/the-gluttons-tale){target="_blank"}
+
+  [**The Glutton's Tale**](https://skeydb.com/database/wheels/the-gluttons-tale){target="_blank"}
+
+  [Leigh](/handbook/awakeners/leigh)
+
+  *(shields, RM)*
+</div>
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
   [![Happy Magic Show](/images/wheels/happy-magic-show.png){loading=lazy}](https://skeydb.com/database/wheels/happy-magic-show){target="_blank"}
 
   [**Happy Magic Show**](https://skeydb.com/database/wheels/happy-magic-show){target="_blank"}
 
   [Casiah](/handbook/awakeners/casiah)
 
-  *(keyflare, aliemus)*
+  *(keyflare, aliemus, RM)*
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
   [![Incalculable Factor](/images/wheels/incalculable-factor.png){loading=lazy}](https://skeydb.com/database/wheels/incalculable-factor){target="_blank"}
@@ -296,7 +305,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
 
   [Corposant](/handbook/awakeners/corposant)
 
-  *(death resistance, team damage)*
+  *(DR, team damage)*
 </div>
 <div class="item" markdown>
   [![Power of the Pious](/images/wheels/power-of-the-pious.png){loading=lazy}](https://skeydb.com/database/wheels/power-of-the-pious){target="_blank"}
@@ -359,7 +368,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
 
   [Arachne](/handbook/awakeners/arachne)
 
-  *(aliemus)*
+  *(aliemus, RM)*
 </div>
 <div class="item" markdown>
   [![Falling Upward](/images/wheels/falling-upward.png){loading=lazy}](https://skeydb.com/database/wheels/falling-upward){target="_blank"}
@@ -368,7 +377,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
 
   Event
 
-  *(aliemus, team damage)*
+  *(aliemus, team damage, RM)*
 </div>
 <div class="item" markdown>
   [![Private Afternoon](/images/wheels/private-afternoon.png){loading=lazy}](https://skeydb.com/database/wheels/private-afternoon){target="_blank"}

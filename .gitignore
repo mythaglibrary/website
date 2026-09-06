@@ -8,3 +8,4 @@
 site
 
 generated-docs/
+/mythag_site/__pycache__/*

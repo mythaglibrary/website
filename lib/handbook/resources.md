@@ -18,30 +18,30 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
-  ![](/images/realms/chaos.png){style="aspect-ratio: 1 / 1; object-fit: contain;"}
+  ![](/images/realms/chaos.png){style="aspect-ratio: 1 / 1; object-fit: contain;" loading=lazy}
 </div>
 <div class="item" markdown>
-  [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png)](/handbook/awakeners/nymphaea/)
+  [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png){loading=lazy}](/handbook/awakeners/nymphaea/)
 
   [Nymphaea](/handbook/awakeners/nymphaea/)
 </div>
 <div class="item" markdown>
-  [![Alva](/images/awakeners/chaos/alva--mini.png)](/handbook/awakeners/alva/)
+  [![Alva](/images/awakeners/chaos/alva--mini.png){loading=lazy}](/handbook/awakeners/alva/)
 
   [Alva](/handbook/awakeners/alva/)
 </div>
 <div class="item" markdown>
-  [![Pandia](/images/awakeners/chaos/pandia--mini.png)](/handbook/awakeners/pandia/)
+  [![Pandia](/images/awakeners/chaos/pandia--mini.png){loading=lazy}](/handbook/awakeners/pandia/)
 
   [Pandia](/handbook/awakeners/pandia/)
 </div>
 <div class="item" markdown>
-  [![Nautila](/images/awakeners/chaos/nautila--mini.png)](/handbook/awakeners/nautila/)
+  [![Nautila](/images/awakeners/chaos/nautila--mini.png){loading=lazy}](/handbook/awakeners/nautila/)
 
   [Nautila](/handbook/awakeners/nautila/)
 </div>
 <div class="item" markdown>
-  [![Karen](/images/awakeners/chaos/karen--mini.png)](/handbook/awakeners/karen/)
+  [![Karen](/images/awakeners/chaos/karen--mini.png){loading=lazy}](/handbook/awakeners/karen/)
 
   [Karen](/handbook/awakeners/karen/)
 </div>
@@ -51,30 +51,30 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
-  ![](/images/realms/aequor.png){style="aspect-ratio: 1 / 1; object-fit: contain;"}
+  ![](/images/realms/aequor.png){style="aspect-ratio: 1 / 1; object-fit: contain;" loading-lazy}
 </div>
 <div class="item" markdown>
-  [![Sanga](/images/awakeners/aequor/sanga--mini.png)](/handbook/awakeners/sanga/)
+  [![Sanga](/images/awakeners/aequor/sanga--mini.png){loading=lazy}](/handbook/awakeners/sanga/)
 
   [Sanga](/handbook/awakeners/sanga/)
 </div>
 <div class="item" markdown>
-  [![Celeste](/images/awakeners/aequor/celeste--mini.png)](/handbook/awakeners/celeste/)
+  [![Celeste](/images/awakeners/aequor/celeste--mini.png){loading=lazy}](/handbook/awakeners/celeste/)
 
   [Celeste](/handbook/awakeners/celeste/)
 </div>
 <div class="item" markdown>
-  [![Faros](/images/awakeners/aequor/faros--mini.png)](/handbook/awakeners/faros/)
+  [![Faros](/images/awakeners/aequor/faros--mini.png){loading=lazy}](/handbook/awakeners/faros/)
 
   [Faros](/handbook/awakeners/faros/)
 </div>
 <div class="item" markdown>
-  [![Caecus](/images/awakeners/aequor/caecus--mini.png)](/handbook/awakeners/caecus/)
+  [![Caecus](/images/awakeners/aequor/caecus--mini.png){loading=lazy}](/handbook/awakeners/caecus/)
 
   [Caecus](/handbook/awakeners/caecus/)
 </div>
 <div class="item" markdown>
-  [![Goliath](/images/awakeners/aequor/goliath--mini.png)](/handbook/awakeners/goliath/)
+  [![Goliath](/images/awakeners/aequor/goliath--mini.png){loading=lazy}](/handbook/awakeners/goliath/)
 
   [Goliath](/handbook/awakeners/goliath/)
 </div>
@@ -84,30 +84,30 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
-  ![](/images/realms/caro.png){style="aspect-ratio: 1 / 1; object-fit: contain;"}
+  ![](/images/realms/caro.png){style="aspect-ratio: 1 / 1; object-fit: contain;" loading=lazy}
 </div>
 <div class="item" markdown>
-  [![Leigh](/images/awakeners/caro/leigh--mini.png)](/handbook/awakeners/leigh/)
+  [![Leigh](/images/awakeners/caro/leigh--mini.png){loading=lazy}](/handbook/awakeners/leigh/)
 
   [Leigh](/handbook/awakeners/leigh/)
 </div>
 <div class="item" markdown>
-  [![Faint](/images/awakeners/caro/faint--mini.png)](/handbook/awakeners/faint/)
+  [![Faint](/images/awakeners/caro/faint--mini.png){loading=lazy}](/handbook/awakeners/faint/)
 
   [Faint](/handbook/awakeners/faint/)
 </div>
 <div class="item" markdown>
-  [![Helot](/images/awakeners/caro/helot--mini.png)](/handbook/awakeners/helot/)
+  [![Helot](/images/awakeners/caro/helot--mini.png){loading=lazy}](/handbook/awakeners/helot/)
 
   [Helot](/handbook/awakeners/helot/)
 </div>
 <div class="item" markdown>
-  [![Agrippa](/images/awakeners/caro/agrippa--mini.png)](/handbook/awakeners/agrippa/)
+  [![Agrippa](/images/awakeners/caro/agrippa--mini.png){loading=lazy}](/handbook/awakeners/agrippa/)
 
   [Agrippa](/handbook/awakeners/agrippa/)
 </div>
 <div class="item" markdown>
-  [![Uvhash](/images/awakeners/caro/uvhash--mini.png)](/handbook/awakeners/uvhash/)
+  [![Uvhash](/images/awakeners/caro/uvhash--mini.png){loading=lazy}](/handbook/awakeners/uvhash/)
 
   [Uvhash](/handbook/awakeners/uvhash/)
 </div>
@@ -117,30 +117,30 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
-  ![](/images/realms/ultra.png){style="aspect-ratio: 1 / 1; object-fit: contain;"}
+  ![](/images/realms/ultra.png){style="aspect-ratio: 1 / 1; object-fit: contain;" loading=lazy}
 </div>
 <div class="item" markdown>
-  [![Casiah](/images/awakeners/ultra/casiah--mini.png)](/handbook/awakeners/casiah/)
+  [![Casiah](/images/awakeners/ultra/casiah--mini.png){loading=lazy}](/handbook/awakeners/casiah/)
 
   [Casiah](/handbook/awakeners/casiah/)
 </div>
 <div class="item" markdown>
-  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png)](/handbook/awakeners/jenkin/)
+  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png){loading=lazy}](/handbook/awakeners/jenkin/)
 
   [Jenkin](/handbook/awakeners/jenkin/)
 </div>
 <div class="item" markdown>
-  [![Liz](/images/awakeners/ultra/liz--mini.png)](/handbook/awakeners/liz/)
+  [![Liz](/images/awakeners/ultra/liz--mini.png){loading=lazy}](/handbook/awakeners/liz/)
 
   [Liz](/handbook/awakeners/liz/)
 </div>
 <div class="item" markdown>
-  [![Tinct](/images/awakeners/ultra/tinct--mini.png)](/handbook/awakeners/tinct/)
+  [![Tinct](/images/awakeners/ultra/tinct--mini.png){loading=lazy}](/handbook/awakeners/tinct/)
 
   [Tinct](/handbook/awakeners/tinct/)
 </div>
 <div class="item" markdown>
-  [![Winkle](/images/awakeners/ultra/winkle--mini.png)](/handbook/awakeners/winkle/)
+  [![Winkle](/images/awakeners/ultra/winkle--mini.png){loading=lazy}](/handbook/awakeners/winkle/)
 
   [Winkle](/handbook/awakeners/winkle/)
 </div>
