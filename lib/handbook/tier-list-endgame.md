@@ -215,6 +215,11 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
   Salvador
 </div>
 <div class="item" markdown>
+  [![Xu](/images/awakeners/caro/xu--mini.png){loading=lazy}](/handbook/awakeners/xu)
+
+  Xu
+</div>
+<div class="item" markdown>
   [![Caraboo](/images/awakeners/caro/caraboo--mini.png){loading=lazy}](/handbook/awakeners/caraboo)
 
   Caraboo
@@ -330,11 +335,6 @@ In specific teams, this character might be useful enough to run in high-difficul
   [![Pickman](/images/awakeners/caro/pickman--mini.png){loading=lazy}](/handbook/awakeners/pickman)
 
   Pickman (E2)
-</div>
-<div class="item" markdown>
-  [![Xu](/images/awakeners/caro/xu--mini.png){loading=lazy}](/handbook/awakeners/xu)
-
-  Xu
 </div>
 <div class="item" markdown>
   [![Daffodil](/images/awakeners/ultra/daffodil--mini.png){loading=lazy}](/handbook/awakeners/daffodil)
