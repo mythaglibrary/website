@@ -93,11 +93,12 @@
   --md-effect-weakness: #855a85;
   --md-effect-vulnerable: #9f5159;
   --md-tier-s: #49699d;
-  --md-tier-a: #547048;
-  --md-tier-b-plus: #846400;
+  --md-tier-a: #48643e;
+  --md-tier-b-plus: #7c8c25;
   --md-tier-b: #7e661a;
   --md-tier-c-plus: #935c24;
   --md-tier-c: #a84c4c;
+  --md-tier-d: #745454;
 }
 
 [data-md-color-scheme="slate"] .awakener-guide {
@@ -105,6 +106,13 @@
   --awakener-link-hover-color: #b4daf0;
   --md-effect-weakness: #a67ea7;
   --md-effect-vulnerable: #b77b81;
+  --md-tier-s: #94bdff;
+  --md-tier-a: #a1da8c;
+  --md-tier-b-plus: #c6d765;
+  --md-tier-b: #ebcb69;
+  --md-tier-c-plus: #ebb076;
+  --md-tier-c: #e68a8a;
+  --md-tier-d: #ac8b8b;
 }
 
 .awakener-guide a {
