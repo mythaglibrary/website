@@ -96,6 +96,11 @@ Given enough investment and support, these characters can reach the ~5 million d
 
   Alva (AA)
 </div>
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
+  [![Helot](/images/awakeners/caro/helot--mini.png){loading=lazy}](/handbook/awakeners/helot)
+
+  Helot (AA)
+</div>
 <div class="item" markdown>
   [![Mouchette](/images/awakeners/chaos/mouchette--mini.png){loading=lazy}](/handbook/awakeners/mouchette)
 
