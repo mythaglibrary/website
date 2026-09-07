@@ -56,7 +56,7 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
 
 ### B (Low Madness Viable) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-Given enough investment and support, these characters can reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may also be viable into high Madness stages if they have a favorable matchup or you use Emergency Gnoses.
+Given enough investment and support, these characters can reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may be viable into high Madness stages if they have a favorable matchup or you use Emergency Gnoses.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
@@ -83,9 +83,14 @@ Given enough investment and support, these characters can reach the ~10 million 
 
 ### C (Nightmare Viable) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
-Given enough investment and support, these characters can reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They can't realistically deal enough damage to beat Madness stages, but may be viable if they have a favorable matchup or you use Emergency Gnoses.
+Given enough investment and support, these characters can reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They may be viable into higher difficulties if they have a favorable matchup or you use Emergency Gnoses.
 
 <div class="grid-96" markdown>
+<div class="item" markdown style="background-color: var(--md-tier-free);">
+  [![Aurita](/images/awakeners/aequor/aurita--mini.png){loading=lazy}](/handbook/awakeners/aurita)
+
+  Aurita (AA)
+</div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
   [![Alva](/images/awakeners/chaos/alva--mini.png){loading=lazy}](/handbook/awakeners/alva)
 
@@ -94,12 +99,17 @@ Given enough investment and support, these characters can reach the ~5 million d
 <div class="item" markdown>
   [![Mouchette](/images/awakeners/chaos/mouchette--mini.png){loading=lazy}](/handbook/awakeners/mouchette)
 
-  Mouchette (OE)
+  Mouchette (AA)
 </div>
 <div class="item" markdown>
   [![GLotan](/images/awakeners/chaos/glotan--mini.png){loading=lazy}](/handbook/awakeners/glotan)
 
   GLotan (E3)
+</div>
+<div class="item" markdown>
+  [![Corposant](/images/awakeners/aequor/corposant--mini.png){loading=lazy}](/handbook/awakeners/corposant)
+
+  Corposant (AA)
 </div>
 <div class="item" markdown>
   [![Sorel](/images/awakeners/caro/sorel--mini.png){loading=lazy}](/handbook/awakeners/sorel)
