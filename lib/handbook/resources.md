@@ -150,21 +150,23 @@ My advice: **Pick whoever you think is cool.**
 
 You get standard pulls like water in this game, and you get standard characters when you miss on a limited banner, so you are going to own all of these characters eventually.
 
-All the standard characters are equally good and usable in some way, from early game all the way to endgame. (The only exceptions are [Pandia](/handbook/awakeners/pandia/) and [Uvhash](/handbook/awakeners/uvhash/), who are still usable at endgame, just harder to make work than the others.)
+All of these characters are good in story mode, event stages, and Hard stages. In other words, 99% of the gameplay content that exists in Morimens. ([Pandia](/handbook/awakeners/pandia/), [Uvhash](/handbook/awakeners/uvhash/), and [Liz](/handbook/awakeners/liz/) are relatively more demanding to make work, but they are still viable in Hard stages.)
 
-You will probably have more fun doing the story mode with a character you like, rather than a character who is 5% stronger but you don't care much about.
+You will probably have more fun doing the story mode with a character you like, rather than a character who is stronger but you don't care much about.
 
-If you *only* care about meta, go to the [official Discord](https://discord.gg/RAegY8wcGx) and ask what standard characters work best with the current rate-up limited characters.
+If you *only* care about meta, you can look at the [official Discord](https://discord.gg/RAegY8wcGx) and ask what standard characters work best with the current rate-up limited characters. This will help you speedrun the early game faster.
 
 ## Should I Reroll My Account?
 
 **No, rerolling is a waste of time.**
 
-Keeper level (account level) is the most valuable stat in this game. Everything else can be fixed with patience or money, but there's no way to get a high keeper level other than sticking to one account for a long time.
+Keeper level (account level) is the most valuable stat in this game. Everything else can be fixed with money or patience, but you can't raise your keeper level unless you stick to one account for a long time.
 
-Morimens is one of the most generous gacha games in existence. Even a free-to-play player earns enough pulls to get a character to E3 every other patch. Also, you can't really brick your account in this game, as all characters are viable in Hard and Nightmare D-Effect Zone.
+If you feel stuck, remember that Morimens is a strategy game. Trying out different teams and strategies will a be much more effective use of your time than rerolling.
 
-If you still regret your investment decisions, you can wait for the developers to give out Origins of Time during major updates. These items can be used to refund the level-up resources you invested in a character.
+If you feel like you wasted your pulls, you should know that Morimens is one of the most generous gacha games in existence. Even a free-to-play player earns enough pulls to get a character to E3 every other patch.
+
+If you regret your investment decisions, you can wait for the developers to give out Origins of Time during major updates. These items can be used to refund the level-up resources you invested in a character. Also, if you use an Origin of Time on a standard character or wheel, it can be converted into an equivalent number of standard selectors, allowing you to effectively refund the standard pulls and use them on something else.
 
 <figure markdown="span">
   ![](/images/emojis/ryker-shy.png){width="128" loading=lazy} <figcaption>"99% of gamblers quit before they hit the jackpot."</figcaption>
@@ -465,15 +467,15 @@ The covenants [Cursed Rabbit](/handbook/team#cursed-rabbit) and [Re-evolution](/
 
 **Save your Protoparadises until you know exactly what you want.**
 
-You get a lot of Pure Cores from the main story and new player rewards. You will probably pull dozens of standard characters in the first week of playing. Do you really need a specific character right away to beat the easiest stages in the game?
+You get a lot of Pure Cores from new player rewards and daily quests. You will probably pull dozens of standard characters in the first week of playing. Do you really need a specific character right away to beat the easiest stages in the game?
 
-Use your Protoparadise if you've already pulled a lot and have most of the characters, but you're still missing a specific character you want. Or if you're missing a specific enlighten that you're 100% sure will help you clear a specific stage.
+Use your Protoparadise if you've already pulled a lot and have most of the characters, but you're still missing a character you want. Or if you're missing a specific enlighten that you're 100% sure will help you clear a specific stage.
 
 If you use your Protoparadise on a character and pull the same character soon after, it will be a huge waste.
 
 ![](/images/icons/consumables/book-of-rotation.png){width="80" loading=lazy}
 
-**Use Books of Rotation to get Blade of the Titan or whatever wheel you want.**
+**Use Books of Rotation to get [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} or whatever wheel you want.**
 
 The standard wheel banner lets you pick a target, so if you regret your decision, correcting it is at most 90 Pure Cores away.
 
@@ -517,7 +519,9 @@ If you have all the posses, you can use Reality Verges to unlock whatever you wa
 
 ![](/images/handbook/resources/silver-prime-2.png){width="384" loading=lazy}
 
-**Extra Curriculum** (the seasonal Battle Pass) gives fewer pulls, but a lot of materials for leveling up characters, including time-gated materials. It also lets you pick 1 of 3 SSR wheels which are all incredibly powerful. After you get a wheel once, you can buy dupes from the Sediment shop.
+**Extra Curriculum** (the seasonal Battle Pass) gives fewer pulls, but a lot of materials for leveling up characters. It also lets you pick 1 of 3 SSR wheels which are all very powerful. After you get a wheel once, you can buy dupes from the Sediment shop.
+
+If you buy the more expensive Premium Topics, you get access to **Turn Rewind.** This saves hours of time when you're retrying difficult stages, and is essentially required if you're crazy enough to do D-Effect Zone Madness difficulty regularly.
 
 ![](/images/handbook/resources/silver-prime-3.png){width="384" loading=lazy}
 

@@ -37,7 +37,8 @@ In Morimens, the way you beat stages is by reducing the boss HP to 0 before your
 
 - You can focus on dealing damage, so all the enemies die before you do.
 - You can focus on shielding and healing, so you can take as long as you want to kill enemies.
-- You can focus on a specific mechanic, such as poison or counter, and characters that have synergy with that mechanic.
+- You can focus on a specific mechanic, such as poison, and characters that have synergy with that mechanic.
+- You can focus on abusing a specific vulnerability of the boss or stage you're trying to beat.
 
 All of these are viable approaches. The important part is to **know what your team is trying to do**. If you don't know your path to victory, if you just use awakeners because they're from the same realm or use wheels because they're auto-recommended by the game, your team might not actually have a way to win.
 
@@ -96,7 +97,7 @@ The supports can also provide:
 
 Sometimes the supports include secondary DPS who also contribute damage. For example, [GMurphy](/handbook/awakeners/gmurphy/) has trouble killing multiple enemies at once, so you might bring [Tulu](/handbook/awakeners/tulu/), who is both a good support for her and a good damage dealer against mob waves.
 
-The [Newbie DPS Tier List](/handbook/tier-list) and [Newbie Support Tier List](/handbook/tier-list) rank characters based on how well they fit into this type of team.
+This guide's [Newbie DPS Tier List](/handbook/tier-list) and [Newbie Support Tier List](/handbook/tier-list) rank characters based on how well they fit into this type of team.
 
 ### Stall
 
@@ -178,11 +179,11 @@ members:
 
 Poison characters get stronger the more of them you put together. The more poison you apply, the more damage you deal by triggering poison, and the better overall the team becomes.
 
-**Poison teams are slow unless they actively trigger poison.** This is important in [Astral Reign](/handbook/storylines#astral-reign-arc-2), where there's a maximum amount of poison you can apply.
-
 When building a poison team, consider which characters will apply poison and which characters will trigger poison. Most poison characters can do both, but some are better at applying poison (and should be built as damage dealers), while others are better at triggering poison (and should be built as supports).
 
 A poison team is usually also a stall team, but it can be faster depending on the characters you use. A team with [Liz](/handbook/awakeners/liz/) and [Xu](/handbook/awakeners/xu/) can apply tons of poison and trigger it right away, killing as fast as a hypercarry team.
+
+Poison teams are not very effective in the Madness difficulty of D-Effect Zone and Hectic Skybound Rail because of the [Astral Reign](/handbook/storylines) poison cap. If you're a new player, this doesn't affect you much. Just keep in mind that you will need to build other teams if you plan on doing the hardest of hard content currently in Morimens.
 
 **Poison teams need to rouse everyone in [Astral Reign](/handbook/storylines).** This is because [Prismatic Lens](/handbook/storylines/#prismatic-lens) makes poison tick faster each turn for each roused character in the team.
 

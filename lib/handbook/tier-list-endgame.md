@@ -56,13 +56,23 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
 
 ### B (Low Madness Viable) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-Given enough investment and support, these characters can reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may be viable into high Madness stages if they have a favorable matchup or you use Emergency Gnoses.
+Given enough investment and support, these characters can reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may be viable into high Madness stages if they have a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>
   [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png){loading=lazy}](/handbook/awakeners/kathigu-ra)
 
   Kathigu-Ra (AA)
+</div>
+<div class="item" markdown>
+  [![Mouchette](/images/awakeners/chaos/mouchette--mini.png){loading=lazy}](/handbook/awakeners/mouchette)
+
+  Mouchette (AA)
+</div>
+<div class="item" markdown>
+  [![GLotan](/images/awakeners/chaos/glotan--mini.png){loading=lazy}](/handbook/awakeners/glotan)
+
+  GLotan (AA)
 </div>
 <div class="item" markdown>
   [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png){loading=lazy}](/handbook/awakeners/gmurphy)
@@ -83,7 +93,7 @@ Given enough investment and support, these characters can reach the ~10 million 
 
 ### C (Nightmare Viable) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
-Given enough investment and support, these characters can reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They may be viable into higher difficulties if they have a favorable matchup or you use Emergency Gnoses.
+Given enough investment and support, these characters can reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They may be viable into higher difficulties if they have a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -97,19 +107,19 @@ Given enough investment and support, these characters can reach the ~5 million d
   Alva (AA)
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
+  [![GRamona](/images/awakeners/chaos/gramona--mini.png){loading=lazy}](/handbook/awakeners/gramona)
+
+  GRamona (E2)
+</div>
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
   [![Helot](/images/awakeners/caro/helot--mini.png){loading=lazy}](/handbook/awakeners/helot)
 
   Helot (AA)
 </div>
-<div class="item" markdown>
-  [![Mouchette](/images/awakeners/chaos/mouchette--mini.png){loading=lazy}](/handbook/awakeners/mouchette)
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
+  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png){loading=lazy}](/handbook/awakeners/jenkin)
 
-  Mouchette (OE)
-</div>
-<div class="item" markdown>
-  [![GLotan](/images/awakeners/chaos/glotan--mini.png){loading=lazy}](/handbook/awakeners/glotan)
-
-  GLotan (E3)
+  Jenkin (AA)
 </div>
 <div class="item" markdown>
   [![Corposant](/images/awakeners/aequor/corposant--mini.png){loading=lazy}](/handbook/awakeners/corposant)
