@@ -10,9 +10,9 @@ icon: lucide/list-sort-descending
 
 # Awakener Tier Lists *(For Endgame)*
 
-This is a quick guide to what characters are viable in the Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for a while and have all characters, enlightens, and SSR wheels needed to make a team work.
+This is a quick guide to what characters are viable in the Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for months, have spent money on the game, and have all characters, dupes, and SSR wheels needed to make a team work.
 
-If you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
+This tier list is not relevant to the vast majority of players. However, if you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
 
 **These tier lists assumes you aren't cheesing the boss.** The best way to beat a Madness stage is to use some gimmick to circumvent the actual fight. There are too many possible strategies of this kind to take into account, so this guide only considers how a character would fare against an "average" stage with no gimmicks.
 
