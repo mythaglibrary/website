@@ -104,7 +104,7 @@ Given enough investment and support, these characters can reach the ~5 million d
 <div class="item" markdown>
   [![Mouchette](/images/awakeners/chaos/mouchette--mini.png){loading=lazy}](/handbook/awakeners/mouchette)
 
-  Mouchette (AA)
+  Mouchette (OE)
 </div>
 <div class="item" markdown>
   [![GLotan](/images/awakeners/chaos/glotan--mini.png){loading=lazy}](/handbook/awakeners/glotan)
