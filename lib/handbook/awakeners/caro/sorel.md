@@ -18,7 +18,7 @@ awakener:
       - tier: C
         note: Technically Usable
   stopping_points:
-    - 'Any, OE'
+    - 'Any, OE, AA'
   builds:
     - name: Example Build (DPS)
       covenants:
