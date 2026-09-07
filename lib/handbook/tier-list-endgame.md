@@ -10,7 +10,7 @@ icon: lucide/list-sort-descending
 
 # Awakener Tier Lists *(For Endgame)*
 
-This is a quick guide to what characters are viable in the Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for months, have spent money on the game, and have all characters, dupes, and SSR wheels needed to make a team work.
+This is a quick guide to what characters are viable in the Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for months, have spent money on the game, and have all characters, dupes, and SSR wheels required to make a team work.
 
 This tier list is not relevant to the vast majority of players. However, if you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
 

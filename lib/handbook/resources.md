@@ -150,11 +150,11 @@ My advice: **Pick whoever you think is cool.**
 
 You get standard pulls like water in this game, and you get standard characters when you miss on a limited banner, so you are going to own all of these characters eventually.
 
-All of these characters are good in story mode, event stages, and Hard stages. In other words, 99% of the gameplay content that exists in Morimens. ([Pandia](/handbook/awakeners/pandia/), [Uvhash](/handbook/awakeners/uvhash/), and [Liz](/handbook/awakeners/liz/) are relatively more demanding to make work, but they are still viable in Hard stages.)
+All of these characters are good in story mode, event stages, and Hard stages; in other words, 99% of the gameplay content that exists in Morimens. ([Pandia](/handbook/awakeners/pandia/), [Uvhash](/handbook/awakeners/uvhash/), and [Liz](/handbook/awakeners/liz/) are relatively more demanding to make work, but they are still viable in Hard stages.)
 
 You will probably have more fun doing the story mode with a character you like, rather than a character who is stronger but you don't care much about.
 
-If you *only* care about meta, you can look at the [official Discord](https://discord.gg/RAegY8wcGx) and ask what standard characters work best with the current rate-up limited characters. This will help you speedrun the early game faster.
+If you *only* care about meta, you can go to the [official Discord](https://discord.gg/RAegY8wcGx) and ask what standard characters work best with the current rate-up limited characters. This will help you speedrun the early game faster.
 
 ## Should I Reroll My Account?
 
