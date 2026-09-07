@@ -235,6 +235,11 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
   Pontos (E3)
 </div>
 <div class="item" markdown>
+  [![Doresain](/images/awakeners/caro/doresain--mini.png){loading=lazy}](/handbook/awakeners/doresain)
+
+  Doresain (AA)
+</div>
+<div class="item" markdown>
   [![Salvador](/images/awakeners/caro/salvador--mini.png){loading=lazy}](/handbook/awakeners/salvador)
 
   Salvador
