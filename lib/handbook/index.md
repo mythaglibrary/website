@@ -30,7 +30,7 @@ icon: lucide/book-open
     
     **This website is under construction.** Some formatting is wonky and the [Awakener Guides](/handbook/awakeners/) are not fully updated. Please be patient!
     
-    Let me know on [Discord](https://discord.com/channels/1131791637933199470/1477730088299663431){target="_blank"} if you have any feedback or suggestions!
+    Let me know on [the Mythag Library Discord](https://discord.gg/H2MUYUSEBx){target="_blank"} if you have any feedback or suggestions!
 
 
 ## Welcome to Morimens!
