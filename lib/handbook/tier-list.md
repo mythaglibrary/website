@@ -20,9 +20,9 @@ For notes on D-tide Nightmare and Madness difficulty, you can check [Awakener Ti
 
 **If an enlighten is specified, it means it's important for the character to work.** Without that enlighten, the character will be one or two tiers lower on the tier list.
 
-**The order of characters in each tier doesn't matter.** They're listed in realm order.
+**Keep in mind that the actual performance of a character will depend on the stage.**
 
-**Keep in mind that the actual performance of a character will depend on the stage.** A team can effortlessly cheese one boss, only to be hard countered by another. There are too many possible factors to take all of them into account, so this guide focuses on what characters can be relied on to clear an "average" wave with no gimmicks.
+**The order of characters in each tier doesn't matter.** They're listed in realm order.
 
 **There are no useless characters in this game.** With enough investment and patience, most stages can be beaten with anything. This tier list just tells you how much work it takes to make a character viable.
 
