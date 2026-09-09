@@ -57,6 +57,7 @@ class LinkedTeamAsset:
     label: str
     image: str
     url: str
+    realm_icon: str | None = None
 
 
 @dataclass(frozen=True)
@@ -351,7 +352,7 @@ def _linked_asset(
 ) -> LinkedTeamAsset:
     item = assets[category][content_id]
     image = item["icon"] if category == "covenants" else item["image"]
-    return LinkedTeamAsset(item["label"], image, item["url"])
+    return LinkedTeamAsset(item["label"], image, item["url"], item.get("realm_icon"))
 
 
 def resolve_team(spec: TeamSpec, assets: AssetCatalog) -> TeamView:

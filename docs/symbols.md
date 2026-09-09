@@ -9,6 +9,7 @@ my-symbol:
   label: Accessible name
   icon: /images/icons/effects/weakness.png
   description: Optional plain-text explanation shown on hover.
+  width: 18  # Optional fixed width in pixels
 ```
 
 Names use lowercase letters, numbers, underscores or hyphens and start with a
@@ -17,6 +18,10 @@ name for those icons. `label` and `icon` are required. `light_icon` optionally s
 image for light mode; with both images, `icon` is the dark-mode image. Paths must
 reference existing files under `lib/images/`. Descriptions are optional: omit
 them when no verified explanation is available.
+
+By default, icons match the surrounding text size, with their natural proportions.
+Use an optional positive integer `width` (pixels) when an icon needs a particular
+size; this applies to both theme variants. Omit it to use text-relative sizing.
 
 Unknown shortcuts produce an error naming the shortcut and suggesting a close
 match when possible. Existing emoji names remain valid. Use backticks when

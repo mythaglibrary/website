@@ -176,17 +176,28 @@
           </div>
         {% endif %}
 
-        {% if guide.works_well_with or guide.works_well_with_note %}
-          <div class="awakener-recommendation-group{% if not guide.works_well_with %} awakener-recommendation-group--note-only{% endif %}" id="works-well-with">
+        {% set anyone_note = (guide.works_well_with_note | default('', true) | trim | lower) == 'anyone' %}
+        {% set related_entries = guide.works_well_with | default([], true) %}
+        {% if anyone_note and 'anyone' not in related_entries %}
+          {% set related_entries = related_entries + ['anyone'] %}
+        {% endif %}
+        {% if related_entries or guide.works_well_with_note %}
+          <div class="awakener-recommendation-group{% if not related_entries %} awakener-recommendation-group--note-only{% endif %}" id="works-well-with">
             <div class="awakener-recommendation-label">
               <h2>Works Well With</h2>
-              {% if guide.works_well_with_note %}
+              {% if guide.works_well_with_note and not anyone_note %}
                 <p class="awakener-section-note">{{ prose(guide.works_well_with_note) }}</p>
               {% endif %}
             </div>
-            {% if guide.works_well_with %}
+            {% if related_entries %}
               <div class="awakener-recommendation-list">
-                {% for related in guide.works_well_with %}
+                {% for related in related_entries %}
+                  {% if related == "anyone" %}
+                  <figure>
+                    <img src="/images/emojis/anyone.png" alt="" loading="lazy">
+                    <figcaption>Anyone</figcaption>
+                  </figure>
+                  {% else %}
                   {% set related_asset = assets.awakeners[related] %}
                   <figure>
                     <a href="{{ related_asset.url }}">
@@ -194,6 +205,7 @@
                       <figcaption>{{ related_asset.label }}</figcaption>
                     </a>
                   </figure>
+                  {% endif %}
                 {% endfor %}
               </div>
             {% endif %}

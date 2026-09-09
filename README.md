@@ -57,7 +57,10 @@ Fields such as `builds`, `suggested_posses`, and `works_well_with` can be
 removed when a guide does not need those sections.
 
 The guide `title` must match its filename's label in `content/awakeners.yaml`.
-Use Awakener IDs from that same catalog in `works_well_with`.
+Use Awakener IDs from that same catalog in `works_well_with`. Add `anyone` to
+that list to show the Anyone emote alongside the named Awakeners. Existing
+`works_well_with_note: Anyone` entries also appear as emote cards automatically;
+other notes remain ordinary explanatory text.
 
 The shared Awakener layout is defined in
 `overrides/awakeners/awakener.html`, and its presentation is defined in

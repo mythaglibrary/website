@@ -656,6 +656,8 @@ def _validate_guide_references(
 ) -> None:
     for guide in guides:
         for content_id in guide.awakener.works_well_with:
+            if content_id == "anyone":
+                continue
             field = "awakener.works_well_with"
             if (
                 _catalog_label(

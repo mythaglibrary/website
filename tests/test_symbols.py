@@ -27,12 +27,16 @@ class SymbolsTests(unittest.TestCase):
         self.assertIn('<code>:unknown:</code>', result)
         self.assertIn('https://example.com/:unknown:', result)
         self.assertIn('<span title=":unknown:">:unknown:</span>', result)
+        self.path.write_text('custom: {label: Custom, icon: /images/icon.png, width: 18}\n', encoding='utf-8')
+        self.assertEqual(load_symbols(self.root)['custom']['width'], 18)
         with self.assertRaisesRegex(SymbolValidationError, 'unknown symbol :custm:.*custom'):
             self.render(':custm:')
 
     def test_invalid_registry_and_missing_assets(self):
         for source in (
             'custom: {}\n',
+            *[f'custom: {{label: Custom, icon: /images/icon.png, width: {width}}}\n'
+              for width in ('0', '-1', 'true', '12px', '1.5')],
             'heart: {label: Custom, icon: /images/icon.png}\n',
             'custom: {label: Custom, icon: /images/missing.png}\n',
             'custom: {}\ncustom: {}\n',

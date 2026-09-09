@@ -626,8 +626,13 @@
 
 /* Inline author-defined symbols share the site's theme-aware image handling. */
 .md-typeset .mythag-symbol img {
-  width: 12px;
-  height: auto;
+  width: auto;
+  height: 1em;
   margin: 0;
   vertical-align: -0.12em;
+}
+
+.md-typeset .mythag-symbol--sized img {
+  width: var(--mythag-symbol-width);
+  height: auto;
 }

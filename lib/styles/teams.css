@@ -145,7 +145,7 @@
   outline-offset: 0.25rem;
 }
 
-.mythag-team__awakener img {
+.mythag-team__awakener a > img {
   display: block;
   width: 100%;
   aspect-ratio: 168 / 250;
@@ -243,6 +243,23 @@
   display: none;
 }
 
+/* Keep the realm beside the name while allowing long names to wrap. */
+[dir] .md-typeset .mythag-team__awakener figcaption,
+.mythag-team__member-name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25em;
+}
+
+.md-typeset .mythag-team__realm-icon {
+  flex: 0 0 1em;
+  width: 1em;
+  height: 1em;
+  margin: 0;
+  object-fit: contain;
+}
+
 @media screen and (max-width: 44.984375em) {
   .mythag-team {
     --mythag-team-mobile-sample: 3.4rem;
@@ -301,11 +318,11 @@
     width: 100%;
   }
 
-  .mythag-team__awakener figcaption {
+  [dir] .md-typeset .mythag-team__awakener figcaption {
     display: none;
   }
 
-  .mythag-team__awakener img {
+  .mythag-team__awakener a > img {
     width: 100%;
     height: 100%;
     aspect-ratio: 1;
