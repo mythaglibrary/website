@@ -14,7 +14,7 @@ This is a quick guide to what characters are good in the Nightmare and Madness d
 
 These tier lists are not relevant to the vast majority of players. However, if you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
 
-**Keep in mind that the actual performance of a character will depend on the stage.** Especially in Madness difficulty, bosses will be cheesed by some teams while hard countering others. There are too many possible strategies of this kind to take into account, so this guide focuses on what characters can be relied on to clear an "average" wave with no gimmicks.
+**Keep in mind that the actual performance of a character will depend on the stage.** Especially in Madness difficulty, a team can effortlessly cheese one boss, only to be hard countered by another. There are too many possible factors to take all of them into account, so this guide focuses on what characters can be relied on to clear an "average" wave with no gimmicks.
 
 **Take these tier lists with a grain of salt.** The new D-tide difficulties have only just released. As balance changes happen and we get a better idea of what works, this guide will be updated accordingly.
 
