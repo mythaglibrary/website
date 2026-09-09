@@ -1,4 +1,5 @@
 # Inline shortcuts: add entries here without Python changes.
+# Icons follow the text size by default. Add width: 18 for a fixed pixel width.
 aliemus-regen:
   label: Aliemus Regen
   icon: /images/icons/stats/aliemus-regen.png

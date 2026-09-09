@@ -23,7 +23,7 @@ class SymbolValidationError(ValueError):
     """Invalid symbol definitions or an unknown authored shortcut."""
 
 
-def load_symbols(root: Path = ROOT) -> dict[str, dict[str, str]]:
+def load_symbols(root: Path = ROOT) -> dict[str, dict[str, str | int]]:
     path = root / "content" / "symbols.yaml"
     if not path.exists():
         return {}
@@ -39,11 +39,13 @@ def load_symbols(root: Path = ROOT) -> dict[str, dict[str, str]]:
             raise SymbolValidationError(f"{location}: expected a lowercase symbol name")
         if name in _emoji_names():
             raise SymbolValidationError(f"{location}: name is reserved by a built-in emoji; choose another symbol name")
-        if not isinstance(entry, dict) or set(entry) - {"label", "icon", "light_icon", "description"}:
-            raise SymbolValidationError(f"{location}: expected label, icon, optional light_icon and description")
+        if not isinstance(entry, dict) or set(entry) - {"label", "icon", "light_icon", "description", "width"}:
+            raise SymbolValidationError(f"{location}: expected label, icon, optional light_icon, description and width")
         for field in ("label", "icon", *[key for key in ("light_icon", "description") if key in entry]):
             if not isinstance(entry.get(field), str) or not entry[field].strip():
                 raise SymbolValidationError(f"{location}.{field}: expected a non-empty string")
+        if "width" in entry and (type(entry["width"]) is not int or entry["width"] <= 0):
+            raise SymbolValidationError(f"{location}.width: expected a positive integer pixel width")
         for field in ("icon", "light_icon"):
             if field not in entry:
                 continue
@@ -63,8 +65,11 @@ def _emoji_names() -> set[str]:
     return {name.strip(":") for key in ("emoji", "aliases") for name in index[key]}
 
 
-def _element(entry: dict[str, str]) -> ET.Element:
+def _element(entry: dict[str, str | int]) -> ET.Element:
     wrapper = ET.Element("span", {"class": "mythag-symbol"})
+    if "width" in entry:
+        wrapper.set("class", "mythag-symbol mythag-symbol--sized")
+        wrapper.set("style", f"--mythag-symbol-width: {entry['width']}px")
     if entry.get("description"):
         wrapper.set("title", entry["description"])
     for field in ("icon", "light_icon"):
@@ -74,13 +79,13 @@ def _element(entry: dict[str, str]) -> ET.Element:
         if "light_icon" in entry:
             source += "#only-dark" if field == "icon" else "#only-light"
         ET.SubElement(wrapper, "img", {
-            "src": source, "alt": entry["label"], "width": "12", "loading": "lazy",
+            "src": source, "alt": entry["label"], "loading": "lazy",
         })
     return wrapper
 
 
 class SymbolTreeprocessor(Treeprocessor):
-    def __init__(self, md: Markdown, registry: dict[str, dict[str, str]]):
+    def __init__(self, md: Markdown, registry: dict[str, dict[str, str | int]]):
         super().__init__(md)
         self.registry = registry
 

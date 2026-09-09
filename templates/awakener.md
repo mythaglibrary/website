@@ -36,7 +36,8 @@ awakener:
   suggested_posses_note: Optional note such as Any
   works_well_with:
     - other-awakener-id
-  works_well_with_note: Optional note such as Anyone
+    - anyone  # Optional Anyone emote in the same grid
+  works_well_with_note: Optional additional explanation
 ---
 
 Write the overview as ordinary Markdown here.
