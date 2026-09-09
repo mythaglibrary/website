@@ -22,6 +22,8 @@ For notes on D-tide Nightmare and Madness difficulty, you can check [Awakener Ti
 
 **The order of characters in each tier doesn't matter.** They're listed in realm order.
 
+**Keep in mind that the actual performance of a character will depend on the stage.** Bosses will be cheesed by some teams while hard countering others. There are too many possible strategies of this kind to take into account, so this guide focuses on what characters can be consistently relied on to clear an "average" wave with no gimmicks.
+
 **There are no useless characters in this game.** With enough investment and patience, most stages can be beaten with anything. This tier list just tells you how much work it takes to make a character viable.
 
 ## Newbie DPS Tier List

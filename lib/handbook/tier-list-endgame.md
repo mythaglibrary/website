@@ -10,11 +10,11 @@ icon: lucide/list-sort-descending
 
 # Awakener Tier Lists *(For Endgame)*
 
-This is a quick guide to what characters are viable in the Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for months, have spent money on the game, and have all characters, dupes, and SSR wheels required to make a team work.
+This is a quick guide to what characters are good in the Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for months, have spent money on the game, and have all characters, dupes, and SSR wheels required to make a team work.
 
 These tier lists are not relevant to the vast majority of players. However, if you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
 
-**These tier lists assumes you aren't cheesing the boss.** The best way to beat a Madness stage is to use some gimmick to circumvent the actual fight. There are too many possible strategies of this kind to take into account, so this guide only considers how a character would fare against an "average" stage with no gimmicks.
+**Keep in mind that the actual performance of a character will depend on the stage.** Especially in Madness difficulty, bosses will be cheesed by some teams while hard countering others. There are too many possible strategies of this kind to take into account, so this guide focuses on what characters can be consistently relied on to clear an "average" wave with no gimmicks.
 
 **Take these tier lists with a grain of salt.** The new D-tide difficulties have only just released. As balance changes happen and we get a better idea of what works, this guide will be updated accordingly.
 
@@ -24,7 +24,7 @@ For explanations of formatting, see [Awakener Tier Lists (For New Players)](/han
 
 ### A (High Madness Viable) {.tier .text-center style="background-color: var(--md-tier-a);"}
 
-These characters deal Max HP % damage or have very high damage scaling, allowing them to deal the massive amounts of damage needed to kill high Madness bosses.
+These characters deal Max HP % damage or have very high damage scaling, allowing them to consistently deal the massive amounts of damage needed to kill high Madness bosses.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -56,9 +56,14 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
 
 ### B (Low Madness Viable) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-Given enough investment and support, these characters can reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may be viable into high Madness stages if they have a favorable matchup or you use Emergency Gnoses/Turn Rewind.
+Given enough investment and support, these characters can consistently reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
 <div class="grid-96" markdown>
+<div class="item" markdown style="background-color: var(--md-tier-free);">
+  [![Aurita](/images/awakeners/aequor/aurita--mini.png){loading=lazy}](/handbook/awakeners/aurita)
+
+  Aurita (AA)
+</div>
 <div class="item" markdown>
   [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png){loading=lazy}](/handbook/awakeners/kathigu-ra)
 
@@ -75,6 +80,11 @@ Given enough investment and support, these characters can reach the ~10 million 
   GLotan (AA)
 </div>
 <div class="item" markdown>
+  [![Corposant](/images/awakeners/aequor/corposant--mini.png){loading=lazy}](/handbook/awakeners/corposant)
+
+  Corposant (AA)
+</div>
+<div class="item" markdown>
   [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png){loading=lazy}](/handbook/awakeners/gmurphy)
 
   GMurphy (OE)
@@ -85,6 +95,11 @@ Given enough investment and support, these characters can reach the ~10 million 
   GHelot (E3)
 </div>
 <div class="item" markdown>
+  [![Sorel](/images/awakeners/caro/sorel--mini.png){loading=lazy}](/handbook/awakeners/sorel)
+
+  Sorel
+</div>
+<div class="item" markdown>
   [![Pollux](/images/awakeners/ultra/pollux--mini.png){loading=lazy}](/handbook/awakeners/pollux)
 
   Pollux (OE)
@@ -93,14 +108,9 @@ Given enough investment and support, these characters can reach the ~10 million 
 
 ### C (Nightmare Viable) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
-Given enough investment and support, these characters can reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They may be viable into higher difficulties if they have a favorable matchup or you use Emergency Gnoses/Turn Rewind.
+Given enough investment and support, these characters can consistently reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
 <div class="grid-96" markdown>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Aurita](/images/awakeners/aequor/aurita--mini.png){loading=lazy}](/handbook/awakeners/aurita)
-
-  Aurita (AA)
-</div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
   [![Alva](/images/awakeners/chaos/alva--mini.png){loading=lazy}](/handbook/awakeners/alva)
 
@@ -117,19 +127,19 @@ Given enough investment and support, these characters can reach the ~5 million d
   Helot (AA)
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
+  [![Uvhash](/images/awakeners/caro/uvhash--mini.png){loading=lazy}](/handbook/awakeners/uvhash)
+
+  Uvhash (AA)
+</div>
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
   [![Jenkin](/images/awakeners/ultra/jenkin--mini.png){loading=lazy}](/handbook/awakeners/jenkin)
 
   Jenkin (AA)
 </div>
-<div class="item" markdown>
-  [![Corposant](/images/awakeners/aequor/corposant--mini.png){loading=lazy}](/handbook/awakeners/corposant)
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
+  [![Liz](/images/awakeners/ultra/liz--mini.png){loading=lazy}](/handbook/awakeners/liz)
 
-  Corposant (AA)
-</div>
-<div class="item" markdown>
-  [![Sorel](/images/awakeners/caro/sorel--mini.png){loading=lazy}](/handbook/awakeners/sorel)
-
-  Sorel
+  Liz (AA)
 </div>
 <div class="item" markdown>
   [![Daffodil](/images/awakeners/ultra/daffodil--mini.png){loading=lazy}](/handbook/awakeners/daffodil)
@@ -330,6 +340,11 @@ In specific teams, this character might be useful enough to run in high-difficul
   [![Lily](/images/awakeners/chaos/lily--mini.png){loading=lazy}](/handbook/awakeners/lily)
 
   Lily (E3)
+</div>
+<div class="item" markdown>
+  [![Hameln](/images/awakeners/chaos/hameln--mini.png){loading=lazy}](/handbook/awakeners/hameln)
+
+  Hameln
 </div>
 <div class="item" markdown>
   [![Mouchette](/images/awakeners/chaos/mouchette--mini.png){loading=lazy}](/handbook/awakeners/mouchette)
