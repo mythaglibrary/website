@@ -14,7 +14,7 @@ This is a quick guide to what characters are good in the Nightmare and Madness d
 
 These tier lists are not relevant to the vast majority of players. However, if you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
 
-**Keep in mind that the actual performance of a character will depend on the stage.** Especially in Madness difficulty, bosses will be cheesed by some teams while hard countering others. There are too many possible strategies of this kind to take into account, so this guide focuses on what characters can be consistently relied on to clear an "average" wave with no gimmicks.
+**Keep in mind that the actual performance of a character will depend on the stage.** Especially in Madness difficulty, bosses will be cheesed by some teams while hard countering others. There are too many possible strategies of this kind to take into account, so this guide focuses on what characters can be relied on to clear an "average" wave with no gimmicks.
 
 **Take these tier lists with a grain of salt.** The new D-tide difficulties have only just released. As balance changes happen and we get a better idea of what works, this guide will be updated accordingly.
 
@@ -56,7 +56,7 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
 
 ### B (Low Madness Viable) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-Given enough investment and support, these characters can consistently reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
+Given enough investment and support, these characters can reliably reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
@@ -108,7 +108,7 @@ Given enough investment and support, these characters can consistently reach the
 
 ### C (Nightmare Viable) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
-Given enough investment and support, these characters can consistently reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
+Given enough investment and support, these characters can reliably reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
@@ -286,6 +286,11 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
 In specific teams, this character might be useful enough to run in high-difficulty stages instead of a more universally useful support.
 
 <div class="grid-96" markdown>
+<div class="item" markdown style="background-color: var(--md-tier-free);">
+  [![Doll](/images/awakeners/chaos/doll--mini.png){loading=lazy}](/handbook/awakeners/doll)
+
+  Doll (AA)
+</div>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
   [![Ogier](/images/awakeners/chaos/ogier--mini.png){loading=lazy}](/handbook/awakeners/ogier)
 

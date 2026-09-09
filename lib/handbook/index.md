@@ -39,7 +39,7 @@ This guide is aimed at new players who are just starting the game. You can use i
 
 This info is based on my experience as a veteran player and speedrunner, as well as the opinions of top players in the EN community. No advice is perfect, however I have tried to make this guide as unbiased and complete as possible.
 
-Thanks to the following players for their feedback: Al, Alice, Angbak, Anna, Arandomflamev2, Aria, Arintal, Arisu, Aurora, Bagels, Blecnes, Bluelien, Calliphora, Catato, cornonthemacabre, dracozion, dudu, Ellie, Exo, Fibrinogen, fish, Frosthief, John Morimens, Jolly, Juice, juno, Jynn, Kaly, Klips, L, Lens, Lil poison bro, Linasera, Megidola, Melwyn, Mengluo, Mika, monchi, Null, PolkaRain, ppep, Rascal, Redz, Reya, smile, Snorlax, Soma, Spooky, Tea, VxVendetta, Zekiel, Zyocuh.
+Thanks to the following players for their feedback: Al, Alice, Angbak, Anna, Arandomflamev2, Aria, Arintal, Arisu, Aurora, Bagels, Blecnes, Bluelien, Calliphora, Catato, cornonthemacabre, dracozion, dudu, Ellie, Exo, Fibrinogen, fish, Frosthief, John Morimens, Jolly, Juice, juno, Jynn, Kaly, Klips, L, Lens, Lil poison bro, Linasera, Megidola, Melwyn, Mengluo, Mika, monchi, Null, PolkaRain, ppep, Rascal, Redz, Reya, Selna, smile, Snorlax, Soma, Spooky, Tea, VxVendetta, Zekiel, Zyocuh.
 
 Thanks to Sor and Fjant for building the web version of the guide.
 

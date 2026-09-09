@@ -37,7 +37,7 @@ awakener:
     - name: Example Build (Mono Chaos Tank)
       covenants:
         - cursed-rabbit
-        - burial-grounds-sighs
+        - unstained-chronicle
       covenants_note: (Any support)
       wheels:
         early_game:
@@ -46,7 +46,7 @@ awakener:
           - id: aged
             note: (Any support)
         astral_reign:
-          - id: happy-magic-show
+          - id: memory-spiral
             note: (Any RM)
           - id: data-is-flesh
             note: (Any RM)

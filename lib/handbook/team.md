@@ -690,16 +690,19 @@ Works great with the SSR wheel [Amidst the Downpour](https://skeydb.com/database
 <div class="grid cards" markdown>
   <span class="grid-1/1/1">
     <span>**Source** <br /> Verboten Covenant <br /> *(Faded Legacy Ch. 5)*</span>
-    <span>**Used by** <br /> Supports with high CON</span>
+    <span>**Used by** <br /> 
+[Doll](/handbook/awakeners/doll/) or supports with high CON</span>
     <span style="padding: 0 4px; background-color: var(--md-highlight-yes)">**Team Unique?** <br /> Yes</span>
   </span>
 </div>
 
-Heals for a very tiny amount when you use your posse.
+Heals for a tiny amount when you use your posse.
 
-:skey: Keyflare Regen is a good 3-piece set bonus, but it's hard to imagine a scenario where the healing from this covenant matters.
+:skey: Keyflare Regen is a good 3-piece set bonus, but the healing from ths covenant set is so insignificant that it's rarely worth the slot.
 
-Maybe if a character with 500 CON is released, this will be good.
+[Doll](/handbook/awakeners/doll/) is the best user of this covenant set, because the heal triggers the shield from her rouse, effectively generating 150+ shield per turn in a Mono Chaos team.
+
+If you have a really stacked [Xu](/handbook/awakeners/xu/), this covenant set might be worth it on her as well.
 
 #### Returnal Line
 
