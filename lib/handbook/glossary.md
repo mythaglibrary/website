@@ -113,7 +113,7 @@ An awakener who "carries" their team over the finish line. Without them, the tea
 
 ### Character jail
 
-Pulling on the standard Realms Research banner to get +12 awakeners and fish for limited awakeners.
+Pulling on the standard Realm Study banner to get +12 awakeners and fish for limited awakeners.
 
 ### Cheese
 
@@ -553,7 +553,7 @@ Thousand Faces Seal (material used for upgrading and transcribing covenants).
 
 ### Standard
 
-The Realms Research and Wheels of Rotation banners are the "standard" banners, which are always available. A standard character or wheel is one that you get by pulling on these banners. (Not including the limited characters and wheels that have a very rare chance of dropping instead.)
+The Realm Study and Wheels of Rotation banners are the "standard" banners, which are always available. A standard character or wheel is one that you get by pulling on these banners. (Not including the limited characters and wheels that have a very rare chance of dropping instead.)
 
 ### Stat stick/_ stick
 

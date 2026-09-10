@@ -205,9 +205,9 @@ Once you hit a recommended stopping point for any of the selected characters, th
 
 ![](/images/icons/cores/pure.png){width="128" loading=lazy}
 
-![](/images/handbook/resources/realms-research.png){width="384" loading=lazy}
+![](/images/handbook/resources/realm-study.png){width="384" loading=lazy}
 
-**Use your Pure Cores to pull on all the realms in Realms Research and get lots of characters to build teams with.**
+**Use your Pure Cores to pull on all the realms in Realm Study and get lots of characters to build teams with.**
 
 You need at least 2 characters from each realm to complete Lightless Realm and event achievements. You also need 5 teams if you don't want to miss seasonal rewards from [D-Effect Zone](/handbook/d-zone) (for a total of 19 characters + 1 borrowed support).
 
