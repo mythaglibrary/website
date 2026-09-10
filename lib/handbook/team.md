@@ -15,7 +15,7 @@ icon: lucide/blocks
     1. Pick a character as your **main DPS**.
     2. Add 3 **supports**.
     3. Make sure you have :weak: **weakness** and :vuln: **vulnerable**.
-    4. If you finished Faded Legacy Ch. 7, one support should be a **keyflare bot** holding the covenant [Life Drain](#life-drain) and two :skey: Keyflare Regen wheels.
+    4. If you finished Faded Legacy Ch. 7, one support should be a **keyflare bot** holding the covenant [Life Drain](#life-drain) and two Keyflare Regen wheels.
 
 ## The Purpose of a Team
 
@@ -183,7 +183,7 @@ When building a poison team, consider which characters will apply poison and whi
 
 A poison team is usually also a stall team, but it can be faster depending on the characters you use. A team with [Liz](/handbook/awakeners/liz/) and [Xu](/handbook/awakeners/xu/) can apply tons of poison and trigger it right away, killing as fast as a hypercarry team.
 
-Poison teams are not very effective in the Madness difficulty of D-Effect Zone and Hectic Skybound Rail because of the [Astral Reign](/handbook/storylines) poison cap. If you're a new player, this doesn't affect you much. Just keep in mind that you will need to build other teams if you plan on doing the hardest of hard content currently in Morimens.
+Poison teams are not very effective in the Madness difficulty of D-Effect Zone and Hectic Skybound Rail because of the [Astral Reign](/handbook/storylines) poison cap. If you're a new player, this doesn't affect you much. Just keep in mind that you'll need to build more than one team for endgame (which you should be doing anyway).
 
 **Poison teams need to rouse everyone in [Astral Reign](/handbook/storylines).** This is because [Prismatic Lens](/handbook/storylines/#prismatic-lens) makes poison tick faster each turn for each roused character in the team.
 
@@ -218,7 +218,7 @@ members:
     role: Support
     note: Keyflare, aliemus, weakness
     covenant: life-drain
-    wheels: [merciful-nurturing, emerge]
+    wheels: [merciful-nurturing, frenzy]
 ```
 
 **A niche strategy for specific fights.**
@@ -227,7 +227,7 @@ Counter teams are about stacking so much counter that enemies die when they atta
 
 The effectiveness of counter varies depending on the stage. It's amazing when enemies do a lot of multihit attacks. It's awful against enemies that attack in big single hits, or against attacks that don't trigger counter (such as poison, bleed, or tentacles).
 
-A good counter team has a plan B for when the enemies don't trigger counter. The example team can use [Wanda](/handbook/awakeners/wanda/) to trigger counter extra times or convert counter directly into damage. It can also use [Arachne](/handbook/awakeners/arachne/)'s Final Verdict as an alternate source of damage.
+A good counter team has a plan B for when the enemies don't trigger counter. The example team can use [Wanda](/handbook/awakeners/wanda/) to trigger counter extra times or convert counter directly into damage. It can also use [Arachne](/handbook/awakeners/arachne/)'s Final Verdict as an alternate win condition.
 
 **If you rely on permanent counter, you need to rouse everyone in [Astral Reign](/handbook/storylines).** This is because [Prismatic Lens](/handbook/storylines/#prismatic-lens) gives you bonus temporary counter each turn for each roused character in the team.
 
@@ -244,7 +244,7 @@ A good counter team has a plan B for when the enemies don't trigger counter. The
 
 **Keyflare** :keyflare-regen: **is the best resource in the game.** Your posse is very powerful and having a lot of keyflare lets you use it every turn. Keyflare is even more important in [Astral Reign](/handbook/storylines#astral-reign-arc-2), as you need it to [Keyflare Rouse](/handbook/storylines#keyflare-rouse).
 
-**This is what your keyflare bot is for.** The job of a keyflare bot is to hold the covenant [Life Drain](#life-drain) (unlocked after completing Faded Legacy Chapter 7) and as much :skey: Keyflare Regen as possible. This will give you keyflare at the end of each turn and whenever you play their cards.
+**This is what your keyflare bot is for.** The job of a keyflare bot is to hold the covenant [Life Drain](#life-drain) (unlocked after completing Faded Legacy Chapter 7) and as much Keyflare Regen as possible. This will give you keyflare at the end of each turn and whenever you play their cards.
 
 The moment you unlock [Life Drain](#life-drain), you should be putting it on every team. There are only a few reasons not to do this:
 
@@ -281,7 +281,7 @@ Teams that don't want weakness or vulnerable are rare:
 
 - [Mouchette](/handbook/awakeners/mouchette/) prefers to trigger death resistance rather than mitigate damage, so her teams don't need weakness.
 - [GLotan](/handbook/awakeners/glotan/)'s exalt gets stronger when there's more incoming damage, so inflicting weakness makes her weaker as well.
-- Fixed poison and counter aren't affected by vulnerable, so characters like [Faros](/handbook/awakeners/faros/) that deal damage mainly through status effects benefit less from it.
+- Fixed DMG and fixed poison and counter aren't affected by vulnerable, so characters like [Pontos](/handbook/awakeners/pontos/) that deal damage through these effects benefit less from it.
 
 **If all else fails, you can run the [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} posse**, and cry yourself to sleep dreaming of all the other posses you could use if only you had weakness and vulnerable on your team.
 
@@ -333,7 +333,7 @@ Aequor gives you a free shield every turn from Tranquil Sea stance, which adds u
 
 You get a lot of free healing by using Crimson Furnace. Embryos let you exalt more often and crit more often. You even get shields and temporary STR when you Devour and trigger the Caro Realm Mastery effect.
 
-**A well-rounded realm for both newbies and veterans.** Adding [Aigis](/handbook/awakeners/aigis/) and mixing in Caro is the easiest way for new players to make a good team.
+**Caro is a well-rounded realm for both newbies and veterans.** Adding [Aigis](/handbook/awakeners/aigis/) and mixing in Caro is the easiest way for new players to make a good team.
 
 **Remember that you need to build more keyflare.** The [Life Drain](#life-drain) covenant provides embryo fusion instead of keyflare, so your [keyflare bot](#the-almighty-keyflare-bot) will be less effective.
 
@@ -698,7 +698,7 @@ Works great with the SSR wheel [Amidst the Downpour](https://skeydb.com/database
 
 Heals for a tiny amount when you use your posse.
 
-:skey: Keyflare Regen is a good 3-piece set bonus, but the healing from ths covenant set is so insignificant that it's rarely worth the slot.
+Keyflare Regen is a good 3-piece set bonus, but the healing from ths covenant set is so insignificant that it's rarely worth the slot.
 
 [Doll](/handbook/awakeners/doll/) is the best user of this covenant set, because the heal triggers the shield from her rouse, effectively generating 150+ shield per turn in a Mono Chaos team.
 

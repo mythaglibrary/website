@@ -150,7 +150,7 @@ My advice: **Pick whoever you think is cool.**
 
 You get standard pulls like water in this game, and you get standard characters when you miss on a limited banner, so you are going to own all of these characters eventually.
 
-All of these characters are viable in story mode, event stages, and Hard stages; in other words, 99% of the gameplay content that exists in Morimens. ([Pandia](/handbook/awakeners/pandia/), [Uvhash](/handbook/awakeners/uvhash/), and [Liz](/handbook/awakeners/liz/) are relatively more demanding to make work, but they are still viable up to Hard stages.)
+All of these characters are viable in story mode, event stages, and Hard stages; in other words, 99% of the gameplay content that exists in Morimens. ([Pandia](/handbook/awakeners/pandia/), [Uvhash](/handbook/awakeners/uvhash/), and [Liz](/handbook/awakeners/liz/) are relatively more demanding to make work, but they are still viable.)
 
 You will probably have more fun doing the story mode with a character you like, rather than a character who is stronger but you don't care much about.
 
@@ -162,7 +162,7 @@ If you *only* care about meta, you can go to the [official Discord](https://disc
 
 Keeper level (account level) is the most valuable stat in this game. Everything else can be fixed with money or patience, but you can't raise your keeper level unless you stick to one account for a long time.
 
-If you feel stuck, remember that Morimens is a strategy game. Trying out different teams and strategies will a be much more effective use of your time than rerolling.
+If you feel stuck, remember that Morimens is a strategy game. Trying out different teams and strategies will be a much more effective use of your time than rerolling.
 
 If you feel like you wasted your pulls, you should know that Morimens is one of the most generous gacha games in existence. Even a free-to-play player earns enough pulls to get a character to E3 every other patch.
 
@@ -174,7 +174,7 @@ If you regret your investment decisions, you can wait for the developers to give
 
 ## What Banner Should I Pull?
 
-### Luminous and Ethereal Cores (Limited Pulls)
+### Luminous and Ethereal Cores *(Limited Pulls)*
 
 ![](/images/icons/cores/luminous.png){width="128" loading=lazy}
 ![](/images/icons/cores/ethereal.png){width="128" loading=lazy}
@@ -195,13 +195,13 @@ The Moonless Guide banner lets you select 4 limited characters from the first ye
 
 - [Thais](/handbook/awakeners/thais/) and [Horla](/handbook/awakeners/horla/) are very powerful and highly recommended for new players.
 - [Lily](/handbook/awakeners/lily/), [Ryker](/handbook/awakeners/ryker/), [Tawil](/handbook/awakeners/tawil/), [Miryam](/handbook/awakeners/miryam/), [Murphy](/handbook/awakeners/murphy/), [GHelot](/handbook/awakeners/ghelot/), and [Salvador](/handbook/awakeners/salvador/) are strong and solid choices.
-- ["24"](/handbook/awakeners/24/) is weak for new players but quite good in endgame content. She can be considered as an investment if you like her.
+- ["24"](/handbook/awakeners/24/) is weak for new players but quite good in endgame content. She can be considered as a long-term investment.
 - [Hameln](/handbook/awakeners/hameln/), [Tulu](/handbook/awakeners/tulu/), and [Daffodil](/handbook/awakeners/daffodil/) are niche and not especially powerful.
 - [Sorel](/handbook/awakeners/sorel/) and [Wanda](/handbook/awakeners/wanda/) are not recommended for new players unless you really like them.
 
 Once you hit a recommended stopping point for any of the selected characters, this banner is no longer worth pulling on because of the risk of getting useless dupes, and you should spend your pulls on the dedicated rate-up banners instead.
 
-### Pure Cores (Standard Pulls)
+### Pure Cores *(Standard Pulls)*
 
 ![](/images/icons/cores/pure.png){width="128" loading=lazy}
 
@@ -234,7 +234,7 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
 - Go to "wheel jail" and try to get a wheel to +12. You can equip two SSR wheels at once if one of them is at +12. [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners/goliath/)'s SSR wheel) is a good candidate for this.
 - Unlock [Gnostic Potential](#gnostic-potential) for your standard characters.
 
-## Spending Menophin (Stamina)
+## Spending Menophin *(Stamina)*
 
 ### Events
 
@@ -268,7 +268,7 @@ Sometimes you're unlucky and can't get a specific resource you need from events.
 
 **When you unlock covenants at Keeper Level 25, spend some menophin to outfit your characters.** Event stages never give covenants. The only way to get certain covenants, like [Burial Ground's Sighs](/handbook/team#burial-grounds-sighs) or [Life Drain](/handbook/team#life-drain), is to spend menophin doing Verboten Covenant interludes.
 
-**Don't worry about substats or binding as a new player.** Grinding covenants is incredibly expensive and best left for endgame when you have nothing else to spend Rose Scrip on. For now, focus on getting a 6-piece set with the correct main stats for each covenant set you plan to use.
+**Don't worry about substats or covenant binding as a new player.** Grinding covenants is incredibly expensive and best left for endgame when you have nothing else to spend Rose Scrip on. For now, focus on getting a 6-piece set with the correct main stats for each covenant set you plan to use.
 
 The [Awakener Guides](/handbook/awakeners/) section suggests covenants for each character. The [Building Covenants](/handbook/team#building-covenants) section suggests main stats and substats to aim for.
 

@@ -345,7 +345,15 @@ To land the killing blow on an enemy.
 
 [Amidst the Downpour](https://skeydb.com/database/wheels/amidst-the-downpour){target="_blank"} ([Faros](/handbook/awakeners/faros/)'s SSR wheel).
 
+### Limited
+
+A limited banner is a banner that runs for a limited time before going away. A limited character or wheel is one that you get from these banners.
+
 ## M
+
+### Main stat
+
+The primary stat given by a wheel or covenant piece, which increases in magnitude as you increase its level, up to +12.
 
 ### Mana
 
@@ -469,6 +477,10 @@ Can refer to either Gnosis Primer (material used for leveling up a character bey
 
 ## R
 
+### R rarity
+
+The lowest rarity of wheels, referring to the brown ones you get from random pulls.
+
 ### Racism
 
 Tongue-in-cheek term for when a character is stronger against specific enemies. For example, [Corposant](/handbook/awakeners/corposant/) is infamously "racist" against Aequor enemies in [Astral Reign](/handbook/storylines#astral-reign-arc-2) because her soulforge talent makes her deal more damage to them.
@@ -523,6 +535,14 @@ See ["Keyflare bot."](#keyflare-bot)
 
 Using the same ability or card over and over again.
 
+### SR rarity
+
+The SR characters are the 4 starting awakeners from the Prologue ([Ramona](/handbook/awakeners/ramona/), [Lotan](/handbook/awakeners/lotan/), [Ogier](/handbook/awakeners/ogier/), and [Doll](/handbook/awakeners/doll/)). The SR wheels are the silver ones you get roughly every 5 pulls.
+
+### SSR rarity
+
+All awakeners in the game, other than the 4 starting awakeners from the Prologue ([Ramona](/handbook/awakeners/ramona/), [Lotan](/handbook/awakeners/lotan/), [Ogier](/handbook/awakeners/ogier/), and [Doll](/handbook/awakeners/doll/)), are considered SSR rarity. The SSR wheels are the full-color ones that are advertised on the banner.
+
 ### [Stall/Stalling](/handbook/team#stall)
 
 A strategy that focuses on surviving rather than dealing damage.
@@ -531,6 +551,10 @@ A strategy that focuses on surviving rather than dealing damage.
 
 Thousand Faces Seal (material used for upgrading and transcribing covenants).
 
+### Standard
+
+The Realms Research and Wheels of Rotation banners are the "standard" banners, which are always available. A standard character or wheel is one that you get by pulling on these banners. (Not including the limited characters and wheels that have a very rare chance of dropping instead.)
+
 ### Stat stick/_ stick
 
 Refers to awakeners or wheels that are used because of their high basic attributes rather than their actual abilities. For example: "Even if you don't care about the effect of [Path Forsaken](https://skeydb.com/database/wheels/path-forsaken){target="_blank"}, you can still use it as a Crit Rate stick."
@@ -538,6 +562,10 @@ Refers to awakeners or wheels that are used because of their high basic attribut
 ### Sub DPS
 
 A secondary damage dealer in addition to the main DPS.
+
+### Substat
+
+One of the randomized stats that covenants have in addition to the main stat, unlocked at Keeper Level 35, which you can spend Thousand Faces Seals to reroll.
 
 ### Support
 
