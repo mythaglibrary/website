@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 10 September 2026 (V2.6.0.4 - New D-tide Nerf)
+    Last updated 11 September 2026 (V2.6.0.4 - New D-tide Nerf)
 
 !!! info ""
 
@@ -54,6 +54,7 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [SKeyDB](https://skeydb.com){target="_blank"} - comprehensive awakener reference and online tools
 - [Mother Tree](https://mothertree.vercel.app/){target="_blank"} - awakener database with searchable tags and stat calculators
 - [Mythag Compendium](https://docs.google.com/spreadsheets/d/1TCU7LJRzqKeuvLe97y_TfGZ-j6jq5bZX6hskAAJ2mFQ/){target="_blank"} - spreadsheet with wheels, posses, and builds
+- [Eremora](https://eremora.com){target="_blank"} - profile viewer that shows UID of support awakeners used in clears
 - [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
 - [Morimens Game Mechanics](https://docs.google.com/presentation/d/1pnheXD_pkjz8YGmWWlQPnw4eXr6NRm-W6267c0K1_QU/){target="_blank"}
 - [Morimens Banner History and other stuff](https://docs.google.com/spreadsheets/d/1gRDzdVHGfCC4qjt5aZYKuU9FWEfWdqREztNGeiczmRk/){target="_blank"}

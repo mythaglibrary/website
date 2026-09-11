@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **11 Sep 2026** | Added eremora.com to the links. |
 | **10 Sep 2026** | Added "standard," "limited," "main stat," "substat," "R," "SR," and "SSR" to the Glossary. Changed all references to "Realms Research" to "Realm Study" since they changed the translation for the 4th time in a row now. Fixed some miscellaneous wording. Edited the example counter team.<br/><br/>Fjant updated the site formatting and improved inline image displays. |
 | **9 Sep 2026** | Reworked the endgame tier list since many characters have been shown to be more viable than previously thought. Updated Doll healer build and Unstained Chronicle writeup due to Selna's (successful) propaganda. |
 | **8 Sep 2026** | Edited Discord link on front page. Added GRamona and AA Jenkin as C tier DPS (endgame) and AA Doresain as A tier support (endgame). Moved AA Mouchette and AA GLotan up to B tier DPS (endgame). Edited Spending Your Resources to clarify that some standard units are no longer viable in "endgame" since endgame has changed. Mentioned in How to Build a Team that poison is bad in Madness difficulty. Made a few other wording edits. |
