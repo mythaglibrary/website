@@ -19,7 +19,7 @@ awakener:
       - tier: B
         note: Role Player
   stopping_points:
-    - 'E1, E3'
+    - 'E1, E3, OE, AA'
   builds:
     - name: Example Build (Keyflare Support)
       covenants:
