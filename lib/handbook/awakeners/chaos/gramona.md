@@ -57,7 +57,7 @@ Firstly, she can search your Draw Pile for any card with **Sight Unbound**. This
 
 Secondly, she can use her exalt to bring back the last 3 cards you played the turn before. You can use this simply as a kind of card draw, but if you plan ahead and set it up, you can assemble powerful combo turns with characters like [Mouchette](/handbook/awakeners/mouchette/).
 
-Thirdly, she can temporarily replace your posse with any other posse you've unlocked. This is one of the most versatile abilities in the game. For example, you can get [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} for weakness and vulnerable on demand. You can also use it for aliemus, shielding, arithmetica, card draw, Crit Rate buffs, and more.
+Thirdly, at E3, she can temporarily replace your posse with any other posse you've unlocked. This is one of the most versatile abilities in the game. For example, you can get [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} for weakness and vulnerable on demand. You can also use it for aliemus, shielding, arithmetica, card draw, Crit Rate buffs, and more.
 
 ### DPS Build
 
