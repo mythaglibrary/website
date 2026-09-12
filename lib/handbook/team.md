@@ -411,7 +411,7 @@ When building your DPS, keep in mind which of their skills are actually doing da
 
 - Those with high Base DMG multipliers, like [GHelot](/handbook/awakeners/ghelot/) or [Kathigu-Ra](/handbook/awakeners/kathigu-ra/)
 - Those that mainly generate fixed poison or counter, like [Nymphaea](/handbook/awakeners/nymphaea/) or [Faros](/handbook/awakeners/faros/)
-- Those that rely on unique effects scaling with DMG amp, like [Castor](/handbook/awakeners/castor/) or [Arachne](/handbook/awakeners/arachne/)
+- Those that rely on unique effects scaling with DMG amplification, like [Castor](/handbook/awakeners/castor/) or [Arachne](/handbook/awakeners/arachne/)
 
 For DPS that simply have high Base DMG, building crit is usually a higher priority than DMG amplification, but they can make good use of incidental DMG amplification from relics and substats. They also benefit from effects that boost Base DMG, such as the wheel [Hand of Oblivion](https://skeydb.com/database/wheels/hand-of-oblivion){target="_blank"}.
 
@@ -425,7 +425,7 @@ For DPS that simply have high Base DMG, building crit is usually a higher priori
 
 #### Other Considerations
 
-Some characters scale with stats other than crit or :dmg-amp: DMG Amplification. For example, [Mouchette](/handbook/awakeners/mouchette/)'s E1 gives her a lot of crit from :dr: Death Resistance. This means building death resistance on Mouchette is as good as building crit on her.
+Some characters scale with stats other than crit or DMG amplification. For example, [Mouchette](/handbook/awakeners/mouchette/)'s E1 gives her a lot of crit from :dr: Death Resistance. This means building death resistance on Mouchette is as good as building crit on her.
 
 Specific characters may have other needs as well. Some might want the wheel [Will Unyielding](https://skeydb.com/database/wheels/will-unyielding){target="_blank"} to get more strikes and defenses. Others might want the covenant [Dream of Medicine](#dream-of-medicine) to have more copies of a key card.
 
@@ -698,7 +698,7 @@ Works great with the SSR wheel [Amidst the Downpour](https://skeydb.com/database
 
 Heals for a tiny amount when you use your posse.
 
-Keyflare Regen is a good 3-piece set bonus, but the healing from ths covenant set is so insignificant that it's rarely worth the slot.
+Keyflare Regen is a good 3-piece set bonus, but the healing from this covenant set is so insignificant that it's rarely worth the slot.
 
 [Doll](/handbook/awakeners/doll/) is the best user of this covenant set, because the heal triggers the shield from her rouse, effectively generating 150+ shield per turn in a Mono Chaos team.
 
