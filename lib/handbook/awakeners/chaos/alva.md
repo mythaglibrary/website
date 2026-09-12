@@ -51,6 +51,7 @@ awakener:
           - id: blade-of-the-titan
   suggested_posses:
     - id: the-lone-seed
+    - id: auritas-treasure
     - id: the-mountains-resolve
   works_well_with:
     - saya
