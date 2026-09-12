@@ -45,8 +45,20 @@ awakener:
     - ryker
 ---
 
-A utility support who draws cards, copies card effects, and gives you 2 extra arithmetica every turn when roused.
+Hameln is a support who generates arithmetica and cards. When roused, he gives you extra 2 arithmetica per turn. He also makes a lot of Insights with Memory Rondo. He works well as a [keyflare bot](/handbook/team#the-almighty-keyflare-bot) since you can spend arithmetica on Memory Rondo, and refund it with the Insights generated.
 
-He can set up near-infinite combo turns in [Faded Legacy](/handbook/storylines#faded-legacy-arc-1), but falls off in [Astral Reign](/handbook/storylines#astral-reign-arc-2) because of the soft cap on cards played per turn.
+Hameln's exalt can apply Rondino to command cards to double-play them. This lets you get huge value out of Memory Rondo or other cards like [GLotan](/handbook/awakeners/glotan/)'s Long Blade: Perish. At E2, it also gives an arithmetica discount.
 
-Works best with teammates that want to combo off and play a lot of cards.
+Soul Overture inflicts random debuffs on enemies, which can inflict weakness and vulnerable if you're lucky (or reset over and over/abuse Turn Rewind).
+
+Hameln is fairly powerful in [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages, as he can set up near-infinite combo turns by refreshing your arithmetica and cards. He falls off in [Astral Reign](/handbook/storylines#astral-reign-arc-2) because [Arithmetica Harmony](/handbook/storylines#arithmetica-harmony) limits the number of cards you can play each turn.
+
+### Teambuilding
+
+Hameln is mainly used for setting up DPS who want to play a lot of cards in one turn, like [Tawil](/handbook/awakeners/tawil/) and [GLotan](/handbook/awakeners/glotan/).
+
+## How to Play
+
+Play Memory Rondo to get Insights. Use Hameln's exalt to copy good cards.
+
+If you expect the fight to go long, you can rouse Hameln for more arithmetica per turn.
