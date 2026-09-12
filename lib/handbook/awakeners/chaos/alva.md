@@ -59,20 +59,20 @@ awakener:
     - helot
 ---
 
-Alva is a support who is mainly used for her exalt and **Combat Stance**. She can unseal your awakeners and get rid of symptoms clogging your hand, which makes her useful into many boss fights. She also provides a decent shield and a reliable source of vulnerable with her exalt.
+Alva is a support who is mainly used for her exalt and Combat Stance. She can unseal your awakeners and get rid of symptoms clogging your hand, which makes her useful into many boss fights. She also provides a decent shield and a reliable source of vulnerable with her exalt.
 
-Alva's **Precision Slash** has a high damage ceiling. At E3, this makes her a viable DPS. With the right build, she can hit for upwards of 50K damage per **Precision Slash**.
-
-![](/images/handbook/awakeners/alva-precision-slash.png){width="100%" loading=lazy}
+Alva's Precision Slash has a high damage ceiling. At E3, this makes her a viable DPS. With the right build, she can hit for upwards of 50K damage per Precision Slash.
 
 DPS Alva isn't popular with veteran players, mainly because she competes for supports with stronger DPS like [Mouchette](/handbook/awakeners/mouchette/) and [GHelot](/handbook/awakeners/ghelot/). That being said, she's a perfectly viable option if you like her.
 
+![](/images/handbook/awakeners/alva-precision-slash.png){width="100%" loading=lazy}
+
 ### Teambuilding
 
-DPS Alva likes two specific kinds of supports. On the one hand, she likes teammates who can give her more copies of **Precision Slash**, like [Thais](/handbook/awakeners/thais/) and [Hameln](/handbook/awakeners/hameln/). On the other hand, she likes teammates who can boost the damage from each **Precision Slash**, like [Nautila](/handbook/awakeners/nautila/) and [Helot](/handbook/awakeners/helot/). [Saya](/handbook/awakeners/saya/) is an excellent support because she does both, but her discard can be hard to play around.
+DPS Alva likes two specific kinds of supports. On the one hand, she likes teammates who can give her more copies of Precision Slash, like [Thais](/handbook/awakeners/thais/) and [Hameln](/handbook/awakeners/hameln/). On the other hand, she likes teammates who can boost the damage from each Precision Slash, like [Nautila](/handbook/awakeners/nautila/) and [Helot](/handbook/awakeners/helot/). [Saya](/handbook/awakeners/saya/) is an excellent support because she does both, but her discard can be hard to play around.
 
 ## How to Play
 
-**Support:** Use Alva's exalt if you need vulnerable, or if you need to get rid of symptoms in hand. Use **Combat Stance** if you need to unseal your awakeners.
+**Support:** Use Alva's exalt if you need vulnerable, or if you need to get rid of symptoms in hand. Use Combat Stance if you need to unseal your awakeners.
 
-**DPS:** Rouse Alva and try to get a lot of copies of **Precision Slash** in hand. Then use Alva's exalt, build a lot of shield, stack damage buffs, and unleash your burst combo.
+**DPS:** Rouse Alva and try to get a lot of copies of Precision Slash in hand. Then use Alva's exalt, build a lot of shield, stack damage buffs, and unleash your burst combo.
