@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **12 Sep 2026** | Updated wording and Awakener Guides formatting. Overhauled Chaos Awakener Guides from "24" to GRamona. Updated Caraboo's Works Well With. |
 | **11 Sep 2026** | Added eremora.com to the links. |
 | **10 Sep 2026** | Added "standard," "limited," "main stat," "substat," "R," "SR," and "SSR" to the Glossary. Changed all references to "Realms Research" to "Realm Study" since they changed the translation for the 4th time in a row now. Fixed some miscellaneous wording. Edited the example counter team.<br/><br/>Fjant updated the site formatting and improved inline image displays. |
 | **9 Sep 2026** | Reworked the endgame tier list since many characters have been shown to be more viable than previously thought. Updated Doll healer build and Unstained Chronicle writeup due to Selna's (successful) propaganda. |

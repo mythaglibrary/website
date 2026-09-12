@@ -8,6 +8,7 @@ awakener:
     - Weakness
     - Aliemus
     - Heals
+    - Shields
     - Discard
     - Dispel Vulnerable
   ranks:
@@ -56,11 +57,17 @@ awakener:
     - tawil
     - '24'
     - ramona
-  works_well_with_note: Anyone
+    - anyone
 ---
 
-Doll is the best weakness applier among all standard characters — great for surviving harder difficulties on a new account.
+Doll is a straightforward healer who does her job of keeping you alive. Her high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot) as well.
 
-She’s most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus.
+**Outer Surgery** makes her one of the best weakness appliers among all standard characters — great for surviving harder difficulties on a new account.
 
-Her high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot) as well.
+She's most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus.
+
+If roused and equipped with [Unstained Chronicle](/handbook/team#unstained-chronicle), she generates lots of shields in addition to healing.
+
+## How to Play
+
+Use Doll's exalt and cards to stay alive.

@@ -363,12 +363,12 @@ This talent is automatically unlocked for limited characters. You can manually u
 **If you bought the Extra Curriculum *(Battle Pass)*, buy wheel dupes here too.**
 
 ![](/images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
-![](/images/icons/shop/gnosis-fragment.png){width="80" loading=lazy}
 ![](/images/icons/cores/luminous.png){width="80" loading=lazy}
+![](/images/icons/shop/gnosis-fragment.png){width="80" loading=lazy}
 ![](/images/covenants/scarlet-embrace.png){width="80" loading=lazy}
 ![](/images/covenants/paradox.png){width="80" loading=lazy}
 
-If you have leftover Sediment each month, you can buy other stuff like Mimetic Crystals, Gnosis Fragments, Luminous Cores, or covenants. Pure Cores aren't really worth it since you get a lot from dailies.
+If you have leftover Sediment each month, you can buy other stuff like Mimetic Crystals, Luminous Cores, Gnosis Fragments, or covenants. Pure Cores aren't really worth it since you get a lot from dailies.
 
 ![](/images/wheels/heart-of-silver--mini.png){width="80" loading=lazy}
 

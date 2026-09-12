@@ -488,19 +488,19 @@
   margin-top: 2.4rem;
 }
 
-.awakener-index-family[data-realm="chaos"] {
+.awakener-index-family[data-realm="chaos"], .awakener-index-family[data-realm="primordia-chaos"] {
   --awakener-index-accent: var(--md-realms-chaos);
 }
 
-.awakener-index-family[data-realm="aequor"] {
+.awakener-index-family[data-realm="aequor"], .awakener-index-family[data-realm="benthos-aequor"] {
   --awakener-index-accent: var(--md-realms-aequor);
 }
 
-.awakener-index-family[data-realm="caro"] {
+.awakener-index-family[data-realm="caro"], .awakener-index-family[data-realm="propagation-caro"] {
   --awakener-index-accent: var(--md-realms-caro);
 }
 
-.awakener-index-family[data-realm="ultra"] {
+.awakener-index-family[data-realm="ultra"], .awakener-index-family[data-realm="singularity-ultra"] {
   --awakener-index-accent: var(--md-realms-ultra);
 }
 
@@ -523,9 +523,13 @@
 }
 
 .md-typeset .awakener-index-grid {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+  list-style: none none;
+}
+
+ul.awakener-index-grid.grid-96 {
+  gap: 0;
+  grid-template-columns: repeat(auto-fill, minmax(128px, 1fr));
+  margin-left: 0;
 }
 
 .md-typeset .awakener-index-grid li {
@@ -536,7 +540,7 @@
 .awakener-index-grid a {
   display: flex;
   min-height: 2.75rem;
-  padding: 0.45rem;
+  padding: 0 0 0.45rem 0;
   flex-direction: column;
   gap: 0.4rem;
   align-items: center;
@@ -563,12 +567,11 @@
 }
 
 .awakener-index-grid span {
-  min-height: 2.4em;
   align-content: center;
-  overflow-wrap: anywhere;
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.8rem;
+  min-height: 2.4em;
   line-height: 1.2;
+  overflow-wrap: anywhere;
 }
 
 @media screen and (max-width: 44.984375em) {

@@ -36,13 +36,13 @@
   <div class="awakener-guide" data-abbreviations>
     <header class="awakener-header">
       <h1><img class="awakener-realm-icon" src="{{ portrait.realm_icon }}" alt="" width="40" height="40"> {{ page.meta.title }}</h1>
-      {% if portrait.skeydb_url %}<a class="awakener-database-link" href="{{ portrait.skeydb_url }}" target="_blank" rel="noopener noreferrer">View on SKeyDB</a>{% endif %}
       <p class="awakener-tagline">{{ prose(guide.tagline) }}</p>
       <ul class="awakener-roles" aria-label="Roles and mechanics">
         {% for role in guide.roles %}
           <li class="awakener-role" data-role="{{ role }}">{{ prose(role) }}</li>
         {% endfor %}
       </ul>
+      {% if portrait.skeydb_url %}<a class="awakener-database-link" href="{{ portrait.skeydb_url }}" target="_blank" rel="noopener noreferrer">View on SKeyDB</a>{% endif %}
       {% set has_recommendations = guide.suggested_posses or guide.suggested_posses_note
         or guide.works_well_with or guide.works_well_with_note %}
       {% set section_count = guide.builds|length + (1 if has_recommendations else 0)
@@ -195,7 +195,7 @@
                   {% if related == "anyone" %}
                   <figure>
                     <img src="/images/emojis/anyone.png" alt="" loading="lazy">
-                    <figcaption>Anyone</figcaption>
+                    <figcaption><em>(Anyone)</em></figcaption>
                   </figure>
                   {% else %}
                   {% set related_asset = assets.awakeners[related] %}
