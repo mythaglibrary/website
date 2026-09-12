@@ -413,9 +413,9 @@ When building your DPS, keep in mind which of their skills are actually doing da
 - Those that mainly generate fixed poison or counter, like [Nymphaea](/handbook/awakeners/nymphaea/) or [Faros](/handbook/awakeners/faros/)
 - Those that rely on unique effects scaling with DMG amp, like [Castor](/handbook/awakeners/castor/) or [Arachne](/handbook/awakeners/arachne/)
 
-For DPS that simply have high Base DMG, building crit is usually a higher priority than :dmg-amp: DMG Amplification, but they can make good use of incidental DMG amp from relics and substats. They also benefit from effects that boost Base DMG, such as the wheel [Hand of Oblivion](https://skeydb.com/database/wheels/hand-of-oblivion){target="_blank"}.
+For DPS that simply have high Base DMG, building crit is usually a higher priority than DMG amplification, but they can make good use of incidental DMG amplification from relics and substats. They also benefit from effects that boost Base DMG, such as the wheel [Hand of Oblivion](https://skeydb.com/database/wheels/hand-of-oblivion){target="_blank"}.
 
-**DMG amp is teamwide, so it can be on your supports too.** However, DPS that rely on DMG amp often have a talent that gives them bonus scaling from equipped DMG amp, so it isn't a waste to put it on them.
+**DMG amplification is teamwide, so it can be on your supports too.** However, DPS that rely on DMG amplification often have a talent that gives them bonus scaling from equipped DMG amplification, so it isn't a waste to put it on them.
 
 **Example SSR wheels:** [Gift of Decay](https://skeydb.com/database/wheels/gift-of-decay){target="_blank"}, [Chains Unbound](https://skeydb.com/database/wheels/chains-unbound){target="_blank"}
 
