@@ -65,7 +65,7 @@ Alva's Precision Slash has a high damage ceiling. At E3, this makes her a viable
 
 DPS Alva isn't popular with veteran players, mainly because she competes for supports with stronger DPS like [Mouchette](/handbook/awakeners/mouchette/) and [GHelot](/handbook/awakeners/ghelot/). That being said, she's a perfectly viable option if you like her.
 
-![](/images/handbook/awakeners/alva-precision-slash.png){width="100%" loading=lazy}
+![](/images/handbook/awakeners/alva-precision-slash.png){width="100%" class="on-glb" loading=lazy}
 
 ### Teambuilding
 
