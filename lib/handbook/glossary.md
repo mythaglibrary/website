@@ -55,7 +55,7 @@ Embryo (the Caro special card).
 
 ### Banner
 
-An in-game lottery where you can roll for awakeners and wheels (see [“Gacha”](#gacha)).
+An in-game lottery where you can roll for awakeners and wheels (see ["Gacha"](#gacha)).
 
 ### Battery
 
@@ -117,7 +117,7 @@ Pulling on the standard Realm Study banner to get +12 awakeners and fish for lim
 
 ### Cheese
 
-An unorthodox game strategy that relies on exploits or niche interactions rather than fighting “fair.” For example, a severely underleveled player might have no chance of beating a boss in a straight-up fight, but if they used [Faint](/handbook/awakeners/faint/) to cheat death for several turns, they could buy enough time for the Max HP % damage of [Lotan](/handbook/awakeners/lotan/)’s OE to kill it.
+An unorthodox game strategy that relies on exploits or niche interactions rather than fighting "fair." For example, a severely underleveled player might have no chance of beating a boss in a straight-up fight, but if they used [Faint](/handbook/awakeners/faint/) to cheat death for several turns, they could buy enough time for the Max HP % damage of [Lotan](/handbook/awakeners/lotan/)’s OE to kill it.
 
 ### Clem
 
@@ -129,7 +129,7 @@ An effect on some enemies that grants them increasing fortress (damage reduction
 
 ### Combo
 
-A “combination” of cards or abilities which is stronger than the sum of its parts.
+A "combination" of cards or abilities which is stronger than the sum of its parts.
 
 ### Corpo
 
@@ -155,7 +155,7 @@ A negative status effect.
 
 ### Divine realm
 
-When some characters are in your team, they transform your realm mechanics into a different variant of that realm. These are nicknamed "divine realms," after the original name of the first to be released, “Divine Realm: Aequor” (since officially renamed to Benthos: Aequor).
+When some characters are in your team, they transform your realm mechanics into a different variant of that realm. These are nicknamed "divine realms," after the original name of the first to be released, "Divine Realm: Aequor" (since officially renamed to Benthos: Aequor).
 
 ### Divine Caro
 
@@ -249,7 +249,7 @@ Crimson Furnace (the Caro mechanic).
 
 ### Gacha
 
-To gamble on a chance to get in-game characters or items. A “gacha game” is a game where this is a central mechanic. Comes from Japanese gachapon machines.
+To gamble on a chance to get in-game characters or items. A "gacha game" is a game where this is a central mechanic. Comes from Japanese gachapon machines.
 
 ### GDoll
 
@@ -365,7 +365,7 @@ The covenant [Dream of Medicine](/handbook/team#dream-of-medicine).
 
 ### Meta/Metagame
 
-The collection of strategies that are most effective and commonly used by players; or something pertaining to those strategies. For example, a “meta character” is a character that is often seen in the metagame.
+The collection of strategies that are most effective and commonly used by players; or something pertaining to those strategies. For example, a "meta character" is a character that is often seen in the metagame.
 
 ### Mob
 
@@ -437,9 +437,9 @@ A powerful, game-changing supportive character such as [Thais](/handbook/awakene
 
 A time-limited paid bundle that sometimes appears when new characters are released. Rewards unlock over time, but you get bonus cosmetics for buying the bundle early.
 
-### Primordia: Chaos (PChaos):
+### Primordia: Chaos (PChaos)
 
-When some characters like [GLotan](/handbook/awakeners/glotan/) are in your team, they change Chaos into “Primordia: Chaos,” which works differently. The normal Chaos mechanics no longer apply; your DMG amplification is increased by 50%; you only get keyflare at the start of battle and when playing the first card of each awakener each turn; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you choose random unlocked posses, as well as other effects, to unleash.
+When some characters like [GLotan](/handbook/awakeners/glotan/) are in your team, they change Chaos into "Primordia: Chaos," which works differently. The normal Chaos mechanics no longer apply; your DMG amplification is increased by 50%; you only get keyflare at the start of battle and when playing the first card of each awakener each turn; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you choose random unlocked posses, as well as other effects, to unleash.
 
 ### Proc
 
@@ -459,7 +459,7 @@ Either [Protoparadise](/handbook/resources#protoparadises-selectors) (item that 
 
 ### Pull
 
-To gamble on a chance to get in-game characters or items (see [“Gacha”](#gacha)). Alternatively, a resource that lets you do so (Pure Cores, Luminous Cores, Ethereal Cores).
+To gamble on a chance to get in-game characters or items (see ["Gacha"](#gacha)). Alternatively, a resource that lets you do so (Pure Cores, Luminous Cores, Ethereal Cores).
 
 ### Pure realm
 
@@ -503,7 +503,7 @@ Realm Mastery.
 
 ### Rotan
 
-[Lotan: Cetarchon](/handbook/awakeners/glotan/), after an old English mistranslation. Also stands for “Red Lotan.”
+[Lotan: Cetarchon](/handbook/awakeners/glotan/), after an old English mistranslation. Also stands for "Red Lotan."
 
 ## S
 

@@ -3,7 +3,7 @@ title: Caraboo
 description: 'Builds and new-player guidance for the Propagation: Caro Awakener Caraboo.'
 template: awakeners/awakener.html
 awakener:
-  tagline: “Random Bullshit Go” Tank
+  tagline: "Random Bullshit Go" Tank
   roles:
     - Shields
     - Max HP Increase
