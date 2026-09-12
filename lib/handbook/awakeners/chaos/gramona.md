@@ -76,8 +76,8 @@ The downside is that this build takes a long time to get going, and requires you
 
 **Support:** Play GRamona's cards to get keyflare. Use Sight Unbound to search for cards you need.
 
-GRamona's exalt can change your posse to [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} if you need weakness and vulnerable, or [A Gun's Cry](https://skeydb.com/database/posses/a-guns-cry){target="_blank"} for crit rate, [Warded Injection](https://skeydb.com/database/posses/warded-injection){target="_blank"} for healing, etc.
+GRamona's exalt can change your posse to [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} if you need weakness and vulnerable, or [A Gun's Cry](https://skeydb.com/database/posses/a-guns-cry){target="_blank"} for Crit Rate, [Warded Injection](https://skeydb.com/database/posses/warded-injection){target="_blank"} for healing, etc.
 
-Keep track of the cards you play each turn. If you end your turn with a sequence of 3 good cards (such as three of [Mouchette](/handbook/awakeners/mouchette/)'s strikes), you can use GRamona's exalt to bring them back the turn after and do it again.
+Keep track of the cards you play each turn. If you end your turn with a sequence of three good cards (such as three of [Mouchette](/handbook/awakeners/mouchette/)'s strikes), you can use GRamona's exalt to bring them back the turn after and do it again.
 
 **DPS:** Stall as long as possible while building STR and using dual posse every turn. Eventually, Predetermined Strike will deal a lot of damage. Try to play it as the last card each turn so you can use GRamona's exalt to get more copies of it.
