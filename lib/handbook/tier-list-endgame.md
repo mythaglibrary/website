@@ -122,6 +122,11 @@ Given enough investment and support, these characters can reliably reach the ~5 
   GRamona (E2)
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
+  [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png){loading=lazy}](/handbook/awakeners/nymphaea)
+
+  Nymphaea (AA)
+</div>
+<div class="item" markdown style="background-color: var(--md-tier-standard);">
   [![Helot](/images/awakeners/caro/helot--mini.png){loading=lazy}](/handbook/awakeners/helot)
 
   Helot (AA)

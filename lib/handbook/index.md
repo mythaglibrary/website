@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 12 September 2026 (V2.6.0.4 - New D-tide Nerf)
+    Last updated 18 September 2026 (V2.6.0.4 - New D-tide Nerf)
 
 !!! info ""
 
