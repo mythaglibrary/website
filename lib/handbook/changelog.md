@@ -8,7 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
-| **18 Sep 2026** | Added Nymphaea as a C tier endgame dps. |
+| **18 Sep 2026** | Fixed 24 writeup saying it's a 25% final dmg boost (it's based on your rouse level). Added Nymphaea as a C tier endgame dps. |
 | **12 Sep 2026** | Updated wording and Awakener Guides formatting. Overhauled Chaos Awakener Guides from "24" to Hameln. Updated Caraboo's Works Well With. |
 | **11 Sep 2026** | Added eremora.com to the links. |
 | **10 Sep 2026** | Added "standard," "limited," "main stat," "substat," "R," "SR," and "SSR" to the Glossary. Changed all references to "Realms Research" to "Realm Study" since they changed the translation for the 4th time in a row now. Fixed some miscellaneous wording. Edited the example counter team.<br/><br/>Fjant updated the site formatting and improved inline image displays. |
