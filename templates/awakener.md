@@ -47,6 +47,16 @@ Write the overview as ordinary Markdown here.
 Optional: explain how to use this Awakener here. Remove this heading and text
 if the section is not ready. Use ### headings for subsections.
 
+## Teambuilding
+
+Optional: explain teammates and team choices here. Remove this heading and text
+if the section is not ready.
+
+## High Investment
+
+Optional: explain how the guide changes with higher investment here. Remove
+this heading and text if the section is not ready.
+
 Optional example teams can be added as standalone top-level `team` fences
 below the prose. Awakener guides render them in a separate Example Teams
 section; see `examples/awakener-guide.md` for a complete source example and

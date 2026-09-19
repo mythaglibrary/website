@@ -47,38 +47,6 @@
   color: var(--md-default-fg-color--lighter);
 }
 
-.md-typeset nav.awakener-jump {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  margin: 1.1rem 0 0;
-  font-family: var(--md-text-font-family);
-  font-size: 0.62rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  line-height: 1.3;
-  text-transform: uppercase;
-}
-
-.md-typeset nav.awakener-jump a {
-  padding: 0.25rem 0.55rem;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 0.15rem;
-  color: var(--md-default-fg-color--light);
-  text-decoration: none;
-}
-
-.md-typeset nav.awakener-jump a:hover {
-  border-color: var(--md-default-fg-color--lighter);
-  color: var(--md-default-fg-color);
-}
-
-.md-typeset nav.awakener-jump a:focus-visible {
-  color: var(--md-default-fg-color);
-  outline: 0.12rem solid var(--awakener-link-color);
-  outline-offset: 0.12rem;
-}
-
 .awakener-role[data-role="Weakness"] {
   color: var(--md-effect-weakness);
 }
@@ -688,4 +656,12 @@ ul.awakener-index-grid.grid-96 {
   display: inline-block;
   margin-top: 0.6rem;
   font-size: 0.75rem;
+}
+
+.md-typeset .awakener-index-realm-icon {
+  width: 1em;
+  height: 1em;
+  margin: 0;
+  object-fit: contain;
+  vertical-align: -0.12em;
 }
