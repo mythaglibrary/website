@@ -57,17 +57,25 @@
       {% endfor %}
     </ul>
   {% else %}
+    {% set is_awakener = page.meta and page.meta.template == "awakeners/awakener.html" %}
     {% set toc = page.toc %}
     {% set first = toc | first %}
     {% if first and first.level == 1 %}
       {% set toc = first.children %}
     {% endif %}
-    {% if toc %}
+    {% if toc or is_awakener %}
       <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         {{ title }}
       </label>
       <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+        {% if is_awakener %}
+          <li class="md-nav__item">
+            <a href="#guide-title" class="md-nav__link">
+              <span class="md-ellipsis"><span class="md-typeset">{{ page.meta.title }}</span></span>
+            </a>
+          </li>
+        {% endif %}
         {% for toc_item in toc %}
           {% include "partials/toc-item.html" %}
         {% endfor %}
