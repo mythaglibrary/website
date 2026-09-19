@@ -35,7 +35,7 @@
 
   <div class="awakener-guide" data-abbreviations>
     <header class="awakener-header">
-      <h1><img class="awakener-realm-icon" src="{{ portrait.realm_icon }}" alt="" width="40" height="40"> {{ page.meta.title }}</h1>
+      <h1 id="guide-title"><img class="awakener-realm-icon" src="{{ portrait.realm_icon }}" alt="" width="40" height="40"> {{ page.meta.title }}</h1>
       <p class="awakener-tagline">{{ prose(guide.tagline) }}</p>
       <ul class="awakener-roles" aria-label="Roles and mechanics">
         {% for role in guide.roles %}

@@ -192,13 +192,16 @@ features = [
     # When instant navigation is enabled, clicks on all internal links will be
     # intercepted and dispatched via XHR without fully reloading the page.
     # https://zensical.org/docs/setup/navigation/#instant-navigation
+    # Disabled on Zensical 0.0.63: a selected anchor can carry over to the next
+    # page when instant navigation reuses its heading ID. Use normal page loads
+    # until upstream clears stale anchor targets between pages.
     # "navigation.instant",
 
     # With instant prefetching, your site will start to fetch a page once the
     # user hovers over a link. This will reduce the perceived loading time
     # for the user.
     # https://zensical.org/docs/setup/navigation/#instant-prefetching
-    "navigation.instant.prefetch",
+    # "navigation.instant.prefetch",
 
     # In order to provide a better user experience on slow connections when
     # using instant navigation, a progress indicator can be enabled.
