@@ -45,8 +45,6 @@ awakener:
     - nautila
 ---
 
-### Introduction
-
 Daffodil is a burst DPS who slaps enemies with high-damage command cards. While she can be tricky to use, she’s capable of powerful combos when played right.
 
 Daffodil can also inflict vulnerable, boost teamwide Crit Rate, and access many supportive effects with Thousand Mirage. She is the only character in the game that can speed up your Ultra Round.

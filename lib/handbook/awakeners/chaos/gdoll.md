@@ -52,8 +52,6 @@ awakener:
     - daffodil
 ---
 
-### Introduction
-
 Doll: Inferno (GDoll) is an aliemus battery who excels in poison teams. She generates a lot of temporary [DMG amplification](/handbook/team#dmg-amplification-base-dmg) with her exalt, and has access to both weakness and vulnerable at E1.
 
 Her true strength is in boss fights, where she gains a stack of **Finale** whenever you end your turn or use her exalt. At 10 stacks of Finale, you get the **Illusion’s End** card, which takes out 25-30% of the boss’s HP bar, and turns GDoll into a powerful poison-applying and poison-triggering DPS.

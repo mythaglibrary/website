@@ -60,8 +60,6 @@ awakener:
     - helot
 ---
 
-### Introduction
-
 Alva is a support who is mainly used for her exalt and Combat Stance. She can unseal your awakeners and get rid of symptoms clogging your hand, which makes her useful into many boss fights. She also provides a decent shield and a reliable source of vulnerable with her exalt.
 
 ### DPS Build

@@ -50,8 +50,6 @@ awakener:
     - anyone
 ---
 
-### Introduction
-
 Caraboo is a shielder and defensive support with the unique ability to buff your Max HP. She also inflicts weakness and brings a wide variety of random bonuses.
 
 ### Blessings

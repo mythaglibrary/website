@@ -45,8 +45,6 @@ awakener:
     - ryker
 ---
 
-### Introduction
-
 Hameln is a support who generates arithmetica and cards. When roused, he gives you extra 2 arithmetica per turn. His Memory Rondo also makes a lot of Insights (0-cost cards that give 1 arithmetica and draw a card).
 
 He works well as a [keyflare bot](/handbook/team#the-almighty-keyflare-bot), since you can spend arithmetica on Memory Rondo and immediately refund it with the Insights generated.
