@@ -32,16 +32,82 @@ awakener:
           - id: the-land-of-nonexistence
   suggested_posses:
     - id: undying-sun
-      note: 'Psyche Deepdive: Kathigu-Ra'
   works_well_with:
     - clementine
     - horla
+    - ryker
     - tinct
     - karen
 ---
 
-A bruiser who can generate huge shields with her defense card in addition to huge damage.
+Kathigu-Ra ("Kath") is a frontline battle tank. She's a good damage dealer, a good STR generator, and one of the best shielders in the game.
 
-Her damage starts low, but she rapidly gains Base DMG and STR by playing cards with Fiamma and resetting with 0-cost Hyperflares. After ramping, Hyperflare can one-shot bosses.
+While Kath doesn't deal as much damage as dedicated DPS like [Mouchette](/handbook/awakeners/Mouchette/), she has the shielding and STR generation to stay in the fight for a long time, scaling her damage higher and higher until it kills the boss.
 
-Kath needs E3 and her posse to work. She likes teammates who provide STR and crit buffs, as well as arithmetica to fuel her Combust cycles.
+As a result, Kath is both reliable and self-sufficient, and a good choice for new players who are just starting out.
+
+### Fiamma
+
+Kath revolves around managing **Fiamma**, her unique gameplay mechanic. When you play Kath, you will quickly notice that your cards are on fire. This represents the Fiamma attached to that card.
+
+Kath's cards get Fiamma if they are in your hand at the start of the turn. Kath can get more Fiamma from her E3; from her rouse; from her exalt; and from her posse, [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}.
+
+If a card has Fiamma, it gets buffed and gains retain. A card can have up to 3 stacks of Fiamma, with each stack making it more powerful.
+
+When you play a card with Fiamma, 1 Fiamma will be added to another Kath card in your hand. If Kath is roused, playing a card with 3 Fiamma will return it to your hand.
+
+Generating Fiamma is the *most important thing* for Kath. As a result, her E3 and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"} are very important for maximizing her potential.
+
+Kath is a good shielder because the Fiamma boost to her Defense card is multiplicative with [Feast from Afar](/handbook/team#feast-from-afar) and [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"}. This means that, with the right build, she can produce 300+ shields with a single Defense (which returns to your hand if it has 3 Fiamma on it).
+
+### Combust
+
+When you play a card that has Fiamma stacks, you also gain that many stacks of **Combust**. This is represented by the fire icon which appears under your HP bar.
+
+When you reach 10 or more Combust, you immediately gain 2 arithmetica, and Kath's Solarflare turns into **Hyperflare**. This is an AOE nuke which consumes all your arithmetica and all your Combust, and gets additional bonus damage from STR for each arithmetica and Combust consumed. (After playing it, it turns back into Solarflare, since you have no more Combust.)
+
+Kath's E3 gives her +5% Base DMG every time you get a stack of Combust. This makes her damage scale very high in long fights, which, again, makes Fiamma and Combust generation crucial.
+
+### Combust Cycling
+
+Playing Kath is about generating as much Fiamma as possible, so that you can generate Combust as fast as possible. When you have 10 Combust stacks, you play Hyperflare for 0 arithmetica, and reset your Combust so you can do it again.
+
+Each time you do this, you get:
+
+- 2 arithmetica from reaching 10 Combust stacks;
+- permanent bonus Base DMG from Kath's E3;
+- STR generation from Last Stand Salvo;
+- a lot of shield from Kath's Defense;
+- and increasing AOE damage from the Hyperflares you're throwing out.
+
+You should usually play Hyperflare for 0 arithmetica, because the only benefit you get from spending more arithmetica on it is an increased STR bonus (so if you have no STR, it doesn't deal more damage). Your arithmetica is better spent on playing other cards to generate more Fiamma.
+
+A common newbie mistake is to build up tons of Combust and then spend all your arithmetica on a single big Hyperflare. This means you're missing out on the bonus arithmetica from each time you reach 10 Combust, and you're missing out on the free Fiamma generated from playing 0-cost Hyperflares. A more effective strategy is to build up Base DMG and STR by cycling 0-cost Hyperflares, and *then* start tossing out big Hyperflares from around turn 7 onwards.
+
+### Card Manipulation
+
+Kath often draws cards with her exalt and the [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"} posse. When an effect makes you draw a Kath card, it can only draw cards that *aren't in your hand.* This means you can sequence your cards in such a way that you guarantee what card you are going to draw.
+
+For example, if you have all four Kath cards in your hand, you can play her Defense, then use [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"} to redraw her Defense. This lets you play the same Defense card two or even three times in one turn.
+
+On the flip side, if you have too many Kath cards in hand, you should remember to play them before you activate her posse or exalt, as you won't draw any cards otherwise.
+
+You can add more Kath cards to your deck with wheels like [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"} or [Will Unyielding](https://skeydb.com/database/wheels/will-unyielding){target="_blank"}, but keep in mind that this also lowers your chance to draw specific cards, such as Hyperflare.
+
+### Teambuilding
+
+Kath needs a lot of arithmetica and time to build up, so she's often run in Ultra teams to get Insights and extra turns.
+
+She appreciates arithmetica supports like [Tinct](/handbook/awakeners/tinct/) and [Karen](/handbook/awakeners/karen/). She doesn't work well with supports that need to play their own cards to work.
+
+When built for shielding, Kath can have issues reaching 100% Crit Rate, and appreciates crit buffers like [Tinct](/handbook/awakeners/tinct/), [Ryker](/handbook/awakeners/ryker/), and [Horla](/handbook/awakeners/horla/).
+
+[Clementine](/handbook/awakeners/clementine/) works well with Kath because of all the STR she generates, which Kath can put to good use with Hyperflare.
+
+[Horla](/handbook/awakeners/horla/) and [Erica](/handbook/awakeners/erica/) can provide weakness and vulnerable, which Kath lacks, at low or no cost.
+
+## How to Play
+
+Generate Fiamma with Kath's rouse, her exalt, and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}.
+
+Play cards that have Fiamma to get Combust. When you have 10 Combust, play Hyperflare. Repeat until the boss is dead.

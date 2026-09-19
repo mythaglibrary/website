@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **19 Sep 2026** | Overhauled Chaos awakener guides up to Kath. |
 | **18 Sep 2026** | Fixed 24 writeup saying it's a 25% final dmg boost (it's based on your rouse level). Added Nymphaea as a C tier endgame dps. |
 | **12 Sep 2026** | Updated wording and Awakener Guides formatting. Overhauled Chaos Awakener Guides from "24" to Hameln. Updated Caraboo's Works Well With. |
 | **11 Sep 2026** | Added eremora.com to the links. |

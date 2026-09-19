@@ -49,7 +49,7 @@ Hameln is a support who generates arithmetica and cards. When roused, he gives y
 
 He works well as a [keyflare bot](/handbook/team#the-almighty-keyflare-bot), since you can spend arithmetica on Memory Rondo and immediately refund it with the Insights generated.
 
-Hameln's exalt can apply Rondino to command cards to double-play them. This lets you get huge value out of Memory Rondo or other cards like [GLotan](/handbook/awakeners/glotan/)'s Long Blade: Perish. At E2, it also gives an arithmetica discount.
+Hameln's exalt can apply **Rondino** to command cards to double their effects. This lets you get huge value out of Memory Rondo or other cards like [GLotan](/handbook/awakeners/glotan/)'s Long Blade: Perish. At E2, it also gives an arithmetica discount.
 
 Soul Overture inflicts random debuffs on enemies, which can inflict weakness and vulnerable if you're lucky (or retry over and over).
 

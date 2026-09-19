@@ -14,7 +14,7 @@ This is a reference for new players who are unsure what SSR wheels are worth pul
 
 A <span style="background-color: var(--md-tier-free);">yellow</span> background means you can buy it from the Store without using pulls.
 
-A <span style="background-color: var(--md-tier-standard);">blue</span> background means it is a standard wheel you can get with Pure Cores.
+A <span style="background-color: var(--md-tier-standard);">blue</span> background means it's a standard wheel you can get with Pure Cores.
 
 Wheels not on this list are not recommended for new players to spend resources on.
 
