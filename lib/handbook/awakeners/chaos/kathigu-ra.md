@@ -48,11 +48,11 @@ As a result, Kath is reliable and self-sufficient, and a good choice for new pla
 
 ## How to Play
 
-!!! note "TL;DR"
+!!! note "Quick Start Guide"
 
     Generate Fiamma with Kath’s rouse, her exalt, and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}.
 
-    Play cards that have Fiamma to get Combust. Try to play cards that have 1 and 3 Fiamma. Don’t play the last Kath card in your hand.
+    Play cards that have Fiamma to get Combust.
 
     When you have 10 Combust, play Hyperflare. If you have no STR, don’t spend any arithmetica on it.
 
