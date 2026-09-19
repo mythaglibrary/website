@@ -97,7 +97,7 @@ The bonus effects are also quite potent, and can do things like nullify enemy ST
 
 Daffodil is a weak DPS on her own, as she needs a lot of setup and aliemus to function, and she doesn’t have much defense built into her kit. Her supports need to solve these problems.
 
-[Arachne](/handbook/awakeners/arachne/) is Daffodil’s best teammate, as she gives a lot of [DMG amplification](/handbook/team#dmg-amplification-base-dmg), and boosts the effectiveness of command cards. This makes Daffodil’s high-Base-DMG cards hit like a truck. Arachne’s rouse also lets you double-play cards from Ultra Space, which lets you get a lot more Thousand Mirages out of one Daffodil exalt.
+[Arachne](/handbook/awakeners/arachne/) is Daffodil’s best teammate, as she provides a lot of shields and [DMG amplification](/handbook/team#dmg-amplification-base-dmg), while boosting the effectiveness of command cards. Arachne’s rouse also lets you double-play cards from Ultra Space, which lets you get a lot more Thousand Mirages out of one Daffodil exalt.
 
 [GDoll](/handbook/awakeners/gdoll/) helps with Daffodil’s aliemus issues, gives [DMG amplification](/handbook/team#dmg-amplification-base-dmg) buffs, has decent healing, and can trigger the poison from Daffodil’s 0-cost Mirages.
 
