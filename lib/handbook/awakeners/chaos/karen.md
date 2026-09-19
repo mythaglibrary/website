@@ -53,16 +53,16 @@ While Karen’s cards are not very powerful, Toad Stew provides a reliable sourc
 
 In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, Karen’s soulforge talent boosts her poison application by a lot, and makes her usable as a secondary DPS if roused.
 
-### High Investment
-
-Karen’s OE generates two extra copies of Marvelous Cuisine: one in your Draw Pile and one in your Discard Pile. This makes Karen one of the most powerful arithmetica supports if you have the opportunity to set up her OE before the boss fight.
-
-### Teambuilding
-
-Karen is used to support DPS that need a lot of arithmetica, like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/), [Tawil](/handbook/awakeners/tawil/), and [GLotan](/handbook/awakeners/glotan/).
-
 ## How to Play
 
 Use Karen’s exalt to get Marvelous Cuisine. Play it when you need arithmetica.
 
 You can play her cards for weakness and a bit of healing, or keep them in hand if it isn’t needed.
+
+## Teambuilding
+
+Karen is used to support DPS that need a lot of arithmetica, like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/), [Tawil](/handbook/awakeners/tawil/), and [GLotan](/handbook/awakeners/glotan/).
+
+## High Investment
+
+Karen’s OE generates two extra copies of Marvelous Cuisine: one in your Draw Pile and one in your Discard Pile. This makes Karen one of the most powerful arithmetica supports if you have the opportunity to set up her OE before the boss fight.

@@ -49,7 +49,15 @@ Daffodil is a burst DPS who slaps enemies with high-damage command cards. While 
 
 Daffodil can also inflict vulnerable, boost teamwide Crit Rate, and access many supportive effects with Thousand Mirage. She is the only character in the game that can speed up your Ultra Round.
 
-## Last Hitting
+## How to Play
+
+!!! note "TL;DR"
+
+    Against normal enemies, stall and try to get killing blows with Daffodil. This boosts the damage of Skull Reaver.
+
+    Against elites and bosses, try to set up combo turns with Daffodil’s Thousand Mirage. Stack all your damage buffs to make tons of poison or temporary counter.
+
+### Last Hitting
 
 For a new player, the easiest way to play Daffodil is to use **Skull Reaver** to kill everything.
 
@@ -57,7 +65,7 @@ Every time Daffodil inflicts the killing blow on an enemy, Skull Reaver permanen
 
 If you can consistently land last hits with Daffodil, you can neglect Crit Rate and instead equip more Crit DMG, counting on Daffodil’s E2 to ensure you have 100% Crit Rate in the boss fight.
 
-## Thousand Mirage
+### Thousand Mirage
 
 **Thousand Mirage**, the card you get from Daffodil’s exalt, is the biggest source of damage in her kit.
 
@@ -79,11 +87,7 @@ If you have a character that converts counter into damage like [Pandia](/handboo
 
 The **4-cost Mirage** has the highest Base DMG and is good for securing kills and getting the last hit on mobs. The bonus effects are also quite potent, and can do things like nullify enemy STR or make you temporarily immune to incoming debuffs.
 
-### High Investment
-
-Daffodil’s OE gives you three Thousand Mirages instead of one. This significantly raises her damage ceiling, and enables huge damage turns if you can line up your cards against the boss intentions.
-
-### Teambuilding
+## Teambuilding
 
 Daffodil is a weak DPS on her own, as she needs a lot of setup and aliemus to function, and she doesn’t have much defense built into her kit. Her supports need to solve these problems.
 
@@ -99,8 +103,6 @@ Daffodil is a weak DPS on her own, as she needs a lot of setup and aliemus to fu
 
 In addition, [Winkle](/handbook/awakeners/winkle/) is a good aliemus battery who can double up Daffodil’s Thousand Mirages; [Casiah](/handbook/awakeners/casiah/) can generate STR for Daffodil and grab her Thousand Mirages from Ultra Space; and [Nautila](/handbook/awakeners/nautila/), [Pandia](/handbook/awakeners/pandia/), [Ultra 24](/handbook/awakeners/24/), or [Wanda](/handbook/awakeners/wanda/) can abuse the temporary counter that Daffodil’s 2-cost Mirage generates.
 
-## How to Play
+## High Investment
 
-Against normal enemies, stall and try to get killing blows with Daffodil, boosting the damage of Skull Reaver for the rest of the exploration.
-
-Against elites and bosses, try to set up combo turns with Daffodil’s Thousand Mirage. Stack all your damage buffs to make tons of poison or temporary counter.
+Daffodil’s OE gives you three Thousand Mirages instead of one. This significantly raises her damage ceiling, and enables huge damage turns if you can line up your cards against the boss intentions.

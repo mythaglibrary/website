@@ -58,14 +58,6 @@ Her true strength is in boss fights, where she gains a stack of **Finale** whene
 
 A weakness of GDoll is that her cards cost a lot of arithmetica, so she doesn’t play well with other characters that need to play command cards. She also doesn’t do a whole lot outside of boss fights unless you can make use of her aliemus and DMG amplification.
 
-### High Investment
-
-At OE, GDoll notably gets much stronger. Her OE multiplies your team’s damage output and helps her reach Finale Form much faster. Her healing and poison from Fate’s Descent are also effectively doubled, since her aliemus cap is increased.
-
-### Teambuilding
-
-GDoll works best in a team built around her constant supply of aliemus and DMG amplification. Her natural home is in a poison team with teammates like [Xu](/handbook/awakeners/xu/) and [Nymphaea](/handbook/awakeners/nymphaea/), but she also works well with exalt-dependent Base DMG characters like [“24”](/handbook/awakeners/24/) and [Daffodil](/handbook/awakeners/daffodil/).
-
 ## How to Play
 
 Use GDoll’s cards to charge her exalt. Activate her exalt to get a [DMG amplification](/handbook/team#dmg-amplification-base-dmg) boost and grant aliemus to the other characters on the team.
@@ -73,3 +65,11 @@ Use GDoll’s cards to charge her exalt. Activate her exalt to get a [DMG amplif
 Self-Destruct can be used for weakness or vulnerable as needed.
 
 In boss fights, play Illusion’s End, then use Fate’s Descent to apply lots of poison. GDoll’s exalt can be used to trigger poison and get cards and arithmetica.
+
+## Teambuilding
+
+GDoll works best in a team built around her constant supply of aliemus and DMG amplification. Her natural home is in a poison team with teammates like [Xu](/handbook/awakeners/xu/) and [Nymphaea](/handbook/awakeners/nymphaea/), but she also works well with exalt-dependent Base DMG characters like [“24”](/handbook/awakeners/24/) and [Daffodil](/handbook/awakeners/daffodil/).
+
+## High Investment
+
+At OE, GDoll notably gets much stronger. Her OE multiplies your team’s damage output and helps her reach Finale Form much faster. Her healing and poison from Fate’s Descent are also effectively doubled, since her aliemus cap is increased.

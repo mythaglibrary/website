@@ -66,12 +66,6 @@ In addition to her support build, GRamona can be built as a DPS focusing on Pred
 
 The downside is that this build takes a long time to get going, and requires you to have a lot of unlocked posses, so it isn’t very practical for new players.
 
-### Teambuilding
-
-**Support:** GRamona is mainly used as a support for the specific DPS who can make use of the cards from her exalt. [Mouchette](/handbook/awakeners/mouchette/) is the biggest winner, since she can get back a Strike, Mortal Blast, and Shining Crush to repeat her burst combo. Less commonly, [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) can get Hyperflare, while [GLotan](/handbook/awakeners/glotan/) can get a bunch of strikes and Long Blade: Perish.
-
-**DPS:** GRamona needs a lot of time to scale Predetermined Strike, so she appreciates defensive teammates like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) and [Caraboo](/handbook/awakeners/caraboo/). She also benefits from supports that can grant STR and copy Predetermined Strike, such as [Thais](/handbook/awakeners/thais/) and [Hameln](/handbook/awakeners/hameln/).
-
 ## How to Play
 
 **Support:** Play GRamona’s cards to get keyflare. Use Sight Unbound to search for cards you need.
@@ -81,3 +75,9 @@ GRamona’s exalt can change your posse to [Voices In Your Head](https://skeydb.
 Keep track of the cards you play each turn. If you end your turn with a sequence of three good cards (such as three of [Mouchette](/handbook/awakeners/mouchette/)’s strikes), you can use GRamona’s exalt to bring them back the turn after and do it again.
 
 **DPS:** Stall as long as possible while building STR and using dual posse every turn. Eventually, Predetermined Strike will deal a lot of damage. Try to play it as the last card each turn so you can use GRamona’s exalt to get more copies of it.
+
+## Teambuilding
+
+**Support:** GRamona is mainly used as a support for the specific DPS who can make use of the cards from her exalt. [Mouchette](/handbook/awakeners/mouchette/) is the biggest winner, since she can get back a Strike, Mortal Blast, and Shining Crush to repeat her burst combo. Less commonly, [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) can get Hyperflare, while [GLotan](/handbook/awakeners/glotan/) can get a bunch of strikes and Long Blade: Perish.
+
+**DPS:** GRamona needs a lot of time to scale Predetermined Strike, so she appreciates defensive teammates like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) and [Caraboo](/handbook/awakeners/caraboo/). She also benefits from supports that can grant STR and copy Predetermined Strike, such as [Thais](/handbook/awakeners/thais/) and [Hameln](/handbook/awakeners/hameln/).

@@ -8,7 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
-| **19 Sep 2026** | The guide now uses curly quotes by default. Overhauled Karen, Kath, Caraboo, and Daffodil guides. Added “RNG” to the glossary. |
+| **19 Sep 2026** | The guide now uses curly quotes by default. Overhauled Karen, Kath, Caraboo, and Daffodil guides. Added “RNG” to the glossary.<br/><br/>Fjant updated the site formatting after I pestered him some more. Thanks Fjant! |
 | **18 Sep 2026** | Fixed 24 writeup saying it’s a 25% final dmg boost (it’s based on your rouse level). Added Nymphaea as a C tier endgame dps. |
 | **12 Sep 2026** | Updated wording and Awakener Guides formatting. Overhauled Chaos Awakener Guides from “24” to Hameln. Updated Caraboo’s Works Well With. |
 | **11 Sep 2026** | Added eremora.com to the links. |

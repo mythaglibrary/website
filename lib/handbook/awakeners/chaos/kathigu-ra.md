@@ -46,6 +46,18 @@ While Kath doesn’t deal as much damage as dedicated DPS like [Mouchette](/hand
 
 As a result, Kath is reliable and self-sufficient, and a good choice for new players who are just starting out.
 
+## How to Play
+
+!!! note "TL;DR"
+
+    Generate Fiamma with Kath’s rouse, her exalt, and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}.
+
+    Play cards that have Fiamma to get Combust. Try to play cards that have 1 and 3 Fiamma. Don’t play the last Kath card in your hand.
+
+    When you have 10 Combust, play Hyperflare. If you have no STR, don’t spend any arithmetica on it.
+
+    Repeat until all the enemies are dead.
+
 ### Fiamma
 
 ![](/images/handbook/awakeners/kath-fiamma.png){width="256" class="on-glb" loading=lazy}
@@ -109,13 +121,7 @@ On the flip side, if you have too many Kath cards in hand, you should play them 
 
 You can add more Kath cards to your deck with wheels like [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"} or [Will Unyielding](https://skeydb.com/database/wheels/will-unyielding){target="_blank"}, but keep in mind that this also lowers your chance to draw specific cards, such as Hyperflare.
 
-### High Investment
-
-Kath has a good OE that gives two more stacks of Fiamma, speeding up her ramping. The increased aliemus cap is also good for her, since she tends to overcap with her strong aliemus generation.
-
-Her AA is essentially a 15% bonus to her damage and shielding outright, and the increased level cap is also impactful.
-
-### Teambuilding
+## Teambuilding
 
 Kath needs a lot of arithmetica and time to build up, so she’s often run in Ultra teams to get Insights and extra turns.
 
@@ -127,12 +133,8 @@ When built for shielding, Kath can have issues reaching 100% Crit Rate, and appr
 
 [Horla](/handbook/awakeners/horla/) and [Erica](/handbook/awakeners/erica/) can provide weakness and vulnerable at a very low arithmetica cost.
 
-## How to Play
+## High Investment
 
-Generate Fiamma with Kath’s rouse, her exalt, and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}.
+Kath has a good OE that gives two more stacks of Fiamma, speeding up her ramping. The increased aliemus cap is also good for her, since she tends to overcap with her strong aliemus generation.
 
-Play cards that have Fiamma to get Combust. Try to play cards that have 1 and 3 Fiamma. Don’t play the last Kath card in your hand.
-
-When you have 10 Combust, play Hyperflare. If you have no STR, don’t spend any arithmetica on it.
-
-Repeat until all the enemies are dead.
+Her AA is essentially a 15% bonus to her damage and shielding outright, and the increased level cap is also impactful.

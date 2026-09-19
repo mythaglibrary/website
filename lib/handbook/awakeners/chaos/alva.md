@@ -70,7 +70,13 @@ DPS Alva isn’t popular with veteran players, mainly because she competes for s
 
 ![](/images/handbook/awakeners/alva-precision-slash.png){width="100%" class="on-glb" loading=lazy}
 
-### Teambuilding
+## How to Play
+
+**Support:** Use Alva’s exalt if you need vulnerable, or if you need to get rid of symptoms in hand. Use Combat Stance if you need to unseal your awakeners.
+
+**DPS:** Rouse Alva and try to get a lot of copies of Precision Slash in hand. Then use Alva’s exalt, build a lot of shield, stack damage buffs, and unleash your burst combo.
+
+## Teambuilding
 
 DPS Alva likes two specific kinds of supports.
 
@@ -79,9 +85,3 @@ On the one hand, she likes teammates who can give her more copies of Precision S
 On the other hand, she likes teammates who can boost the damage from each Precision Slash, like [Nautila](/handbook/awakeners/nautila/) and [Helot](/handbook/awakeners/helot/).
 
 [Saya](/handbook/awakeners/saya/) is an excellent support because she does both, but her discard can be hard to play around.
-
-## How to Play
-
-**Support:** Use Alva’s exalt if you need vulnerable, or if you need to get rid of symptoms in hand. Use Combat Stance if you need to unseal your awakeners.
-
-**DPS:** Rouse Alva and try to get a lot of copies of Precision Slash in hand. Then use Alva’s exalt, build a lot of shield, stack damage buffs, and unleash your burst combo.

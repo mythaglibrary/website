@@ -64,14 +64,6 @@ Caraboo’s SSR wheel, [Honeyed Deceit](https://skeydb.com/database/wheels/honey
 
 Although it isn’t her main role, Caraboo also has good personal damage for a support. At low levels, she can carry teams just with Snowy Hex and her exalt. This makes her a very useful character for new accounts.
 
-### Teambuilding
-
-Caraboo can fit into any team as a defensive character. Her biggest issue is that her Blessings can randomly inflict weakness on you, which is more of a hindrance to some teams than a boon.
-
-She works best in slow [stall teams](/handbook/team#stall) that don’t care about being afflicted with weakness. For example, you can use her in [poison teams](/handbook/team#poison) with [Xu](/handbook/awakeners/xu/), or with damage dealers that deal Fixed DMG like [Vortice](/handbook/awakeners/vortice/) and [Pontos](/handbook/awakeners/pontos/).
-
-In general, she has good synergy with Aequor, as Tranquil Sea shields scale with your Max HP, and Aequor is a good realm for stalling.
-
 ## How to Play
 
 Play Miracle Blessing, and play the Blessings it generates. Rejoice when the effects are good. Cry when you get screwed by RNG.
@@ -79,3 +71,11 @@ Play Miracle Blessing, and play the Blessings it generates. Rejoice when the eff
 Use Caraboo’s exalt to convert Satiety into Max HP, or just as a source of damage and shields.
 
 Play Snowy Hex to deal damage and inflict weakness if needed.
+
+## Teambuilding
+
+Caraboo can fit into any team as a defensive character. Her biggest issue is that her Blessings can randomly inflict weakness on you, which is more of a hindrance to some teams than a boon.
+
+She works best in slow [stall teams](/handbook/team#stall) that don’t care about being afflicted with weakness. For example, you can use her in [poison teams](/handbook/team#poison) with [Xu](/handbook/awakeners/xu/), or with damage dealers that deal Fixed DMG like [Vortice](/handbook/awakeners/vortice/) and [Pontos](/handbook/awakeners/pontos/).
+
+In general, she has good synergy with Aequor, as Tranquil Sea shields scale with your Max HP, and Aequor is a good realm for stalling.

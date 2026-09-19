@@ -55,12 +55,12 @@ Soul Overture inflicts random debuffs on enemies, which can inflict weakness and
 
 Hameln is fairly powerful in [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages, as if you put him with other card draw and arithmetica supports, he can loop Memory Rondo and set up near-infinite combo turns. He falls off in [Astral Reign](/handbook/storylines#astral-reign-arc-2) because [Arithmetica Harmony](/handbook/storylines#arithmetica-harmony) limits the number of cards you can play each turn.
 
-### Teambuilding
-
-Hameln is mainly used for setting up DPS who want to play a lot of cards in one turn, like [Tawil](/handbook/awakeners/tawil/) and [GLotan](/handbook/awakeners/glotan/).
-
 ## How to Play
 
 Play Memory Rondo to get Insights. Use Hameln’s exalt to copy good cards.
 
 If you expect the fight to go long, you can rouse Hameln for more arithmetica per turn.
+
+## Teambuilding
+
+Hameln is mainly used for setting up DPS who want to play a lot of cards in one turn, like [Tawil](/handbook/awakeners/tawil/) and [GLotan](/handbook/awakeners/glotan/).
