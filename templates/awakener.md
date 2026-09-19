@@ -42,6 +42,9 @@ awakener:
 
 Write the overview as ordinary Markdown here.
 
+<!-- Any ## heading starts a full-width section before builds. Add, rename,
+or remove sections freely. Use ### or smaller headings for subsections. -->
+
 ## How to Play
 
 Optional: explain how to use this Awakener here. Remove this heading and text

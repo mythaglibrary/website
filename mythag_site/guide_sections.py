@@ -8,7 +8,6 @@ from markdown.postprocessors import Postprocessor
 from markdown.treeprocessors import Treeprocessor
 from zensical.extensions.context import ContextPreprocessor
 
-OPTIONAL_SECTIONS = {"how to play", "teambuilding", "high investment"}
 SECTION_PATTERN = re.compile(r"<mythag-guide-section>(.*?)</mythag-guide-section>", re.S)
 TEMPLATE_TOC_PATTERN = re.compile(r"<mythag-template-toc>.*?</mythag-template-toc>", re.S)
 
@@ -22,7 +21,7 @@ class GuideSections(Treeprocessor):
         children = list(root)
         sections = []
         for start, child in enumerate(children):
-            if child.tag != "h2" or "".join(child.itertext()).strip().casefold() not in OPTIONAL_SECTIONS:
+            if child.tag != "h2":
                 continue
             end = next((i for i in range(start + 1, len(children)) if children[i].tag == "h2"), len(children))
             root.remove(child)

@@ -167,10 +167,15 @@ Follow a [Git workflow](https://docs.github.com/en/get-started/using-github/gith
 
 ### Optional Awakener guide sections
 
-Use `## How to Play`, `## Teambuilding`, and `## High Investment` for full-width
-sections before the builds. These sections support ordinary Markdown, including
-subheadings and icon shortcuts, and appear in the order you write them. Omit
-sections that are not ready; empty headings do not create a section.
+Use any `## Heading` for a full-width section before the builds. For example,
+`## How to Play`, `## Teambuilding`, and `## High Investment` are useful starting
+points, but you can freely add or rename sections without configuration changes.
+Text before the first H2 stays in the character overview. Use `###` or smaller
+headings for subsections within the overview or a full-width section.
+
+Sections support ordinary Markdown, including icon shortcuts, and appear in the
+order you write them. Omit sections that are not ready; empty headings do not
+create a section.
 
 Builds, Suggested Posse, Works Well With, and Example Teams appear in the normal
 page navigation when present, alongside the authored headings. The separate
