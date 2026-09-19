@@ -45,6 +45,8 @@ awakener:
     - ryker
 ---
 
+### Introduction
+
 Karen is a dedicated support for generating arithmetica. Her exalt gives you a card called Marvelous Cuisine, which is effectively 3 arithmetica that you can cash in at any time. (Black Lotus, anyone?)
 
 At E3, Marvelous Cuisine also grants random beneficial effects, which can include weakness and vulnerable if you're lucky (or retry over and over).

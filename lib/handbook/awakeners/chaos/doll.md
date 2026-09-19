@@ -60,6 +60,8 @@ awakener:
     - anyone
 ---
 
+### Introduction
+
 Doll is a straightforward healer who does her job of keeping you alive. Her high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot) as well.
 
 Doll’s E1 makes her one of the best weakness appliers among all standard characters — great for surviving harder difficulties on a new account.
