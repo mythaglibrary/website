@@ -3,7 +3,7 @@ title: Caraboo
 description: 'Builds and new-player guidance for the Propagation: Caro Awakener Caraboo.'
 template: awakeners/awakener.html
 awakener:
-  tagline: '"Random Bullshit Go" Tank'
+  tagline: '“Random Bullshit Go” Tank'
   roles:
     - Shields
     - Max HP Increase
@@ -45,13 +45,37 @@ awakener:
   works_well_with:
     - xu
     - vortice
+    - pontos
     - sanga
     - anyone
 ---
 
-A shielder who inflicts weakness and buffs your Max HP in long explorations. For a support, she contributes relatively high damage and can solo carry stages at low levels.
+Caraboo is a shielder and defensive support with the unique ability to buff your Max HP. She can also inflict weakness and brings a wide variety of utility.
 
-Her Blessings have powerful effects, but can’t be relied on too much, as the randomness and Veiled Malice debuffs can screw you over.
+### Blessings
 
-She fits in most teams as long as you can dispel or work around her self-inflicted weakness.
+Her gameplay revolves around her Miracle Blessing card, which adds **Blessings** to your deck. These are cards that have powerful random effects, but have a chance to screw you over.
 
+While it’s a gamble whether her Blessings are actually useful, playing them grants stacks of **Satiety**, up to a maximum of 5 stacks. Caraboo’s exalt consumes these stacks and increases your Max HP by a corresponding amount for the rest of the exploration. In long explorations, Caraboo can inflate your Max HP to silly amounts, while amassing value with her Blessings, making her a strong centerpiece of [stall teams](/handbook/team#stall) in high-difficulty content.
+
+Caraboo’s SSR wheel, [Honeyed Deceit](https://skeydb.com/database/wheels/honeyed-deceit), helps her draw Miracle Blessing more often, and is quite useful for her gameplay in higher difficulties. It’s a good idea to get it if you want to invest in Caraboo.
+
+### Damage
+
+Although it isn’t her main role, Caraboo also has good personal damage for a support. At low levels, she can carry teams just with Snowy Hex and her exalt. This makes her a very useful character for new accounts.
+
+### Teambuilding
+
+Caraboo can fit into any team as a defensive character. Her biggest issue is that her Blessings can randomly inflict weakness on you, which is more of a hindrance to some teams than a boon.
+
+She works best in slow [stall teams](/handbook/team#stall) that don’t care about being afflicted with weakness. For example, you can use her in [poison teams](/handbook/team#poison) with [Xu](/handbook/awakeners/xu/), or with damage dealers that deal Fixed DMG like [Vortice](/handbook/awakeners/vortice/) and [Pontos](/handbook/awakeners/pontos/).
+
+In general, she has good synergy with Aequor, as Tranquil Sea shields scale with your Max HP, and Aequor is a good realm for stalling.
+
+## How to Play
+
+Play Miracle Blessing, and play the Blessings it generates. Rejoice when the effects are good. Cry when you get screwed by RNG.
+
+Use Caraboo’s exalt to convert Satiety into Max HP, or just as a source of damage and shields.
+
+Play Snowy Hex to deal damage and inflict weakness if needed.

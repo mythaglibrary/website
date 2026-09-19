@@ -14,25 +14,25 @@ This is a quick guide for new players who are just starting out and want to know
 
 There are two tier lists provided here. The DPS Tier List is for the main damage dealer that [a team is built around](/handbook/team). The Support Tier List is for the other 3 characters who help to enable the DPS.
 
-**These are "poverty newbie tier lists."** They assume you're a new player and your goal is to do story stages, event stages, and D-tide Normal and Hard difficulty. They also assume the character is at most E3 and you don't have many limited awakeners or SSR wheels.
+**These are “poverty newbie tier lists.”** They assume you're a new player and your goal is to do story stages, event stages, and D-tide Normal and Hard difficulty. They also assume the character is at most E3 and you don’t have many limited awakeners or SSR wheels.
 
 For notes on D-tide Nightmare and Madness difficulty, you can check [Awakener Tier Lists (For Endgame)](/handbook/tier-list-endgame).
 
-**If an enlighten is specified, it means it's important for the character to work.** Without that enlighten, the character will be one or two tiers lower on the tier list.
+**If an enlighten is specified, it means it’s important for the character to work.** Without that enlighten, the character will be one or two tiers lower on the tier list.
 
 **Keep in mind that the actual performance of a character will depend on the stage.**
 
-**The order of characters in each tier doesn't matter.** They're listed in realm order.
+**The order of characters in each tier doesn’t matter.** They're listed in realm order.
 
 **There are no useless characters in this game.** With enough investment and patience, most stages can be beaten with anything. This tier list just tells you how much work it takes to make a character viable.
 
 ## Newbie DPS Tier List
 
-A <span style="background-color: var(--md-tier-free);">yellow</span> background means it's a free character you can get without using pulls.
+A <span style="background-color: var(--md-tier-free);">yellow</span> background means it’s a free character you can get without using pulls.
 
-A <span style="background-color: var(--md-tier-standard);">blue</span> background means it's a standard character you can get with Pure Cores.
+A <span style="background-color: var(--md-tier-standard);">blue</span> background means it’s a standard character you can get with Pure Cores.
 
-If a character isn't listed, it means you would need a crazy reason to use them as a DPS.
+If a character isn’t listed, it means you would need a crazy reason to use them as a DPS.
 
 ### S (Newbie Solo Carry) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
@@ -181,9 +181,9 @@ These characters deal enough damage to clear Normal stages as main DPS, but they
   Liz (E1)
 </div>
 <div class="item" markdown>
-  [!["24"](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
+  [![“24”](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
 
-  "24"
+  “24”
 </div>
 <div class="item" markdown>
   [![Lily](/images/awakeners/chaos/lily--mini.png){loading=lazy}](/handbook/awakeners/lily)
@@ -266,11 +266,11 @@ These characters need an unrealistic amount of effort for a new player to clear 
 
 ## Newbie Support Tier List
 
-A <span style="background-color: var(--md-tier-free);">yellow</span> background means it's a free character you can get without using pulls.
+A <span style="background-color: var(--md-tier-free);">yellow</span> background means it’s a free character you can get without using pulls.
 
-A <span style="background-color: var(--md-tier-standard);">blue</span> background means it's a standard character you can get with Pure Cores.
+A <span style="background-color: var(--md-tier-standard);">blue</span> background means it’s a standard character you can get with Pure Cores.
 
-If a character isn't listed, it means you would need a crazy reason to use them as a support.
+If a character isn’t listed, it means you would need a crazy reason to use them as a support.
 
 ### S (Meta Defining) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
@@ -502,9 +502,9 @@ These characters are good at one or two specific things, which makes them valuab
   Winkle
 </div>
 <div class="item" markdown>
-  [!["24"](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
+  [![“24”](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
 
-  "24"
+  “24”
 </div>
 <div class="item" markdown>
   [![Hameln](/images/awakeners/chaos/hameln--mini.png){loading=lazy}](/handbook/awakeners/hameln)
@@ -562,7 +562,7 @@ These characters have a unique ability that no other character has, which makes 
 
 ### C (Technically Usable) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
-While this character can be used as a support, they generally aren't the first choice as other characters fill the same role better.
+While this character can be used as a support, they generally aren’t the first choice as other characters fill the same role better.
 
 <div class="grid-96" markdown>
 <div class="item" markdown>

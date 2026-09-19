@@ -62,12 +62,12 @@ awakener:
 
 Doll is a straightforward healer who does her job of keeping you alive. Her high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot) as well.
 
-Doll's E1 makes her one of the best weakness appliers among all standard characters — great for surviving harder difficulties on a new account.
+Doll’s E1 makes her one of the best weakness appliers among all standard characters — great for surviving harder difficulties on a new account.
 
-She's most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus.
+She’s most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus.
 
 If roused and equipped with [Unstained Chronicle](/handbook/team#unstained-chronicle), she generates lots of shields in addition to healing.
 
 ## How to Play
 
-Use Doll's exalt and cards to stay alive.
+Use Doll’s exalt and cards to stay alive.

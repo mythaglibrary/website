@@ -14,7 +14,7 @@ This is a quick guide to what characters are good in the Nightmare and Madness d
 
 These tier lists are not relevant to the vast majority of players. However, if you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
 
-**Keep in mind that the actual performance of a character will depend on the stage.** Especially in Madness difficulty, a team can effortlessly cheese one boss, only to be hard countered by another. There are too many possible factors to take all of them into account, so this guide focuses on what characters can be relied on to clear an "average" wave with no gimmicks.
+**Keep in mind that the actual performance of a character will depend on the stage.** Especially in Madness difficulty, a team can effortlessly cheese one boss, only to be hard countered by another. There are too many possible factors to take all of them into account, so this guide focuses on what characters can be relied on to clear an “average” wave with no gimmicks.
 
 **Take these tier lists with a grain of salt.** The new D-tide difficulties have only just released. As balance changes happen and we get a better idea of what works, this guide will be updated accordingly.
 
@@ -33,9 +33,9 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
   Lotan (OE)
 </div>
 <div class="item" markdown>
-  [!["24"](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
+  [![“24”](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
 
-  "24"
+  “24”
 </div>
 <div class="item" markdown>
   [![Vortice](/images/awakeners/aequor/vortice--mini.png){loading=lazy}](/handbook/awakeners/vortice)
@@ -400,7 +400,7 @@ In specific teams, this character might be useful enough to run in high-difficul
 
 ### C (Niche Role) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
-This character isn't a useful support in the majority of high-difficulty stages, but might be useful for specific fights.
+This character isn’t a useful support in the majority of high-difficulty stages, but might be useful for specific fights.
 
 <div class="grid-96" markdown>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">

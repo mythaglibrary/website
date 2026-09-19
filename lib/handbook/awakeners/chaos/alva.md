@@ -64,9 +64,9 @@ Alva is a support who is mainly used for her exalt and Combat Stance. She can un
 
 ### DPS Build
 
-Alva's Precision Slash has a high damage ceiling. At E3, this makes her a viable DPS. With the right build, she can hit for upwards of 50K damage per Precision Slash.
+Alva’s Precision Slash has a high damage ceiling. At E3, this makes her a viable DPS. With the right build, she can hit for upwards of 50K damage per Precision Slash.
 
-DPS Alva isn't popular with veteran players, mainly because she competes for supports with stronger DPS like [Mouchette](/handbook/awakeners/mouchette/) and [GHelot](/handbook/awakeners/ghelot/). That being said, she's a perfectly viable option if you like her.
+DPS Alva isn’t popular with veteran players, mainly because she competes for supports with stronger DPS like [Mouchette](/handbook/awakeners/mouchette/) and [GHelot](/handbook/awakeners/ghelot/). That being said, she’s a perfectly viable option if you like her.
 
 ![](/images/handbook/awakeners/alva-precision-slash.png){width="100%" class="on-glb" loading=lazy}
 
@@ -82,6 +82,6 @@ On the other hand, she likes teammates who can boost the damage from each Precis
 
 ## How to Play
 
-**Support:** Use Alva's exalt if you need vulnerable, or if you need to get rid of symptoms in hand. Use Combat Stance if you need to unseal your awakeners.
+**Support:** Use Alva’s exalt if you need vulnerable, or if you need to get rid of symptoms in hand. Use Combat Stance if you need to unseal your awakeners.
 
-**DPS:** Rouse Alva and try to get a lot of copies of Precision Slash in hand. Then use Alva's exalt, build a lot of shield, stack damage buffs, and unleash your burst combo.
+**DPS:** Rouse Alva and try to get a lot of copies of Precision Slash in hand. Then use Alva’s exalt, build a lot of shield, stack damage buffs, and unleash your burst combo.

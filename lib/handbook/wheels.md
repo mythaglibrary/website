@@ -14,7 +14,7 @@ This is a reference for new players who are unsure what SSR wheels are worth pul
 
 A <span style="background-color: var(--md-tier-free);">yellow</span> background means you can buy it from the Store without using pulls.
 
-A <span style="background-color: var(--md-tier-standard);">blue</span> background means it's a standard wheel you can get with Pure Cores.
+A <span style="background-color: var(--md-tier-standard);">blue</span> background means it’s a standard wheel you can get with Pure Cores.
 
 Wheels not on this list are not recommended for new players to spend resources on.
 
@@ -182,9 +182,9 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
   *(keyflare, replaying cards)*
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Winter's Requiem](/images/wheels/winters-requiem.png){loading=lazy}](https://skeydb.com/database/wheels/winters-requiem){target="_blank"}
+  [![Winter’s Requiem](/images/wheels/winters-requiem.png){loading=lazy}](https://skeydb.com/database/wheels/winters-requiem){target="_blank"}
 
-  [**Winter's Requiem**](https://skeydb.com/database/wheels/winters-requiem){target="_blank"}
+  [**Winter’s Requiem**](https://skeydb.com/database/wheels/winters-requiem){target="_blank"}
 
   Mythag Shop
 
@@ -245,9 +245,9 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
   *(for exalt DPS)*
 </div>
 <div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![The Glutton's Tale](/images/wheels/the-gluttons-tale.png){loading=lazy}](https://skeydb.com/database/wheels/the-gluttons-tale){target="_blank"}
+  [![The Glutton’s Tale](/images/wheels/the-gluttons-tale.png){loading=lazy}](https://skeydb.com/database/wheels/the-gluttons-tale){target="_blank"}
 
-  [**The Glutton's Tale**](https://skeydb.com/database/wheels/the-gluttons-tale){target="_blank"}
+  [**The Glutton’s Tale**](https://skeydb.com/database/wheels/the-gluttons-tale){target="_blank"}
 
   [Leigh](/handbook/awakeners/leigh)
 

@@ -7,7 +7,7 @@ icon: lucide/wallet
 # Spending Your Resources
 
 <figure markdown="span">
-  ![](/images/emojis/caecus-crying.png){width="128"} <figcaption>Caecus wasted all his Rose Scrip and is now broke. Don't be like Caecus.</figcaption>
+  ![](/images/emojis/caecus-crying.png){width="128"} <figcaption>Caecus wasted all his Rose Scrip and is now broke. Don’t be like Caecus.</figcaption>
 </figure>
 
 ## Your First Awakening
@@ -152,7 +152,7 @@ You get standard pulls like water in this game, and you get standard characters 
 
 All of these characters are viable in story mode, event stages, and Hard stages; in other words, 99% of the gameplay content that exists in Morimens. ([Pandia](/handbook/awakeners/pandia/), [Uvhash](/handbook/awakeners/uvhash/), and [Liz](/handbook/awakeners/liz/) are relatively more demanding to make work, but they are still viable.)
 
-You will probably have more fun doing the story mode with a character you like, rather than a character who is stronger but you don't care much about.
+You will probably have more fun doing the story mode with a character you like, rather than a character who is stronger but you don’t care much about.
 
 If you *only* care about meta, you can go to the [official Discord](https://discord.gg/RAegY8wcGx) and ask what standard characters work best with the current rate-up limited characters. This will help you speedrun the early game faster.
 
@@ -160,7 +160,7 @@ If you *only* care about meta, you can go to the [official Discord](https://disc
 
 **No, rerolling is a waste of time.**
 
-Keeper level (account level) is the most valuable stat in this game. Everything else can be fixed with money or patience, but you can't raise your keeper level unless you stick to one account for a long time.
+Keeper level (account level) is the most valuable stat in this game. Everything else can be fixed with money or patience, but you can’t raise your keeper level unless you stick to one account for a long time.
 
 If you feel stuck, remember that Morimens is a strategy game. Trying out different teams and strategies will be a much more effective use of your time than rerolling.
 
@@ -185,17 +185,17 @@ If you regret your investment decisions, you can wait for the developers to give
 
 In general, limited characters are more flexible and powerful than standard characters. For a new player with a fresh account, the fastest way to clear harder stages and get more rewards is to pick a currently running limited character to focus on.
 
-**You can skip limited Wheels of Destiny if you need to save pulls.** This is because characters don't need their own wheel to function. You can substitute with standard SSR wheels, or even lower-rarity wheels, for most of the content in the game. Sometimes the substitute is more powerful than the character's own wheel.
+**You can skip limited Wheels of Destiny if you need to save pulls.** This is because characters don’t need their own wheel to function. You can substitute with standard SSR wheels, or even lower-rarity wheels, for most of the content in the game. Sometimes the substitute is more powerful than the character’s own wheel.
 
 This guide includes [Awakener Tier Lists](/handbook/tier-list) and an [SSR Wheel Tier List](/handbook/wheels). The higher tier an awakener or wheel is, the more recommended it is for new players to pull for.
 
 ![](/images/handbook/resources/moonless-guide.png){width="384" loading=lazy}
 
-The Moonless Guide banner lets you select 4 limited characters from the first year of Morimens. To summarize this guide's [Awakener Tier Lists](/handbook/tier-list):
+The Moonless Guide banner lets you select 4 limited characters from the first year of Morimens. To summarize this guide’s [Awakener Tier Lists](/handbook/tier-list):
 
 - [Thais](/handbook/awakeners/thais/) and [Horla](/handbook/awakeners/horla/) are very powerful and highly recommended for new players.
 - [Lily](/handbook/awakeners/lily/), [Ryker](/handbook/awakeners/ryker/), [Tawil](/handbook/awakeners/tawil/), [Miryam](/handbook/awakeners/miryam/), [Murphy](/handbook/awakeners/murphy/), [GHelot](/handbook/awakeners/ghelot/), and [Salvador](/handbook/awakeners/salvador/) are strong and solid choices.
-- ["24"](/handbook/awakeners/24/) is weak for new players but quite good in endgame content. She can be considered as a long-term investment.
+- [“24”](/handbook/awakeners/24/) is weak for new players but quite good in endgame content. She can be considered as a long-term investment.
 - [Hameln](/handbook/awakeners/hameln/), [Tulu](/handbook/awakeners/tulu/), and [Daffodil](/handbook/awakeners/daffodil/) are niche and not especially powerful.
 - [Sorel](/handbook/awakeners/sorel/) and [Wanda](/handbook/awakeners/wanda/) are not recommended for new players unless you really like them.
 
@@ -209,29 +209,29 @@ Once you hit a recommended stopping point for any of the selected characters, th
 
 **Use your Pure Cores to pull on all the realms in Realm Study and get lots of characters to build teams with.**
 
-You need at least 2 characters from each realm to complete Lightless Realm and event achievements. You also need 5 teams if you don't want to miss seasonal rewards from [D-Effect Zone](/handbook/d-zone) (for a total of 19 characters + 1 borrowed support).
+You need at least 2 characters from each realm to complete Lightless Realm and event achievements. You also need 5 teams if you don’t want to miss seasonal rewards from [D-Effect Zone](/handbook/d-zone) (for a total of 19 characters + 1 borrowed support).
 
-Morimens is a deckbuilding game. All the standard characters in this game are useful in some way. If you have problems clearing a stage, the solution is often to change your team composition. You can't do this if you have no characters.
+Morimens is a deckbuilding game. All the standard characters in this game are useful in some way. If you have problems clearing a stage, the solution is often to change your team composition. You can’t do this if you have no characters.
 
 **Aim for characters that work well with the limited character(s) you pulled for.** The [Awakener Guides](/handbook/awakeners/) section has an overview of what each character does and what teammates they might want.
 
-**Don't focus on enlightens for standard characters as a new player.** If you have trouble clearing normal story stages, learning the game mechanics and having other characters to swap in is more important.
+**Don’t focus on enlightens for standard characters as a new player.** If you have trouble clearing normal story stages, learning the game mechanics and having other characters to swap in is more important.
 
 !!! info ""
     ![](/images/awakeners/chaos/gramona--mini.png){width="88.4833" loading=lazy}
     ![](/images/handbook/resources/genesis-form.png){width="384" loading=lazy}
 
-    [Ramona: Timeworn (GRamona)](/handbook/awakeners/gramona/) is an alternate form of Ramona with different abilities. If you want her, she costs 60 Pure Cores to unlock. You also need to unlock and complete her Psyche Deepdive side story, "One Step Away."
+    [Ramona: Timeworn (GRamona)](/handbook/awakeners/gramona/) is an alternate form of Ramona with different abilities. If you want her, she costs 60 Pure Cores to unlock. You also need to unlock and complete her Psyche Deepdive side story, “One Step Away.”
 
 ![](/images/handbook/resources/wheels.png){width="384" loading=lazy}
 
 **If you have enough characters, you can pull for wheels in Wheels of Rotation.** The [Awakener Guides](/handbook/awakeners/) section has suggested SSR wheels for each character. The [SSR Wheel Tier List](/handbook/wheels) lists wheels that are generally useful for many teams. Start by getting E3 of every wheel you plan to use in your main team or in [D-Effect Zone](/handbook/d-zone).
 
-**If you already did all of the above and don't know what to pull next**, you can:
+**If you already did all of the above and don’t know what to pull next**, you can:
 
 - Get any standard character enlightens you are missing.
 - Pull on the standard character banner to fish for limited characters and +12 standards.
-- Go to "wheel jail" and try to get a wheel to +12. You can equip two SSR wheels at once if one of them is at +12. [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners/goliath/)'s SSR wheel) is a good candidate for this.
+- Go to “wheel jail” and try to get a wheel to +12. You can equip two SSR wheels at once if one of them is at +12. [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners/goliath/)’s SSR wheel) is a good candidate for this.
 - Unlock [Gnostic Potential](#gnostic-potential) for your standard characters.
 
 ## Spending Menophin *(Stamina)*
@@ -244,9 +244,9 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
 
 **Spend your menophin on limited-time events.** There is usually an ongoing event with stages that cost menophin to challenge. Once you do the achievements and get the SR wheel from the event, the rewards are the same as interludes or better. If you own the associated limited character or their SSR wheel, you get even more bonus rewards.
 
-There are two kinds of events: "shop" events, which let you pick rewards from a shop, and "lottery" events, which give random rewards. Shop events are usually better value for your menophin.
+There are two kinds of events: “shop” events, which let you pick rewards from a shop, and “lottery” events, which give random rewards. Shop events are usually better value for your menophin.
 
-**After fully unlocking the event, don't be afraid to use Special Potion Supply** *(stamina refills)*. As a new player, getting keeper level XP and level up materials *right now* is probably more worthwhile than whatever you are saving for in the future.
+**After fully unlocking the event, don’t be afraid to use Special Potion Supply** *(stamina refills)*. As a new player, getting keeper level XP and level up materials *right now* is probably more worthwhile than whatever you are saving for in the future.
 
 **You can do the highest difficulty and get maximum rewards.** Unlike interludes, events are not gated by keeper level. The highest difficulties can easily be beaten by borrowing a level 90 [Mouchette](/handbook/awakeners/mouchette/) from the leaderboards. (See [How to clear event lvl 60 stages at lvl 1](https://www.reddit.com/r/Morimens/comments/1shmgbs/how_to_clear_event_lvl_60_stages_at_level_1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button){target="_blank"}.)
 
@@ -254,21 +254,21 @@ There are two kinds of events: "shop" events, which let you pick rewards from a 
   ![](/images/handbook/resources/madness-clear.png){width="600" class="on-glb" loading=lazy} <figcaption>Even a level 5 account can clear Madness difficulty with a maxed out [Mouchette](/handbook/awakeners/mouchette/)</figcaption>
 </figure>
 
-After you clear a stage once, you can re-enact it to instantly get rewards. As a new player, it's worth it to spend a few Emergency Gnoses to clear the level 60 stages, so you get all achievements and huge value for your menophin for the next 2 weeks.
+After you clear a stage once, you can re-enact it to instantly get rewards. As a new player, it’s worth it to spend a few Emergency Gnoses to clear the level 60 stages, so you get all achievements and huge value for your menophin for the next 2 weeks.
 
 ### Interludes
 
 ![](/images/handbook/resources/interludes.png){width="384" loading=lazy}
 
-Sometimes you're unlucky and can't get a specific resource you need from events. In that case, you can farm interludes instead. Try not to do this unless you're desperate.
+Sometimes you're unlucky and can’t get a specific resource you need from events. In that case, you can farm interludes instead. Try not to do this unless you're desperate.
 
 ### Verboten Covenant
 
 ![](/images/handbook/resources/verboten-covenant.png){width="384" loading=lazy}
 
-**When you unlock covenants at Keeper Level 25, spend some menophin to outfit your characters.** Event stages never give covenants. The only way to get certain covenants, like [Burial Ground's Sighs](/handbook/team#burial-grounds-sighs) or [Life Drain](/handbook/team#life-drain), is to spend menophin doing Verboten Covenant interludes.
+**When you unlock covenants at Keeper Level 25, spend some menophin to outfit your characters.** Event stages never give covenants. The only way to get certain covenants, like [Burial Ground’s Sighs](/handbook/team#burial-grounds-sighs) or [Life Drain](/handbook/team#life-drain), is to spend menophin doing Verboten Covenant interludes.
 
-**Don't worry about substats or covenant binding as a new player.** Grinding covenants is incredibly expensive and best left for endgame when you have nothing else to spend Rose Scrip on. For now, focus on getting a 6-piece set with the correct main stats for each covenant set you plan to use.
+**Don’t worry about substats or covenant binding as a new player.** Grinding covenants is incredibly expensive and best left for endgame when you have nothing else to spend Rose Scrip on. For now, focus on getting a 6-piece set with the correct main stats for each covenant set you plan to use.
 
 The [Awakener Guides](/handbook/awakeners/) section suggests covenants for each character. The [Building Covenants](/handbook/team#building-covenants) section suggests main stats and substats to aim for.
 
@@ -284,7 +284,7 @@ The [Awakener Guides](/handbook/awakeners/) section suggests covenants for each 
 
 **Raise everyone to at least level 60.** This increases their CON and thus your max HP. You also unlock milestones in the Records for having level 60 characters. Level 60 is cheap to reach if you [farm limited-time events](#events).
 
-**Prioritize damage dealers and shielders** — characters where the numbers matter. ATK and DEF only affect the numbers on an awakener's command cards and exalt. For a character like [Aigis](/handbook/awakeners/aigis/), her debuffs are the same at level 1 or level 90, so leveling her up has less of an impact than leveling up your main damage dealer.
+**Prioritize damage dealers and shielders** — characters where the numbers matter. ATK and DEF only affect the numbers on an awakener’s command cards and exalt. For a character like [Aigis](/handbook/awakeners/aigis/), her debuffs are the same at level 1 or level 90, so leveling her up has less of an impact than leveling up your main damage dealer.
 
 ### Skills
 
@@ -297,9 +297,9 @@ The [Awakener Guides](/handbook/awakeners/) section suggests covenants for each 
 
 **Raise all command cards to at least level 3.**
 
-**Prioritize skills where the numbers matter.** For example, leveling up [Lotan](/handbook/awakeners/lotan/)'s rouse only increases the amount of aliemus you get from the rouse — a bonus you only get once per fight. In contrast, leveling up her exalt increases the damage of her highest-damage skill, *and* the rate at which it scales up over time, *and* the damage and aliemus from the generated strikes at E3.
+**Prioritize skills where the numbers matter.** For example, leveling up [Lotan](/handbook/awakeners/lotan/)’s rouse only increases the amount of aliemus you get from the rouse — a bonus you only get once per fight. In contrast, leveling up her exalt increases the damage of her highest-damage skill, *and* the rate at which it scales up over time, *and* the damage and aliemus from the generated strikes at E3.
 
-**Don't neglect Strikes and Defenses.** These give more aliemus when upgraded, which is important for all characters.
+**Don’t neglect Strikes and Defenses.** These give more aliemus when upgraded, which is important for all characters.
 
 ### Soulforge Aptitude
 
@@ -312,7 +312,7 @@ The [Awakener Guides](/handbook/awakeners/) section suggests covenants for each 
 
 Each soulforge level increases CON, ATK, and DEF by 3% in Astral Reign stages. This is like adding 5 extra character levels per soulforge level.
 
-**At minimum, get soulforge level 1 on everyone.** This unlocks their Soulforge Aptitude talent, which in most cases is like a free enlighten. If you don't have any soulforge levels on a character, you're missing part of their kit in Astral Reign stages.
+**At minimum, get soulforge level 1 on everyone.** This unlocks their Soulforge Aptitude talent, which in most cases is like a free enlighten. If you don’t have any soulforge levels on a character, you're missing part of their kit in Astral Reign stages.
 
 ### Madness Omen
 
@@ -322,7 +322,7 @@ Each soulforge level increases CON, ATK, and DEF by 3% in Astral Reign stages. T
 
 This talent is super expensive to unlock. The only thing it does is make the character start the stage with 5 more aliemus per level.
 
-It's useful on some characters who need to exalt in the first fight (e.g. [Aigis](/handbook/awakeners/aigis/)), but you don't have to worry about it as a new player.
+It’s useful on some characters who need to exalt in the first fight (e.g. [Aigis](/handbook/awakeners/aigis/)), but you don’t have to worry about it as a new player.
 
 ### Gnostic Potential
 
@@ -330,7 +330,7 @@ It's useful on some characters who need to exalt in the first fight (e.g. [Aigis
 
 **Ignore this until you run out of other things to spend Pure Cores on.**
 
-This talent is automatically unlocked for limited characters. You can manually unlock it for standard characters, but it's absurdly expensive. Leave it until you've already pulled a lot and you have all the standard characters and wheels you want.
+This talent is automatically unlocked for limited characters. You can manually unlock it for standard characters, but it’s absurdly expensive. Leave it until you've already pulled a lot and you have all the standard characters and wheels you want.
 
 ## Mythag Shop Priority List
 
@@ -340,7 +340,7 @@ This talent is automatically unlocked for limited characters. You can manually u
 
 **Buy whatever you need from the shop.** This is a good place to get XP potions and skill upgrade materials.
 
-**Don't spend more Rose Scrip than you need to.** Early on, you might feel like you’re drowning in money, but that money will quickly evaporate once you start upgrading your covenants and increasing the level caps of your characters. Only buy something from the shop if you're going to use it right away.
+**Don’t spend more Rose Scrip than you need to.** Early on, you might feel like you’re drowning in money, but that money will quickly evaporate once you start upgrading your covenants and increasing the level caps of your characters. Only buy something from the shop if you're going to use it right away.
 
 
 ### Sediment
@@ -368,7 +368,7 @@ This talent is automatically unlocked for limited characters. You can manually u
 ![](/images/covenants/scarlet-embrace.png){width="80" loading=lazy}
 ![](/images/covenants/paradox.png){width="80" loading=lazy}
 
-If you have leftover Sediment each month, you can buy other stuff like Mimetic Crystals, Luminous Cores, Gnosis Fragments, or covenants. Pure Cores aren't really worth it since you get a lot from dailies.
+If you have leftover Sediment each month, you can buy other stuff like Mimetic Crystals, Luminous Cores, Gnosis Fragments, or covenants. Pure Cores aren’t really worth it since you get a lot from dailies.
 
 ![](/images/wheels/heart-of-silver--mini.png){width="80" loading=lazy}
 
@@ -393,12 +393,12 @@ Heart of Silver has Keyflare Regen as a main stat and can be used for cheesy Eme
 ![](/images/covenants/dream-of-medicine.png){width="80" loading=lazy}
 ![](/images/icons/shop/remembrance-quill.png){width="80" loading=lazy}
 
-If you have leftover Badges each month, you can spend them to buy covenants or Remembrance Quills (pens). Keep in mind that it's hard to get Badges after you finish the story.
+If you have leftover Badges each month, you can spend them to buy covenants or Remembrance Quills (pens). Keep in mind that it’s hard to get Badges after you finish the story.
 
 ![](/images/icons/cores/luminous.png){width="80" loading=lazy}
 ![](/images/icons/cores/pure.png){width="80" loading=lazy}
 
-You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don't refresh.
+You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don’t refresh.
 
 ### Lightless
 
@@ -422,7 +422,7 @@ If you have extra currency, you can buy Mimetic Crystals, Gnosis Fragments, or c
 ![](/images/icons/cores/luminous.png){width="80" loading=lazy}
 ![](/images/icons/cores/pure.png){width="80" loading=lazy}
 
-You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don't refresh.
+You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don’t refresh.
 
 ![](/images/wheels/gateway-of-truth--mini.png){width="80" loading=lazy}
 
@@ -449,17 +449,17 @@ You can get Mimetic Crystals and Gnosis Fragments if you have nothing else to bu
 ![](/images/wheels/core-meltdown--mini.png){width="80" loading=lazy}
 ![](/images/wheels/winters-requiem--mini.png){width="80" loading=lazy}
 
-[Core Meltdown](https://skeydb.com/database/wheels/core-meltdown){target="_blank"} and [Winter's Requiem](https://skeydb.com/database/wheels/winters-requiem){target="_blank"} are useful wheels for D-Effect Zone. If you don't have enough Keyflare Regen wheels, you can get one copy of each.
+[Core Meltdown](https://skeydb.com/database/wheels/core-meltdown){target="_blank"} and [Winter’s Requiem](https://skeydb.com/database/wheels/winters-requiem){target="_blank"} are useful wheels for D-Effect Zone. If you don’t have enough Keyflare Regen wheels, you can get one copy of each.
 
 ![](/images/icons/cores/luminous.png){width="80" loading=lazy}
 ![](/images/icons/cores/pure.png){width="80" loading=lazy}
 
-You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don't refresh.
+You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don’t refresh.
 
 ![](/images/covenants/cursed-rabbit.png){width="80" loading=lazy}
 ![](/images/covenants/re-evolution.png){width="80" loading=lazy}
 
-The covenants [Cursed Rabbit](/handbook/team#cursed-rabbit) and [Re-evolution](/handbook/team#re-evolution) are niche but used by some builds. You can buy them if you want. Keep in mind that you're delaying your long-term progression if you don't buy the highlighted materials above.
+The covenants [Cursed Rabbit](/handbook/team#cursed-rabbit) and [Re-evolution](/handbook/team#re-evolution) are niche but used by some builds. You can buy them if you want. Keep in mind that you're delaying your long-term progression if you don’t buy the highlighted materials above.
 
 ## Protoparadises & Selectors
 
@@ -493,7 +493,7 @@ Sepirot and Fated Captures (obtained by spending real money) are random selector
 ![](/images/icons/consumables/chaos-echo.png){width="80" loading=lazy}
 ![](/images/icons/consumables/chaos-experiment.png){width="80" loading=lazy}
 
-If you spend a LOT of money, you can get limited character and wheel selectors. To decide what to get, you can check this guide's [Awakener Tier Lists](/handbook/tier-list) and [SSR Wheel Tier List](/handbook/wheels).
+If you spend a LOT of money, you can get limited character and wheel selectors. To decide what to get, you can check this guide’s [Awakener Tier Lists](/handbook/tier-list) and [SSR Wheel Tier List](/handbook/wheels).
 
 ## Reality Verges
 

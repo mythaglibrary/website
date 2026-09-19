@@ -1,6 +1,6 @@
 ---
 title: Morimens New Player Handbook
-description: Cheri's all-in-one beginner guide to Morimens, featuring strategy tips, tier lists, awakener guides, and build recommendations.
+description: Cheri’s all-in-one beginner guide to Morimens, featuring strategy tips, tier lists, awakener guides, and build recommendations.
 icon: lucide/book-open
 ---
 
@@ -61,13 +61,13 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [Morimens Weak/Vuln/Status](https://docs.google.com/document/d/1j-J1wxWTQTduK3VIPW-xuc0Vh3rmEEGO7mDeMvkzG5Y/){target="_blank"}
 - [Morimens Boss Compendium](https://docs.google.com/spreadsheets/d/1QYciqHJY3BilDcdvBiIT_dOqXOdqGX-4FBDj5rL6qyA/){target="_blank"}
 - [P-Dive Map Analysis](https://docs.google.com/document/d/1qABYDgIEdwhXKu6PSi8nUK3-1hJ3fZFYxFkvjUmpk60/){target="_blank"}
-- [PolkaRain's Dzone Mechanics Overviews](https://www.reddit.com/user/Fantastic_Use_9/submitted/){target="_blank"}
+- [PolkaRain’s Dzone Mechanics Overviews](https://www.reddit.com/user/Fantastic_Use_9/submitted/){target="_blank"}
 
 ---
 
 - [How to clear event lvl 60 stages at lvl 1](https://www.reddit.com/r/Morimens/comments/1shmgbs/how_to_clear_event_lvl_60_stages_at_level_1/){target="_blank"}
 - [How to kidnap a whale supporter](https://www.reddit.com/r/Morimens/comments/1r2lmmw/how_to_kidnap_a_whale_supporter/){target="_blank"}
-- [Aurora's Guide to F2P Greed](https://docs.google.com/document/d/15l3tCxItkLVLwLKKV4vPFph1wYWRQbFgGHDZLYbT9Fo/){target="_blank"} - tips for fastest new player progression
+- [Aurora’s Guide to F2P Greed](https://docs.google.com/document/d/15l3tCxItkLVLwLKKV4vPFph1wYWRQbFgGHDZLYbT9Fo/){target="_blank"} - tips for fastest new player progression
 - [Braindump-ed in a vat](https://docs.google.com/presentation/d/1XDs_D-NOo88Q1Jkk6b6s_69_gxMFrx-1HBJoS8wXG10/){target="_blank"} - quick reference character guides
 
 ---
@@ -81,11 +81,11 @@ Thanks to Sor and Fjant for building the web version of the guide.
 
 !!! info "What about Flares?"
 
-    While searching for guides, you may come across Flares117's YouTube channel or "Holy Spreadsheet."
+    While searching for guides, you may come across Flares117’s YouTube channel or “Holy Spreadsheet.”
 
     I recommend taking them with a giant grain of salt, as Flares is a divisive content creator with a lot of questionable takes. He has been banned from multiple communities, including the official BIAV Discord, for harassment, brigading, trolling, and doxxing.
 
-    This guide was created as an alternative reference for new players that isn't tied to a single person's memes and biases.
+    This guide was created as an alternative reference for new players that isn’t tied to a single person’s memes and biases.
 
 ## Read the In-Game Tutorials
 
@@ -130,4 +130,4 @@ Once you reach the midgame, Morimens stops holding your hand. Enemies will no lo
 
 Treat each defeat as a lesson rather than a setback. This game is 25% pay-to-win and 75% skill and patience. If you spend thousands of dollars on a bad team, you will still die. If you pay attention, build your team right, and play your cards right, you'll overcome challenges that seem impossible.
 
-One more thing: there's no shame in using Emergency Gnoses. The game gives you a free revive every day. Unless you're aiming for achievements or bragging rights, why waste it?
+One more thing: there’s no shame in using Emergency Gnoses. The game gives you a free revive every day. Unless you're aiming for achievements or bragging rights, why waste it?

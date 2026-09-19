@@ -29,7 +29,7 @@ Absolute Axiom. When an awakener is at +12 (15 dupes in addition to the base cop
 
 ### AOE
 
-"Area of effect." Something that affects all enemies at once.
+“Area of effect.” Something that affects all enemies at once.
 
 ### April
 
@@ -55,7 +55,7 @@ Embryo (the Caro special card).
 
 ### Banner
 
-An in-game lottery where you can roll for awakeners and wheels (see ["Gacha"](#gacha)).
+An in-game lottery where you can roll for awakeners and wheels (see [“Gacha”](#gacha)).
 
 ### Battery
 
@@ -67,15 +67,15 @@ Curriculum (the seasonal reward track you can unlock with real money).
 
 ### Benthos: Aequor (BAequor)
 
-When some characters like [GMurphy](/handbook/awakeners/gmurphy/) are in your team, they change Aequor into "Benthos: Aequor," which works differently. Tentacle DMG is now based on your max HP; your DMG amplification is increased by 50%; exalts no longer give Tentacle Gathering; and the stances are stronger but have a 3-turn cooldown.
+When some characters like [GMurphy](/handbook/awakeners/gmurphy/) are in your team, they change Aequor into “Benthos: Aequor,” which works differently. Tentacle DMG is now based on your max HP; your DMG amplification is increased by 50%; exalts no longer give Tentacle Gathering; and the stances are stronger but have a 3-turn cooldown.
 
 ### Black Pool
 
-Using a rare item called Origin of Time to reset a standard character, refunding all their enlightens and level up materials and removing them from your account, thus "returning them to the Black Pool."
+Using a rare item called Origin of Time to reset a standard character, refunding all their enlightens and level up materials and removing them from your account, thus ”returning them to the Black Pool.”
 
 ### Blade
 
-[Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners/goliath/)'s SSR wheel).
+[Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"} ([Goliath](/handbook/awakeners/goliath/)’s SSR wheel).
 
 ### Blue
 
@@ -91,7 +91,7 @@ A bonus or positive status effect.
 
 ### Burial
 
-The covenant [Burial Ground's Sighs](/handbook/team#burial-grounds-sighs).
+The covenant [Burial Ground’s Sighs](/handbook/team#burial-grounds-sighs).
 
 ### Burst/Burst damage
 
@@ -105,11 +105,11 @@ The turn you commit all your resources to deal as much damage as possible.
 
 ### Carry/Solo carry
 
-An awakener who "carries" their team over the finish line. Without them, the team doesn't work.
+An awakener who “carries” their team over the finish line. Without them, the team doesn’t work.
 
 ### Chains
 
-[Chains Unbound](https://skeydb.com/database/wheels/chains-unbound){target="_blank"} ([Helot](/handbook/awakeners/helot/)'s SSR wheel). Can also refer to the Chains of Resentment effect of certain enemies, which seals awakeners that hit them.
+[Chains Unbound](https://skeydb.com/database/wheels/chains-unbound){target="_blank"} ([Helot](/handbook/awakeners/helot/)’s SSR wheel). Can also refer to the Chains of Resentment effect of certain enemies, which seals awakeners that hit them.
 
 ### Character jail
 
@@ -117,7 +117,7 @@ Pulling on the standard Realm Study banner to get +12 awakeners and fish for lim
 
 ### Cheese
 
-An unorthodox game strategy that relies on exploits or niche interactions rather than fighting "fair." For example, a severely underleveled player might have no chance of beating a boss in a straight-up fight, but if they used [Faint](/handbook/awakeners/faint/) to cheat death for several turns, they could buy enough time for the Max HP % damage of [Lotan](/handbook/awakeners/lotan/)’s OE to kill it.
+An unorthodox game strategy that relies on exploits or niche interactions rather than fighting “fair.” For example, a severely underleveled player might have no chance of beating a boss in a straight-up fight, but if they used [Faint](/handbook/awakeners/faint/) to cheat death for several turns, they could buy enough time for the Max HP % damage of [Lotan](/handbook/awakeners/lotan/)’s OE to kill it.
 
 ### Clem
 
@@ -129,7 +129,7 @@ An effect on some enemies that grants them increasing fortress (damage reduction
 
 ### Combo
 
-A "combination" of cards or abilities which is stronger than the sum of its parts.
+A “combination” of cards or abilities which is stronger than the sum of its parts.
 
 ### Corpo
 
@@ -155,23 +155,23 @@ A negative status effect.
 
 ### Divine realm
 
-When some characters are in your team, they transform your realm mechanics into a different variant of that realm. These are nicknamed "divine realms," after the original name of the first to be released, "Divine Realm: Aequor" (since officially renamed to Benthos: Aequor).
+When some characters are in your team, they transform your realm mechanics into a different variant of that realm. These are nicknamed “divine realms,” after the original name of the first to be released, “Divine Realm: Aequor” (since officially renamed to Benthos: Aequor).
 
 ### Divine Caro
 
-See ["Propagation: Caro."](#propagation-caro-pcaro)
+See [“Propagation: Caro.”](#propagation-caro-pcaro)
 
 ### Divine Chaos
 
-See ["Primordia: Chaos."](#primordia-chaos-pchaos)
+See [“Primordia: Chaos.”](#primordia-chaos-pchaos)
 
 ### Divine Realm: Aequor (Divine Aequor)
 
-See ["Benthos: Aequor."](#benthos-aequor-baequor)
+See [“Benthos: Aequor.”](#benthos-aequor-baequor)
 
 ### Divine Ultra
 
-See ["Singularity: Ultra."](#singularity-ultra-sultra)
+See [“Singularity: Ultra.”](#singularity-ultra-sultra)
 
 ### Dolphin
 
@@ -179,7 +179,7 @@ Someone who spends money on the game, but not a lot.
 
 ### Doorstain
 
-[Doresain](/handbook/awakeners/doresain/), who is much maligned because he's bad in endgame content.
+[Doresain](/handbook/awakeners/doresain/), who is much maligned because he’s bad in endgame content.
 
 ### Dore
 
@@ -187,7 +187,7 @@ Someone who spends money on the game, but not a lot.
 
 ### DPS
 
-"Damage per second." Term from gaming slang. Can refer to the amount of damage an awakener does, or to an awakener whose role is main damage dealer.
+“Damage per second.” Term from gaming slang. Can refer to the amount of damage an awakener does, or to an awakener whose role is main damage dealer.
 
 ### Dual wield
 
@@ -239,7 +239,7 @@ The covenant [Feast from Afar](/handbook/team#feast-from-afar).
 
 ### Fin
 
-[Fin of Sorrow](https://skeydb.com/database/wheels/fin-of-sorrow){target="_blank"} ([Caecus](/handbook/awakeners/caecus/)'s SSR wheel).
+[Fin of Sorrow](https://skeydb.com/database/wheels/fin-of-sorrow){target="_blank"} ([Caecus](/handbook/awakeners/caecus/)’s SSR wheel).
 
 ### Furnace
 
@@ -249,15 +249,15 @@ Crimson Furnace (the Caro mechanic).
 
 ### Gacha
 
-To gamble on a chance to get in-game characters or items. A "gacha game" is a game where this is a central mechanic. Comes from Japanese gachapon machines.
+To gamble on a chance to get in-game characters or items. A “gacha game” is a game where this is a central mechanic. Comes from Japanese gachapon machines.
 
 ### GDoll
 
-[Doll: Inferno](/handbook/awakeners/gdoll/). Stands for "Genesis Doll."
+[Doll: Inferno](/handbook/awakeners/gdoll/). Stands for “Genesis Doll.”
 
 ### GHelot/Gelot
 
-[Helot: Catena](/handbook/awakeners/ghelot/). Stands for "Genesis Helot."
+[Helot: Catena](/handbook/awakeners/ghelot/). Stands for “Genesis Helot.”
 
 ### Glass cannon
 
@@ -265,11 +265,11 @@ Something that has high offense and low defense.
 
 ### GLotan/Gluten/Gotan
 
-[Lotan: Cetarchon](/handbook/awakeners/glotan/). Stands for "Genesis Lotan."
+[Lotan: Cetarchon](/handbook/awakeners/glotan/). Stands for “Genesis Lotan.”
 
 ### GMurphy/Gurphy/Gurpy/GMuppet
 
-[Murphy: Fauxborn](/handbook/awakeners/gmurphy/). Stands for "Genesis Murphy."
+[Murphy: Fauxborn](/handbook/awakeners/gmurphy/). Stands for “Genesis Murphy.”
 
 ### Goli
 
@@ -277,7 +277,7 @@ Something that has high offense and low defense.
 
 ### GRamona
 
-[Ramona: Timeworn](/handbook/awakeners/gramona/). Stands for "Genesis Ramona."
+[Ramona: Timeworn](/handbook/awakeners/gramona/). Stands for “Genesis Ramona.”
 
 ## H
 
@@ -301,29 +301,29 @@ Dimensional Image Relic. Refers to a series of rare relics in [Astral Reign](/ha
 
 ### Incalc
 
-[Incalculable Factor](https://skeydb.com/database/wheels/fin-of-sorrow){target="_blank"} ([Winkle](/handbook/awakeners/winkle/)'s SSR wheel).
+[Incalculable Factor](https://skeydb.com/database/wheels/fin-of-sorrow){target="_blank"} ([Winkle](/handbook/awakeners/winkle/)’s SSR wheel).
 
 ### Investment
 
-The amount of resources that are spent on an awakener or team. In this guide, enlightens, levels, limited or ascended wheels, upgraded covenants, and strong teammates are all considered "investment."
+The amount of resources that are spent on an awakener or team. In this guide, enlightens, levels, limited or ascended wheels, upgraded covenants, and strong teammates are all considered “investment.”
 
 ## J
 
 ### JP Aequor
 
-See ["Benthos: Aequor."](#benthos-aequor-baequor) Refers to the fact that this version of Aequor is ported from the Japanese release of Morimens.
+See [“Benthos: Aequor.”](#benthos-aequor-baequor) Refers to the fact that this version of Aequor is ported from the Japanese release of Morimens.
 
 ### JP Caro
 
-See ["Propagation: Caro."](#propagation-caro-pcaro)
+See [“Propagation: Caro.”](#propagation-caro-pcaro)
 
 ### JP Chaos
 
-See ["Primordia: Chaos."](#primordia-chaos-pchaos)
+See [“Primordia: Chaos.”](#primordia-chaos-pchaos)
 
 ### JP Ultra
 
-See ["Singularity: Ultra."](#singularity-ultra-sultra)
+See [“Singularity: Ultra.”](#singularity-ultra-sultra)
 
 ## K
 
@@ -343,7 +343,7 @@ To land the killing blow on an enemy.
 
 ### Lighthouse
 
-[Amidst the Downpour](https://skeydb.com/database/wheels/amidst-the-downpour){target="_blank"} ([Faros](/handbook/awakeners/faros/)'s SSR wheel).
+[Amidst the Downpour](https://skeydb.com/database/wheels/amidst-the-downpour){target="_blank"} ([Faros](/handbook/awakeners/faros/)’s SSR wheel).
 
 ### Limited
 
@@ -365,7 +365,7 @@ The covenant [Dream of Medicine](/handbook/team#dream-of-medicine).
 
 ### Meta/Metagame
 
-The collection of strategies that are most effective and commonly used by players; or something pertaining to those strategies. For example, a "meta character" is a character that is often seen in the metagame.
+The collection of strategies that are most effective and commonly used by players; or something pertaining to those strategies. For example, a “meta character” is a character that is often seen in the metagame.
 
 ### Mob
 
@@ -373,7 +373,7 @@ A normal enemy (as opposed to elites and bosses).
 
 ### Mono
 
-Refers to a team comprised of characters from only one realm. For example, a "Mono Aequor" team is a team with four Aequor awakeners.
+Refers to a team comprised of characters from only one realm. For example, a “Mono Aequor” team is a team with four Aequor awakeners.
 
 ### Mono Chaos
 
@@ -427,11 +427,11 @@ Refined Gnosis Primer (material used for leveling up a character beyond 70).
 
 ### Portrait
 
-See ["Image."](#image)
+See [“Image.”](#image)
 
 ### Premium support
 
-A powerful, game-changing supportive character such as [Thais](/handbook/awakeners/thais/). Usually used in the context of D-Effect Zone where you can't repeat characters, so you have to decide where you're putting your premium supports.
+A powerful, game-changing supportive character such as [Thais](/handbook/awakeners/thais/). Usually used in the context of D-Effect Zone where you can’t repeat characters, so you have to decide where you're putting your premium supports.
 
 ### Preorder
 
@@ -439,7 +439,7 @@ A time-limited paid bundle that sometimes appears when new characters are releas
 
 ### Primordia: Chaos (PChaos)
 
-When some characters like [GLotan](/handbook/awakeners/glotan/) are in your team, they change Chaos into "Primordia: Chaos," which works differently. The normal Chaos mechanics no longer apply; your DMG amplification is increased by 50%; you only get keyflare at the start of battle and when playing the first card of each awakener each turn; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you choose random unlocked posses, as well as other effects, to unleash.
+When some characters like [GLotan](/handbook/awakeners/glotan/) are in your team, they change Chaos into “Primordia: Chaos,” which works differently. The normal Chaos mechanics no longer apply; your DMG amplification is increased by 50%; you only get keyflare at the start of battle and when playing the first card of each awakener each turn; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you choose random unlocked posses, as well as other effects, to unleash.
 
 ### Proc
 
@@ -447,7 +447,7 @@ Trigger an effect.
 
 ### Propagation: Caro (PCaro)
 
-When some characters like [Saya](/handbook/awakeners/saya/) are in your team, they change Caro into "Propagation: Caro," which works differently. Your DMG amplification is increased by 50%; Crimson Furnace is stronger and inflicts corrosion but has a 3-turn cooldown; the damage, shield, and healing of your exalts are buffed; and embryos further buff your exalt instead of granting crit buffs or shields and STR from devouring.
+When some characters like [Saya](/handbook/awakeners/saya/) are in your team, they change Caro into “Propagation: Caro,” which works differently. Your DMG amplification is increased by 50%; Crimson Furnace is stronger and inflicts corrosion but has a 3-turn cooldown; the damage, shield, and healing of your exalts are buffed; and embryos further buff your exalt instead of granting crit buffs or shields and STR from devouring.
 
 ### Proto
 
@@ -459,7 +459,7 @@ Either [Protoparadise](/handbook/resources#protoparadises-selectors) (item that 
 
 ### Pull
 
-To gamble on a chance to get in-game characters or items (see ["Gacha"](#gacha)). Alternatively, a resource that lets you do so (Pure Cores, Luminous Cores, Ethereal Cores).
+To gamble on a chance to get in-game characters or items (see [“Gacha”](#gacha)). Alternatively, a resource that lets you do so (Pure Cores, Luminous Cores, Ethereal Cores).
 
 ### Pure realm
 
@@ -483,11 +483,11 @@ The lowest rarity of wheels, referring to the brown ones you get from random pul
 
 ### Racism
 
-Tongue-in-cheek term for when a character is stronger against specific enemies. For example, [Corposant](/handbook/awakeners/corposant/) is infamously "racist" against Aequor enemies in [Astral Reign](/handbook/storylines#astral-reign-arc-2) because her soulforge talent makes her deal more damage to them.
+Tongue-in-cheek term for when a character is stronger against specific enemies. For example, [Corposant](/handbook/awakeners/corposant/) is infamously “racist” against Aequor enemies in [Astral Reign](/handbook/storylines#astral-reign-arc-2) because her soulforge talent makes her deal more damage to them.
 
 ### Rat wheel
 
-[Path Forsaken](https://skeydb.com/database/wheels/path-forsaken){target="_blank"} ([Jenkin](/handbook/awakeners/jenkin/)'s SSR wheel).
+[Path Forsaken](https://skeydb.com/database/wheels/path-forsaken){target="_blank"} ([Jenkin](/handbook/awakeners/jenkin/)’s SSR wheel).
 
 ### Red
 
@@ -501,9 +501,13 @@ Counter. Abbreviation of the old English translation.
 
 Realm Mastery.
 
+### RNG
+
+“Random Number Generator.” A phrase used to describe any part of the game that is random. Some would say the Random Number Generator is just dumb software. It’s actually an evil deity that takes pleasure in ruining our hopes and dreams.
+
 ### Rotan
 
-[Lotan: Cetarchon](/handbook/awakeners/glotan/), after an old English mistranslation. Also stands for "Red Lotan."
+[Lotan: Cetarchon](/handbook/awakeners/glotan/), after an old English mistranslation. Also stands for “Red Lotan.”
 
 ## S
 
@@ -521,7 +525,7 @@ The ability to grow in power over the course of a battle or stage. Alternatively
 
 ### Singularity: Ultra (SUltra)
 
-When some characters like [Arachne](/handbook/awakeners/arachne/) are in your team, they change Ultra into "Singularity: Ultra," which works differently. Your DMG amplification is increased by 50%; your command cards are buffed and get further buffs when put into Ultra Space; Annihilation has a 3-turn cooldown and puts the leftmost card from Ultra Space into your hand instead of giving you an Insight; and the Ultra Round extends your current turn instead of starting a new turn.
+When some characters like [Arachne](/handbook/awakeners/arachne/) are in your team, they change Ultra into “Singularity: Ultra,” which works differently. Your DMG amplification is increased by 50%; your command cards are buffed and get further buffs when put into Ultra Space; Annihilation has a 3-turn cooldown and puts the leftmost card from Ultra Space into your hand instead of giving you an Insight; and the Ultra Round extends your current turn instead of starting a new turn.
 
 ### Skey
 
@@ -529,7 +533,7 @@ Keyflare. Abbreviation of the old English translation.
 
 ### Skey bot
 
-See ["Keyflare bot."](#keyflare-bot)
+See [“Keyflare bot.”](#keyflare-bot)
 
 ### Spam/Spamming
 
@@ -553,11 +557,11 @@ Thousand Faces Seal (material used for upgrading and transcribing covenants).
 
 ### Standard
 
-The Realm Study and Wheels of Rotation banners are the "standard" banners, which are always available. A standard character or wheel is one that you get by pulling on these banners. (Not including the limited characters and wheels that have a very rare chance of dropping instead.)
+The Realm Study and Wheels of Rotation banners are the “standard” banners, which are always available. A standard character or wheel is one that you get by pulling on these banners. (Not including the limited characters and wheels that have a very rare chance of dropping instead.)
 
 ### Stat stick/_ stick
 
-Refers to awakeners or wheels that are used because of their high basic attributes rather than their actual abilities. For example: "Even if you don't care about the effect of [Path Forsaken](https://skeydb.com/database/wheels/path-forsaken){target="_blank"}, you can still use it as a Crit Rate stick."
+Refers to awakeners or wheels that are used because of their high basic attributes rather than their actual abilities. For example: “Even if you don’t care about the effect of [Path Forsaken](https://skeydb.com/database/wheels/path-forsaken){target="_blank"}, you can still use it as a Crit Rate stick.”
 
 ### Sub DPS
 
@@ -583,19 +587,19 @@ Damage which is dealt consistently over multiple turns.
 
 ### Tank/Tanking
 
-A "tanky" awakener can take incoming damage or negative status effects without consequence.
+A “tanky” awakener can take incoming damage or negative status effects without consequence.
 
 ### Tawheel
 
-[Wheel Unseen](https://skeydb.com/database/wheels/wheel-unseen) ([Tawil](/handbook/awakeners/tawil/)'s SSR wheel).
+[Wheel Unseen](https://skeydb.com/database/wheels/wheel-unseen) ([Tawil](/handbook/awakeners/tawil/)’s SSR wheel).
 
 ### Timeloop
 
 [Timeloop Copy](/handbook/resources#sediment) (item that gives you a dupe of an owned wheel).
 
-### Titan/Titan's Blade
+### Titan/Titan’s Blade
 
-[Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan) ([Goliath](/handbook/awakeners/goliath/)'s SSR wheel).
+[Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan) ([Goliath](/handbook/awakeners/goliath/)’s SSR wheel).
 
 ### Toolbox
 

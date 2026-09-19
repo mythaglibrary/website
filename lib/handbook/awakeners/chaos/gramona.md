@@ -54,7 +54,7 @@ awakener:
 
 Ramona: Timeworn (GRamona) is a complex but versatile keyflare support. In addition to her decent keyflare generation, she brings three useful abilities to the team.
 
-Firstly, she can search your Draw Pile for any card with Sight Unbound. This isn't as powerful as base [Ramona](/handbook/awakeners/ramona/)'s exalt, but it remains useful for teams that rely on specific cards.
+Firstly, she can search your Draw Pile for any card with Sight Unbound. This isn’t as powerful as base [Ramona](/handbook/awakeners/ramona/)’s exalt, but it remains useful for teams that rely on specific cards.
 
 Secondly, she can use her exalt to bring back the last 3 cards you played the turn before. You can use this simply as a kind of card draw, but if you plan ahead and set it up, you can assemble powerful combo turns with characters like [Mouchette](/handbook/awakeners/mouchette/).
 
@@ -64,7 +64,7 @@ Thirdly, at E3, she can temporarily replace your posse with any other posse you'
 
 In addition to her support build, GRamona can be built as a DPS focusing on Predetermined Strike. If you use your posse enough times in one fight, Predetermined Strike amasses a very high STR multiplier and hits like a truck.
 
-The downside is that this build takes a long time to get going, and requires you to have a lot of unlocked posses, so it isn't very practical for new players.
+The downside is that this build takes a long time to get going, and requires you to have a lot of unlocked posses, so it isn’t very practical for new players.
 
 ### Teambuilding
 
@@ -74,10 +74,10 @@ The downside is that this build takes a long time to get going, and requires you
 
 ## How to Play
 
-**Support:** Play GRamona's cards to get keyflare. Use Sight Unbound to search for cards you need.
+**Support:** Play GRamona’s cards to get keyflare. Use Sight Unbound to search for cards you need.
 
-GRamona's exalt can change your posse to [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} if you need weakness and vulnerable, or [A Gun's Cry](https://skeydb.com/database/posses/a-guns-cry){target="_blank"} for Crit Rate, [Warded Injection](https://skeydb.com/database/posses/warded-injection){target="_blank"} for healing, etc.
+GRamona’s exalt can change your posse to [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} if you need weakness and vulnerable, or [A Gun’s Cry](https://skeydb.com/database/posses/a-guns-cry){target="_blank"} for Crit Rate, [Warded Injection](https://skeydb.com/database/posses/warded-injection){target="_blank"} for healing, etc.
 
-Keep track of the cards you play each turn. If you end your turn with a sequence of three good cards (such as three of [Mouchette](/handbook/awakeners/mouchette/)'s strikes), you can use GRamona's exalt to bring them back the turn after and do it again.
+Keep track of the cards you play each turn. If you end your turn with a sequence of three good cards (such as three of [Mouchette](/handbook/awakeners/mouchette/)’s strikes), you can use GRamona’s exalt to bring them back the turn after and do it again.
 
-**DPS:** Stall as long as possible while building STR and using dual posse every turn. Eventually, Predetermined Strike will deal a lot of damage. Try to play it as the last card each turn so you can use GRamona's exalt to get more copies of it.
+**DPS:** Stall as long as possible while building STR and using dual posse every turn. Eventually, Predetermined Strike will deal a lot of damage. Try to play it as the last card each turn so you can use GRamona’s exalt to get more copies of it.

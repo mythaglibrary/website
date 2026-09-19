@@ -14,11 +14,11 @@ Morimens has two storylines with different game rules: **Faded Legacy** and **As
 
 **Faded Legacy** is the original story that released with Morimens. It begins with the Prologue and ends with Chapter 9.
 
-**Astral Reign** is a new storyline that started after the game's 1st anniversary. As of this writing, the latest chapter is Astral Reign Chapter 6.
+**Astral Reign** is a new storyline that started after the game’s 1st anniversary. As of this writing, the latest chapter is Astral Reign Chapter 6.
 
 **Astral Reign stages have different rules.** Exploration is reworked, game mechanics are rebalanced, and all characters have a new talent called Soulforge Aptitude that changes how they play. These are the rules used in almost all endgame content.
 
-**Astral Reign builds look different from Faded Legacy builds.** Don't assume that teams that work in one game mode will work in another.
+**Astral Reign builds look different from Faded Legacy builds.** Don’t assume that teams that work in one game mode will work in another.
 
 Each stage tells you which ruleset it uses:
 
@@ -127,7 +127,7 @@ Astral Reign rules were created to fix game balance by nerfing game-breaking bui
 
 **Soulforge (SF) is the most important thing to level in Astral Reign.**
 
-Each character's soulforge talent gives them new abilities in Astral Reign stages. In some cases, it overhauls how the character is played, or enables entirely new teams to work.
+Each character’s soulforge talent gives them new abilities in Astral Reign stages. In some cases, it overhauls how the character is played, or enables entirely new teams to work.
 
 Each level of Soulforge Aptitude also increases CON, ATK, and DEF by 3% in Astral Reign stages. This is like adding 5 extra character levels per soulforge level.
 
@@ -146,11 +146,11 @@ Here are some of the most impactful soulforge talents:
 
 **In Astral Reign, you spend keyflare to get rouses during battle.**
 
-You can't rouse characters at healing junctions or shops like in Faded Legacy. The main way to get rouses is to use Keyflare Rouse.
+You can’t rouse characters at healing junctions or shops like in Faded Legacy. The main way to get rouses is to use Keyflare Rouse.
 
 Once each turn, you can spend 1000 keyflare to add a rouse to your hand. Each time you do this, the cost to Keyflare Rouse increases by 1000 for the rest of the battle.
 
-**Keyflare Regen is incredibly important in Astral Reign** because of Keyflare Rouse. Without enough keyflare, you can't rouse your characters and they don't do anything.
+**Keyflare Regen is incredibly important in Astral Reign** because of Keyflare Rouse. Without enough keyflare, you can’t rouse your characters and they don’t do anything.
 
 ### Summary of Rules Changes
 
@@ -174,13 +174,13 @@ Effects that increase Aliemus Generation (e.g. the SSR wheel [Incalculable Facto
 
 Each time you use an exalt, that exalt costs 10 more aliemus for the rest of the battle.
 
-At the end of each turn, for each character that didn't exalt that turn, you get keyflare based on their Keyflare Regen.
+At the end of each turn, for each character that didn’t exalt that turn, you get keyflare based on their Keyflare Regen.
 
 #### Existence Paradox
 
 Your starting death resistance is reduced to 1/4 of its original amount. You get a small max HP bonus in return. If you have more than 400% death resistance, the excess is not reduced.
 
-Each time you trigger death resistance, you get a "Silver Key Gleam." This is a 0-cost card that lets you choose from 3 random posses you've unlocked and activate one of them.
+Each time you trigger death resistance, you get a “Silver Key Gleam.” This is a 0-cost card that lets you choose from 3 random posses you've unlocked and activate one of them.
 
 #### Bottomless Scar
 
@@ -188,16 +188,16 @@ If you heal more HP than 100% of your max HP in a battle, all future healing in 
 
 #### Prismatic Lens
 
-Your permanent counter is reduced each turn if you have more permanent counter than 20× your max HP. You can't gain more permanent counter than 60× your max HP.
+Your permanent counter is reduced each turn if you have more permanent counter than 20× your max HP. You can’t gain more permanent counter than 60× your max HP.
 
-Poison on enemies is reduced each turn if they have more poison than 30× your max HP. You can't apply more poison than 90× your max HP.
+Poison on enemies is reduced each turn if they have more poison than 30× your max HP. You can’t apply more poison than 90× your max HP.
 
 Poison and counter are 25% more effective for each roused awakener in the battle.
 
-Attacks that get bonus damage based on your counter have severely reduced scaling. This means [Pandia](/handbook/awakeners/pandia/), Ultra ["24"](/handbook/awakeners/24/), and [Wanda](/handbook/awakeners/wanda/) are much weaker (but not [Nautila](/handbook/awakeners/nautila/)'s Fixed DMG).
+Attacks that get bonus damage based on your counter have severely reduced scaling. This means [Pandia](/handbook/awakeners/pandia/), Ultra [“24”](/handbook/awakeners/24/), and [Wanda](/handbook/awakeners/wanda/) are much weaker (but not [Nautila](/handbook/awakeners/nautila/)’s Fixed DMG).
 
 #### Light Cone of Fate
 
-If you don't kill a normal enemy after 6 turns, it will Gaze you every turn instead of attacking for the rest of the fight. Each Gaze permanently adds a symptom to your deck.
+If you don’t kill a normal enemy after 6 turns, it will Gaze you every turn instead of attacking for the rest of the fight. Each Gaze permanently adds a symptom to your deck.
 
-When your 15th turn starts, you get a "Light Cone of Fate." This is a 0-cost card that fully charges your keyflare and the aliemus of all awakeners.
+When your 15th turn starts, you get a “Light Cone of Fate.” This is a 0-cost card that fully charges your keyflare and the aliemus of all awakeners.
