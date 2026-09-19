@@ -11,13 +11,13 @@
     {% for family_id in index.family_order %}
       {% set family = index.family[family_id] %}
       <section class="awakener-index-family" data-realm="{{ family_id }}" aria-labelledby="{{ family_id }}">
-        <h2 id="{{ family_id }}">{{ family.label }}</h2>
+        <h2 id="{{ family_id }}"><img class="awakener-index-realm-icon" src="{{ family.realm_icon }}" alt="" width="32" height="32"> {{ family.label }}</h2>
 
         {% for group_id in family.groups %}
           {% set group = index.group[group_id] %}
           <div class="awakener-index-group">
             {% if group.label %}
-              <h3 id="{{ group_id }}">{{ group.label }}</h3>
+              <h3 id="{{ group_id }}"><img class="awakener-index-realm-icon" src="{{ group.realm_icon }}" alt="" width="32" height="32"> {{ group.label }}</h3>
             {% endif %}
             <ul class="awakener-index-grid grid-96">
               {% for guide_id in group.guides %}

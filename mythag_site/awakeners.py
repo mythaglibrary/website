@@ -933,17 +933,19 @@ def _render_index(
         "[project.extra.awakener_index.family]",
     ]
     for family_id, label, groups in family_values:
+        realm_icon = _toml_string(f"/images/realms/{family_id.split('-')[-1]}.png")
         lines.append(
             f"{_toml_string(family_id)} = "
-            f"{{ label = {_toml_string(label)}, groups = {_toml_string_array(groups)} }}"
+            f"{{ label = {_toml_string(label)}, realm_icon = {realm_icon}, groups = {_toml_string_array(groups)} }}"
         )
 
     lines.append("[project.extra.awakener_index.group]")
     for realm, label, guide_ids in group_values:
+        realm_icon = _toml_string(f"/images/realms/{realm.split('-')[-1]}.png")
         rendered_label = _toml_string(label) if label is not None else '""'
         lines.append(
             f"{_toml_string(realm)} = "
-            f"{{ label = {rendered_label}, guides = {_toml_string_array(guide_ids)} }}"
+            f"{{ label = {rendered_label}, realm_icon = {realm_icon}, guides = {_toml_string_array(guide_ids)} }}"
         )
 
     lines.append("[project.extra.awakener_index.guide]")

@@ -165,6 +165,22 @@ Follow a [Git workflow](https://docs.github.com/en/get-started/using-github/gith
 12. [Merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)
 13. [Delete the branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/deleting-and-restoring-branches-in-a-pull-request)
 
+### Optional Awakener guide sections
+
+Use any `## Heading` for a full-width section before the builds. For example,
+`## How to Play`, `## Teambuilding`, and `## High Investment` are useful starting
+points, but you can freely add or rename sections without configuration changes.
+Text before the first H2 stays in the character overview. Use `###` or smaller
+headings for subsections within the overview or a full-width section.
+
+Sections support ordinary Markdown, including icon shortcuts, and appear in the
+order you write them. Omit sections that are not ready; empty headings do not
+create a section.
+
+Builds, Suggested Posse, Works Well With, and Example Teams appear in the normal
+page navigation when present, alongside the authored headings. The separate
+jump bar at the top of guides is no longer needed.
+
 # Licensing
 
 - Code in this repository is released under the Unlicense

@@ -29,7 +29,7 @@
   {% set assets = config.extra.content_assets %}
   {% set portrait = assets.portraits[page.meta.title] %}
   {% set guide_teams = page.meta.mythag_teams | default([]) %}
-  {% set how_to_play = page.meta.mythag_how_to_play | default("") %}
+  {% set guide_sections = page.meta.mythag_guide_sections | default([]) %}
 
   {% include "partials/actions.html" %}
 
@@ -43,24 +43,6 @@
         {% endfor %}
       </ul>
       {% if portrait.skeydb_url %}<a class="awakener-database-link" href="{{ portrait.skeydb_url }}" target="_blank" rel="noopener noreferrer">View on SKeyDB</a>{% endif %}
-      {% set has_recommendations = guide.suggested_posses or guide.suggested_posses_note
-        or guide.works_well_with or guide.works_well_with_note %}
-      {% set section_count = guide.builds|length + (1 if has_recommendations else 0)
-        + (1 if guide_teams else 0) + (1 if how_to_play else 0) %}
-      {% if section_count > 1 %}
-        <nav class="awakener-jump" aria-label="Guide sections">
-          {% if how_to_play %}<a href="#how-to-play">How to Play</a>{% endif %}
-          {% for build in guide.builds %}
-            <a href="#build-{{ loop.index }}">{{ prose(build.name) }}</a>
-          {% endfor %}
-          {% if has_recommendations %}
-            <a href="#recommendations">Recommendations</a>
-          {% endif %}
-          {% if guide_teams %}
-            <a href="#example-teams">Example Teams</a>
-          {% endif %}
-        </nav>
-      {% endif %}
     </header>
 
     <div class="awakener-summary" id="overview">
@@ -108,11 +90,11 @@
       </div>
     </div>
 
-    {% if how_to_play %}
-      <section class="awakener-section awakener-how-to-play">
-        {{ how_to_play | safe }}
+    {% for section in guide_sections %}
+      <section class="awakener-section awakener-authored-section">
+        {{ section | safe }}
       </section>
-    {% endif %}
+    {% endfor %}
 
     {% for build in guide.builds %}
       <section class="awakener-section awakener-build" id="build-{{ loop.index }}">
