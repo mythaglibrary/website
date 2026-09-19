@@ -54,7 +54,7 @@ As a result, Kath is reliable and self-sufficient, and a good choice for new pla
 
     Play cards that have Fiamma to get Combust.
 
-    When you have 10 Combust, play Hyperflare. If you have no STR, don’t spend any arithmetica on it.
+    When you have 10 Combust, play Hyperflare.
 
     Repeat until all the enemies are dead.
 
