@@ -48,9 +48,11 @@ As a result, Kath is reliable and self-sufficient, and a good choice for new pla
 
 ### Fiamma
 
-![](/images/handbook/awakeners/kath-fiamma.png){width="384" class="on-glb" loading=lazy}
+![](/images/handbook/awakeners/kath-fiamma.png){width="128" class="on-glb" loading=lazy}
 
-Kath revolves around managing **Fiamma**, her unique gameplay mechanic. When you play Kath, you will quickly notice that your cards are on fire. This represents the Fiamma attached to that card.
+Kath revolves around managing **Fiamma**, her unique gameplay mechanic.
+
+When you play Kath, you will quickly notice that your cards are on fire. This represents the Fiamma attached to that card.
 
 If a card has Fiamma, it gets buffed and gains retain. A card can have up to 3 stacks of Fiamma, with each stack making it more powerful.
 
@@ -66,7 +68,7 @@ When you play a card with Fiamma, 1 Fiamma will be added to another Kath card in
 
 Generating Fiamma is the *most important thing* for Kath. As a result, her E3 and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"} are very important for maximizing her potential.
 
-Kath is a good shielder because the Fiamma boost to her Defense card is multiplicative with [Feast from Afar](/handbook/team#feast-from-afar) and [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"}. This means that, with the right build, she can produce 300+ shields with a single Defense (which returns to your hand if it has 3 Fiamma on it).
+Kath is a good shielder because the Fiamma boost to her Defense card is multiplicative with [Feast from Afar](/handbook/team#feast-from-afar) and [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"}. This means that, with the right build, she can produce hundreds of shields with a single Defense (which returns to your hand if it has 3 Fiamma on it).
 
 ### Combust
 
@@ -74,9 +76,9 @@ Kath is a good shielder because the Fiamma boost to her Defense card is multipli
 
 When you play a card that has Fiamma stacks, you also gain that many stacks of **Combust**. This is represented by the fire icon which appears under your HP bar.
 
-When you reach 10 or more Combust, you immediately gain 2 arithmetica, and Kath's Solarflare turns into **Hyperflare**. This is an AOE nuke which consumes all your arithmetica and all your Combust, and gets additional bonus damage from STR for each arithmetica and Combust consumed. (After playing it, it turns back into Solarflare, since you have no more Combust.)
+When you reach 10 or more Combust, you immediately gain 2 arithmetica, and Kath's Solarflare turns into **Hyperflare**. This is an AOE nuke which consumes all your arithmetica and all your Combust, and gets additional bonus damage from STR for each arithmetica and Combust consumed.
 
-Kath's E3 gives her +5% Base DMG every time you get a stack of Combust. This makes her damage scale very high in long fights, which, again, makes Fiamma and Combust generation crucial.
+Kath's E3 gives her +5% Base DMG every time you get a stack of Combust. This gives her a lot of damage scaling in long fights, if you maximize your Combust generation.
 
 ### Combust Cycling
 
@@ -88,11 +90,11 @@ Each time you do this, you get:
 - permanent bonus Base DMG from Kath's E3;
 - STR generation from Last Stand Salvo;
 - a lot of shield from Kath's Defense;
-- a bunch of AOE damage from all the Hyperflares you're throwing out.
+- and a bunch of AOE damage from all the Hyperflares you're throwing out.
 
-You should usually play Hyperflare for 0 arithmetica, because the only benefit you get from spending more arithmetica on it is an increased STR bonus (so if you have no STR, it doesn't deal more damage). Your arithmetica is better spent on playing other cards to generate more Fiamma.
+You should usually play Hyperflare for 0 arithmetica, because the only benefit you get from spending more arithmetica on it is an increased STR bonus. If you have no STR, it doesn't deal more damage. That arithmetica could be spent to play other cards and generate more Fiamma instead.
 
-A common newbie mistake is to build up tons of Combust and then spend all your arithmetica on a single big Hyperflare. This means you're missing out on the bonus arithmetica from each time you reach 10 Combust, and you're missing out on the free Fiamma generated from playing 0-cost Hyperflares.
+A common newbie mistake is to focus on spending as much Combust and arithmetica as possible on a single big Hyperflare. This means you're missing out on the bonus arithmetica from each time you reach 10 Combust, and you're missing out on the 0-cost Fiamma generation from playing 0-cost Hyperflares.
 
 A more effective strategy is to build up Base DMG and STR by cycling 0-cost Hyperflares, and *then* start tossing out big Hyperflares from around turn 7 onwards.
 
@@ -116,8 +118,14 @@ When built for shielding, Kath can have issues reaching 100% Crit Rate, and appr
 
 [Clementine](/handbook/awakeners/clementine/) works well with Kath because of all the STR she generates, which Kath can put to good use with Hyperflare.
 
-[Horla](/handbook/awakeners/horla/) and [Erica](/handbook/awakeners/erica/) can provide weakness and vulnerable, which Kath lacks, at low or no cost.
+[Horla](/handbook/awakeners/horla/) and [Erica](/handbook/awakeners/erica/) can provide weakness and vulnerable, which Kath lacks, at low or no arithmetica cost.
 
 ## How to Play
 
-Generate Fiamma with Kath's rouse, her exalt, and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}. Play cards that have Fiamma to get Combust. When you have 10 Combust, play Hyperflare. Repeat until all the enemies are dead.
+Generate Fiamma with Kath's rouse, her exalt, and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}.
+
+Play cards that have Fiamma to get Combust.
+
+When you have 10 Combust, play Hyperflare.
+
+Repeat until all the enemies are dead.

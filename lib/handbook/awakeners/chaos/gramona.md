@@ -68,7 +68,7 @@ The downside is that this build takes a long time to get going, and requires you
 
 ### Teambuilding
 
-**Support:** GRamona is mainly used as a support for the specific DPS who can make use of the cards from her exalt. [Mouchette](/handbook/awakeners/mouchette/) is the biggest winner, since she can get back a strike, Mortal Blast, and Shining Crush to repeat her burst combo. Less commonly, [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) can get Hyperflare, while [GLotan](/handbook/awakeners/glotan/) can get a bunch of strikes and Long Blade: Perish.
+**Support:** GRamona is mainly used as a support for the specific DPS who can make use of the cards from her exalt. [Mouchette](/handbook/awakeners/mouchette/) is the biggest winner, since she can get back a Strike, Mortal Blast, and Shining Crush to repeat her burst combo. Less commonly, [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) can get Hyperflare, while [GLotan](/handbook/awakeners/glotan/) can get a bunch of strikes and Long Blade: Perish.
 
 **DPS:** GRamona needs a lot of time to scale Predetermined Strike, so she appreciates defensive teammates like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) and [Caraboo](/handbook/awakeners/caraboo/). She also benefits from supports that can grant STR and copy Predetermined Strike, such as [Thais](/handbook/awakeners/thais/) and [Hameln](/handbook/awakeners/hameln/).
 

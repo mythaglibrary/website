@@ -299,7 +299,7 @@ The [Awakener Guides](/handbook/awakeners/) section suggests covenants for each 
 
 **Prioritize skills where the numbers matter.** For example, leveling up [Lotan](/handbook/awakeners/lotan/)'s rouse only increases the amount of aliemus you get from the rouse — a bonus you only get once per fight. In contrast, leveling up her exalt increases the damage of her highest-damage skill, *and* the rate at which it scales up over time, *and* the damage and aliemus from the generated strikes at E3.
 
-**Don't neglect strikes and defenses.** These give more aliemus when upgraded, which is important for all characters.
+**Don't neglect Strikes and Defenses.** These give more aliemus when upgraded, which is important for all characters.
 
 ### Soulforge Aptitude
 

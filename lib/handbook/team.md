@@ -427,7 +427,7 @@ For DPS that simply have high Base DMG, building crit is usually a higher priori
 
 Some characters scale with stats other than crit or DMG amplification. For example, [Mouchette](/handbook/awakeners/mouchette/)'s E1 gives her a lot of crit from :dr: Death Resistance. This means building death resistance on Mouchette is as good as building crit on her.
 
-Specific characters may have other needs as well. Some might want the wheel [Will Unyielding](https://skeydb.com/database/wheels/will-unyielding){target="_blank"} to get more strikes and defenses. Others might want the covenant [Dream of Medicine](#dream-of-medicine) to have more copies of a key card.
+Specific characters may have other needs as well. Some might want the wheel [Will Unyielding](https://skeydb.com/database/wheels/will-unyielding){target="_blank"} to get more Strikes and Defenses. Others might want the covenant [Dream of Medicine](#dream-of-medicine) to have more copies of a key card.
 
 ### Building Supports
 
@@ -650,14 +650,14 @@ Prioritize :crit-dmg: Crit DMG and :crit-rate: Crit Rate if a crit DPS is holdin
 <div class="grid cards" markdown>
   <span class="grid-1/1/1">
     <span>**Source** <br /> Verboten Covenant <br /> *(Faded Legacy Ch. 2)*</span>
-    <span>**Used by** <br /> Supports with good defense cards</span>
+    <span>**Used by** <br /> Supports with good Defense cards</span>
     <span style="padding: 0 4px; background-color: var(--md-highlight-no)">**Team Unique?** <br /> No</span>
   </span>
 </div>
 
-Gives you a copy of the wielder's defense card every other turn.
+Gives you a copy of the wielder's basic Defense card every other turn.
 
-This is only worth it if there's something special about the defense that makes you want it every turn. For example, [Horla](/handbook/awakeners/horla/)'s defense inflicts weakness at E1, making this a great covenant set for her.
+This is only worth it if there's something special about the Defense that makes you want it every turn. For example, [Horla](/handbook/awakeners/horla/)'s defense inflicts weakness at E1, making this a great covenant set for her.
 
 #### Twisted Twins: Black
 
@@ -669,14 +669,14 @@ This is only worth it if there's something special about the defense that makes 
 <div class="grid cards" markdown>
   <span class="grid-1/1/1">
     <span>**Source** <br /> Verboten Covenant <br /> *(Faded Legacy Ch. 3)*</span>
-    <span>**Used by** <br /> Supports with good strike cards</span>
+    <span>**Used by** <br /> Supports with good Strike cards</span>
     <span style="padding: 0 4px; background-color: var(--md-highlight-no)">**Team Unique?** <br /> No</span>
   </span>
 </div>
 
-Gives you a copy of the wielder's strike card every other turn.
+Gives you a copy of the wielder's basic Strike card every other turn.
 
-This is only worth it if there's something special about the strike that makes you want it every turn. For example, [Clementine](/handbook/awakeners/clementine/)'s cards generate STR when played as the first card each turn.
+This is only worth it if there's something special about the Strike that makes you want it every turn. For example, [Clementine](/handbook/awakeners/clementine/)'s cards generate STR when played as the first card each turn.
 
 Works great with the SSR wheel [Amidst the Downpour](https://skeydb.com/database/wheels/amidst-the-downpour){target="_blank"}.
 
@@ -858,9 +858,9 @@ Not a bad effect, but there aren't a lot of Aequor/Ultra teams that can use it e
   </span>
 </div>
 
-Boosts the shields from the wielder's defense card. Niche but strong on specific characters like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/).
+Boosts the shields from the wielder's Defense cards. Niche but strong on specific characters like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/).
 
-Usually paired with the SR wheel [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"} or some other way to get more defense cards. Otherwise, this only buffs 1 card in the deck out of 16.
+Usually paired with the SR wheel [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"} or some other way to get more Defense cards. Otherwise, this only buffs 1 card in the deck out of 16.
 
 #### Ring of Chamber 36
 
