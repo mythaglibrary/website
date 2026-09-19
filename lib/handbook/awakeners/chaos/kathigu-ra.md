@@ -52,7 +52,7 @@ As a result, Kath is reliable and self-sufficient, and a good choice for new pla
 
 Kath revolves around managing **Fiamma**, her unique gameplay mechanic.
 
-When you play Kath, you will quickly notice that your cards are on fire. This represents the Fiamma attached to that card.
+When you play with Kath, you will quickly notice that her cards are on fire. This represents the Fiamma attached to those cards.
 
 If a card has Fiamma, it gets buffed and gains retain. A card can have up to 3 stacks of Fiamma, with each stack making it more powerful.
 
@@ -97,7 +97,7 @@ You should usually play Hyperflare for 0 arithmetica, because the only benefit y
 
 A common newbie mistake is to focus on spending as much Combust and arithmetica as possible on a single big Hyperflare. This means you're missing out on the bonus arithmetica from each time you reach 10 Combust, and you're missing out on the 0-cost Fiamma generation from playing 0-cost Hyperflares.
 
-A more effective strategy is to build up Base DMG and STR by cycling 0-cost Hyperflares, and *then* start tossing out big Hyperflares from around turn 7 onwards.
+A more effective strategy is to build up Base DMG and STR by cycling 0-cost Hyperflares, and *then* start tossing out big Hyperflares for higher damage.
 
 ### Card Manipulation
 
@@ -113,13 +113,13 @@ You can add more Kath cards to your deck with wheels like [The Land of Nonexiste
 
 Kath needs a lot of arithmetica and time to build up, so she's often run in Ultra teams to get Insights and extra turns.
 
-She appreciates arithmetica supports like [Tinct](/handbook/awakeners/tinct/) and [Karen](/handbook/awakeners/karen/). She doesn't work well with supports that need to play their own cards to work.
+She appreciates arithmetica supports like [Tinct](/handbook/awakeners/tinct/) and [Karen](/handbook/awakeners/karen/). She doesn't work well with supports that need a lot of arithmetica to work.
 
 When built for shielding, Kath can have issues reaching 100% Crit Rate, and appreciates crit buffers like [Tinct](/handbook/awakeners/tinct/), [Ryker](/handbook/awakeners/ryker/), and [Horla](/handbook/awakeners/horla/).
 
-[Clementine](/handbook/awakeners/clementine/) works well with Kath because of all the STR she generates, which Kath can put to good use with Hyperflare.
+[Clementine](/handbook/awakeners/clementine/) works especially well with Kath because of all the STR she generates, which Kath can put to good use with Hyperflare.
 
-[Horla](/handbook/awakeners/horla/) and [Erica](/handbook/awakeners/erica/) can provide weakness and vulnerable, which Kath lacks, at low or no arithmetica cost.
+[Horla](/handbook/awakeners/horla/) and [Erica](/handbook/awakeners/erica/) can provide weakness and vulnerable at a very low arithmetica cost.
 
 ## How to Play
 

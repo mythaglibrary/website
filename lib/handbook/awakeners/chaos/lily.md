@@ -34,14 +34,13 @@ awakener:
           - id: the-land-of-nonexistence
   suggested_posses:
     - id: plague-of-illusions
-      note: Astral Reign Ch. 1
     - id: tiny-wish
-      note: Faded Legacy Ch. 1
+      note: Early game
   works_well_with:
     - gdoll
     - xu
     - daffodil
-  works_well_with_note: Anyone
+    - anyone
 ---
 
 A simple but effective shielder and healer. When invested and loaded up with death resistance stats, an E3 Lily can outheal all incoming damage and carry the entire team.
