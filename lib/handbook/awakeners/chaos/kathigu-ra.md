@@ -48,7 +48,7 @@ As a result, Kath is reliable and self-sufficient, and a good choice for new pla
 
 ### Fiamma
 
-![](/images/handbook/awakeners/kath-fiamma.png){width="128" class="on-glb" loading=lazy}
+![](/images/handbook/awakeners/kath-fiamma.png){width="256" class="on-glb" loading=lazy}
 
 Kath revolves around managing **Fiamma**, her unique gameplay mechanic.
 
@@ -56,19 +56,20 @@ When you play Kath, you will quickly notice that your cards are on fire. This re
 
 If a card has Fiamma, it gets buffed and gains retain. A card can have up to 3 stacks of Fiamma, with each stack making it more powerful.
 
+If Kath is roused, playing a card with 3 Fiamma will return it to your hand.
+
 You can get Fiamma in the following ways:
 
 - At the start of each turn, 1 Fiamma is added to a random Kath card in your hand.
+- When you play a card with Fiamma, 1 Fiamma is added to a different Kath card in your hand. 
 - If Kath is roused, you get an extra Fiamma at the start of each turn.
 - If Kath is E3, all her cards start with 1 Fiamma.
 - When you use Kath's exalt, after you draw the cards, 1 Fiamma is added to 3 random Kath cards in your hand.
 - When you use Kath's posse, [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}, the drawn card gets 1 Fiamma.
 
-When you play a card with Fiamma, 1 Fiamma will be added to another Kath card in your hand. If Kath is roused, playing a card with 3 Fiamma will return it to your hand.
+Generating Fiamma is the *most important thing* for Kath. Her E3 and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"} are very important for maximizing her potential.
 
-Generating Fiamma is the *most important thing* for Kath. As a result, her E3 and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"} are very important for maximizing her potential.
-
-Kath is a good shielder because the Fiamma boost to her Defense card is multiplicative with [Feast from Afar](/handbook/team#feast-from-afar) and [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"}. This means that, with the right build, she can produce hundreds of shields with a single Defense (which returns to your hand if it has 3 Fiamma on it).
+Kath is a good shielder because the Fiamma boost to her Defense card is multiplicative with other buffs, like [Feast from Afar](/handbook/team#feast-from-afar) and [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"}. This means that, with the right build, she can produce hundreds of shields with a single Defense card, which can be returned to your hand over and over again.
 
 ### Combust
 
@@ -124,8 +125,8 @@ When built for shielding, Kath can have issues reaching 100% Crit Rate, and appr
 
 Generate Fiamma with Kath's rouse, her exalt, and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}.
 
-Play cards that have Fiamma to get Combust.
+Play cards that have Fiamma to get Combust. Try to play cards that have 1 and 3 Fiamma. Don't play the last Kath card in your hand.
 
-When you have 10 Combust, play Hyperflare.
+When you have 10 Combust, play Hyperflare. If you have no STR, don't spend any arithmetica on it.
 
 Repeat until all the enemies are dead.
