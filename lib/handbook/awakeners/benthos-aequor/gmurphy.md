@@ -80,7 +80,7 @@ Support GMurphy contributes a lot of things:
 - In Tranquil Sea stance, she can shield for a lot with Waltz of Lemuria.
 - Her exalt inflicts Birth Ritual, which is effectively a unique damage multiplier for the turn.
 
-The sacrifice inflicted by Birth Ritual can effectively carry over damage from your burst turn. For example, after you take out a boss’s first HP bar, you can deal a big chunk of damage to the second HP bar after they Rouse.
+The sacrifice inflicted by Birth Ritual can carry over damage from your burst turn into subsequent turns. For example, after you take out a boss’s first HP bar, you can deal a big chunk of damage to the second HP bar after they Rouse.
 
 ### Damage
 
