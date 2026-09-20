@@ -1,6 +1,6 @@
 ---
 title: Saya
-description: 'Builds and new-player guidance for the Propagation: Caro Awakener Saya.'
+description: Builds, strategy, and gameplay tips for the Morimens character Saya.
 template: awakeners/awakener.html
 awakener:
   tagline: Deck-Cycling Corrosion Nuker

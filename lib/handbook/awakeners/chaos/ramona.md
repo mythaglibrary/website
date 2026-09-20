@@ -1,6 +1,6 @@
 ---
 title: Ramona
-description: Builds and new-player guidance for the Chaos Awakener Ramona.
+description: Builds, strategy, and gameplay tips for the Morimens character Ramona.
 template: awakeners/awakener.html
 awakener:
   tagline: Card Searching Keyflare Support

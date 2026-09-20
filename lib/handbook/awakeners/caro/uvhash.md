@@ -1,6 +1,6 @@
 ---
 title: Uvhash
-description: Builds and new-player guidance for the Caro Awakener Uvhash.
+description: Builds, strategy, and gameplay tips for the Morimens character Uvhash.
 template: awakeners/awakener.html
 awakener:
   tagline: Unsealable Self-Harming Berserker

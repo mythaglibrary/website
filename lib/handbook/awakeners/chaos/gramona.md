@@ -1,6 +1,6 @@
 ---
 title: GRamona
-description: Builds and new-player guidance for the Chaos Awakener GRamona.
+description: 'Builds, strategy, and gameplay tips for the Morimens character Ramona: Timeworn (GRamona).'
 template: awakeners/awakener.html
 awakener:
   tagline: Time-Looping Toolbox
@@ -52,7 +52,7 @@ awakener:
     - hameln
 ---
 
-Ramona: Timeworn (GRamona) is a complex but versatile keyflare support. In addition to her decent keyflare generation, she brings three useful abilities to the team.
+Ramona: Timeworn (“GRamona”) is a complex but versatile keyflare support. In addition to her decent keyflare generation, she brings three useful abilities to the team.
 
 Firstly, she can search your Draw Pile for any card with Sight Unbound. This isn’t as powerful as base [Ramona](/handbook/awakeners/ramona/)’s exalt, but it remains useful for teams that rely on specific cards.
 

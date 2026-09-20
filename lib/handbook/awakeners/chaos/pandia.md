@@ -1,6 +1,6 @@
 ---
 title: Pandia
-description: Builds and new-player guidance for the Chaos Awakener Pandia.
+description: Builds, strategy, and gameplay tips for the Morimens character Pandia.
 template: awakeners/awakener.html
 awakener:
   tagline: Niche Counter DPS / Counter Removal Bot

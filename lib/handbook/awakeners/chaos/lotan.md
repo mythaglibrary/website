@@ -1,6 +1,6 @@
 ---
 title: Lotan
-description: Builds and new-player guidance for the Chaos Awakener Lotan.
+description: Builds, strategy, and gameplay tips for the Morimens character Lotan.
 template: awakeners/awakener.html
 awakener:
   tagline: Strike-Spamming Exalt DPS / Over-Exalt Boss Grinder

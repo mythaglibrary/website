@@ -1,6 +1,6 @@
 ---
 title: Karen
-description: Builds and new-player guidance for the Chaos Awakener Karen.
+description: Builds, strategy, and gameplay tips for the Morimens character Karen.
 template: awakeners/awakener.html
 awakener:
   tagline: Arithmetica Delivery Service

@@ -1,6 +1,6 @@
 ---
 title: Helot
-description: Builds and new-player guidance for the Caro Awakener Helot.
+description: Builds, strategy, and gameplay tips for the Morimens character Helot.
 template: awakeners/awakener.html
 awakener:
   tagline: Strike Buff Support

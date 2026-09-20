@@ -1,6 +1,6 @@
 ---
 title: Casiah
-description: Builds and new-player guidance for the Ultra Awakener Casiah.
+description: Builds, strategy, and gameplay tips for the Morimens character Casiah.
 template: awakeners/awakener.html
 awakener:
   tagline: Deck-Cycling Card Trick Support

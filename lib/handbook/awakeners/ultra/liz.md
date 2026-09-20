@@ -1,6 +1,6 @@
 ---
 title: Liz
-description: Builds and new-player guidance for the Ultra Awakener Liz.
+description: Builds, strategy, and gameplay tips for the Morimens character Liz.
 template: awakeners/awakener.html
 awakener:
   tagline: High-Maintenance Poison DPS

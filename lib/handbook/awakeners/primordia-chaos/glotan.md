@@ -1,6 +1,6 @@
 ---
 title: GLotan
-description: Builds and new-player guidance for the Primordia Chaos Awakener GLotan.
+description: 'Builds, strategy, and gameplay tips for the Morimens character Lotan: Cetarchon (GLotan).'
 template: awakeners/awakener.html
 awakener:
   tagline: Strike-Looping Leviathan Slayer

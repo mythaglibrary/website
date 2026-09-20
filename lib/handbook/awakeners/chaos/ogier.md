@@ -1,6 +1,6 @@
 ---
 title: Ogier
-description: Builds and new-player guidance for the Chaos Awakener Ogier.
+description: Builds, strategy, and gameplay tips for the Morimens character Ogier.
 template: awakeners/awakener.html
 awakener:
   tagline: Mono Chaos Shielder & STR Buffer

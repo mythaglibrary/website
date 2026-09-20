@@ -1,6 +1,6 @@
 ---
 title: Xu
-description: Builds and new-player guidance for the Caro Awakener Xu.
+description: Builds, strategy, and gameplay tips for the Morimens character Xu.
 template: awakeners/awakener.html
 awakener:
   tagline: Defensive Support & Poison Trigger Queen

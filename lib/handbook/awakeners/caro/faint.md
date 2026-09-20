@@ -1,6 +1,6 @@
 ---
 title: Faint
-description: Builds and new-player guidance for the Caro Awakener Faint.
+description: Builds, strategy, and gameplay tips for the Morimens character Faint.
 template: awakeners/awakener.html
 awakener:
   tagline: Hard-to-Kill Death Resistance Tank

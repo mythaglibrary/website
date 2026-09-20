@@ -1,6 +1,6 @@
 ---
 title: Thais
-description: Builds and new-player guidance for the Caro Awakener Thais.
+description: Builds, strategy, and gameplay tips for the Morimens character Thais.
 template: awakeners/awakener.html
 awakener:
   tagline: Baby-Making Keyflare Goddess

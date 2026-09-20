@@ -181,14 +181,14 @@ These characters deal enough damage to clear Normal stages as main DPS, but they
   Liz (E1)
 </div>
 <div class="item" markdown>
-  [![“24”](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
-
-  “24”
-</div>
-<div class="item" markdown>
   [![Lily](/images/awakeners/chaos/lily--mini.png){loading=lazy}](/handbook/awakeners/lily)
 
   Lily (E3)
+</div>
+<div class="item" markdown>
+  [![“24”](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
+
+  “24”
 </div>
 <div class="item" markdown>
   [![Salvador](/images/awakeners/caro/salvador--mini.png){loading=lazy}](/handbook/awakeners/salvador)
@@ -502,14 +502,14 @@ These characters are good at one or two specific things, which makes them valuab
   Winkle
 </div>
 <div class="item" markdown>
-  [![“24”](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
-
-  “24”
-</div>
-<div class="item" markdown>
   [![Hameln](/images/awakeners/chaos/hameln--mini.png){loading=lazy}](/handbook/awakeners/hameln)
 
   Hameln
+</div>
+<div class="item" markdown>
+  [![“24”](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
+
+  “24”
 </div>
 <div class="item" markdown>
   [![GLotan](/images/awakeners/chaos/glotan--mini.png){loading=lazy}](/handbook/awakeners/glotan)

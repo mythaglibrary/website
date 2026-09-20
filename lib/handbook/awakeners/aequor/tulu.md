@@ -1,6 +1,6 @@
 ---
 title: Tulu
-description: Builds and new-player guidance for the Aequor Awakener Tulu.
+description: Builds, strategy, and gameplay tips for the Morimens character Tulu.
 template: awakeners/awakener.html
 awakener:
   tagline: The King of Tentacle DMG

@@ -1,6 +1,6 @@
 ---
 title: Corposant
-description: Builds and new-player guidance for the Aequor Awakener Corposant.
+description: Builds, strategy, and gameplay tips for the Morimens character Corposant.
 template: awakeners/awakener.html
 awakener:
   tagline: Discard-Abusing Story Mode Champion

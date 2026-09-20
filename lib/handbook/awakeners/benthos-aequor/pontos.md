@@ -1,6 +1,6 @@
 ---
 title: Pontos
-description: 'Builds and new-player guidance for the Benthos: Aequor Awakener Pontos.'
+description: Builds, strategy, and gameplay tips for the Morimens character Pontos.
 template: awakeners/awakener.html
 awakener:
   tagline: STR Down Aftershock Value Engine

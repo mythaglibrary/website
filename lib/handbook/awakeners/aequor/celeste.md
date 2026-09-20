@@ -1,6 +1,6 @@
 ---
 title: Celeste
-description: Builds and new-player guidance for the Aequor Awakener Celeste.
+description: Builds, strategy, and gameplay tips for the Morimens character Celeste.
 template: awakeners/awakener.html
 awakener:
   tagline: Extra Life & Arithmetica Support

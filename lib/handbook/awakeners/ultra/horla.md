@@ -1,6 +1,6 @@
 ---
 title: Horla
-description: Builds and new-player guidance for the Ultra Awakener Horla.
+description: Builds, strategy, and gameplay tips for the Morimens character Horla.
 template: awakeners/awakener.html
 awakener:
   tagline: Debuffer & Teamwide Aura Support

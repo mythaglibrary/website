@@ -1,6 +1,6 @@
 ---
 title: Pickman
-description: Builds and new-player guidance for the Caro Awakener Pickman.
+description: Builds, strategy, and gameplay tips for the Morimens character Pickman.
 template: awakeners/awakener.html
 awakener:
   tagline: Temporary Buff Stacking Sub DPS

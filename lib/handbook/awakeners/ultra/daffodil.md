@@ -1,6 +1,6 @@
 ---
 title: Daffodil
-description: Builds and new-player guidance for the Ultra Awakener Daffodil.
+description: Builds, strategy, and gameplay tips for the Morimens character Daffodil.
 template: awakeners/awakener.html
 awakener:
   tagline: Counter & Poison Combo Witch

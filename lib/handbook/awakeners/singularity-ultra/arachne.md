@@ -1,6 +1,6 @@
 ---
 title: Arachne
-description: 'Builds and new-player guidance for the Singularity: Ultra Awakener Arachne.'
+description: Builds, strategy, and gameplay tips for the Morimens character Arachne.
 template: awakeners/awakener.html
 awakener:
   tagline: Damage Amplifier, Harbinger of Doom

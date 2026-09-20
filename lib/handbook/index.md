@@ -22,13 +22,13 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 19 September 2026 (V2.6.0.4 - A Million Suns Descend Rerun)
+    Last updated 20 September 2026 (V2.6.0.4 - A Million Suns Descend Rerun)
 
 !!! info ""
 
     This is a living document, all info is subject to change.
     
-    **This website is under construction.** Some formatting is wonky and the [Awakener Guides](/handbook/awakeners/) are not fully updated. Please be patient!
+    **This website is under construction.** Some formatting is wonky and some of the [Awakener Guides](/handbook/awakeners/) are not updated. Please be patient!
     
     Let me know on [the Mythag Library Discord](https://discord.gg/H2MUYUSEBx){target="_blank"} if you have any feedback or suggestions!
 
@@ -74,9 +74,8 @@ Thanks to Sor and Fjant for building the web version of the guide.
 
 - [Gothgirlfriend](https://www.youtube.com/@gothgirIfriend){target="_blank"} - video guides
 - [Rose Guardian Reya](https://www.youtube.com/@Alessiel){target="_blank"} - video guides and playthroughs
-- [Dracozion](https://www.youtube.com/@phonicdraconic697/streams){target="_blank"} - D-Effect Zone streams
-- [satri-jynni](https://www.youtube.com/@satriyajynni){target="_blank"} - hard mode clears
-- [Kiro Takahashi](https://www.youtube.com/@linireo){target="_blank"} - hard mode clears
+- [Dracozion](https://www.youtube.com/@phonicdraconic697){target="_blank"} - D-Effect Zone streams
+- [Kiro Takahashi](https://www.youtube.com/@linireo){target="_blank"} - stage clears with silly teams
 
 
 !!! info "What about Flares?"

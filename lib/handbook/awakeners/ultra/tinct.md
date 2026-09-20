@@ -1,6 +1,6 @@
 ---
 title: Tinct
-description: Builds and new-player guidance for the Ultra Awakener Tinct.
+description: Builds, strategy, and gameplay tips for the Morimens character Tinct.
 template: awakeners/awakener.html
 awakener:
   tagline: Arithmetica & Crit Buff Support

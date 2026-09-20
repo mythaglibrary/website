@@ -1,6 +1,6 @@
 ---
 title: Faros
-description: Builds and new-player guidance for the Aequor Awakener Faros.
+description: Builds, strategy, and gameplay tips for the Morimens character Faros.
 template: awakeners/awakener.html
 awakener:
   tagline: Defensive Card Draw Support / AOE Poison Applier

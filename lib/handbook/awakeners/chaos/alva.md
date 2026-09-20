@@ -1,6 +1,6 @@
 ---
 title: Alva
-description: Builds and new-player guidance for the Chaos Awakener Alva.
+description: Builds, strategy, and gameplay tips for the Morimens character Alva.
 template: awakeners/awakener.html
 awakener:
   tagline: Anti-Bullshit Support / Shield Strike Combo DPS

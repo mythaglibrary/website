@@ -1,6 +1,6 @@
 ---
 title: GHelot
-description: Builds and new-player guidance for the Caro Awakener GHelot.
+description: 'Builds, strategy, and gameplay tips for the Morimens character Helot: Catena (GHelot).'
 template: awakeners/awakener.html
 awakener:
   tagline: Devastating Bleed Combo DPS

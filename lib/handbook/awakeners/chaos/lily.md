@@ -1,6 +1,6 @@
 ---
 title: Lily
-description: Builds and new-player guidance for the Chaos Awakener Lily.
+description: Builds, strategy, and gameplay tips for the Morimens character Lily.
 template: awakeners/awakener.html
 awakener:
   tagline: Immortal Poison Tank

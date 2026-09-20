@@ -1,6 +1,6 @@
 ---
 title: Clementine
-description: Builds and new-player guidance for the Ultra Awakener Clementine.
+description: Builds, strategy, and gameplay tips for the Morimens character Clementine.
 template: awakeners/awakener.html
 awakener:
   tagline: Universal Buff/Debuff Keyflare Support

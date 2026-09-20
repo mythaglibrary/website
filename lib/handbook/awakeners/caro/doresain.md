@@ -1,6 +1,6 @@
 ---
 title: Doresain
-description: Builds and new-player guidance for the Caro Awakener Doresain.
+description: Builds, strategy, and gameplay tips for the Morimens character Doresain.
 template: awakeners/awakener.html
 awakener:
   tagline: Terror of Low-HP Enemies

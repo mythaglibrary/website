@@ -1,6 +1,6 @@
 ---
 title: Mouchette
-description: Builds and new-player guidance for the Chaos Awakener Mouchette.
+description: Builds, strategy, and gameplay tips for the Morimens character Mouchette.
 template: awakeners/awakener.html
 awakener:
   tagline: Death-Defying Glass Cannon DPS

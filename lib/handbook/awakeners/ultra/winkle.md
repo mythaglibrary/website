@@ -1,6 +1,6 @@
 ---
 title: Winkle
-description: Builds and new-player guidance for the Ultra Awakener Winkle.
+description: Builds, strategy, and gameplay tips for the Morimens character Winkle.
 template: awakeners/awakener.html
 awakener:
   tagline: Aliemus & Defensive Utility Support

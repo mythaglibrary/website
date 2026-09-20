@@ -1,6 +1,6 @@
 ---
 title: Pollux
-description: Builds and new-player guidance for the Ultra Awakener Pollux.
+description: Builds, strategy, and gameplay tips for the Morimens character Pollux.
 template: awakeners/awakener.html
 awakener:
   tagline: Scaling Glass Cannon Combo DPS

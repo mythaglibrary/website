@@ -1,6 +1,6 @@
 ---
 title: Leigh
-description: Builds and new-player guidance for the Caro Awakener Leigh.
+description: Builds, strategy, and gameplay tips for the Morimens character Leigh.
 template: awakeners/awakener.html
 awakener:
   tagline: Healer for Living Dangerously

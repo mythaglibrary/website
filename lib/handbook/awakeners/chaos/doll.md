@@ -1,6 +1,6 @@
 ---
 title: Doll
-description: Builds and new-player guidance for the Chaos Awakener Doll.
+description: Builds, strategy, and gameplay tips for the Morimens character Doll.
 template: awakeners/awakener.html
 awakener:
   tagline: Cheap Defensive Keyflare Support

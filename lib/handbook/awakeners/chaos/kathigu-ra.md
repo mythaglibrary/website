@@ -1,6 +1,6 @@
 ---
 title: Kathigu-Ra
-description: Builds and new-player guidance for the Chaos Awakener Kathigu-Ra.
+description: Builds, strategy, and gameplay tips for the Morimens character Kathigu-Ra.
 template: awakeners/awakener.html
 awakener:
   tagline: Tanky Ramping Juggernaut

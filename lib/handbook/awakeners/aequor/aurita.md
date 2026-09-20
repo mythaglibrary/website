@@ -1,6 +1,6 @@
 ---
 title: Aurita
-description: Builds and new-player guidance for the Aequor Awakener Aurita.
+description: Builds, strategy, and gameplay tips for the Morimens character Aurita.
 template: awakeners/awakener.html
 awakener:
   tagline: Multihit Tentacle Driver

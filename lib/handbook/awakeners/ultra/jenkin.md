@@ -1,6 +1,6 @@
 ---
 title: Jenkin
-description: Builds and new-player guidance for the Ultra Awakener Jenkin.
+description: Builds, strategy, and gameplay tips for the Morimens character Jenkin.
 template: awakeners/awakener.html
 awakener:
   tagline: Multihit Crit Buff Support

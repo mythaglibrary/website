@@ -1,6 +1,6 @@
 ---
 title: Caraboo
-description: 'Builds and new-player guidance for the Propagation: Caro Awakener Caraboo.'
+description: Builds, strategy, and gameplay tips for the Morimens character Caraboo.
 template: awakeners/awakener.html
 awakener:
   tagline: '“Random Bullshit Go” Tank'

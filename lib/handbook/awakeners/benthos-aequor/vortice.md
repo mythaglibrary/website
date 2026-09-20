@@ -1,6 +1,6 @@
 ---
 title: Vortice
-description: 'Builds and new-player guidance for the Benthos: Aequor Awakener Vortice.'
+description: Builds, strategy, and gameplay tips for the Morimens character Vortice.
 template: awakeners/awakener.html
 awakener:
   tagline: Grinding Artillery Cannon

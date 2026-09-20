@@ -1,6 +1,6 @@
 ---
 title: Sanga
-description: Builds and new-player guidance for the Aequor Awakener Sanga.
+description: Builds, strategy, and gameplay tips for the Morimens character Sanga.
 template: awakeners/awakener.html
 awakener:
   tagline: Mob Clearing Shield Support

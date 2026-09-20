@@ -1,6 +1,6 @@
 ---
 title: Sorel
-description: Builds and new-player guidance for the Caro Awakener Sorel.
+description: Builds, strategy, and gameplay tips for the Morimens character Sorel.
 template: awakeners/awakener.html
 awakener:
   tagline: Greedy Multihit Exalt DPS

@@ -1,6 +1,6 @@
 ---
 title: Ryker
-description: Builds and new-player guidance for the Chaos Awakener Ryker.
+description: Builds, strategy, and gameplay tips for the Morimens character Ryker.
 template: awakeners/awakener.html
 awakener:
   tagline: High-Rolling Damage Buff Dispenser

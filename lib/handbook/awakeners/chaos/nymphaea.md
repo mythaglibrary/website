@@ -1,6 +1,6 @@
 ---
 title: Nymphaea
-description: Builds and new-player guidance for the Chaos Awakener Nymphaea.
+description: Builds, strategy, and gameplay tips for the Morimens character Nymphaea.
 template: awakeners/awakener.html
 awakener:
   tagline: Poison Trigger Keyflare Support

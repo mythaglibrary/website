@@ -1,6 +1,6 @@
 ---
 title: Murphy
-description: Builds and new-player guidance for the Aequor Awakener Murphy.
+description: Builds, strategy, and gameplay tips for the Morimens character Murphy.
 template: awakeners/awakener.html
 awakener:
   tagline: Damage-Delaying Keyflare Tank

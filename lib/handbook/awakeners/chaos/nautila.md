@@ -1,6 +1,6 @@
 ---
 title: Nautila
-description: Builds and new-player guidance for the Chaos Awakener Nautila.
+description: Builds, strategy, and gameplay tips for the Morimens character Nautila.
 template: awakeners/awakener.html
 awakener:
   tagline: Shield Stall & Counter Support

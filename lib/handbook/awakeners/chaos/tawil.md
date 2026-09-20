@@ -1,6 +1,6 @@
 ---
 title: Tawil
-description: Builds and new-player guidance for the Chaos Awakener Tawil.
+description: Builds, strategy, and gameplay tips for the Morimens character Tawil.
 template: awakeners/awakener.html
 awakener:
   tagline: All-in-One Toolbox Engine

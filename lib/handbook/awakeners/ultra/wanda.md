@@ -1,6 +1,6 @@
 ---
 title: Wanda
-description: Builds and new-player guidance for the Ultra Awakener Wanda.
+description: Builds, strategy, and gameplay tips for the Morimens character Wanda.
 template: awakeners/awakener.html
 awakener:
   tagline: STR Down Counter Support

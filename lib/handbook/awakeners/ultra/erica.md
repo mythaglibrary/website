@@ -1,6 +1,6 @@
 ---
 title: Erica
-description: Builds and new-player guidance for the Ultra Awakener Erica.
+description: Builds, strategy, and gameplay tips for the Morimens character Erica.
 template: awakeners/awakener.html
 awakener:
   tagline: Alert Stalling Keyflare Bot

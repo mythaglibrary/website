@@ -1,6 +1,6 @@
 ---
 title: Hameln
-description: Builds and new-player guidance for the Chaos Awakener Hameln.
+description: Builds, strategy, and gameplay tips for the Morimens character Hameln.
 template: awakeners/awakener.html
 awakener:
   tagline: Arithmetica Printer & Card Copyist

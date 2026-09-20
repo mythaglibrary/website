@@ -1,6 +1,6 @@
 ---
 title: Aigis
-description: Builds and new-player guidance for the Caro Awakener Aigis.
+description: Builds, strategy, and gameplay tips for the Morimens character Aigis.
 template: awakeners/awakener.html
 awakener:
   tagline: Damage Multiplying Extra Turn Queen

@@ -1,6 +1,6 @@
 ---
 title: Salvador
-description: Builds and new-player guidance for the Caro Awakener Salvador.
+description: Builds, strategy, and gameplay tips for the Morimens character Salvador.
 template: awakeners/awakener.html
 awakener:
   tagline: Immortal Crimson Furnace Tank

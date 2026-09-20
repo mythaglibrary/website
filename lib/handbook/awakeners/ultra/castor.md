@@ -1,6 +1,6 @@
 ---
 title: Castor
-description: Builds and new-player guidance for the Ultra Awakener Castor.
+description: Builds, strategy, and gameplay tips for the Morimens character Castor.
 template: awakeners/awakener.html
 awakener:
   tagline: Corrosive Shield Stall Tank
