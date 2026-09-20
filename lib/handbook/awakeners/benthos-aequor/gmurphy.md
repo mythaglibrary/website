@@ -3,7 +3,7 @@ title: GMurphy
 description: 'Builds, strategy, and gameplay tips for the Morimens character Murphy: Fauxborn (GMurphy).'
 template: awakeners/awakener.html
 awakener:
-  tagline: Self-Harming Tentacle DMG & Keyflare Carry
+  tagline: Self-Harming Tentacle DPS & Support
   roles:
     - Lemurian
     - Card Draw
@@ -66,7 +66,7 @@ awakener:
 
 Murphy: Fauxborn (GMurphy) is a strong and versatile character who functions both as a support and a DPS.
 
-The downside is that she inflicts the **sacrifice** status effect on herself, which can make you take a lot of damage.
+The downside is that she can easily kill herself with self-inflicted damage, and needs forethought to play effectively.
 
 ### Support Skills
 
@@ -97,7 +97,7 @@ If you run GMurphy in a Lemurian team, she becomes a strong shielder, as she gen
 
 ## How to Play
 
-GMurphy can do many things, but not all at once. Her abilities are tied to your Aequor stance cooldowns, and her exalt and Abyss Hymns will kill you if you use them too much.
+GMurphy can do many things, but not all at once. Waltz of Lemuria's effects are tied to your Benthos: Aequor cooldowns, while her exalt and Abyss Hymns will kill you if you use them too much.
 
 When playing with GMurphy, you need to think about the best time to use each of her abilities. When is the best time to shield with Tranquil Sea stance? When should you burst with Raging Waves stance? And what stance should you use Waltz of Lemuria in?
 
@@ -113,7 +113,7 @@ If you’re dying to sacrifice, you should stop using GMurphy’s exalt and Abys
 
 GMurphy’s E2 gives you bonus Crit DMG based on how much sacrifice you have compared to your Max HP. This can be abused in a few ways.
 
-If your team is strong enough to kill enemies in one turn, you can spam GMurphy’s Abyss Hymn and exalt to boost her damage. Since you win the fight before the turn ends, you will never take damage from sacrifice.
+If your team is strong enough to kill enemies in one turn, you can spam GMurphy’s Abyss Hymn and exalt to boost her damage. Since you win the fight before the turn ends, you'll never take damage from sacrifice.
 
 There are also certain enemies that reduce your Max HP to 1. If you have, for example, 100 sacrifice when this happens, you now have 10000% of your Max HP in sacrifice, and GMurphy gets a gigantic Crit DMG boost.
 
