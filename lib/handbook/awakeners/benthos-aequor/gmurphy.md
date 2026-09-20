@@ -91,9 +91,9 @@ At E2, GMurphy gains bonus Crit DMG from your current Sacrifice stacks.
 
 ### Lemurians
 
-In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, a specific group of characters get huge buffs if they are used together. These are [Faros](/handbook/awakeners/faros/), [Goliath](/handbook/awakeners/goliath/), [Miryam](/handbook/awakeners/miryam/), [Tulu](/handbook/awakeners/tulu/), and [GMurphy](/handbook/awakeners/gmurphy/).
+In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, the Lemurian characters get huge buffs from their soulforge talents when used together. These are [Faros](/handbook/awakeners/faros/), [Goliath](/handbook/awakeners/goliath/), [Miryam](/handbook/awakeners/miryam/), [Tulu](/handbook/awakeners/tulu/), and [GMurphy](/handbook/awakeners/gmurphy/).
 
-If you run GMurphy in a Lemurian team, she becomes a strong shielder, as she generates a shield the first time any Lemurian uses an exalt each turn. She also boosts the Max HP of the team, and is often used as the main damage dealer.
+If you run GMurphy in a Lemurian team, she becomes a strong shielder, as she generates a shield the first time any Lemurian uses an exalt each turn. She also boosts the Max HP of the team, and is the strongest Lemurian damage dealer.
 
 ## How to Play
 
