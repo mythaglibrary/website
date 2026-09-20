@@ -123,10 +123,10 @@ GMurphy is versatile enough that she can fit into most Aequor teams. However, sh
 
 [Corposant](/handbook/awakeners/corposant/) and [Tawil](/handbook/awakeners/tawil/) work very well with GMurphy as a support and secondary DPS.
 
-If GMurphy is the DPS, she works best with teammates that can let her play more Waltzes in one turn, such as [Thais](/handbook/awakeners/thais/), [Arachne](/handbook/awakeners/arachne/), or [Casiah](/handbook/awakeners/casiah/).
+If GMurphy is the main DPS, she works best with teammates that let her play more Waltzes in one turn, such as [Thais](/handbook/awakeners/thais/), [Arachne](/handbook/awakeners/arachne/), or [Casiah](/handbook/awakeners/casiah/).
 
 In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, GMurphy can also be run in a full Lemurian team with [Miryam](/handbook/awakeners/miryam/), [Tulu](/handbook/awakeners/tulu/), and [Goliath](/handbook/awakeners/goliath/). Goliath can be replaced with [Faros](/handbook/awakeners/faros/) if surviving is more important than dealing damage.
 
 ## High Investment
 
-GMurphy’s OE gives her three Waltzes of Lemuria with prepare. This is a huge boost to her damage ceiling and makes her a strong DPS.
+GMurphy’s OE gives her three Waltzes of Lemuria with prepare. This is a huge boost to her damage ceiling and makes her a strong DPS in her own right.
