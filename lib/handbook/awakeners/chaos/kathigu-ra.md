@@ -37,6 +37,7 @@ awakener:
     - horla
     - ryker
     - tinct
+    - arachne
     - karen
 ---
 
@@ -130,6 +131,8 @@ She appreciates arithmetica supports like [Tinct](/handbook/awakeners/tinct/) an
 When built for shielding, Kath can have issues reaching 100% Crit Rate, and appreciates crit buffers like [Tinct](/handbook/awakeners/tinct/), [Ryker](/handbook/awakeners/ryker/), and [Horla](/handbook/awakeners/horla/).
 
 [Clementine](/handbook/awakeners/clementine/) works especially well with Kath because of all the STR she generates, which Kath can put to good use with Hyperflare.
+
+[Arachne](/handbook/awakeners/arachne/) boosts Kath's damage a lot, but Singularity: Ultra makes the team harder to play, as you no longer get Insights from Annihilation.
 
 [Horla](/handbook/awakeners/horla/) and [Erica](/handbook/awakeners/erica/) can provide weakness and vulnerable at a very low arithmetica cost.
 
