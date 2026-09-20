@@ -611,6 +611,8 @@ Prioritize :crit-dmg: Crit DMG, :crit-rate: Crit Rate, and :skey: Keyflare Regen
   </span>
 </div>
 
+Boosts the wielder’s Base DMG, Poison Infliction, and Counter Generation.
+
 This is the highest-damage option for DPS that apply fixed poison or counter, like [Nymphaea](/handbook/awakeners/nymphaea/). It can also be used by DPS that have innate Crit Rate buffs and high Base DMG, like [“24”](/handbook/awakeners/24/), [GHelot](/handbook/awakeners/ghelot/), and [Daffodil](/handbook/awakeners/daffodil/).
 
 If the DPS scales with critical hits and can’t reach 100% Crit Rate on their own, you should probably run [April Tribute](#april-tribute) or [Crimson Pulse](#crimson-pulse) instead.
