@@ -79,7 +79,7 @@ Support GMurphy contributes a lot of things:
 - In Tranquil Sea stance, she can shield for a lot with Waltz of Lemuria.
 - Her exalt inflicts Birth Ritual, which is effectively a unique damage multiplier for the turn.
 
-The sacrifice inflicted by Birth Ritual can effectively carry over damage from your burst turn. For example, after you take out a boss's first HP bar, you can deal a big chunk of damage to the second HP bar after they Rouse.
+The sacrifice inflicted by Birth Ritual can effectively carry over damage from your burst turn. For example, after you take out a boss’s first HP bar, you can deal a big chunk of damage to the second HP bar after they Rouse.
 
 ### Damage
 
@@ -101,25 +101,25 @@ GMurphy can do many things, but not all at once. Her abilities are tied to your 
 
 When playing with GMurphy, you need to think about the best time to use each of her abilities. When is the best time to shield with Tranquil Sea stance? When should you burst with Raging Waves stance? And what stance should you use Waltz of Lemuria in?
 
-Matching your team to the rhythm of GMurphy's cooldowns, and matching her cooldowns to the enemy intentions, is key to playing with GMurphy.
+Matching your team to the rhythm of GMurphy’s cooldowns, and matching her cooldowns to the enemy intentions, is key to playing with GMurphy.
 
 ### Sacrifice Management
 
-If you're dying to sacrifice, you should stop using GMurphy's exalt and Abyss Hymns for a while. Sacrifice goes away by itself over time. You can also cleanse some sacrifice by letting Abyss Hymns be discarded instead of playing it.
+If you’re dying to sacrifice, you should stop using GMurphy’s exalt and Abyss Hymns for a while. Sacrifice goes away by itself over time. You can also cleanse some sacrifice by letting Abyss Hymns be discarded instead of playing it.
 
-[Murphy](/handbook/awakeners/murphy/) can halve your current sacrifice stacks with Vortex Reversal, letting you get away with riskier plays when she's in the team.
+[Murphy](/handbook/awakeners/murphy/) can halve your current sacrifice stacks with Vortex Reversal, letting you get away with riskier plays when she’s in the team.
 
 ### Sacrifice Cheese
 
-GMurphy's E2 gives you bonus Crit DMG based on how much sacrifice you have compared to your Max HP. This can be abused in a few ways.
+GMurphy’s E2 gives you bonus Crit DMG based on how much sacrifice you have compared to your Max HP. This can be abused in a few ways.
 
-If your team is strong enough to kill enemies in one turn, you can spam GMurphy's Abyss Hymn and exalt to boost her damage. Since you win the fight before the turn ends, you will never take damage from sacrifice.
+If your team is strong enough to kill enemies in one turn, you can spam GMurphy’s Abyss Hymn and exalt to boost her damage. Since you win the fight before the turn ends, you will never take damage from sacrifice.
 
 There are also certain enemies that reduce your Max HP to 1. If you have, for example, 100 sacrifice when this happens, you now have 10000% of your Max HP in sacrifice, and GMurphy gets a gigantic Crit DMG boost.
 
 ## Teambuilding
 
-GMurphy is versatile enough that she can fit into most Aequor teams. However, she forces your team into the Benthos: Aequor cooldowns, which isn't always ideal. For instance, a slow [poison team](/handbook/team#poison) would rather be able to shield with Tranquil Sea stance every turn.
+GMurphy is versatile enough that she can fit into most Aequor teams. However, she forces your team into the Benthos: Aequor cooldowns, which isn’t always ideal. For instance, a slow [poison team](/handbook/team#poison) would rather be able to shield with Tranquil Sea stance every turn.
 
 [Corposant](/handbook/awakeners/corposant/) and [Tawil](/handbook/awakeners/tawil/) work very well with GMurphy as a support and secondary DPS.
 
@@ -129,4 +129,4 @@ In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, GMurphy can a
 
 ## High Investment
 
-GMurphy's OE gives her three Waltzes of Lemuria with prepare. This is a huge boost to her damage ceiling and makes her a strong DPS.
+GMurphy’s OE gives her three Waltzes of Lemuria with prepare. This is a huge boost to her damage ceiling and makes her a strong DPS.
