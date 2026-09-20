@@ -54,6 +54,7 @@ awakener:
   suggested_posses:
     - id: wayward-ship
     - id: a-mouses-wisdom
+    - id: the-lone-seed
   works_well_with:
     - miryam
     - tulu
