@@ -131,3 +131,9 @@ In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, GMurphy can a
 ## High Investment
 
 GMurphy’s OE gives her three Waltzes of Lemuria with prepare. This is a huge boost to her damage ceiling and makes her a strong DPS in her own right.
+
+## Important Stats
+
+Waltz of Lemuria gets minor buffs from :skey: Keyflare Regen, which is a good stat that you should be building anyway.
+
+If you want GMurphy to deal damage, build :crit-dmg: Crit DMG and :crit-rate: Crit Rate.

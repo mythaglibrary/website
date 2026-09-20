@@ -73,3 +73,7 @@ GDoll works best in a team built around her constant supply of aliemus and DMG a
 ## High Investment
 
 At OE, GDoll notably gets much stronger. Her OE multiplies your team’s damage output and helps her reach Finale Form much faster. Her healing and poison from Fate’s Descent are also effectively doubled, since her aliemus cap is increased.
+
+## Important Stats
+
+GDoll is one of the few characters where :aliemus-regen: Aliemus Regen is a good stat. It still isn’t worth building on her covenants (:skey: Keyflare Regen is better), but she works well with wheels that have it as a main stat, like [Manikin of Oblivion](https://skeydb.com/database/wheels/manikin-of-oblivion){target="_blank"} and [Incalculable Factor](https://skeydb.com/database/wheels/incalculable-factor){target="_blank"}.

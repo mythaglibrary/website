@@ -63,8 +63,6 @@ For a new player, the easiest way to play Daffodil is to use **Skull Reaver** to
 
 Every time Daffodil inflicts the killing blow on an enemy, Skull Reaver permanently gets +25% Base DMG. If you have Daffodil’s E2, your team also gets a permanent Crit Rate buff for the rest of the stage. This makes Daffodil quite formidable in long explorations where she can rack up kills.
 
-If you can consistently land last hits with Daffodil, you can neglect Crit Rate and instead equip more Crit DMG, counting on Daffodil’s E2 to ensure you have 100% Crit Rate in the boss fight.
-
 ### Thousand Mirage
 
 **Thousand Mirage**, the card you get from Daffodil’s exalt, is the biggest source of damage in her kit.
@@ -104,3 +102,11 @@ In addition, [Winkle](/handbook/awakeners/winkle/) is a good aliemus battery who
 ## High Investment
 
 Daffodil’s OE gives you three Thousand Mirages instead of one. This significantly raises her damage ceiling, and enables huge damage turns if you can line up your cards against the boss intentions.
+
+## Important Stats
+
+Build :crit-dmg: Crit DMG and :crit-rate: Crit Rate.
+
+If you have E2 Daffodil and you can consistently get last hits, you can skimp on :crit-rate: Crit Rate and focus more on :crit-dmg: Crit DMG.
+
+:dmg-amp: DMG Amplification is a worse but still usable option. Base DMG is good if you can get it from wheels or relics.

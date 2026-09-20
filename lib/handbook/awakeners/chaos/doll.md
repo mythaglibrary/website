@@ -21,20 +21,6 @@ awakener:
   stopping_points:
     - 'E1, E3, OE, AA'
   builds:
-    - name: Example Build (Keyflare Support)
-      covenants:
-        - life-drain
-      wheels:
-        early_game:
-          - id: gluttony
-            note: (Any support)
-          - id: frenzy
-            note: (Any support)
-        astral_reign:
-          - id: merciful-nurturing
-            note: (Any Keyflare Regen)
-          - id: gateway-of-truth
-            note: (Any Keyflare Regen)
     - name: Example Build (Mono Chaos Tank)
       covenants:
         - cursed-rabbit
@@ -51,11 +37,26 @@ awakener:
             note: (Any RM)
           - id: data-is-flesh
             note: (Any RM)
+    - name: Example Build (Keyflare Support)
+      covenants:
+        - life-drain
+      wheels:
+        early_game:
+          - id: gluttony
+            note: (Any support)
+          - id: frenzy
+            note: (Any support)
+        astral_reign:
+          - id: merciful-nurturing
+            note: (Any Keyflare Regen)
+          - id: gateway-of-truth
+            note: (Any Keyflare Regen)
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:
-    - tawil
     - '24'
+    - tawil
+    - lotan
     - ramona
     - anyone
 ---
@@ -64,10 +65,12 @@ Doll is a straightforward healer who does her job of keeping you alive. Her high
 
 Doll’s E1 makes her one of the best weakness appliers among all standard characters — great for surviving harder difficulties on a new account.
 
-She’s most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus.
-
 If roused and equipped with [Unstained Chronicle](/handbook/team#unstained-chronicle), she generates lots of shields in addition to healing.
 
 ## How to Play
 
 Use Doll’s exalt and cards to stay alive.
+
+## Teambuilding
+
+Doll is most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus. She’s usually used as a defensive support for [“24”](/handbook/awakeners/24/) or [OE Lotan](/handbook/awakeners/lotan/).

@@ -85,3 +85,7 @@ On the one hand, she likes teammates who can give her more copies of Precision S
 On the other hand, she likes teammates who can boost the damage from each Precision Slash, like [Nautila](/handbook/awakeners/nautila/) and [Helot](/handbook/awakeners/helot/).
 
 [Saya](/handbook/awakeners/saya/) is an excellent support because she does both, but her discard can be hard to play around.
+
+## Important Stats
+
+Build :crit-dmg: Crit DMG and :crit-rate: Crit Rate if you’re using Alva as a DPS.

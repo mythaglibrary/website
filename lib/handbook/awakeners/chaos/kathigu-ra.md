@@ -141,3 +141,9 @@ When built for shielding, Kath can have issues reaching 100% Crit Rate, and appr
 Kath has a good OE that gives two more stacks of Fiamma, speeding up her ramping. The increased aliemus cap is also good for her, since she tends to overcap with her strong aliemus generation.
 
 Her AA is essentially a 15% bonus to her damage and shielding outright, and the increased level cap is also impactful.
+
+## Important Stats
+
+Build :crit-rate: Crit Rate and :crit-dmg: Crit DMG.
+
+:dmg-amp: DMG Amplification is a worse but still usable option. Base DMG is good if you can get it from wheels or relics.
