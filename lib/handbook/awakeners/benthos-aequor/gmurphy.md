@@ -87,7 +87,7 @@ If you build Crit Rate and Crit DMG on GMurphy, she hits for respectable damage 
 
 Her damage is limited by how many Waltzes you can play in one turn, so you might want to have a character like [Thais](/handbook/awakeners/thais/) who can copy it for extra damage.
 
-At E2, GMurphy gains bonus Crit DMG from your current Sacrifice stacks.
+At E2, GMurphy gains bonus Crit DMG from your current sacrifice stacks.
 
 ### Lemurians
 
