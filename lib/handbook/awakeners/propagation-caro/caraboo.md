@@ -56,7 +56,7 @@ Caraboo is a shielder and defensive support with the unique ability to buff your
 
 Caraboo's gameplay revolves around her Miracle Blessing card, which adds **Blessings** to your deck. These are cards that have powerful random effects, but have a chance to screw you over.
 
-While it’s a gamble whether her Blessings are actually useful, playing them grants stacks of **Satiety**, up to a maximum of 5 stacks. Caraboo’s exalt consumes these stacks, increasing your Max HP for the rest of the exploration.
+While it’s a gamble whether her Blessings are actually useful, playing them grants stacks of **Offering**, up to a maximum of 5 stacks. Caraboo’s exalt consumes these stacks, increasing your Max HP for the rest of the exploration.
 
 In long explorations, Caraboo can inflate your Max HP to silly amounts, while amassing value with her Blessings, making her a strong centerpiece of [stall teams](/handbook/team#stall) in high-difficulty content.
 
@@ -70,7 +70,7 @@ Although it isn’t her main role, Caraboo has good personal damage for a suppor
 
 Play Miracle Blessing, and play the Blessings it generates. Rejoice when the effects are good. Cry when you get screwed by RNG.
 
-Use Caraboo’s exalt to convert Satiety into Max HP, or just as a source of damage and shields.
+Use Caraboo’s exalt to convert Offering into Max HP, or just as a source of damage and shields.
 
 Play Snowy Hex to deal damage and inflict weakness if needed.
 
