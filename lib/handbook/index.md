@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 20 September 2026 (V2.6.0.4 - A Million Suns Descend Rerun)
+    Last updated 21 September 2026 (V2.6.1.0 - GOgier)
 
 !!! info ""
 
