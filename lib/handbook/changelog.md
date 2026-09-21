@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **21 Sep 2026** | Updated Caraboo and GMurphy stat recommendations. |
 | **20 Sep 2026** | Removed jynn's youtube channels from links since she stopped uploading. Updated GMurphy guide to the new format. Updated GRamona guide. Added missing Steppenwolf info. Added recommended stats for each awakener in the updated guides. |
 | **19 Sep 2026** | The guide now uses curly quotes by default. Overhauled Karen, Kath, Caraboo, and Daffodil guides. Added “RNG” to the glossary.<br/><br/>Fjant updated the site formatting after I pestered him some more. Thanks Fjant! |
 | **18 Sep 2026** | Fixed 24 writeup saying it’s a 25% final dmg boost (it’s based on your rouse level). Added Nymphaea as a C tier endgame dps. |

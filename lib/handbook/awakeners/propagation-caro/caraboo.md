@@ -81,3 +81,7 @@ Caraboo can fit into any team as a defensive character. Her biggest issue is tha
 She works best in slow [stall teams](/handbook/team#stall) that don’t care about being afflicted with weakness. For example, you can use her in [poison teams](/handbook/team#poison) with [Xu](/handbook/awakeners/xu/), or with damage dealers that deal Fixed DMG like [Vortice](/handbook/awakeners/vortice/) and [Pontos](/handbook/awakeners/pontos/).
 
 In general, Caraboo works well in Aequor, as Tranquil Sea shields scale with your Max HP, and Aequor is a good realm for stalling.
+
+## Important Stats
+
+At E1, Snowy Hex gets various bonuses from Realm Mastery, making RM wheels and covenants slightly more effective on Caraboo.
