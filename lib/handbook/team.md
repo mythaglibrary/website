@@ -10,7 +10,7 @@ icon: lucide/blocks
   ![](/images/emojis/ramona-wise.png){width="128"} <figcaption>"A Keeper needs partners they can count on. Isn’t that right, partner?"</figcaption>
 </figure>
 
-!!! note "Quick Start Guide"
+!!! info "Quick Start Guide"
 
     1. Pick a character as your **main DPS**.
     2. Add 3 **supports**.

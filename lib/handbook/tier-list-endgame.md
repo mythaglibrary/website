@@ -147,6 +147,11 @@ Given enough investment and support, these characters can reliably reach the ~5 
   Liz (AA)
 </div>
 <div class="item" markdown>
+  [![GOgier](/images/awakeners/chaos/gogier--mini.png){loading=lazy}](/handbook/awakeners/gogier)
+
+  GOgier (AA)
+</div>
+<div class="item" markdown>
   [![Daffodil](/images/awakeners/ultra/daffodil--mini.png){loading=lazy}](/handbook/awakeners/daffodil)
 
   Daffodil (OE)
@@ -365,6 +370,11 @@ In specific teams, this character might be useful enough to run in high-difficul
   [![Ryker](/images/awakeners/chaos/ryker--mini.png){loading=lazy}](/handbook/awakeners/ryker)
 
   Ryker
+</div>
+<div class="item" markdown>
+  [![GOgier](/images/awakeners/chaos/gogier--mini.png){loading=lazy}](/handbook/awakeners/gogier)
+
+  GOgier
 </div>
 <div class="item" markdown>
   [![Corposant](/images/awakeners/aequor/corposant--mini.png){loading=lazy}](/handbook/awakeners/corposant)

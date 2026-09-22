@@ -51,7 +51,7 @@ In addition to damage, Daffodil can inflict vulnerable, boost teamwide Crit Rate
 
 ## How to Play
 
-!!! note "Quick Start Guide"
+!!! info "Quick Start Guide"
 
     Against normal enemies, stall and try to get killing blows with Daffodil. This boosts the damage of Skull Reaver.
 

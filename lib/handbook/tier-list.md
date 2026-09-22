@@ -243,6 +243,11 @@ These characters need an unrealistic amount of effort for a new player to clear 
   Uvhash
 </div>
 <div class="item" markdown>
+  [![GOgier](/images/awakeners/chaos/gogier--mini.png){loading=lazy}](/handbook/awakeners/gogier)
+
+  GOgier (E3)
+</div>
+<div class="item" markdown>
   [![Tulu](/images/awakeners/aequor/tulu--mini.png){loading=lazy}](/handbook/awakeners/tulu)
 
   Tulu
@@ -515,6 +520,11 @@ These characters are good at one or two specific things, which makes them valuab
   [![GLotan](/images/awakeners/chaos/glotan--mini.png){loading=lazy}](/handbook/awakeners/glotan)
 
   GLotan
+</div>
+<div class="item" markdown>
+  [![GOgier](/images/awakeners/chaos/gogier--mini.png){loading=lazy}](/handbook/awakeners/gogier)
+
+  GOgier
 </div>
 <div class="item" markdown>
   [![Tulu](/images/awakeners/aequor/tulu--mini.png){loading=lazy}](/handbook/awakeners/tulu)

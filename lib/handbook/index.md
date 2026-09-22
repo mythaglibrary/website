@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 21 September 2026 (V2.6.1.0 - GOgier)
+    Last updated 22 September 2026 (V2.6.1.1 - GOgier)
 
 !!! info ""
 

@@ -49,7 +49,7 @@ As a result, Kath is reliable and self-sufficient, and a good choice for new pla
 
 ## How to Play
 
-!!! note "Quick Start Guide"
+!!! info "Quick Start Guide"
 
     Generate Fiamma with Kath’s rouse, her exalt, and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}.
 
@@ -147,3 +147,5 @@ Her AA is essentially a 15% bonus to her damage and shielding outright, and the 
 Build :crit-rate: Crit Rate and :crit-dmg: Crit DMG.
 
 :dmg-amp: DMG Amplification is a worse but still usable option. Base DMG is good if you can get it from wheels or relics.
+
+Kath can shield for a lot with her Defense card if you give her wheels and covenants that buff it, such as [Feast from Afar](/handbook/team#feast-from-afar), [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"}, or [Ever Sunward](https://skeydb.com/database/wheels/ever-sunward){target="_blank"}.

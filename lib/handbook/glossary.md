@@ -271,6 +271,10 @@ Something that has high offense and low defense.
 
 [Murphy: Fauxborn](/handbook/awakeners/gmurphy/). Stands for “Genesis Murphy.”
 
+### GOgier
+
+[Ogier: Oathbound](/handbook/awakeners/gogier/). Stands for “Genesis Ogier.”
+
 ### Goli
 
 [Goliath](/handbook/awakeners/goliath/).
