@@ -54,7 +54,7 @@ He provides access to the Primordia: Chaos realm, which gives keyflare at the st
 
 GOgier’s [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent makes Sin-Stained Spear inflict a decent amount of damage and corrosion. His E1 and E3 further improve his damage.
 
-## How to Play
+### Undertow & Guilt
 
 GOgier’s unique mechanic is **Undertow**. When you play Sin-Stained Spear, you get a stack of Undertow, up to a maximum of 3 stacks.
 
@@ -63,6 +63,12 @@ Undertow boosts GOgier’s damage and the effectiveness of his exalt, but it als
 Fortunately, GOgier has a few sources of card draw in his kit. When you use GOgier’s exalt, all your Undertow is converted into **Guilt**, which makes GOgier’s skills draw his Defense card when played. His Defense card also draws a card if he’s roused.
 
 Playing GOgier is about balancing your Undertow and Guilt stacks, so that you can maximize your benefits from Undertow, while drawing extra cards each turn to negate the drawback.
+
+## How to Play
+
+Rouse GOgier. Use Sin-Stained Spear to deal damage. Use his other cards and his exalt to stay alive.
+
+If you’re just using GOgier as a source of Primordia: Chaos, you can ignore his mechanics entirely and sell his cards.
 
 ## Teambuilding
 
