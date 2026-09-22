@@ -68,7 +68,7 @@ Playing GOgier is about balancing your Undertow and Guilt stacks, so that you ca
 
 ## Teambuilding
 
-GOgier is a strong shielder and STR generator, but he comes with strings attached. He works best in teams that can play around Primordia: Chaos and his Undertow drawbacks.
+GOgier is a strong shielder, but he comes with strings attached. He works best in teams that can play around Primordia: Chaos and his Undertow drawbacks.
 
 He works well as a tank in a grindy [stall team](/handbook/team#stall) with teammates like [Caraboo](/handbook/awakeners/caraboo/) and [Xu](/handbook/awakeners/xu/), who don’t mind if you spend your arithmetica on GOgier, and don’t mind drawing fewer cards each turn.
 
