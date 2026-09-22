@@ -65,7 +65,7 @@ awakener:
     - corposant
 ---
 
-Murphy: Fauxborn (GMurphy) is a strong and versatile character who functions both as a support and as a DPS.
+Murphy: Fauxborn (“GMurphy”) is a strong and versatile character who functions both as a support and as a DPS.
 
 The downside is that she can easily kill herself with self-inflicted damage, and needs forethought to play effectively.
 

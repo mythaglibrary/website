@@ -41,7 +41,7 @@ awakener:
     - karen
 ---
 
-Kathigu-Ra ("Kath") is a frontline battle tank. She’s a good damage dealer, a good STR generator, and one of the best shielders in the game.
+Kathigu-Ra (“Kath”) is a frontline battle tank. She’s a good damage dealer, a good STR generator, and one of the best shielders in the game.
 
 While Kath doesn’t deal as much damage as dedicated DPS like [Mouchette](/handbook/awakeners/mouchette/), she has the shielding and damage ramping to stay in the fight for a long time, scaling her damage higher and higher until it kills the boss.
 

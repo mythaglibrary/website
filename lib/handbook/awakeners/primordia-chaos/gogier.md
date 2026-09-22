@@ -48,7 +48,7 @@ awakener:
 
     **All builds and info are subject to change!**
 
-Ogier: Oathbound (GOgier) is a defensive support who is good at generating shields.
+Ogier: Oathbound (“GOgier”) is a defensive support who is good at generating shields.
 
 He provides access to the Primordia: Chaos realm, which gives keyflare at the start of each fight, and is very powerful in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages.
 
@@ -80,6 +80,6 @@ At AA, he deals a lot of damage with Sin-Stained Spear, which makes him usable a
 
 ## Important Stats
 
-A lot of GOgier’s shielding comes from his Defense card, so he benefits a lot from [Feast from Afar](/handbook/team#feast-from-afar), as well as from wheels like [Ever Sunward](https://skeydb.com/database/wheels/ever-sunward){target=”_blank”} and [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target=”_blank”}.
+A lot of GOgier’s shielding comes from his Defense card, so he benefits a lot from [Feast from Afar](/handbook/team#feast-from-afar), as well as from wheels like [Ever Sunward](https://skeydb.com/database/wheels/ever-sunward){target="_blank"} and [The Land of Nonexistence](https://skeydb.com/database/wheels/the-land-of-nonexistence){target="_blank"}.
 
-At E1, GOgier gets bonus damage and a boost to his exalt from :crit-rate: Crit Rate. This is usually not worth prioritizing over other support stats, but it makes some wheels better on him, such as [Ever Sunward](https://skeydb.com/database/wheels/ever-sunward){target=”_blank”}.
+At E1, GOgier gets bonus damage and a boost to his exalt from :crit-rate: Crit Rate. This is usually not worth prioritizing over other support stats, but it makes some wheels better on him, such as [Ever Sunward](https://skeydb.com/database/wheels/ever-sunward){target="_blank"}.
