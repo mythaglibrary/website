@@ -265,12 +265,6 @@
   color: var(--md-default-fg-color--lighter);
 }
 
-.awakener-prose {
-  max-width: 66ch;
-  font-size: 0.85rem;
-  line-height: 1.7;
-}
-
 .awakener-prose > :first-child {
   margin-top: 1.2rem;
 }
