@@ -52,7 +52,7 @@ Ogier: Oathbound (GOgier) is a defensive support who is good at generating shiel
 
 He provides access to the Primordia: Chaos realm, which gives keyflare at the start of each fight, and is very powerful in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages.
 
-GOgier’s [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent makes Sin-Stained Spear inflict a decent amount of damage and corrosion.
+GOgier’s [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent makes Sin-Stained Spear inflict a decent amount of damage and corrosion. His E1 and E3 further improve his damage.
 
 ## How to Play
 
