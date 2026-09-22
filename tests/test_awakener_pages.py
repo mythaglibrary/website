@@ -186,7 +186,7 @@ class AwakenerPreparationTests(unittest.TestCase):
         realm = nav[0]["Awakener Guides"][1]["Aequor"]
         self.assertEqual(realm[0], "handbook/awakeners/aurita.md")
         self.assertEqual(
-            nav[0]["Awakener Guides"][2]["Benthos Aequor"],
+            nav[0]["Awakener Guides"][2]["Benthos: Aequor"],
             ["handbook/awakeners/pontos.md"],
         )
 
