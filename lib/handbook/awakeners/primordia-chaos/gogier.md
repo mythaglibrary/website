@@ -9,6 +9,7 @@ awakener:
     - Corrosion
     - Card Draw
     - STR
+    - STR Down
   ranks:
     dps:
       - tier: C
