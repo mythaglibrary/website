@@ -40,6 +40,7 @@ awakener:
     - caraboo
     - xu
     - mouchette
+    - hameln
 ---
 
 !!! warning "New Unit Disclaimer"
@@ -77,6 +78,8 @@ GOgier is a strong shielder, but he comes with strings attached. He works best i
 He works well as a tank in a grindy [stall team](/handbook/team#stall) with teammates like [Caraboo](/handbook/awakeners/caraboo/) and [Xu](/handbook/awakeners/xu/), who don’t mind if you spend your arithmetica on GOgier, and don’t mind drawing fewer cards each turn.
 
 You can also ignore his gimmick and just use him as a way to access Primordia: Chaos. This guarantees a lot of keyflare in the first turn of each fight, which is good for DPS that want to rouse as soon as possible and end fights fast, like [Mouchette](/handbook/awakeners/mouchette/).
+
+If you're running DPS GOgier, [Hameln](/handbook/awakeners/hameln/) can double the effect of Sin-Stained Spear while retaining the STR bonus from his soulforge talent. This lets you apply corrosion, then trigger it immediately for big damage.
 
 ## High Investment
 
