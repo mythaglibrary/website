@@ -39,13 +39,13 @@ TEMPLATE_NAME = "awakeners/awakener.html"
 
 REALM_FAMILIES: tuple[tuple[str, tuple[tuple[str, str | None], ...]], ...] = (
     ("Chaos", (("chaos", None),)),
-    ("Primordia Chaos", (("primordia-chaos", None),)),
+    ("Primordia: Chaos", (("primordia-chaos", None),)),
     ("Aequor", (("aequor", None),)),
-    ("Benthos Aequor", (("benthos-aequor", None),)),
+    ("Benthos: Aequor", (("benthos-aequor", None),)),
     ("Caro", (("caro", None),)),
-    ("Propagation Caro", (("propagation-caro", None),)),
+    ("Propagation: Caro", (("propagation-caro", None),)),
     ("Ultra", (("ultra", None),)),
-    ("Singularity Ultra", (("singularity-ultra", None),)),
+    ("Singularity: Ultra", (("singularity-ultra", None),)),
 )
 KNOWN_REALMS = {
     realm for _, realms in REALM_FAMILIES for realm, _ in realms
