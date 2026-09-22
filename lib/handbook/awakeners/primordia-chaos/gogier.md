@@ -3,7 +3,7 @@ title: GOgier
 description: 'Builds, strategy, and gameplay tips for the Morimens character Ogier: Oathbound (GOgier).'
 template: awakeners/awakener.html
 awakener:
-  tagline: PChaos Shield & STR Support
+  tagline: PChaos Shield Support
   roles:
     - Shields
     - Corrosion
