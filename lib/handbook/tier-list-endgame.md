@@ -352,14 +352,14 @@ In specific teams, this character might be useful enough to run in high-difficul
   Jenkin
 </div>
 <div class="item" markdown>
-  [![Lily](/images/awakeners/chaos/lily--mini.png){loading=lazy}](/handbook/awakeners/lily)
-
-  Lily (E3)
-</div>
-<div class="item" markdown>
   [![Hameln](/images/awakeners/chaos/hameln--mini.png){loading=lazy}](/handbook/awakeners/hameln)
 
   Hameln
+</div>
+<div class="item" markdown>
+  [![Lily](/images/awakeners/chaos/lily--mini.png){loading=lazy}](/handbook/awakeners/lily)
+
+  Lily (E3)
 </div>
 <div class="item" markdown>
   [![Mouchette](/images/awakeners/chaos/mouchette--mini.png){loading=lazy}](/handbook/awakeners/mouchette)
