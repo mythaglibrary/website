@@ -52,30 +52,32 @@ Thanks to Sor and Fjant for building the web version of the guide.
 ---
 
 - [SKeyDB](https://skeydb.com){target="_blank"} - comprehensive awakener reference and online tools
-- [Mother Tree](https://mothertree.vercel.app/){target="_blank"} - awakener database with searchable tags and stat calculators
 - [Mythag Compendium](https://docs.google.com/spreadsheets/d/1TCU7LJRzqKeuvLe97y_TfGZ-j6jq5bZX6hskAAJ2mFQ/){target="_blank"} - spreadsheet with wheels, posses, and builds
-- [Eremora](https://eremora.com){target="_blank"} - profile viewer that shows UID of support awakeners used in clears
-- [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
-- [忘忘看报 (Chinese)](https://qingdengbuyi.top/morimens-tools.html){target="_blank"} - D-tide analytics and damage calculator
-- [Morimens Game Mechanics](https://docs.google.com/presentation/d/1pnheXD_pkjz8YGmWWlQPnw4eXr6NRm-W6267c0K1_QU/){target="_blank"}
-- [Morimens Banner History and other stuff](https://docs.google.com/spreadsheets/d/1gRDzdVHGfCC4qjt5aZYKuU9FWEfWdqREztNGeiczmRk/){target="_blank"}
-- [Morimens Weak/Vuln/Status](https://docs.google.com/document/d/1j-J1wxWTQTduK3VIPW-xuc0Vh3rmEEGO7mDeMvkzG5Y/){target="_blank"}
 - [Morimens Boss Compendium](https://docs.google.com/spreadsheets/d/1QYciqHJY3BilDcdvBiIT_dOqXOdqGX-4FBDj5rL6qyA/){target="_blank"}
-- [P-Dive Map Analysis](https://docs.google.com/document/d/1qABYDgIEdwhXKu6PSi8nUK3-1hJ3fZFYxFkvjUmpk60/){target="_blank"}
-- [PolkaRain’s Dzone Mechanics Overviews](https://www.reddit.com/user/Fantastic_Use_9/submitted/){target="_blank"}
+- [Morimens Banner History and other stuff](https://docs.google.com/spreadsheets/d/1gRDzdVHGfCC4qjt5aZYKuU9FWEfWdqREztNGeiczmRk/){target="_blank"}
+- [Eremora](https://eremora.com){target="_blank"} - profile viewer that shows UID of support awakeners used in clears
+- [Mother Tree](https://mothertree.vercel.app/){target="_blank"} - awakener database with searchable tags and stat calculators
 
 ---
 
 - [How to clear event lvl 60 stages at lvl 1](https://www.reddit.com/r/Morimens/comments/1shmgbs/how_to_clear_event_lvl_60_stages_at_level_1/){target="_blank"}
 - [How to kidnap a whale supporter](https://www.reddit.com/r/Morimens/comments/1r2lmmw/how_to_kidnap_a_whale_supporter/){target="_blank"}
-- [Aurora’s Guide to F2P Greed](https://docs.google.com/document/d/15l3tCxItkLVLwLKKV4vPFph1wYWRQbFgGHDZLYbT9Fo/){target="_blank"} - tips for fastest new player progression
-- [Braindump-ed in a vat](https://docs.google.com/presentation/d/1XDs_D-NOo88Q1Jkk6b6s_69_gxMFrx-1HBJoS8wXG10/){target="_blank"} - quick reference character guides
+- [PolkaRain’s Dzone Mechanics Overviews](https://www.reddit.com/user/Fantastic_Use_9/submitted/){target="_blank"}
+- [P-Dive Map Analysis](https://docs.google.com/document/d/1qABYDgIEdwhXKu6PSi8nUK3-1hJ3fZFYxFkvjUmpk60/){target="_blank"}
+- [Morimens Game Mechanics](https://docs.google.com/presentation/d/1pnheXD_pkjz8YGmWWlQPnw4eXr6NRm-W6267c0K1_QU/){target="_blank"}
+- [Morimens Weak/Vuln/Status](https://docs.google.com/document/d/1j-J1wxWTQTduK3VIPW-xuc0Vh3rmEEGO7mDeMvkzG5Y/){target="_blank"}
+
+---
+
+- [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
+- [忘忘看报 (Chinese)](https://qingdengbuyi.top/morimens-tools.html){target="_blank"} - D-tide analytics and damage calculator
 
 ---
 
 - [Gothgirlfriend](https://www.youtube.com/@gothgirIfriend){target="_blank"} - video guides
 - [Rose Guardian Reya](https://www.youtube.com/@Alessiel){target="_blank"} - video guides and playthroughs
-- [Dracozion](https://www.youtube.com/@phonicdraconic697){target="_blank"} - D-Effect Zone streams
+- [Dracozion on YouTube](https://www.youtube.com/@phonicdraconic697/streams){target="_blank"} - D-Effect Zone streams
+- [Dracozion on Reddit](https://www.reddit.com/user/Dracozion/submitted/){target="_blank"} - in-depth D-Effect Zone explanations
 - [Kiro Takahashi](https://www.youtube.com/@linireo){target="_blank"} - stage clears with silly teams
 
 
