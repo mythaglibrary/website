@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 22 September 2026 (V2.6.1.1 - GOgier)
+    Last updated 23 September 2026 (V2.6.1.1 - GOgier)
 
 !!! info ""
 
@@ -56,6 +56,7 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [Mythag Compendium](https://docs.google.com/spreadsheets/d/1TCU7LJRzqKeuvLe97y_TfGZ-j6jq5bZX6hskAAJ2mFQ/){target="_blank"} - spreadsheet with wheels, posses, and builds
 - [Eremora](https://eremora.com){target="_blank"} - profile viewer that shows UID of support awakeners used in clears
 - [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
+- [忘忘看报 (Chinese)](https://qingdengbuyi.top/morimens-tools.html){target="_blank"} - D-tide analytics and damage calculator
 - [Morimens Game Mechanics](https://docs.google.com/presentation/d/1pnheXD_pkjz8YGmWWlQPnw4eXr6NRm-W6267c0K1_QU/){target="_blank"}
 - [Morimens Banner History and other stuff](https://docs.google.com/spreadsheets/d/1gRDzdVHGfCC4qjt5aZYKuU9FWEfWdqREztNGeiczmRk/){target="_blank"}
 - [Morimens Weak/Vuln/Status](https://docs.google.com/document/d/1j-J1wxWTQTduK3VIPW-xuc0Vh3rmEEGO7mDeMvkzG5Y/){target="_blank"}
