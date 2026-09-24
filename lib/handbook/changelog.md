@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **24 Sep 2026** | Updated GOgier writeup. |
 | **23 Sep 2026** | Added 忘忘看报 to the links. |
 | **22 Sep 2026** | Added GOgier tier and short writeup. As usual, new unit disclaimer, I might be wrong, etc. |
 | **21 Sep 2026** | Updated Caraboo and GMurphy stat recommendations. |

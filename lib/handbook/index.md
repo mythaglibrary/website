@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 23 September 2026 (V2.6.1.1 - GOgier)
+    Last updated 24 September 2026 (V2.6.1.1 - GOgier)
 
 !!! info ""
 
@@ -53,10 +53,12 @@ Thanks to Sor and Fjant for building the web version of the guide.
 
 - [SKeyDB](https://skeydb.com){target="_blank"} - comprehensive awakener reference and online tools
 - [Mythag Compendium](https://docs.google.com/spreadsheets/d/1TCU7LJRzqKeuvLe97y_TfGZ-j6jq5bZX6hskAAJ2mFQ/){target="_blank"} - spreadsheet with wheels, posses, and builds
+- [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
 - [Morimens Boss Compendium](https://docs.google.com/spreadsheets/d/1QYciqHJY3BilDcdvBiIT_dOqXOdqGX-4FBDj5rL6qyA/){target="_blank"}
 - [Morimens Banner History and other stuff](https://docs.google.com/spreadsheets/d/1gRDzdVHGfCC4qjt5aZYKuU9FWEfWdqREztNGeiczmRk/){target="_blank"}
 - [Eremora](https://eremora.com){target="_blank"} - profile viewer that shows UID of support awakeners used in clears
 - [Mother Tree](https://mothertree.vercel.app/){target="_blank"} - awakener database with searchable tags and stat calculators
+- [Morimens Weekly/忘忘看报](https://qingdengbuyi.top/morimens-tools.html){target="_blank"} - D-tide analytics and damage calculator (you can switch to English with a toggle in the top right)
 
 ---
 
@@ -66,11 +68,6 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [P-Dive Map Analysis](https://docs.google.com/document/d/1qABYDgIEdwhXKu6PSi8nUK3-1hJ3fZFYxFkvjUmpk60/){target="_blank"}
 - [Morimens Game Mechanics](https://docs.google.com/presentation/d/1pnheXD_pkjz8YGmWWlQPnw4eXr6NRm-W6267c0K1_QU/){target="_blank"}
 - [Morimens Weak/Vuln/Status](https://docs.google.com/document/d/1j-J1wxWTQTduK3VIPW-xuc0Vh3rmEEGO7mDeMvkzG5Y/){target="_blank"}
-
----
-
-- [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
-- [忘忘看报 (Chinese)](https://qingdengbuyi.top/morimens-tools.html){target="_blank"} - D-tide analytics and damage calculator
 
 ---
 
@@ -130,6 +127,6 @@ As a new player, you start in a honeymoon period. Chapters 1-5 of [Faded Legacy]
 
 Once you reach the midgame, Morimens stops holding your hand. Enemies will no longer roll over to basic attacks. You will see incoming damage that is higher than your whole HP bar. You will probably die the first time you attempt many bosses.
 
-Treat each defeat as a lesson rather than a setback. This game is 25% pay-to-win and 75% skill and patience. If you spend thousands of dollars on a bad team, you will still die. If you pay attention, build your team right, and play your cards right, you'll overcome challenges that seem impossible.
+Treat each defeat as a lesson rather than a setback. This game is 20% pay-to-win and 80% skill and patience. If you spend thousands of dollars on a bad team, you will still die. If you pay attention, build your team right, and play your cards right, you'll overcome challenges that seem impossible.
 
 One more thing: there’s no shame in using Emergency Gnoses. The game gives you a free revive every day. Unless you're aiming for achievements or bragging rights, why waste it?

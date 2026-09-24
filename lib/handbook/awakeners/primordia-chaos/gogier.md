@@ -54,7 +54,7 @@ Ogier: Oathbound (“GOgier”) is a defensive support who is good at generating
 
 He provides access to the Primordia: Chaos realm, which gives keyflare at the start of each fight, and is very powerful in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages.
 
-GOgier’s [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent makes Sin-Stained Spear inflict a decent amount of damage and corrosion. His E1 and E3 further improve his damage.
+GOgier’s [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent gives Sin-Stained Spear a lot of STR scaling, which makes GOgier deal decent damage. His E1 and E3 further improve his damage, as does his Dimensional Image Relic.
 
 ### Undertow & Guilt
 
@@ -68,7 +68,9 @@ Playing GOgier is about balancing your Undertow and Guilt stacks, so that you ca
 
 ## How to Play
 
-Rouse GOgier. Use Sin-Stained Spear to deal damage. Use his other cards and his exalt to stay alive.
+Rouse GOgier. Use Sin-Stained Spear to deal damage and get Undertow stacks. Use his other cards and his exalt to stay alive.
+
+In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, spending arithmetica on Endless Shadow boosts the damage of the next Sin-Stained Spear.
 
 If you’re just using GOgier as a source of Primordia: Chaos, you can ignore his mechanics entirely and sell his cards.
 
@@ -84,9 +86,7 @@ If you're running DPS GOgier, [Hameln](/handbook/awakeners/hameln/) can double t
 
 ## High Investment
 
-GOgier’s OE makes him a good STR generator.
-
-At AA, he deals a lot of damage with Sin-Stained Spear, which makes him usable as a main DPS (though not a very powerful one).
+GOgier’s OE makes him a good STR generator. His AA further boosts the damage of Sin-Stained Spear.
 
 ## Important Stats
 
