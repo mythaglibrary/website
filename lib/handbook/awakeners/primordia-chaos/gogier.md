@@ -35,6 +35,14 @@ awakener:
           - id: dusk-and-dawn
             note: (Any support)
           - id: the-land-of-nonexistence
+    - name: Example Build (DPS)
+      covenants:
+        - dream-of-medicine
+        - paradox
+      wheels:
+        astral_reign:
+          - id: twisted-knight-ballad
+          - id: analysis-of-death
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:

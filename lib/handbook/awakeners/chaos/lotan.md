@@ -39,8 +39,9 @@ awakener:
         - re-evolution
       wheels:
         astral_reign:
-          - id: celestial-beast
-          - id: analysis-of-death
+          - id: manikin-of-oblivion
+          - id: dutys-gravitas
+            note: (Any RM)
   suggested_posses:
     - id: tiny-wish
       note: Faded Legacy Ch. 1

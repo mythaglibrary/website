@@ -35,7 +35,7 @@ awakener:
         astral_reign:
           - id: memory-spiral
             note: (Any RM)
-          - id: data-is-flesh
+          - id: dutys-gravitas
             note: (Any RM)
     - name: Example Build (Keyflare Support)
       covenants:
