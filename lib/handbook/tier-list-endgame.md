@@ -26,158 +26,266 @@ For explanations of formatting, see [Awakener Tier Lists (For New Players)](/han
 
 These characters deal Max HP % damage or have very high damage scaling, allowing them to consistently deal the massive amounts of damage needed to kill high Madness bosses.
 
-<div class="grid-96" markdown>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Lotan](/images/awakeners/chaos/lotan--mini.png){loading=lazy}](/handbook/awakeners/lotan)
-
-  Lotan (OE)
-</div>
-<div class="item" markdown>
-  [![“24”](/images/awakeners/chaos/24--mini.png){loading=lazy}](/handbook/awakeners/24)
-
-  “24”
-</div>
-<div class="item" markdown>
-  [![Vortice](/images/awakeners/aequor/vortice--mini.png){loading=lazy}](/handbook/awakeners/vortice)
-
-  Vortice (OE)
-</div>
-<div class="item" markdown>
-  [![Xu](/images/awakeners/caro/xu--mini.png){loading=lazy}](/handbook/awakeners/xu)
-
-  Xu (AA)
-</div>
-<div class="item" markdown>
-  [![Clementine](/images/awakeners/ultra/clementine--mini.png){loading=lazy}](/handbook/awakeners/clementine)
-
-  Clementine (AA)
-</div>
+<div class="awakener-index-group">
+  <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/lotan/" class="tierlist-free-unit">
+        <img src="/images/awakeners/chaos/lotan--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Lotan</div>
+          <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/24/">
+        <img src="/images/awakeners/chaos/24--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">“24”</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/vortice/">
+        <img src="/images/awakeners/aequor/vortice--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Vortice</div>
+          <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/xu/">
+        <img src="/images/awakeners/caro/xu--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Xu</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/clementine/">
+        <img src="/images/awakeners/ultra/clementine--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Clementine</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+  </ul>
 </div>
 
 ### B (Low Madness Viable) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
 Given enough investment and support, these characters can reliably reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
-<div class="grid-96" markdown>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Aurita](/images/awakeners/aequor/aurita--mini.png){loading=lazy}](/handbook/awakeners/aurita)
-
-  Aurita (AA)
-</div>
-<div class="item" markdown>
-  [![Kathigu-Ra](/images/awakeners/chaos/kathigu-ra--mini.png){loading=lazy}](/handbook/awakeners/kathigu-ra)
-
-  Kathigu-Ra (AA)
-</div>
-<div class="item" markdown>
-  [![Mouchette](/images/awakeners/chaos/mouchette--mini.png){loading=lazy}](/handbook/awakeners/mouchette)
-
-  Mouchette (AA)
-</div>
-<div class="item" markdown>
-  [![GLotan](/images/awakeners/chaos/glotan--mini.png){loading=lazy}](/handbook/awakeners/glotan)
-
-  GLotan (AA)
-</div>
-<div class="item" markdown>
-  [![GOgier](/images/awakeners/chaos/gogier--mini.png){loading=lazy}](/handbook/awakeners/gogier)
-
-  GOgier (AA)
-</div>
-<div class="item" markdown>
-  [![Corposant](/images/awakeners/aequor/corposant--mini.png){loading=lazy}](/handbook/awakeners/corposant)
-
-  Corposant (AA)
-</div>
-<div class="item" markdown>
-  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png){loading=lazy}](/handbook/awakeners/gmurphy)
-
-  GMurphy (OE)
-</div>
-<div class="item" markdown>
-  [![GHelot](/images/awakeners/caro/ghelot--mini.png){loading=lazy}](/handbook/awakeners/ghelot)
-
-  GHelot (E3)
-</div>
-<div class="item" markdown>
-  [![Sorel](/images/awakeners/caro/sorel--mini.png){loading=lazy}](/handbook/awakeners/sorel)
-
-  Sorel
-</div>
-<div class="item" markdown>
-  [![Pollux](/images/awakeners/ultra/pollux--mini.png){loading=lazy}](/handbook/awakeners/pollux)
-
-  Pollux (OE)
-</div>
+<div class="awakener-index-group">
+  <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/aurita/" class="tierlist-free-unit">
+        <img src="/images/awakeners/aequor/aurita--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Aurita</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/kathigu-ra/">
+        <img src="/images/awakeners/chaos/kathigu-ra--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Kathigu-Ra</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/mouchette/">
+        <img src="/images/awakeners/chaos/mouchette--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Mouchette</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/glotan/">
+        <img src="/images/awakeners/chaos/glotan--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GLotan</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/gogier/">
+        <img src="/images/awakeners/chaos/gogier--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GOgier</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/corposant/">
+        <img src="/images/awakeners/aequor/corposant--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Corposant</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/gmurphy/">
+        <img src="/images/awakeners/aequor/gmurphy--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GMurphy</div>
+          <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/ghelot/">
+        <img src="/images/awakeners/caro/ghelot--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GHelot</div>
+          <div class="enlighten">E3</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/sorel/">
+        <img src="/images/awakeners/caro/sorel--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Sorel</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/pollux/">
+        <img src="/images/awakeners/ultra/pollux--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Pollux</div>
+          <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+  </ul>
 </div>
 
 ### C (Nightmare Viable) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
 Given enough investment and support, these characters can reliably reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
-<div class="grid-96" markdown>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Alva](/images/awakeners/chaos/alva--mini.png){loading=lazy}](/handbook/awakeners/alva)
-
-  Alva (AA)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![GRamona](/images/awakeners/chaos/gramona--mini.png){loading=lazy}](/handbook/awakeners/gramona)
-
-  GRamona (E2)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png){loading=lazy}](/handbook/awakeners/nymphaea)
-
-  Nymphaea (AA)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Helot](/images/awakeners/caro/helot--mini.png){loading=lazy}](/handbook/awakeners/helot)
-
-  Helot (AA)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Uvhash](/images/awakeners/caro/uvhash--mini.png){loading=lazy}](/handbook/awakeners/uvhash)
-
-  Uvhash (AA)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png){loading=lazy}](/handbook/awakeners/jenkin)
-
-  Jenkin (AA)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Liz](/images/awakeners/ultra/liz--mini.png){loading=lazy}](/handbook/awakeners/liz)
-
-  Liz (AA)
-</div>
-<div class="item" markdown>
-  [![Daffodil](/images/awakeners/ultra/daffodil--mini.png){loading=lazy}](/handbook/awakeners/daffodil)
-
-  Daffodil (OE)
-</div>
+<div class="awakener-index-group">
+  <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/alva/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/alva--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Alva</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/gramona/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/gramona--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GRamona</div>
+          <div class="enlighten">E2</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/nymphaea/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/nymphaea--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Nymphaea</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/helot/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/caro/helot--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Helot</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/uvhash/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/caro/uvhash--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Uvhash</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/jenkin/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/ultra/jenkin--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Jenkin</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/liz/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/ultra/liz--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Liz</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/daffodil/">
+        <img src="/images/awakeners/ultra/daffodil--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Daffodil</div>
+          <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+  </ul>
 </div>
 
 ### X (Secondary DPS) {.tier .text-center style="background-color: var(--md-tier-c-plus);"}
 
 These characters can contribute a meaningful amount of damage as secondary DPS (usually because they have a Max HP % nuke in their kit).
 
-<div class="grid-96" markdown>
-<div class="item" markdown>
-  [![GDoll](/images/awakeners/chaos/gdoll--mini.png){loading=lazy}](/handbook/awakeners/gdoll)
-
-  GDoll
-</div>
-<div class="item" markdown>
-  [![Tawil](/images/awakeners/chaos/tawil--mini.png){loading=lazy}](/handbook/awakeners/tawil)
-
-  Tawil
-</div>
-<div class="item" markdown>
-  [![Doresain](/images/awakeners/caro/doresain--mini.png){loading=lazy}](/handbook/awakeners/doresain)
-
-  Doresain (AA)
-</div>
+<div class="awakener-index-group">
+  <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/gdoll/">
+        <img src="/images/awakeners/chaos/gdoll--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GDoll</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/tawil/">
+        <img src="/images/awakeners/chaos/tawil--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Tawil</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/doresain/">
+        <img src="/images/awakeners/caro/doresain--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Doresain</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+  </ul>
 </div>
 
 ## Endgame Support Tier List
@@ -186,241 +294,396 @@ These characters can contribute a meaningful amount of damage as secondary DPS (
 
 These characters provide huge damage multipliers that are needed to elevate lower-tier DPS into Nightmare and Madness viability.
 
-<div class="grid-96" markdown>
-<div class="item" markdown>
-  [![Saya](/images/awakeners/caro/saya--mini.png){loading=lazy}](/handbook/awakeners/saya)
-
-  Saya (E3)
-</div>
-<div class="item" markdown>
-  [![Clementine](/images/awakeners/ultra/clementine--mini.png){loading=lazy}](/handbook/awakeners/clementine)
-
-  Clementine (E3)
-</div>
-<div class="item" markdown>
-  [![Arachne](/images/awakeners/ultra/arachne--mini.png){loading=lazy}](/handbook/awakeners/arachne)
-
-  Arachne (E3)
-</div>
+<div class="awakener-index-group">
+  <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/saya/">
+        <img src="/images/awakeners/caro/saya--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Saya</div>
+          <div class="enlighten">E3</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/clementine/">
+        <img src="/images/awakeners/ultra/clementine--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Clementine</div>
+          <div class="enlighten">E3</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/arachne/">
+        <img src="/images/awakeners/ultra/arachne--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Arachne</div>
+          <div class="enlighten">E3</div>
+        </div>
+      </a>
+    </li>
+  </ul>
 </div>
 
 ### A (Game Changing) {.tier .text-center style="background-color: var(--md-tier-a);"}
 
 These characters provide defensive abilities, extra turns, Max HP % damage, or other effects that are crucial for beating high-difficulty stages.
 
-<div class="grid-96" markdown>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Lotan](/images/awakeners/chaos/lotan--mini.png){loading=lazy}](/handbook/awakeners/lotan)
-
-  Lotan (OE)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Aigis](/images/awakeners/caro/aigis--mini.png){loading=lazy}](/handbook/awakeners/aigis)
-
-  Aigis
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Celeste](/images/awakeners/aequor/celeste--mini.png){loading=lazy}](/handbook/awakeners/celeste)
-
-  Celeste
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Faint](/images/awakeners/caro/faint--mini.png){loading=lazy}](/handbook/awakeners/faint)
-
-  Faint
-</div>
-<div class="item" markdown>
-  [![GDoll](/images/awakeners/chaos/gdoll--mini.png){loading=lazy}](/handbook/awakeners/gdoll)
-
-  GDoll
-</div>
-<div class="item" markdown>
-  [![Tawil](/images/awakeners/chaos/tawil--mini.png){loading=lazy}](/handbook/awakeners/tawil)
-
-  Tawil
-</div>
-<div class="item" markdown>
-  [![Murphy](/images/awakeners/aequor/murphy--mini.png){loading=lazy}](/handbook/awakeners/murphy)
-
-  Murphy (E1)
-</div>
-<div class="item" markdown>
-  [![GMurphy](/images/awakeners/aequor/gmurphy--mini.png){loading=lazy}](/handbook/awakeners/gmurphy)
-
-  GMurphy
-</div>
-<div class="item" markdown>
-  [![Pontos](/images/awakeners/aequor/pontos--mini.png){loading=lazy}](/handbook/awakeners/pontos)
-
-  Pontos (E3)
-</div>
-<div class="item" markdown>
-  [![Doresain](/images/awakeners/caro/doresain--mini.png){loading=lazy}](/handbook/awakeners/doresain)
-
-  Doresain (AA)
-</div>
-<div class="item" markdown>
-  [![Salvador](/images/awakeners/caro/salvador--mini.png){loading=lazy}](/handbook/awakeners/salvador)
-
-  Salvador
-</div>
-<div class="item" markdown>
-  [![Thais](/images/awakeners/caro/thais--mini.png){loading=lazy}](/handbook/awakeners/thais)
-
-  Thais (E2)
-</div>
-<div class="item" markdown>
-  [![Xu](/images/awakeners/caro/xu--mini.png){loading=lazy}](/handbook/awakeners/xu)
-
-  Xu
-</div>
-<div class="item" markdown>
-  [![Caraboo](/images/awakeners/caro/caraboo--mini.png){loading=lazy}](/handbook/awakeners/caraboo)
-
-  Caraboo
-</div>
-<div class="item" markdown>
-  [![Castor](/images/awakeners/ultra/castor--mini.png){loading=lazy}](/handbook/awakeners/castor)
-
-  Castor
-</div>
-<div class="item" markdown>
-  [![Horla](/images/awakeners/ultra/horla--mini.png){loading=lazy}](/handbook/awakeners/horla)
-
-  Horla (E1)
-</div>
+<div class="awakener-index-group">
+  <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/lotan/" class="tierlist-free-unit">
+        <img src="/images/awakeners/chaos/lotan--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Lotan</div>
+          <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/aigis/" class="tierlist-free-unit">
+        <img src="/images/awakeners/caro/aigis--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Aigis</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/celeste/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/aequor/celeste--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Celeste</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/faint/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/caro/faint--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Faint</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/gdoll/">
+        <img src="/images/awakeners/chaos/gdoll--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GDoll</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/tawil/">
+        <img src="/images/awakeners/chaos/tawil--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Tawil</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/murphy/">
+        <img src="/images/awakeners/aequor/murphy--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Murphy</div>
+          <div class="enlighten">E1</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/gmurphy/">
+        <img src="/images/awakeners/aequor/gmurphy--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GMurphy</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/pontos/">
+        <img src="/images/awakeners/aequor/pontos--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Pontos</div>
+          <div class="enlighten">E3</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/doresain/">
+        <img src="/images/awakeners/caro/doresain--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Doresain</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/salvador/">
+        <img src="/images/awakeners/caro/salvador--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Salvador</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/thais/">
+        <img src="/images/awakeners/caro/thais--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Thais</div>
+          <div class="enlighten">E2</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/xu/">
+        <img src="/images/awakeners/caro/xu--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Xu</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/caraboo/">
+        <img src="/images/awakeners/caro/caraboo--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Caraboo</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/castor/">
+        <img src="/images/awakeners/ultra/castor--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Castor</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/horla/">
+        <img src="/images/awakeners/ultra/horla--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Horla</div>
+          <div class="enlighten">E1</div>
+        </div>
+      </a>
+    </li>
+  </ul>
 </div>
 
 ### B (Role Player) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
 In specific teams, this character might be useful enough to run in high-difficulty stages instead of a more universally useful support.
 
-<div class="grid-96" markdown>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Doll](/images/awakeners/chaos/doll--mini.png){loading=lazy}](/handbook/awakeners/doll)
-
-  Doll (AA)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Ogier](/images/awakeners/chaos/ogier--mini.png){loading=lazy}](/handbook/awakeners/ogier)
-
-  Ogier (AA)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-free);">
-  [![Ramona](/images/awakeners/chaos/ramona--mini.png){loading=lazy}](/handbook/awakeners/ramona)
-
-  Ramona
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![GRamona](/images/awakeners/chaos/gramona--mini.png){loading=lazy}](/handbook/awakeners/gramona)
-
-  GRamona
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Nautila](/images/awakeners/chaos/nautila--mini.png){loading=lazy}](/handbook/awakeners/nautila)
-
-  Nautila
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Nymphaea](/images/awakeners/chaos/nymphaea--mini.png){loading=lazy}](/handbook/awakeners/nymphaea)
-
-  Nymphaea
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Goliath](/images/awakeners/aequor/goliath--mini.png){loading=lazy}](/handbook/awakeners/goliath)
-
-  Goliath
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Helot](/images/awakeners/caro/helot--mini.png){loading=lazy}](/handbook/awakeners/helot)
-
-  Helot
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Leigh](/images/awakeners/caro/leigh--mini.png){loading=lazy}](/handbook/awakeners/leigh)
-
-  Leigh (OE)
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Casiah](/images/awakeners/ultra/casiah--mini.png){loading=lazy}](/handbook/awakeners/casiah)
-
-  Casiah
-</div>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Jenkin](/images/awakeners/ultra/jenkin--mini.png){loading=lazy}](/handbook/awakeners/jenkin)
-
-  Jenkin
-</div>
-<div class="item" markdown>
-  [![Hameln](/images/awakeners/chaos/hameln--mini.png){loading=lazy}](/handbook/awakeners/hameln)
-
-  Hameln
-</div>
-<div class="item" markdown>
-  [![Lily](/images/awakeners/chaos/lily--mini.png){loading=lazy}](/handbook/awakeners/lily)
-
-  Lily (E3)
-</div>
-<div class="item" markdown>
-  [![Mouchette](/images/awakeners/chaos/mouchette--mini.png){loading=lazy}](/handbook/awakeners/mouchette)
-
-  Mouchette (OE)
-</div>
-<div class="item" markdown>
-  [![Ryker](/images/awakeners/chaos/ryker--mini.png){loading=lazy}](/handbook/awakeners/ryker)
-
-  Ryker
-</div>
-<div class="item" markdown>
-  [![GOgier](/images/awakeners/chaos/gogier--mini.png){loading=lazy}](/handbook/awakeners/gogier)
-
-  GOgier
-</div>
-<div class="item" markdown>
-  [![Corposant](/images/awakeners/aequor/corposant--mini.png){loading=lazy}](/handbook/awakeners/corposant)
-
-  Corposant (AA)
-</div>
-<div class="item" markdown>
-  [![Miryam](/images/awakeners/aequor/miryam--mini.png){loading=lazy}](/handbook/awakeners/miryam)
-
-  Miryam
-</div>
-<div class="item" markdown>
-  [![Tulu](/images/awakeners/aequor/tulu--mini.png){loading=lazy}](/handbook/awakeners/tulu)
-
-  Tulu
-</div>
-<div class="item" markdown>
-  [![Vortice](/images/awakeners/aequor/vortice--mini.png){loading=lazy}](/handbook/awakeners/vortice)
-
-  Vortice (E1)
-</div>
-<div class="item" markdown>
-  [![Pickman](/images/awakeners/caro/pickman--mini.png){loading=lazy}](/handbook/awakeners/pickman)
-
-  Pickman (E2)
-</div>
-<div class="item" markdown>
-  [![Daffodil](/images/awakeners/ultra/daffodil--mini.png){loading=lazy}](/handbook/awakeners/daffodil)
-
-  Daffodil
-</div>
+<div class="awakener-index-group">
+  <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/doll/" class="tierlist-free-unit">
+        <img src="/images/awakeners/chaos/doll--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Doll</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/ogier/" class="tierlist-free-unit">
+        <img src="/images/awakeners/chaos/ogier--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Ogier</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/ramona/" class="tierlist-free-unit">
+        <img src="/images/awakeners/chaos/ramona--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Ramona</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/gramona/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/gramona--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GRamona</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/nautila/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/nautila--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Nautila</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/nymphaea/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/nymphaea--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Nymphaea</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/goliath/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/aequor/goliath--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Goliath</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/helot/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/caro/helot--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Helot</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/leigh/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/caro/leigh--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Leigh</div>
+          <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/casiah/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/ultra/casiah--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Casiah</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/jenkin/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/ultra/jenkin--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Jenkin</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/hameln/">
+        <img src="/images/awakeners/chaos/hameln--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Hameln</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/lily/">
+        <img src="/images/awakeners/chaos/lily--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Lily</div>
+          <div class="enlighten">E3</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/mouchette/">
+        <img src="/images/awakeners/chaos/mouchette--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Mouchette</div>
+          <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/ryker/">
+        <img src="/images/awakeners/chaos/ryker--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Ryker</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/gogier/">
+        <img src="/images/awakeners/chaos/gogier--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GOgier</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/corposant/">
+        <img src="/images/awakeners/aequor/corposant--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Corposant</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/miryam/">
+        <img src="/images/awakeners/aequor/miryam--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Miryam</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/tulu/">
+        <img src="/images/awakeners/aequor/tulu--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">tulu</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/vortice/">
+        <img src="/images/awakeners/aequor/vortice--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Vortice</div>
+          <div class="enlighten">E1</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/pickman/">
+        <img src="/images/awakeners/caro/pickman--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Pickman</div>
+          <div class="enlighten">E2</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/daffodil/">
+        <img src="/images/awakeners/ultra/daffodil--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Daffodil</div>
+        </div>
+      </a>
+    </li>
+  </ul>
 </div>
 
 ### C (Niche Role) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
 This character isn’t a useful support in the majority of high-difficulty stages, but might be useful for specific fights.
 
-<div class="grid-96" markdown>
-<div class="item" markdown style="background-color: var(--md-tier-standard);">
-  [![Alva](/images/awakeners/chaos/alva--mini.png){loading=lazy}](/handbook/awakeners/alva)
-
-  Alva
-</div>
-<div class="item" markdown>
-  [![GHelot](/images/awakeners/caro/ghelot--mini.png){loading=lazy}](/handbook/awakeners/ghelot)
-
-  GHelot (E3)
-</div>
+<div class="awakener-index-group">
+  <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/alva/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/alva--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Alva</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/ghelot/">
+        <img src="/images/awakeners/caro/ghelot--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GHelot</div>
+          <div class="enlighten">E3</div>
+        </div>
+      </a>
+    </li>
+  </ul>
 </div>

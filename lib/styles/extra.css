@@ -38,8 +38,11 @@
     --md-tier-d: #ac8b8b;
     --md-tier-f: var(--md-default-fg-color);
 
-    --md-tier-free: #fff2cc;
-    --md-tier-standard: #c9daf8;
+    --md-tier-free: #cfa300;
+    --md-tier-standard: #83a1d5;
+
+    --md-tierlist-enlighten: #f0eee9;
+    --md-tierlist-enlighten-bg: #bd4f33;
   }
 
   [data-md-color-scheme="slate"] {
@@ -67,8 +70,11 @@
     --md-tier-d: #402e2e;
     --md-tier-f: var(--md-default-fg-color);
 
-    --md-tier-free: #6d623a;
-    --md-tier-standard: #4b6288;
+    --md-tier-free: #b18a17;
+    --md-tier-standard: #5e89ce;
+
+    --md-tierlist-enlighten: #f0eee9;
+    --md-tierlist-enlighten-bg: #662818;
   }
 }
 
