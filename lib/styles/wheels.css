@@ -1,7 +1,7 @@
 .md-typeset ul.wheel-tierlist-grid {
   display: grid;
   gap: 12px;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
   list-style: none none;
   margin-left: 0;
 }
@@ -15,22 +15,9 @@
   gap: 0.4rem;
 }
 
-li.wheel-tierlist-item {
-  border-left: 4px solid var(--md-default-bg-color);
-}
-
-li.wheel-tierlist-item.free-wheel {
-  border-left: 4px solid var(--md-tier-free);
-}
-
-li.wheel-tierlist-item.standard-wheel {
-  border-left: 4px solid var(--md-tier-standard);
-}
-
 li.wheel-tierlist-item a img {
-  height: 182px;
-  min-width: 89px;
   max-width: 91px;
+  max-height: 184px;
 }
 
 .wheel-tierlist-label {

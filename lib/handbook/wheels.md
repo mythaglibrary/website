@@ -12,9 +12,9 @@ icon: lucide/ship-wheel
 
 This is a reference for new players who are unsure what SSR wheels are worth pulling from banners or buying from the Store.
 
-A yellow bar <span style="color: var(--md-tier-free);">■</span> means you can buy it from the Store without using pulls.
+A yellow mark <span style="color: var(--md-tier-free);">■</span> means you can buy it from the Store without using pulls.
 
-A blue bar <span style="color: var(--md-tier-standard);">■</span> means it’s a standard wheel you can get with Pure Cores.
+A blue mark <span style="color: var(--md-tier-standard);">■</span> means it’s a standard wheel you can get with Pure Cores.
 
 Wheels not on this list are not recommended for new players to spend resources on.
 
@@ -23,13 +23,13 @@ Wheels not on this list are not recommended for new players to spend resources o
 These wheels are extremely good and best in slot for many teams. Get E3 or better if you can.
 
 <ul class="wheel-tierlist-grid" markdown>
-  <li class="wheel-tierlist-item" markdown>
+  <li class="wheel-tierlist-item free-wheel" markdown>
       <a href="https://skeydb.com/database/wheels/dusk-and-dawn" target="blank">
         <img src="/images/wheels/dusk-and-dawn.png" loading="lazy">
       </a>
       <div class="wheel-tierlist-label">
         <div class="name"><a href="https://skeydb.com/database/wheels/dusk-and-dawn" target="blank">Dusk and Dawn</a></div>
-        <div class="source">Mythag Shop</div>
+        <div class="source"><span style="color: var(--md-tier-free);">■</span> Mythag Shop</div>
         <div class="notes" markdown>keyflare</div>
       </div>
   </li>
@@ -76,7 +76,7 @@ These wheels are good in many teams and worth getting.
       </a>
       <div class="wheel-tierlist-label">
         <div class="name"><a href="https://skeydb.com/database/wheels/blade-of-the-titan" target="blank">Blade of the Titan</a></div>
-        <div class="source"><a href="/handbook/awakeners/goliath/">Goliath</a></div>
+        <div class="source"><span style="color: var(--md-tier-standard);">■</span> <a href="/handbook/awakeners/goliath/">Goliath</a></div>
         <div class="notes" markdown>for many DPS</div>
       </div>
   </li>
@@ -184,7 +184,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label">
         <div class="name"><a href="https://skeydb.com/database/wheels/celestial-beast" target="blank">Celestial Beast</a></div>
-        <div class="source">Mythag Shop</div>
+        <div class="source"><span style="color: var(--md-tier-free);">■</span> Mythag Shop</div>
         <div class="notes" markdown>for exalt and strike DPS</div>
       </div>
   </li>
@@ -194,7 +194,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label">
         <div class="name"><a href="https://skeydb.com/database/wheels/rewinding-time" target="blank">Rewinding Time</a></div>
-        <div class="source">Mythag Shop</div>
+        <div class="source"><span style="color: var(--md-tier-free);">■</span> Mythag Shop</div>
         <div class="notes" markdown>keyflare, replaying cards</div>
       </div>
   </li>
@@ -204,7 +204,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label">
         <div class="name"><a href="https://skeydb.com/database/wheels/winters-requiem" target="blank">Winter’s Requiem</a></div>
-        <div class="source">Mythag Shop</div>
+        <div class="source"><span style="color: var(--md-tier-free);">■</span> Mythag Shop</div>
         <div class="notes" markdown>keyflare, vulnerable</div>
       </div>
   </li>
@@ -214,7 +214,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label">
         <div class="name"><a href="https://skeydb.com/database/wheels/core-meltdown" target="blank">Core Meltdown</a></div>
-        <div class="source">Mythag Shop</div>
+        <div class="source"><span style="color: var(--md-tier-free);">■</span> Mythag Shop</div>
         <div class="notes" markdown>keyflare</div>
       </div>
   </li>
@@ -224,7 +224,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label">
         <div class="name"><a href="https://skeydb.com/database/wheels/heart-of-silver" target="blank">Heart of Silver</a></div>
-        <div class="source">Mythag Shop</div>
+        <div class="source"><span style="color: var(--md-tier-free);">■</span> Mythag Shop</div>
         <div class="notes" markdown>keyflare</div>
       </div>
   </li>
@@ -234,7 +234,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label">
         <div class="name"><a href="https://skeydb.com/database/wheels/gift-of-decay" target="blank">Gift of Decay</a></div>
-        <div class="source"><a href="/handbook/awakeners/nymphaea/">Nymphaea</a></div>
+        <div class="source"><span style="color: var(--md-tier-standard);">■</span> <a href="/handbook/awakeners/nymphaea/">Nymphaea</a></div>
         <div class="notes" markdown>aliemus, for poison DPS</div>
       </div>
   </li>
@@ -244,7 +244,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label" markdown>
         <div class="name"><a href="https://skeydb.com/database/wheels/memory-spiral" target="blank">Memory Spiral</a></div>
-        <div class="source"><a href="/handbook/awakeners/nautila/">Nautila</a></div>
+        <div class="source"><span style="color: var(--md-tier-standard);">■</span> <a href="/handbook/awakeners/nautila/">Nautila</a></div>
         <div class="notes" markdown>shields, RM</div>
       </div>
   </li>
@@ -254,7 +254,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label" markdown>
         <div class="name"><a href="https://skeydb.com/database/wheels/amidst-the-downpour" target="blank">Amidst the Downpour</a></div>
-        <div class="source"><a href="/handbook/awakeners/faros/">Faros</a></div>
+        <div class="source"><span style="color: var(--md-tier-standard);">■</span> <a href="/handbook/awakeners/faros/">Faros</a></div>
         <div class="notes" markdown>for supports that use strikes</div>
       </div>
   </li>
@@ -264,7 +264,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label" markdown>
         <div class="name"><a href="https://skeydb.com/database/wheels/bloody-feast" target="blank">Bloody Feast</a></div>
-        <div class="source"><a href="/handbook/awakeners/uvhash/">Uvhash</a></div>
+        <div class="source"><span style="color: var(--md-tier-standard);">■</span> <a href="/handbook/awakeners/uvhash/">Uvhash</a></div>
         <div class="notes" markdown>for exalt DPS</div>
       </div>
   </li>
@@ -274,7 +274,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label" markdown>
         <div class="name"><a href="https://skeydb.com/database/wheels/the-gluttons-tale" target="blank">The Glutton’s Tale</a></div>
-        <div class="source"><a href="/handbook/awakeners/leigh/">Leigh</a></div>
+        <div class="source"><span style="color: var(--md-tier-standard);">■</span> <a href="/handbook/awakeners/leigh/">Leigh</a></div>
         <div class="notes" markdown>shields, RM</div>
       </div>
   </li>
@@ -284,7 +284,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label" markdown>
         <div class="name"><a href="https://skeydb.com/database/wheels/happy-magic-show" target="blank">Happy Magic Show</a></div>
-        <div class="source"><a href="/handbook/awakeners/casiah/">Casiah</a></div>
+        <div class="source"><span style="color: var(--md-tier-standard);">■</span> <a href="/handbook/awakeners/casiah/">Casiah</a></div>
         <div class="notes" markdown>keyflare, aliemus, RM</div>
       </div>
   </li>
@@ -294,7 +294,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label" markdown>
         <div class="name"><a href="https://skeydb.com/database/wheels/incalculable-factor" target="blank">Incalculable Factor</a></div>
-        <div class="source"><a href="/handbook/awakeners/winkle/">Winkle</a></div>
+        <div class="source"><span style="color: var(--md-tier-standard);">■</span> <a href="/handbook/awakeners/winkle/">Winkle</a></div>
         <div class="notes" markdown>keyflare, aliemus</div>
       </div>
   </li>
@@ -304,7 +304,7 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </a>
       <div class="wheel-tierlist-label" markdown>
         <div class="name"><a href="https://skeydb.com/database/wheels/path-forsaken" target="blank">Path Forsaken</a></div>
-        <div class="source"><a href="/handbook/awakeners/jenkin/">Jenkin</a></div>
+        <div class="source"><span style="color: var(--md-tier-standard);">■</span> <a href="/handbook/awakeners/jenkin/">Jenkin</a></div>
         <div class="notes" markdown>for multihit DPS</div>
       </div>
   </li>
