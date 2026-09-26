@@ -514,7 +514,7 @@ These characters are premium supports that are strong in a variety of situations
     </li>
     <li>
       <a href="/handbook/awakeners/ryker/">
-        <img src="/images/awakeners/chaos/ryker.png" loading="lazy">
+        <img src="/images/awakeners/chaos/ryker--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Ryker</div>
         </div>
