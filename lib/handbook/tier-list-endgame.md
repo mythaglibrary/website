@@ -80,6 +80,11 @@ Given enough investment and support, these characters can reliably reach the ~10
   GLotan (AA)
 </div>
 <div class="item" markdown>
+  [![GOgier](/images/awakeners/chaos/gogier--mini.png){loading=lazy}](/handbook/awakeners/gogier)
+
+  GOgier (AA)
+</div>
+<div class="item" markdown>
   [![Corposant](/images/awakeners/aequor/corposant--mini.png){loading=lazy}](/handbook/awakeners/corposant)
 
   Corposant (AA)
@@ -145,11 +150,6 @@ Given enough investment and support, these characters can reliably reach the ~5 
   [![Liz](/images/awakeners/ultra/liz--mini.png){loading=lazy}](/handbook/awakeners/liz)
 
   Liz (AA)
-</div>
-<div class="item" markdown>
-  [![GOgier](/images/awakeners/chaos/gogier--mini.png){loading=lazy}](/handbook/awakeners/gogier)
-
-  GOgier (AA)
 </div>
 <div class="item" markdown>
   [![Daffodil](/images/awakeners/ultra/daffodil--mini.png){loading=lazy}](/handbook/awakeners/daffodil)

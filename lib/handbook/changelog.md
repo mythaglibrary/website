@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **25 Sep 2026** | Updated GOgier guide and endgame tier list. |
 | **25 Sep 2026** | Updated Doll tank build. Fixed OE Lotan build (it had wrong wheels). Minor correction to GMurphy writeup. Added GOgier DPS build. |
 | **24 Sep 2026** | Updated GOgier writeup. |
 | **23 Sep 2026** | Added 忘忘看报 to the links. |
