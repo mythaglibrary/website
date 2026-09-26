@@ -20,23 +20,23 @@
   --awakener-index-accent: var(--md-default-fg-color--lightest);
 }
 
-.awakener-index-group[data-realm="chaos"],
-.awakener-index-group[data-realm="primordia-chaos"] {
+.awakener-index-family[data-realm="chaos"] .awakener-index-group,
+.awakener-index-family[data-realm="primordia-chaos"] .awakener-index-group {
   --awakener-index-accent: var(--md-realms-chaos);
 }
 
-.awakener-index-group[data-realm="aequor"],
-.awakener-index-group[data-realm="benthos-aequor"] {
+.awakener-index-family[data-realm="aequor"] .awakener-index-group,
+.awakener-index-family[data-realm="benthos-aequor"] .awakener-index-group {
   --awakener-index-accent: var(--md-realms-aequor);
 }
 
-.awakener-index-group[data-realm="caro"],
-.awakener-index-group[data-realm="propagation-caro"] {
+.awakener-index-family[data-realm="caro"] .awakener-index-group,
+.awakener-index-family[data-realm="propagation-caro"] .awakener-index-group {
   --awakener-index-accent: var(--md-realms-caro);
 }
 
-.awakener-index-group[data-realm="ultra"],
-.awakener-index-group[data-realm="singularity-ultra"] {
+.awakener-index-family[data-realm="ultra"] .awakener-index-group,
+.awakener-index-family[data-realm="singularity-ultra"] .awakener-index-group {
   --awakener-index-accent: var(--md-realms-ultra);
 }
 
