@@ -1,0 +1,60 @@
+.md-typeset ul.wheel-tierlist-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  list-style: none none;
+  margin-left: 0;
+}
+
+[dir=ltr] .md-typeset ul.wheel-tierlist-grid li.wheel-tierlist-item {
+  display: flex;
+  height: 182px;
+  margin: 0;
+  font-size: 0.64rem;
+  flex-direction: row;
+  gap: 0.4rem;
+}
+
+li.wheel-tierlist-item {
+  border-left: 4px solid var(--md-default-bg-color);
+}
+
+li.wheel-tierlist-item.free-wheel {
+  border-left: 4px solid var(--md-tier-free);
+}
+
+li.wheel-tierlist-item.standard-wheel {
+  border-left: 4px solid var(--md-tier-standard);
+}
+
+li.wheel-tierlist-item a img {
+  height: 182px;
+  min-width: 89px;
+  max-width: 91px;
+}
+
+.wheel-tierlist-label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.wheel-tierlist-label .name {
+  font-weight: bold;
+}
+
+.wheel-tierlist-label .notes {
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
+
+.wheel-tierlist-label a {
+  color: var(--md-default-fg-color);
+}
+
+.wheel-tierlist-label .name a:hover,
+.wheel-tierlist-label .name a:focus-visible,
+.wheel-tierlist-label .source a:hover,
+.wheel-tierlist-label .source a:focus-visible {
+  color: var(--md-typeset-a-color);
+}

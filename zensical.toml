@@ -68,7 +68,7 @@ nav = [
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
-extra_css = ["styles/extra.css", "styles/awakeners.css", "styles/teams.css"]
+extra_css = ["styles/extra.css", "styles/awakeners.css", "styles/awakener-index.css", "styles/teams.css", "styles/wheels.css"]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
