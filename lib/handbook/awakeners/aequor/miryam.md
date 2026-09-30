@@ -49,6 +49,6 @@ awakener:
   works_well_with_note: Anyone
 ---
 
-The premier do-everything Aequor support. She generates aliemus, gives various buffs, inflicts weakness and vulnerable, heals you when you're low, and even triggers poison for poison teams. Her only drawback is her reliance on her rouse.
+The premier do-everything Aequor support. She generates aliemus, gives various buffs, inflicts weakness and vulnerable, heals you when you’re low, and even triggers poison for poison teams. Her only drawback is her reliance on her rouse.
 
 At endgame, Miryam is usually seen supporting [GMurphy](/handbook/awakeners/gmurphy/) Lemurian teams, but she works great in any team comp that has blue in it.

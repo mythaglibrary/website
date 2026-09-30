@@ -38,9 +38,9 @@ In Morimens, the way you beat stages is by reducing the boss HP to 0 before your
 - You can focus on dealing damage, so all the enemies die before you do.
 - You can focus on shielding and healing, so you can take as long as you want to kill enemies.
 - You can focus on a specific mechanic, such as poison, and characters that have synergy with that mechanic.
-- You can focus on abusing a specific vulnerability of the boss or stage you're trying to beat.
+- You can focus on abusing a specific vulnerability of the boss or stage you’re trying to beat.
 
-All of these are viable approaches. The important part is to **know what your team is trying to do**. If you don’t know your path to victory, if you just use awakeners because they're from the same realm or use wheels because they're auto-recommended by the game, your team might not actually have a way to win.
+All of these are viable approaches. The important part is to **know what your team is trying to do**. If you don’t know your path to victory, if you just use awakeners because they’re from the same realm or use wheels because they’re auto-recommended by the game, your team might not actually have a way to win.
 
 ## Types of Teams
 
@@ -137,7 +137,7 @@ members:
 
 A stall team is based on surviving as long as possible. If you can survive forever, you don’t need to do much damage to beat a stage — a bit of damage each turn is enough.
 
-This type of team is most useful against chapter-end bosses and D-Effect Zone Madness difficulty, where the enemies have too much HP for any damage dealer to kill in one shot.
+This type of team is most useful against chapter-end bosses and D-Effect Zone ▼ difficulty, where the enemies have too much HP for any damage dealer to kill in one shot.
 
 Stall teams have to be wary of [Gaze](/handbook/storylines#light-cone-of-fate) if they take too long in normal fights. They also have to actually survive every attack to work properly. Some bosses deal too much damage, or scale too much over time, to be stalled.
 
@@ -183,7 +183,7 @@ When building a poison team, consider which characters will apply poison and whi
 
 A poison team is usually also a stall team, but it can be faster depending on the characters you use. A team with [Liz](/handbook/awakeners/liz/) and [Xu](/handbook/awakeners/xu/) can apply tons of poison and trigger it right away, killing as fast as a hypercarry team.
 
-Poison teams are not very effective in the Madness difficulty of D-Effect Zone and Hectic Skybound Rail because of the [Astral Reign](/handbook/storylines) poison cap. If you're a new player, this doesn’t affect you much. Just keep in mind that you'll need to build more than one team for endgame (which you should be doing anyway).
+Poison teams are not very effective in the ▼ difficulty of D-Effect Zone and Hectic Skybound Rail because of the [Astral Reign](/handbook/storylines) poison cap. If you’re a new player, this doesn’t affect you much. Just keep in mind that you'll need to build more than one team for endgame (which you should be doing anyway).
 
 **Poison teams need to rouse everyone in [Astral Reign](/handbook/storylines).** This is because [Prismatic Lens](/handbook/storylines/#prismatic-lens) makes poison tick faster each turn for each roused character in the team.
 
@@ -307,9 +307,9 @@ Here is a quick guide to what each realm means for a team.
 
 In Mono Chaos you don’t have a gimmick to rely on like any of the other realms. Instead, you get more keyflare and more aliemus. A good Mono Chaos team uses dual posse every turn and abuses the Chaos Realm Mastery effect to exalt every turn.
 
-**Mono Chaos isn’t a good option for new players.** It’s great if you're a veteran player with 50 unlocked posses, OE characters, and +12 Realm Mastery wheels. It sucks if your only options from dual posse are [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} and [Tiny Wish](https://skeydb.com/database/posses/tiny-wish){target="_blank"}.
+**Mono Chaos isn’t a good option for new players.** It’s great if you’re a veteran player with 50 unlocked posses, OE characters, and +12 Realm Mastery wheels. It sucks if your only options from dual posse are [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} and [Tiny Wish](https://skeydb.com/database/posses/tiny-wish){target="_blank"}.
 
-**Primordia Chaos:** Some characters like [GLotan](/handbook/awakeners/glotan/) change how Chaos mechanics work when they're on your team. In Primordia Chaos, the normal Chaos mechanics no longer apply; keyflare generation works differently; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you combine random unlocked posses.
+**Primordia Chaos:** Some characters like [GLotan](/handbook/awakeners/glotan/) change how Chaos mechanics work when they’re on your team. In Primordia Chaos, the normal Chaos mechanics no longer apply; keyflare generation works differently; rouses have Prepare 1 and trigger your equipped posse; and your posse button lets you combine random unlocked posses.
 
 ### Teams with Aequor
 
@@ -321,9 +321,9 @@ Aequor gives you a free shield every turn from Tranquil Sea stance, which adds u
 
 **Tentacle damage scales with Crit Rate and Crit DMG.** Aequor teams can equip more wheels and covenants with these stats to multiply the effectiveness of their tentacle hits. They can also make good use of teamwide crit buffs, such as the SR wheel [To My Dearest Friend](https://skeydb.com/database/wheels/to-my-dearest-friend){target="_blank"}.
 
-**Passive tentacle damage is good early but weak later on.** When you're fighting level 40+ enemies, you need big damage buffs for your end-of-turn slaps to have any impact. Spamming Tranquil Sea stance for shields is usually better than sitting in Surging Tides stance to get more tentacles.
+**Passive tentacle damage is good early but weak later on.** When you’re fighting level 40+ enemies, you need big damage buffs for your end-of-turn slaps to have any impact. Spamming Tranquil Sea stance for shields is usually better than sitting in Surging Tides stance to get more tentacles.
 
-**Benthos Aequor:** Some characters like [GMurphy](/handbook/awakeners/gmurphy/) change how Aequor mechanics work when they're on your team. In Benthos Aequor, the stances are stronger but have a 3-turn cooldown.
+**Benthos Aequor:** Some characters like [GMurphy](/handbook/awakeners/gmurphy/) change how Aequor mechanics work when they’re on your team. In Benthos Aequor, the stances are stronger but have a 3-turn cooldown.
 
 ### Teams with Caro
 
@@ -337,7 +337,7 @@ You get a lot of free healing by using Crimson Furnace. Embryos let you exalt mo
 
 **Remember that you need to build more keyflare.** The [Life Drain](#life-drain) covenant provides embryo fusion instead of keyflare, so your [keyflare bot](#the-almighty-keyflare-bot) will be less effective.
 
-**Propagation Caro:** Some characters like [Saya](/handbook/awakeners/saya/) change how Caro mechanics work when they're on your team. In Propagation Caro, your exalts are buffed; embryos and Realm Mastery further buff your exalts instead of providing shields and STR; and Crimson Furnace is stronger but has a 3-turn cooldown.
+**Propagation Caro:** Some characters like [Saya](/handbook/awakeners/saya/) change how Caro mechanics work when they’re on your team. In Propagation Caro, your exalts are buffed; embryos and Realm Mastery further buff your exalts instead of providing shields and STR; and Crimson Furnace is stronger but has a 3-turn cooldown.
 
 ### Teams with Ultra
 
@@ -349,7 +349,7 @@ Ultra is the strongest support realm. Its realm mechanics are simply the most po
 
 **Pure Ultra depends on how good your characters are.** If you aren’t in Aequor or Caro, you don’t have free damage, shields, or healing — your cards are all you have. Your characters need to function all by themselves, and you might need a defensive character like [Lily](/handbook/awakeners/lily/) or [Castor](/handbook/awakeners/castor/) to survive long fights.
 
-**Singularity Ultra:** Some characters like [Arachne](/handbook/awakeners/arachne/) change how Ultra mechanics work when they're on your team. In Singularity Ultra, your command cards are buffed; Ultra Round extends the current turn instead of starting a new turn; and Annihilation is changed to put the leftmost card from Ultra Space into your hand with a 3-turn cooldown.
+**Singularity Ultra:** Some characters like [Arachne](/handbook/awakeners/arachne/) change how Ultra mechanics work when they’re on your team. In Singularity Ultra, your command cards are buffed; Ultra Round extends the current turn instead of starting a new turn; and Annihilation is changed to put the leftmost card from Ultra Space into your hand with a 3-turn cooldown.
 
 ## Choosing a Posse
 
@@ -487,7 +487,7 @@ Some stats to be wary of investing in:
 - :dmg-amp: DMG Amplification is only good for [specific teams](#dmg-amplification-base-dmg).
 - :aliemus-regen: Aliemus Regen has very low returns on investment and is basically never worth building.
 
-Start by making one of each covenant set you're going to use. When you're a veteran player with a lot of resources, you can build extra covenant sets for specific characters and tailor the stats to exactly what they need.
+Start by making one of each covenant set you’re going to use. When you’re a veteran player with a lot of resources, you can build extra covenant sets for specific characters and tailor the stats to exactly what they need.
 
 ### Common Meta Covenant Sets
 
@@ -571,7 +571,7 @@ Prioritize :skey: Keyflare Regen and any supportive stats of your choice.
 
 Gives big crit buffs at the start of your turn if the enemies have more than 75% HP remaining.
 
-This is the best set for most DPS if you aren’t doing Nightmare or Madness difficulty. Most bosses have multiple phases, and each phase counts as a new HP bar, so the condition is easier to fulfil than it looks.
+This is the best set for most DPS if you aren’t doing SSS or ▼ difficulty. Most bosses have multiple phases, and each phase counts as a new HP bar, so the condition is easier to fulfil than it looks.
 
 Prioritize :crit-dmg: Crit DMG, :crit-rate: Crit Rate, and :skey: Keyflare Regen.
 
@@ -744,7 +744,7 @@ Many people misread the effect and think this set generates extra permanent tent
 
 Increases the wielder’s aliemus generation, at the cost of reducing your death resistance.
 
-If you're a god gamer who never dies, you can put this on [Thais](/handbook/awakeners/thais/) or [GDoll](/handbook/awakeners/gdoll/) to push your Phantasmal Dive Madness leaderboard score.
+If you’re a god gamer who never dies, you can put this on [Thais](/handbook/awakeners/thais/) or [GDoll](/handbook/awakeners/gdoll/) to push your Phantasmal Dive Madness leaderboard score.
 
 Almost useless in [Astral Reign](/handbook/storylines#astral-reign-arc-2) due to rules changes.
 

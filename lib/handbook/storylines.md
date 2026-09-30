@@ -32,7 +32,7 @@ Each stage tells you which ruleset it uses:
 
 ![](/images/handbook/storylines/faded-legacy.png){width="256" loading=lazy}
 
-Faded Legacy rules are the ones you're already familiar with. They're used in:
+Faded Legacy rules are the ones you’re already familiar with. They’re used in:
 
 - Faded Legacy story chapters (normal and hard)
 - Awakener Trials
@@ -49,9 +49,9 @@ Faded Legacy rules are the ones you're already familiar with. They're used in:
   ![](/images/handbook/storylines/r-wheels.png){width="400" loading=lazy}
 </figure>
 
-Many new players ignore R wheels. These wheels are actually better than most SR and even SSR wheels. They're so powerful they had to be nerfed by removing their abilities in Astral Reign stages.
+Many new players ignore R wheels. These wheels are actually better than most SR and even SSR wheels. They’re so powerful they had to be nerfed by removing their abilities in Astral Reign stages.
 
-**If you're new, put R wheels on all your supports.** Most SSR and SR wheels only give raw stats, which are only important on your main damage dealer and shielder. Most of the time, your supports will be more effective holding R wheels.
+**If you’re new, put R wheels on all your supports.** Most SSR and SR wheels only give raw stats, which are only important on your main damage dealer and shielder. Most of the time, your supports will be more effective holding R wheels.
 
 <figure markdown="span">
   ![](/images/handbook/storylines/p-dive.png){width="600" class="on-glb" loading=lazy} <figcaption>I got Legendary rank in Phantasmal Dive with level 60 characters holding R wheels</figcaption>
@@ -113,7 +113,7 @@ Here are some of the best wheels in the game:
 
 ![](/images/handbook/storylines/astral-reign.png){width="256" loading=lazy}
 
-Astral Reign rules were created to fix game balance by nerfing game-breaking builds from Faded Legacy. They're used in:
+Astral Reign rules were created to fix game balance by nerfing game-breaking builds from Faded Legacy. They’re used in:
 
 - Astral Reign story chapters (normal and hard)
 - D-Effect Zone

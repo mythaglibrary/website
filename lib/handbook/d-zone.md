@@ -190,7 +190,7 @@ You can earn more points by doing **extra clears**. Each wave can be cleared one
 
 (You can even extra clear Alert 5 five times to get 425 points. This is very difficult, gives no rewards, and is mainly done by veteran players for bragging rights.)
 
-As you can see, **clearing more waves gives more points than clearing one wave at a higher difficulty**. This is why you might want to invest horizontally rather than sinking all your resources into one team. You can take as long as you want to clear the main story, but if you miss rewards from a D-tide rotation, they're gone forever.
+As you can see, **clearing more waves gives more points than clearing one wave at a higher difficulty**. This is why you might want to invest horizontally rather than sinking all your resources into one team. You can take as long as you want to clear the main story, but if you miss rewards from a D-tide rotation, they’re gone forever.
 
 <figure markdown="span">
   ![](/images/emojis/winkle-shocked.png){width="128" loading=lazy} <figcaption>Winkle spent all her resources on a level 90 Doresain and couldn't make 5 teams for D-tide. <br /> Don't be like Winkle.</figcaption>
@@ -208,9 +208,9 @@ For one of your clears, [you can and should borrow a support character](#claim-y
 
 ### Ruleset
 
-D-tide uses [Astral Reign](/handbook/storylines#astral-reign-arc-2) rules, which may be unfamiliar if you're a new player. Make sure you understand how these are different from [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) rules.
+D-tide uses [Astral Reign](/handbook/storylines#astral-reign-arc-2) rules, which may be unfamiliar if you’re a new player. Make sure you understand how these are different from [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) rules.
 
-In particular, make sure you have at least [soulforge level 1](/handbook/resources#soulforge-aptitude) on all the characters you're using.
+In particular, make sure you have at least [soulforge level 1](/handbook/resources#soulforge-aptitude) on all the characters you’re using.
 
 ### Relics
 
@@ -283,11 +283,11 @@ For more information on teambuilding, see the [How to Build a Team](/handbook/te
 
 ## Claim Your Free Alert 5 Clear
 
-For one of your clears each D-tide rotation, you're allowed to borrow a support character from another player. This works the same way as borrowing a support character in events and Phantasmal Dive. [If you favorite them, they don't have to follow you back.](https://www.reddit.com/r/Morimens/comments/1r2lmmw/how_to_kidnap_a_whale_supporter/){target="_blank"}
+For one of your clears each D-tide rotation, you’re allowed to borrow a support character from another player. This works the same way as borrowing a support character in events and Phantasmal Dive. [If you favorite them, they don't have to follow you back.](https://www.reddit.com/r/Morimens/comments/1r2lmmw/how_to_kidnap_a_whale_supporter/){target="_blank"}
 
 What this practically means is that in addition to whatever characters are on your account, you are also allowed to use one free, fully maxed, +12 level 90 limited carry with whatever wheels and covenants you want.
 
-If you're new, I recommend borrowing a [Mouchette](/handbook/awakeners/mouchette/) to clear one wave at Alert 5 difficulty. It's literally free points.
+If you’re new, I recommend borrowing a [Mouchette](/handbook/awakeners/mouchette/) to clear one wave at Alert 5 difficulty. It's literally free points.
 
 (If it's a bad matchup for [Mouchette](/handbook/awakeners/mouchette/), you can also borrow a [Pollux](/handbook/awakeners/pollux/), [GHelot](/handbook/awakeners/ghelot/), etc.)
 
@@ -323,11 +323,11 @@ When I compare players who mainly do Alert 4 and players who mainly do Alert 5, 
 
 Yes, the enemy HP is crazy in Alert 5. Yes, the amount of incoming damage is stupid. Yes, you'll probably fail the first time you attempt it. But is that a reason not to try?
 
-[Above](#choosing-your-difficulty), you can see screenshots of teams that cleared each D-tide alert with minimal investment. Those players didn't succeed because they spent more money. They didn't succeed because they were "more skilled," as if skill in Morimens is something you're born with. They succeeded because *they kept trying and proved it was possible*.
+[Above](#choosing-your-difficulty), you can see screenshots of teams that cleared each D-tide alert with minimal investment. Those players didn't succeed because they spent more money. They didn't succeed because they were "more skilled," as if skill in Morimens is something you’re born with. They succeeded because *they kept trying and proved it was possible*.
 
 If you aren't sure whether you can clear a wave or not, **try it.**
 
-In the worst-case scenario, you learn more about the challenges you're facing: what works, what doesn't, and what to watch out for next time.
+In the worst-case scenario, you learn more about the challenges you’re facing: what works, what doesn't, and what to watch out for next time.
 
 In the best-case scenario, you clear the wave.
 

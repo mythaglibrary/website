@@ -104,11 +104,11 @@ Each time you do this, you get:
 - permanent bonus Base DMG from Kath’s E3;
 - STR generation from Last Stand Salvo;
 - a lot of shield from Kath’s Defense;
-- and a bunch of AOE damage from all the Hyperflares you're throwing out.
+- and a bunch of AOE damage from all the Hyperflares you’re throwing out.
 
 You should usually play Hyperflare for 0 arithmetica, because the only benefit you get from spending more arithmetica on it is an increased STR bonus. If you have no STR, it doesn’t deal more damage. That arithmetica could be spent to play other cards and generate more Fiamma instead.
 
-A common newbie mistake is to focus on spending as much Combust and arithmetica as possible on a single big Hyperflare. This means you're missing out on the bonus arithmetica from each time you reach 10 Combust, and you're missing out on the 0-cost Fiamma generation from playing 0-cost Hyperflares.
+A common newbie mistake is to focus on spending as much Combust and arithmetica as possible on a single big Hyperflare. This means you’re missing out on the bonus arithmetica from each time you reach 10 Combust, and you’re missing out on the 0-cost Fiamma generation from playing 0-cost Hyperflares.
 
 A more effective strategy is to build up Base DMG and STR by cycling 0-cost Hyperflares, and *then* start tossing out big Hyperflares for higher damage.
 

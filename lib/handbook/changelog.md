@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **30 Sep 2026** | Updated all references to the D-tide difficulties to the new ones. Updated the glossary with new and old D-tide terms. |
 | **26 Sep 2026** | Revamped tier list formatting. Updated GOgier guide and moved him to B tier endgame dps. Lowered Corpo and Aurita in endgame dps tier after feedback. |
 | **25 Sep 2026** | Updated Doll tank build. Fixed OE Lotan build (it had wrong wheels). Minor correction to GMurphy writeup. Added GOgier DPS build. |
 | **24 Sep 2026** | Updated GOgier writeup. |

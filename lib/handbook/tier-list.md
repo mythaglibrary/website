@@ -14,15 +14,15 @@ This is a quick guide for new players who are just starting out and want to know
 
 There are two tier lists provided here. The DPS Tier List is for the main damage dealer that [a team is built around](/handbook/team). The Support Tier List is for the other 3 characters who help to enable the DPS.
 
-**These are “poverty newbie tier lists.”** They assume you're a new player and your goal is to do story stages, event stages, and D-tide Normal and Hard difficulty. They also assume the character is at most E3 and you don’t have many limited awakeners or SSR wheels.
+**These are “poverty newbie tier lists.”** They assume you’re a new player and your goal is to do story stages, event stages, and D-tide Normal and Hard difficulty. They also assume the character is at most E3 and you don’t have many limited awakeners or SSR wheels.
 
-For notes on D-tide Nightmare and Madness difficulty, you can check [Awakener Tier Lists (For Endgame)](/handbook/tier-list-endgame).
+For notes on D-tide SSS and ▼ difficulty, you can check [Awakener Tier Lists (For Endgame)](/handbook/tier-list-endgame).
 
 **If an enlighten is specified, it means it’s important for the character to work.** Without that enlighten, the character will be one or two tiers lower on the tier list.
 
 **Keep in mind that the actual performance of a character will depend on the stage.**
 
-**The order of characters in each tier doesn’t matter.** They're listed in realm order.
+**The order of characters in each tier doesn’t matter.** They’re listed in realm order.
 
 **There are no useless characters in this game.** With enough investment and patience, most stages can be beaten with anything. This tier list just tells you how much work it takes to make a character viable.
 

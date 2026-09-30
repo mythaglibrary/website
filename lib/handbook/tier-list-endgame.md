@@ -10,11 +10,11 @@ icon: lucide/list-sort-descending
 
 # Awakener Tier Lists *(For Endgame)*
 
-This is a quick guide to what characters are good in the Nightmare and Madness difficulties of D-Effect Zone. They assume you've been playing for months, have spent money on the game, and have all characters, dupes, and SSR wheels required to make a team work.
+This is a quick guide to what characters are good in the SSS and ▼ difficulties of D-Effect Zone. They assume you've been playing for months, have spent money on the game, and have all characters, dupes, and SSR wheels required to make a team work.
 
-These tier lists are not relevant to the vast majority of players. However, if you're a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
+These tier lists are not relevant to the vast majority of players. However, if you’re a new player planning to eventually do the hardest of hard content, you can use this guide as a reference for what characters to invest in.
 
-**Keep in mind that the actual performance of a character will depend on the stage.** Especially in Madness difficulty, a team can effortlessly cheese one boss, only to be hard countered by another. There are too many possible factors to take all of them into account, so this guide focuses on what characters can be relied on to clear an “average” wave with no gimmicks.
+**Keep in mind that the actual performance of a character will depend on the stage.** Especially in ▼ difficulty, a team can effortlessly cheese one boss, only to be hard countered by another. There are too many possible factors to take all of them into account, so this guide focuses on what characters can be relied on to clear an “average” stage with no gimmicks.
 
 **Take these tier lists with a grain of salt.** The new D-tide difficulties have only just released. As balance changes happen and we get a better idea of what works, this guide will be updated accordingly.
 
@@ -22,9 +22,9 @@ For explanations of formatting, see [Awakener Tier Lists (For New Players)](/han
 
 ## Endgame DPS Tier List
 
-### A (High Madness Viable) {.tier .text-center style="background-color: var(--md-tier-a);"}
+### A (High ▼ Viable) {.tier .text-center style="background-color: var(--md-tier-a);"}
 
-These characters deal Max HP % damage or have very high damage scaling, allowing them to consistently deal the massive amounts of damage needed to kill high Madness bosses.
+These characters deal Max HP % damage or have very high damage scaling, allowing them to consistently deal the massive amounts of damage needed to beat Zone 4 and above on ▼ difficulty.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -75,9 +75,9 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
   </ul>
 </div>
 
-### B (Low Madness Viable) {.tier .text-center style="background-color: var(--md-tier-b);"}
+### B (Low ▼ Viable) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-Given enough investment and support, these characters can reliably reach the ~10 million damage ceiling needed for high Nightmare and low Madness stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
+Given enough investment and support, these characters can reliably reach the ~10 million damage ceiling needed for high SSS and low ▼ stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -155,9 +155,9 @@ Given enough investment and support, these characters can reliably reach the ~10
   </ul>
 </div>
 
-### C (Nightmare Viable) {.tier .text-center style="background-color: var(--md-tier-c);"}
+### C (SSS Viable) {.tier .text-center style="background-color: var(--md-tier-c);"}
 
-Given enough investment and support, these characters can reliably reach the ~5 million damage ceiling needed for high Hard and low Nightmare stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
+Given enough investment and support, these characters can reliably reach the ~5 million damage ceiling needed for high SS and low SSS stages. They may be viable into higher difficulties if the team has a favorable matchup or you use Emergency Gnoses/Turn Rewind.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -292,7 +292,7 @@ These characters can contribute a meaningful amount of damage as secondary DPS (
 
 ### S (Meta Defining) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
-These characters provide huge damage multipliers that are needed to elevate lower-tier DPS into Nightmare and Madness viability.
+These characters provide huge damage multipliers that are needed to elevate lower-tier DPS into SSS and ▼ viability.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">

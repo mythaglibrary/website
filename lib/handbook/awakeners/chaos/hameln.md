@@ -51,7 +51,7 @@ He works well as a [keyflare bot](/handbook/team#the-almighty-keyflare-bot), sin
 
 Hameln’s exalt can apply **Rondino** to command cards to double their effects. This lets you get huge value out of Memory Rondo or other cards like [GLotan](/handbook/awakeners/glotan/)’s Long Blade: Perish. At E2, it also gives an arithmetica discount.
 
-Soul Overture inflicts random debuffs on enemies, which can inflict weakness and vulnerable if you're lucky (or retry over and over).
+Soul Overture inflicts random debuffs on enemies, which can inflict weakness and vulnerable if you’re lucky (or retry over and over).
 
 Hameln is fairly powerful in [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages, as if you put him with other card draw and arithmetica supports, he can loop Memory Rondo and set up near-infinite combo turns. He falls off in [Astral Reign](/handbook/storylines#astral-reign-arc-2) because [Arithmetica Harmony](/handbook/storylines#arithmetica-harmony) limits the number of cards you can play each turn.
 

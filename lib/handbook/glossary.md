@@ -17,11 +17,11 @@ icon: lucide/book-a
 
 When referring to an awakener or wheel, it means extra copies after E3, using the number that is shown in the UI. For example if you have 6 copies of [Ramona](/handbook/awakeners/ramona/), you have E3+2, or a +2 Ramona.
 
+### ▼ difficulty
+
+The highest difficulty in D-Effect Zone (see [“Triangle difficulty”](#triangle-difficulty)).
+
 ## A
-
-### A1/A2/A3/A4/A5
-
-Stands for Alert 1, 2, 3, etc., the old D-Effect Zone difficulty system. Alert 1-3 corresponded to Normal difficulty, while Alert 4-5 corresponded to Hard difficulty.
 
 ### AA
 
@@ -30,6 +30,14 @@ Absolute Axiom. When an awakener is at +12 (15 dupes in addition to the base cop
 ### AOE
 
 “Area of effect.” Something that affects all enemies at once.
+
+### Alert 1/2/3/4/5 (A1/A2/A3/A4/A5)
+
+The old D-Effect Zone difficulty system, before it was changed on 29 August 2026. Alert 1-2 corresponds to the current C difficulty; Alert 3-4 corresponds to B-A difficulty; and Alert 5 corresponds to S-SS difficulty.
+
+### Alert 7 (A7)
+
+Community name for ▼ difficulty, the highest difficulty in D-Effect Zone (see [“Triangle difficulty”](#triangle-difficulty)).
 
 ### April
 
@@ -155,7 +163,7 @@ A negative status effect.
 
 ### Divine realm
 
-When some characters are in your team, they transform your realm mechanics into a different variant of that realm. These are nicknamed “divine realms,” after the original name of the first to be released, “Divine Realm: Aequor” (since officially renamed to Benthos: Aequor).
+When some characters are in your team, they transform your realm mechanics into a different variant of that realm. These are nicknamed “divine realms,” after the original name of the first to be released, “Divine Realm: Aequor” (since officially renamed to [Benthos: Aequor](#benthos-aequor-baequor)).
 
 ### Divine Caro
 
@@ -221,7 +229,7 @@ Emergency Gnosis. Abbreviation of the old English translation.
 
 ### Embers
 
-Ancient Embers, an effect some high-HP enemies have. They take a certain amount of extra damage each turn, so their effective HP is lower, but they're harder to kill in one turn with burst damage.
+Ancient Embers, an effect some high-HP enemies have. They take a certain amount of extra damage each turn, so their effective HP is lower, but they’re harder to kill in one turn with burst damage.
 
 ### Endgame
 
@@ -435,7 +443,7 @@ See [“Image.”](#image)
 
 ### Premium support
 
-A powerful, game-changing supportive character such as [Thais](/handbook/awakeners/thais/). Usually used in the context of D-Effect Zone where you can’t repeat characters, so you have to decide where you're putting your premium supports.
+A powerful, game-changing supportive character such as [Thais](/handbook/awakeners/thais/). Usually used in the context of D-Effect Zone where you can’t repeat characters, so you have to decide where you’re putting your premium supports.
 
 ### Preorder
 
@@ -507,7 +515,7 @@ Realm Mastery.
 
 ### RNG
 
-“Random Number Generator.” A phrase used to describe any part of the game that is random. Some would say the Random Number Generator is just dumb software. It’s actually an evil deity that takes pleasure in ruining our hopes and dreams.
+“Random Number Generator.” A phrase used to describe any part of the game that is random. (Also the name of the evil deity that takes pleasure in ruining our hopes and dreams.)
 
 ### Rotan
 
@@ -609,6 +617,10 @@ A “tanky” awakener can take incoming damage or negative status effects witho
 
 Something that gives access to many different abilities, letting you get exactly the tool you need for the situation.
 
+### Triangle difficulty
+
+Community name for ▼ difficulty, the highest difficulty in D-Effect Zone. In game, it’s represented by a string of nonsense characters.
+
 ## U
 
 ### Unit
@@ -627,9 +639,9 @@ Useful abilities that awakeners have apart from dealing damage.
 
 ## W
 
-### W1/W2/W3/W4/W5
+### Wave 1/2/3/4/5 (W1/W2/W3/W4/W5)
 
-Stands for Wave 1, 2, 3, etc. in D-Effect Zone.
+Zone 1, 2, 3, etc. in D-Effect Zone. Before 28 September 2026, they were called Wave 1, 2, 3, etc.
 
 ### Whale
 
@@ -647,5 +659,5 @@ Chaos (the realm).
 </div>
 
 <figure markdown="span">
-  ![](/images/emojis/horla-writing.png){width="128" loading=lazy} <figcaption>"Keeper, none of these words are in the dictionary…"</figcaption>
+  ![](/images/emojis/horla-writing.png){width="128" loading=lazy} <figcaption>“Keeper, none of these words are in the dictionary…”</figcaption>
 </figure>

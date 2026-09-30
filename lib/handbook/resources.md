@@ -150,11 +150,11 @@ My advice: **Pick whoever you think is cool.**
 
 You get standard pulls like water in this game, and you get standard characters when you miss on a limited banner, so you are going to own all of these characters eventually.
 
-All of these characters are viable in story mode, event stages, and Hard stages; in other words, 99% of the gameplay content that exists in Morimens. ([Pandia](/handbook/awakeners/pandia/), [Uvhash](/handbook/awakeners/uvhash/), and [Liz](/handbook/awakeners/liz/) are relatively more demanding to make work, but they are still viable.)
+All of these characters are usable in story mode, event stages, and D-Effect Zone up to SSS difficulty. ([Pandia](/handbook/awakeners/pandia/), [Uvhash](/handbook/awakeners/uvhash/), and [Liz](/handbook/awakeners/liz/) are harder to use, but still viable.)
 
-You will probably have more fun doing the story mode with a character you like, rather than a character who is stronger but you don’t care much about.
+You will probably have more fun doing the story mode with a character you like, rather than a character who is 5% stronger but you don’t care much about.
 
-If you *only* care about meta, you can go to the [official Discord](https://discord.gg/RAegY8wcGx) and ask what standard characters work best with the current rate-up limited characters. This will help you speedrun the early game faster.
+If you *only* care about meta, you can check this guide’s [Awakener Tier Lists](/handbook/tier-list). Alternatively, you can go to the [official Discord](https://discord.gg/RAegY8wcGx) and ask what standard characters work best with the current rate-up limited characters. This will help you speedrun the early game faster.
 
 ## Should I Reroll My Account?
 
@@ -169,7 +169,7 @@ If you feel like you wasted your pulls, you should know that Morimens is one of 
 If you regret your investment decisions, you can wait for the developers to give out Origins of Time during major updates. These items can be used to refund the level-up resources you invested in a character. Also, if you use an Origin of Time on a standard character or wheel, it can be converted into an equivalent number of standard selectors, allowing you to effectively refund the standard pulls and use them on something else.
 
 <figure markdown="span">
-  ![](/images/emojis/ryker-shy.png){width="128" loading=lazy} <figcaption>"99% of gamblers quit before they hit the jackpot."</figcaption>
+  ![](/images/emojis/ryker-shy.png){width="128" loading=lazy} <figcaption>“99% of gamblers quit before they hit the jackpot.”</figcaption>
 </figure>
 
 ## What Banner Should I Pull?
@@ -260,7 +260,7 @@ After you clear a stage once, you can re-enact it to instantly get rewards. As a
 
 ![](/images/handbook/resources/interludes.png){width="384" loading=lazy}
 
-Sometimes you're unlucky and can’t get a specific resource you need from events. In that case, you can farm interludes instead. Try not to do this unless you're desperate.
+Sometimes you’re unlucky and can’t get a specific resource you need from events. In that case, you can farm interludes instead. Try not to do this unless you’re desperate.
 
 ### Verboten Covenant
 
@@ -312,7 +312,7 @@ The [Awakener Guides](/handbook/awakeners/) section suggests covenants for each 
 
 Each soulforge level increases CON, ATK, and DEF by 3% in Astral Reign stages. This is like adding 5 extra character levels per soulforge level.
 
-**At minimum, get soulforge level 1 on everyone.** This unlocks their Soulforge Aptitude talent, which in most cases is like a free enlighten. If you don’t have any soulforge levels on a character, you're missing part of their kit in Astral Reign stages.
+**At minimum, get soulforge level 1 on everyone.** This unlocks their Soulforge Aptitude talent, which in most cases is like a free enlighten. If you don’t have any soulforge levels on a character, you’re missing part of their kit in Astral Reign stages.
 
 ### Madness Omen
 
@@ -340,7 +340,7 @@ This talent is automatically unlocked for limited characters. You can manually u
 
 **Buy whatever you need from the shop.** This is a good place to get XP potions and skill upgrade materials.
 
-**Don’t spend more Rose Scrip than you need to.** Early on, you might feel like you’re drowning in money, but that money will quickly evaporate once you start upgrading your covenants and increasing the level caps of your characters. Only buy something from the shop if you're going to use it right away.
+**Don’t spend more Rose Scrip than you need to.** Early on, you might feel like you’re drowning in money, but that money will quickly evaporate once you start upgrading your covenants and increasing the level caps of your characters. Only buy something from the shop if you’re going to use it right away.
 
 
 ### Sediment
@@ -387,7 +387,7 @@ Heart of Silver has Keyflare Regen as a main stat and can be used for cheesy Eme
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
 ![](/images/icons/shop/shard.png){width="80" loading=lazy}
 
-**Buy shards for [Lotan](/handbook/awakeners/lotan/), [Ogier](/handbook/awakeners/ogier/), and [Doll](/handbook/awakeners/doll/).** All of these characters are useful in D-Effect Zone, and OE Lotan is one of the few DPS that are viable in Madness difficulty.
+**Buy shards for [Lotan](/handbook/awakeners/lotan/), [Ogier](/handbook/awakeners/ogier/), and [Doll](/handbook/awakeners/doll/).** All of these characters are useful in D-Effect Zone, and OE Lotan is one of the few DPS that are viable in ▼ difficulty.
 
 ![](/images/covenants/crimson-pulse.png){width="80" loading=lazy}
 ![](/images/covenants/dream-of-medicine.png){width="80" loading=lazy}
@@ -459,7 +459,7 @@ You can get the Luminous Cores and Pure Cores if you want. These are one-time on
 ![](/images/covenants/cursed-rabbit.png){width="80" loading=lazy}
 ![](/images/covenants/re-evolution.png){width="80" loading=lazy}
 
-The covenants [Cursed Rabbit](/handbook/team#cursed-rabbit) and [Re-evolution](/handbook/team#re-evolution) are niche but used by some builds. You can buy them if you want. Keep in mind that you're delaying your long-term progression if you don’t buy the highlighted materials above.
+The covenants [Cursed Rabbit](/handbook/team#cursed-rabbit) and [Re-evolution](/handbook/team#re-evolution) are niche but used by some builds. You can buy them if you want. Keep in mind that you’re delaying your long-term progression if you don’t buy the highlighted materials above.
 
 ## Protoparadises & Selectors
 
@@ -469,7 +469,7 @@ The covenants [Cursed Rabbit](/handbook/team#cursed-rabbit) and [Re-evolution](/
 
 You get a lot of Pure Cores from new player rewards and daily quests. You will probably pull dozens of standard characters in the first week of playing. Do you really need a specific character right away to beat the easiest stages in the game?
 
-Use your Protoparadise if you've already pulled a lot and have most of the characters, but you're still missing a character you want. Or if you're missing a specific enlighten that you're 100% sure will help you clear a specific stage.
+Use your Protoparadise if you've already pulled a lot and have most of the characters, but you’re still missing a character you want. Or if you’re missing a specific enlighten that you’re 100% sure will help you clear a specific stage.
 
 If you use your Protoparadise on a character and pull the same character soon after, it will be a huge waste.
 
@@ -521,7 +521,7 @@ If you have all the posses, you can use Reality Verges to unlock whatever you wa
 
 **Extra Curriculum** (the seasonal Battle Pass) gives fewer pulls, but a lot of materials for leveling up characters. It also lets you pick 1 of 3 SSR wheels which are all very powerful. After you get a wheel once, you can buy dupes from the Sediment shop.
 
-If you buy the more expensive Premium Topics, you get access to **Turn Rewind.** This saves hours of time when you're retrying difficult stages, and is essentially required if you're crazy enough to do D-Effect Zone Madness difficulty regularly.
+If you buy the more expensive Premium Topics, you get access to **Turn Rewind.** This saves hours of time when you’re retrying difficult stages, and is essentially required if you’re crazy enough to do D-Effect Zone ▼ difficulty regularly.
 
 ![](/images/handbook/resources/silver-prime-3.png){width="384" loading=lazy}
 

@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 26 September 2026 (V2.6.1.2 - GOgier)
+    Last updated 30 September 2026 (V2.6.1.3 - Yet Another Dtide Rebalance)
 
 !!! info ""
 
@@ -129,4 +129,4 @@ Once you reach the midgame, Morimens stops holding your hand. Enemies will no lo
 
 Treat each defeat as a lesson rather than a setback. This game is 20% pay-to-win and 80% skill and patience. If you spend thousands of dollars on a bad team, you will still die. If you pay attention, build your team right, and play your cards right, you'll overcome challenges that seem impossible.
 
-One more thing: there’s no shame in using Emergency Gnoses. The game gives you a free revive every day. Unless you're aiming for achievements or bragging rights, why waste it?
+One more thing: there’s no shame in using Emergency Gnoses. The game gives you a free revive every day. Unless you’re aiming for achievements or bragging rights, why waste it?
