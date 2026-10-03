@@ -36,7 +36,7 @@ If a character isn’t listed, it means you would need a crazy reason to use the
 
 ### S (Newbie Solo Carry) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
-These characters need very little help to clear Hard story stages and S difficulty, and are excellent support awakeners to borrow for [event stages](/handbook/resources#events) and [D-Effect Zone](/handbook/d-zone).
+These characters need very little help to clear Hard story stages and Threat Level S in D-Zone, and are excellent support awakeners to borrow for [event stages](/handbook/resources#events) and [D-Effect Zone](/handbook/d-zone).
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -63,7 +63,7 @@ These characters need very little help to clear Hard story stages and S difficul
 
 ### A (Great in Hard Difficulty) {.tier .text-center style="background-color: var(--md-tier-a);"}
 
-These characters deal enough damage as main DPS to clear Hard story stages and D-Zone S difficulty, even with a suboptimal team.
+These characters deal enough damage to clear Hard story stages and Threat Level S in D-Zone, even with a suboptimal team.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -107,7 +107,7 @@ These characters deal enough damage as main DPS to clear Hard story stages and D
 
 ### B+ (Great in Normal Difficulty) {#b-plus .tier .text-center style="background-color: var(--md-tier-b-plus);"}
 
-These characters deal enough damage as main DPS to clear Normal story stages and D-Zone A difficulty, even with a suboptimal team. However, they need specific teammates or high investment to beat Hard story stages and D-Zone S difficulty.
+These characters deal enough damage as main DPS to clear normal difficulty stages and Threat Level A in D-Zone, even with a suboptimal team. However, they need specific teammates or high investment to beat Threat Level S.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -194,7 +194,9 @@ These characters deal enough damage as main DPS to clear Normal story stages and
 
 ### B (Viable with Support) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-These characters deal enough damage as main DPS to clear Normal stages and D-Zone A difficulty, but they need specific teammates or high investment to work well.
+These characters deal enough damage as main DPS to clear normal difficulty stages and Threat Level A in D-Zone, but they need specific teammates or high investment to work well.
+
+Note that this doesn’t mean these characters are weak (they can all clear Threat Level SS). They’re just more difficult for new players to use.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
