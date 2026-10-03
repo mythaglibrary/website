@@ -71,7 +71,7 @@ She also has strong defensive abilities, and her high CON boosts your max HP, wh
 
 Xu is a solid poison applier, but she really excels in triggering poison.
 
-A single Bonesick Longing, by itself, can trigger 80% or more of enemy poison. This is like a +80% damage boost to your poison team.
+A single Bonesick Longing, by itself, can trigger 80% or more of enemy poison. This is like a +80% damage boost to your poison team for that turn.
 
 Xu’s signature wheel ([Vain Regrets](https://skeydb.com/database/wheels/vain-regrets)), her event wheel ([Magnolia’s Lure](https://skeydb.com/database/wheels/magnolias-lure)), and her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent further boost her poison triggers.
 
