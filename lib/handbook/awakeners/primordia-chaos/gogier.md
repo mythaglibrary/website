@@ -50,17 +50,11 @@ awakener:
   works_well_with:
     - caraboo
     - xu
-    - mouchette
+    - arachne
     - hameln
 ---
 
-!!! warning "New Unit Disclaimer"
-
-    **New unit, we are still testing!**
-
-    **All builds and info are subject to change!**
-
-Ogier: Oathbound (“GOgier”) is a defensive support who is good at generating shields. He also contributes decent damage with Sin-Stained Spear.
+Ogier: Oathbound (“GOgier”) is a defensive support who generates shields, and contributes decent damage with Sin-Stained Spear.
 
 He provides access to the Primordia: Chaos realm, which gives keyflare at the start of each fight, and is very powerful in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages.
 
@@ -68,9 +62,13 @@ He provides access to the Primordia: Chaos realm, which gives keyflare at the st
 
 GOgier’s unique mechanic is **Undertow**. When you play Sin-Stained Spear, you get a stack of Undertow, up to a maximum of 3 stacks.
 
-Undertow boosts GOgier’s damage and the effectiveness of his exalt, but it also reduces the number of cards you draw at the start of each turn.
+Undertow boosts GOgier’s damage, and the shields and STR from his exalt, but it also reduces the number of cards you draw at the start of each turn.
 
-Fortunately, GOgier has a few sources of card draw in his kit. When you use GOgier’s exalt, all your Undertow is converted into **Guilt**, which makes GOgier’s skills draw his Defense card when played. If he's roused, his Defense also draws a card; while at E2, his Strike draws Sin-Stained Spear.
+Fortunately, GOgier has a bunch of card draw in his kit:
+
+- When you use GOgier’s exalt, all your Undertow is converted into **Guilt**, which makes GOgier’s skills draw his Defense card when played.
+- If he's roused, his Defense draws a card.
+- At E2, his Strike draws Sin-Stained Spear.
 
 Playing GOgier is about balancing your Undertow and Guilt stacks, so that you can maximize your benefits from Undertow, while drawing extra cards each turn to negate the drawback.
 
@@ -84,13 +82,11 @@ If you’re just using GOgier as a source of Primordia: Chaos, you can ignore hi
 
 ## Teambuilding
 
-**Support:** GOgier is a strong shielder, but he comes with strings attached. He works best in teams that can play around Primordia: Chaos and his Undertow drawbacks.
+**Support:** GOgier is a strong shielder, but his team needs to be able to play around Primordia: Chaos and his Undertow drawbacks. He works best as a tank in a grindy [stall team](/handbook/team#stall) with teammates like [Caraboo](/handbook/awakeners/caraboo/) or [Xu](/handbook/awakeners/xu/), who don’t mind if you spend your arithmetica on GOgier, and don’t mind drawing fewer cards each turn.
 
-He works well as a tank in a grindy [stall team](/handbook/team#stall) with teammates like [Caraboo](/handbook/awakeners/caraboo/) and [Xu](/handbook/awakeners/xu/), who don’t mind if you spend your arithmetica on GOgier, and don’t mind drawing fewer cards each turn.
+You can also ignore his gimmick and just use him as a way to access Primordia: Chaos. This guarantees a lot of keyflare in the first turn of each fight, which is good for DPS that want to rouse as soon as possible and don’t need any specific posse, like [Mouchette](/handbook/awakeners/mouchette/).
 
-You can also ignore his gimmick and just use him as a way to access Primordia: Chaos. This guarantees a lot of keyflare in the first turn of each fight, which is good for DPS that want to rouse as soon as possible and end fights fast, like [Mouchette](/handbook/awakeners/mouchette/).
-
-**DPS:** [Hameln](/handbook/awakeners/hameln/) can double the effect of Sin-Stained Spear while retaining the STR bonus from his soulforge talent. This lets you apply corrosion, then trigger it immediately for big damage.
+**DPS:** GOgier’s damage comes entirely from one command card, so he benefits from supports that buff command cards like [Arachne](/handbook/awakeners/arachne/). [Hameln](/handbook/awakeners/hameln/) can double the effect of Sin-Stained Spear while retaining the STR bonus from his soulforge talent, which lets you apply corrosion, then trigger it immediately for big damage.
 
 ## High Investment
 

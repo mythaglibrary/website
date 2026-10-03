@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 30 September 2026 (V2.6.1.3 - Yet Another Dtide Rebalance)
+    Last updated 3 October 2026 (V2.6.1.3 - Yet Another Dtide Rebalance)
 
 !!! info ""
 
@@ -56,7 +56,7 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
 - [Morimens Boss Compendium](https://docs.google.com/spreadsheets/d/1QYciqHJY3BilDcdvBiIT_dOqXOdqGX-4FBDj5rL6qyA/){target="_blank"}
 - [Morimens Banner History and other stuff](https://docs.google.com/spreadsheets/d/1gRDzdVHGfCC4qjt5aZYKuU9FWEfWdqREztNGeiczmRk/){target="_blank"}
-- [Eremora](https://eremora.com){target="_blank"} - profile viewer that shows UID of support awakeners used in clears
+- [Eremora](https://eremora.com){target="_blank"} - profile and statistics viewer that shows UID of support awakeners
 - [Mother Tree](https://mothertree.vercel.app/){target="_blank"} - awakener database with searchable tags and stat calculators
 - [Morimens Weekly/忘忘看报](https://qingdengbuyi.top/morimens-tools.html){target="_blank"} - D-tide analytics and damage calculator (you can switch to English with a toggle in the top right)
 

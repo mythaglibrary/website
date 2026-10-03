@@ -14,9 +14,9 @@ This is a quick guide for new players who are just starting out and want to know
 
 There are two tier lists provided here. The DPS Tier List is for the main damage dealer that [a team is built around](/handbook/team). The Support Tier List is for the other 3 characters who help to enable the DPS.
 
-**These are “poverty newbie tier lists.”** They assume you’re a new player and your goal is to do story stages, event stages, and D-tide Normal and Hard difficulty. They also assume the character is at most E3 and you don’t have many limited awakeners or SSR wheels.
+**These are “poverty newbie tier lists.”** They assume you’re a new player and your goal is to do story stages, event stages, and D-Zone up to SS difficulty. They also assume the character is at most E3 and you don’t have many limited awakeners or SSR wheels.
 
-For notes on D-tide SSS and ▼ difficulty, you can check [Awakener Tier Lists (For Endgame)](/handbook/tier-list-endgame).
+For notes on D-Zone SSS and ▼ difficulty, you can check [Awakener Tier Lists (For Endgame)](/handbook/tier-list-endgame).
 
 **If an enlighten is specified, it means it’s important for the character to work.** Without that enlighten, the character will be one or two tiers lower on the tier list.
 
@@ -36,7 +36,7 @@ If a character isn’t listed, it means you would need a crazy reason to use the
 
 ### S (Newbie Solo Carry) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
-These characters need very little investment to clear Normal and Hard stages, and are excellent support awakeners to borrow for [event stages](/handbook/resources#events) and [D-Effect Zone](/handbook/d-zone).
+These characters need very little help to clear Hard story stages and S difficulty, and are excellent support awakeners to borrow for [event stages](/handbook/resources#events) and [D-Effect Zone](/handbook/d-zone).
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -63,7 +63,7 @@ These characters need very little investment to clear Normal and Hard stages, an
 
 ### A (Great in Hard Difficulty) {.tier .text-center style="background-color: var(--md-tier-a);"}
 
-These characters deal enough damage to clear Normal and Hard stages as main DPS, even with a suboptimal team.
+These characters deal enough damage as main DPS to clear Hard story stages and D-Zone S difficulty, even with a suboptimal team.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -107,7 +107,7 @@ These characters deal enough damage to clear Normal and Hard stages as main DPS,
 
 ### B+ (Great in Normal Difficulty) {#b-plus .tier .text-center style="background-color: var(--md-tier-b-plus);"}
 
-These characters deal enough damage to clear Normal stages as main DPS, even with a suboptimal team. However, they need specific teammates or high investment to beat Hard stages.
+These characters deal enough damage as main DPS to clear Normal story stages and D-Zone A difficulty, even with a suboptimal team. However, they need specific teammates or high investment to beat Hard story stages and D-Zone S difficulty.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -194,7 +194,7 @@ These characters deal enough damage to clear Normal stages as main DPS, even wit
 
 ### B (Viable with Support) {.tier .text-center style="background-color: var(--md-tier-b);"}
 
-These characters deal enough damage to clear Normal stages as main DPS, but they need specific teammates or high investment to work well.
+These characters deal enough damage as main DPS to clear Normal stages and D-Zone A difficulty, but they need specific teammates or high investment to work well.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
@@ -291,6 +291,14 @@ These characters deal enough damage to clear Normal stages as main DPS, but they
         <img src="/images/awakeners/chaos/24--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">“24”</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/miryam/">
+        <img src="/images/awakeners/aequor/miryam--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Miryam</div>
         </div>
       </a>
     </li>

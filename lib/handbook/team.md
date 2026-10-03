@@ -659,7 +659,7 @@ Prioritize :crit-dmg: Crit DMG and :crit-rate: Crit Rate if a crit DPS is holdin
 
 Gives you a copy of the wielder’s basic Defense card every other turn.
 
-This is only worth it if there’s something special about the Defense that makes you want it every turn. For example, [Horla](/handbook/awakeners/horla/)’s defense inflicts weakness at E1, making this a great covenant set for her.
+This is only worth it if there’s something special about the Defense that makes you want it every turn. For example, [Horla](/handbook/awakeners/horla/)’s Defense inflicts weakness at E1, making this a great covenant set for her.
 
 #### Twisted Twins: Black
 

@@ -19,7 +19,7 @@ When referring to an awakener or wheel, it means extra copies after E3, using th
 
 ### ▼ difficulty
 
-The highest difficulty in D-Effect Zone (see [“Triangle difficulty”](#triangle-difficulty)).
+The highest difficulty in D-Effect Zone. In game, it’s represented by a string of nonsense characters.
 
 ## A
 
@@ -37,7 +37,7 @@ The old D-Effect Zone difficulty system, before it was changed on 29 August 2026
 
 ### Alert 7 (A7)
 
-Community name for ▼ difficulty, the highest difficulty in D-Effect Zone (see [“Triangle difficulty”](#triangle-difficulty)).
+Community name for ▼ difficulty, the highest difficulty in D-Effect Zone.
 
 ### April
 
@@ -77,9 +77,13 @@ Curriculum (the seasonal reward track you can unlock with real money).
 
 When some characters like [GMurphy](/handbook/awakeners/gmurphy/) are in your team, they change Aequor into “Benthos: Aequor,” which works differently. Tentacle DMG is now based on your max HP; your DMG amplification is increased by 50%; exalts no longer give Tentacle Gathering; and the stances are stronger but have a 3-turn cooldown.
 
+### Bird bros
+
+[Castor](/handbook/awakeners/castor/) and [Pollux](/handbook/awakeners/pollux/).
+
 ### Black Pool
 
-Using a rare item called Origin of Time to reset a standard character, refunding all their enlightens and level up materials and removing them from your account, thus ”returning them to the Black Pool.”
+Using a rare item called Origin of Time to reset a standard character, refunding all their enlightens and level up materials and removing them from your account, thus “returning them to the Black Pool.”
 
 ### Blade
 
@@ -160,6 +164,10 @@ In [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages, a strategy ba
 ### Debuff
 
 A negative status effect.
+
+### Dissolution difficulty
+
+Community name for ▼ difficulty, the highest difficulty in D-Effect Zone.
 
 ### Divine realm
 
@@ -619,7 +627,7 @@ Something that gives access to many different abilities, letting you get exactly
 
 ### Triangle difficulty
 
-Community name for ▼ difficulty, the highest difficulty in D-Effect Zone. In game, it’s represented by a string of nonsense characters.
+Community name for ▼ difficulty, the highest difficulty in D-Effect Zone.
 
 ## U
 
