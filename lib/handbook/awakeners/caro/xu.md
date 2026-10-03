@@ -20,7 +20,7 @@ awakener:
       - tier: A
         note: Game Changing
   stopping_points:
-    - 'E0, E2, E3, OE'
+    - 'E0, E2, E3, OE, AA'
   builds:
     - name: Example Build (Support)
       covenants:
@@ -53,8 +53,8 @@ awakener:
   suggested_posses:
     - id: plague-of-illusions
     - id: manor-echoes
-    - id: lakeside-glimpse
     - id: the-lone-seed
+    - id: lakeside-glimpse
   works_well_with:
     - gdoll
     - lily

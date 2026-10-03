@@ -54,7 +54,7 @@ awakener:
     - hameln
 ---
 
-Ogier: Oathbound (“GOgier”) is a defensive support who generates shields, and contributes decent damage with Sin-Stained Spear.
+Ogier: Oathbound (“GOgier”) is a defensive support who generates shields while contributing decent damage with Sin-Stained Spear.
 
 He provides access to the Primordia: Chaos realm, which gives keyflare at the start of each fight, and is very powerful in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages.
 
@@ -64,7 +64,7 @@ GOgier’s unique mechanic is **Undertow**. When you play Sin-Stained Spear, you
 
 Undertow boosts GOgier’s damage, and the shields and STR from his exalt, but it also reduces the number of cards you draw at the start of each turn.
 
-Fortunately, GOgier has a bunch of card draw in his kit:
+To counteract this, GOgier has various sources of card draw in his kit:
 
 - When you use GOgier’s exalt, all your Undertow is converted into **Guilt**, which makes GOgier’s skills draw his Defense card when played.
 - If he's roused, his Defense draws a card.
