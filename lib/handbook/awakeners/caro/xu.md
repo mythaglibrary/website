@@ -24,8 +24,8 @@ awakener:
   builds:
     - name: Example Build (Support)
       covenants:
-        - dream-of-medicine
         - burial-grounds-sighs
+        - twisted-twins-white
       covenants_note: (Any support)
       wheels:
         early_game:
@@ -40,8 +40,8 @@ awakener:
             note: (Any support)
     - name: Example Build (Poison DPS)
       covenants:
-        - dream-of-medicine
         - steppenwolf
+        - dream-of-medicine
       wheels:
         early_game:
           - id: cursed-binding
@@ -53,6 +53,7 @@ awakener:
   suggested_posses:
     - id: plague-of-illusions
     - id: manor-echoes
+    - id: lakeside-glimpse
     - id: the-lone-seed
   works_well_with:
     - gdoll
