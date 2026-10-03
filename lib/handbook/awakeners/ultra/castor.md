@@ -68,9 +68,13 @@ His Onyx Plumes inflict corrosion when played, boosting the damage dealt by Cast
 
 If you play a Castor card as the first card of the turn, you trigger its **Quasar**. All of his cards have the same Quasar effect, which is to make a shield and add an **Onyx Plume** to your Draw Pile.
 
-Onyx Plumes are 0-cost cards which you can retain in hand to get shields at the end of each turn. If you have teammates that generate alert, such as [Agrippa](/handbook/awakeners/agrippa/) or [Erica](/handbook/awakeners/erica/), they can buff each Onyx Plume individually, resulting in a big shielding boost.
+Onyx Plumes are 0-cost cards which you can retain in hand to get shields at the end of each turn.
 
-If you don’t need the shields or your hand is too full, you can play Onyx Plumes to deal damage and draw cards. The first Onyx Plume you play each turn inflicts corrosion on all enemies. If you have Castor’s E3, every third Onyx Plume will play will also give you 1 arithmetica.
+If you have teammates that generate alert, such as [Agrippa](/handbook/awakeners/agrippa/) or [Erica](/handbook/awakeners/erica/), they can buff each Onyx Plume individually, resulting in a big shielding boost.
+
+If you don’t need the shields or your hand is too full, you can play Onyx Plumes to deal damage and draw cards. The first Onyx Plume you play each turn inflicts corrosion on all enemies.
+
+If you have Castor’s E3, every third Onyx Plume you play will also give you 1 arithmetica.
 
 ### Exploration Scaling
 
@@ -90,7 +94,7 @@ He also fits into many other teams as a defensive support, and can be used with 
 
 His main issue is that he needs to retain a lot of cards in hand, so he doesn’t play well with characters that fight for hand space, like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) or [GHelot](/handbook/awakeners/ghelot/).
 
-Characters that generate alert, like [Agrippa](/handbook/awakeners/agrippa/) and [Erica](/handbook/awakeners/erica/), work very well with Castor’s Onyx Plumes. Since these characters usually aren’t in demand anywhere else, this helps you make more teams for [D-Effect Zone](/handbook/d-zone).
+Characters that generate alert, like [Agrippa](/handbook/awakeners/agrippa/) and [Erica](/handbook/awakeners/erica/), work very well with Castor’s Onyx Plumes. Since these characters aren’t in demand anywhere else, this helps you make more teams for [D-Effect Zone](/handbook/d-zone).
 
 ## High Investment
 

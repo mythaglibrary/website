@@ -83,15 +83,15 @@ Most of the time, you can completely ignore this mechanic, and just use Sacramen
 
 In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, the Lemurian characters get huge buffs from their soulforge talents when used together. These are [Faros](/handbook/awakeners/faros/), [Goliath](/handbook/awakeners/goliath/), [Miryam](/handbook/awakeners/miryam/), [Tulu](/handbook/awakeners/tulu/), and [GMurphy](/handbook/awakeners/gmurphy/).
 
-Miryam is a core support for Lemurian teams, as she provides much-needed aliemus and debuffs. Because she exalts so often, she’s usually the one triggering the shield from [GMurphy](/handbook/awakeners/gmurphy/)’s soulforge talent.
+Miryam is a core support for Lemurian teams, as she provides much-needed aliemus, weakness, and vulnerable.
 
 ### DPS Build
 
-If you build crit on Miryam and/or have her E3, she applies a respectable amount of poison with Exalted Pyre. While she isn’t a good solo DPS, she can pull her weight in poison teams.
+If you build crit on Miryam and/or have her E3, she applies a respectable amount of poison with Exalted Pyre. She isn’t a good solo DPS, but she can pull her weight in poison teams.
 
 ## How to Play
 
-Rouse Miryam. Use her exalt in whatever stance is the most helpful. Play her cards for aliemus, healing, and various buffs.
+Rouse Miryam. Use her exalt in whichever stance is most helpful. Play her cards for aliemus, healing, and various buffs.
 
 ## Teambuilding
 
@@ -103,6 +103,8 @@ Miryam can also be a battery for [OE Sanga](/handbook/awakeners/sanga/), [Blue 2
 
 ## Important Stats
 
-Miryam’s exalt gets a significant boost from :crit-dmg: Crit DMG, and you want the whole team holding crit stats anyway since you’re running Aequor. This makes Miryam a good holder for supportive Crit DMG wheels like [Power of the Pious](https://skeydb.com/database/wheels/power-of-the-pious), [The Living Cage](https://skeydb.com/database/wheels/the-living-cage), or [To My Dearest Friend](https://skeydb.com/database/wheels/to-my-dearest-friend).
+Miryam’s exalt gets a significant boost from :crit-dmg: Crit DMG, and you want the whole team holding crit stats anyway since you’re running Aequor. This makes Miryam a good holder for supportive Crit DMG wheels like [Power of the Pious](https://skeydb.com/database/wheels/power-of-the-pious), [Private Afternoon](https://skeydb.com/database/wheels/private-afternoon), or [To My Dearest Friend](https://skeydb.com/database/wheels/to-my-dearest-friend).
 
-If you want Miryam to contribute poison with Exalted Pyre, you should also give her :crit-rate: Crit Rate. :dmg-amp: DMG Amplification is worse than crit for DPS Miryam, but still useful; you can put it on a teammate like [Faros](/handbook/awakeners/faros/) instead.
+If you want Miryam to contribute poison with Exalted Pyre, you should also give her :crit-rate: Crit Rate.
+
+:dmg-amp: DMG Amplification is worse than crit for DPS Miryam, but still useful; you can put it on a teammate like [Faros](/handbook/awakeners/faros/) instead.
