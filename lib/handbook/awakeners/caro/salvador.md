@@ -17,7 +17,7 @@ awakener:
         note: Viable with Support
     support:
       - tier: A
-        note: Game Changer
+        note: Game Changing
   stopping_points:
     - 'Support: Any'
     - 'DPS: E2, OE'

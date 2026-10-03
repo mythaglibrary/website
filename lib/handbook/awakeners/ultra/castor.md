@@ -17,7 +17,7 @@ awakener:
         note: Great in Normal Difficulty
     support:
       - tier: A
-        note: Game Changer
+        note: Game Changing
   stopping_points:
     - 'Support: Any, OE, AA'
     - 'DPS: E3, OE, AA'

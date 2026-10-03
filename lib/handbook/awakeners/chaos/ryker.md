@@ -17,7 +17,7 @@ awakener:
         note: Meme Tier
     support:
       - tier: A
-        note: Game Changer
+        note: Game Changing
   stopping_points:
     - Any
   builds:

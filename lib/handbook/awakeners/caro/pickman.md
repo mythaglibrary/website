@@ -19,7 +19,7 @@ awakener:
         note: Not Recommended
     support:
       - tier: A
-        note: Game Changer
+        note: Game Changing
   stopping_points:
     - 'E2, E3, OE'
   builds:

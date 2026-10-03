@@ -20,7 +20,7 @@ awakener:
         note: against bosses
     support:
       - tier: A
-        note: Game Changer
+        note: Game Changing
   stopping_points:
     - 'E1, E2, E3, OE, AA'
   builds:

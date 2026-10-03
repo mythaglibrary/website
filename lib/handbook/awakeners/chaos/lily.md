@@ -15,7 +15,7 @@ awakener:
         note: Viable with Support
     support:
       - tier: A
-        note: Game Changer
+        note: Game Changing
   stopping_points:
     - 'E3, OE'
   builds:
