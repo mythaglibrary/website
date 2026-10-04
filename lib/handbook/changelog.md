@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **4 Oct 2026** | Updated DPS Miryam build and recommended stats based on feedback. |
 | **3 Oct 2026** | Fixed broken Suggested Posses formatting on mobile. Edited tierlist descriptions. Updated GOgier guide. Added guides for Castor, Miryam, and Xu. |
 | **30 Sep 2026** | Updated all references to the D-tide difficulties to the new ones. Updated the glossary with new and old D-tide terms. |
 | **26 Sep 2026** | Revamped tier list formatting. Updated GOgier guide and moved him to B tier endgame dps. Lowered Corpo and Aurita in endgame dps tier after feedback. |

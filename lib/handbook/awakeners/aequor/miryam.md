@@ -44,11 +44,11 @@ awakener:
     - name: Example Build (DPS)
       covenants:
         - dream-of-medicine
-        - crimson-pulse
+        - steppenwolf
       wheels:
         early_game:
-          - id: cursed-binding
           - id: to-my-dearest-friend
+          - id: cursed-binding
         astral_reign:
           - id: power-of-the-pious
           - id: to-my-dearest-friend
@@ -87,7 +87,7 @@ Miryam is a core support for Lemurian teams, as she provides much-needed aliemus
 
 ### DPS Build
 
-If you build crit on Miryam and/or have her E3, she applies a respectable amount of poison with Exalted Pyre. She isn’t a good solo DPS, but she can pull her weight in poison teams.
+If you build Crit DMG on Miryam and/or have her E3, she applies a respectable amount of poison with Exalted Pyre. She isn’t a good solo DPS, but she can pull her weight in poison teams.
 
 ## How to Play
 
@@ -105,6 +105,6 @@ Miryam can also be a battery for [OE Sanga](/handbook/awakeners/sanga/), [Blue 2
 
 Miryam’s exalt gets a significant boost from :crit-dmg: Crit DMG, and you want the whole team holding crit stats anyway since you’re running Aequor. This makes Miryam a good holder for supportive Crit DMG wheels like [Power of the Pious](https://skeydb.com/database/wheels/power-of-the-pious), [Private Afternoon](https://skeydb.com/database/wheels/private-afternoon), or [To My Dearest Friend](https://skeydb.com/database/wheels/to-my-dearest-friend).
 
-If you want Miryam to contribute poison with Exalted Pyre, you should also give her :crit-rate: Crit Rate.
+:crit-dmg: Crit DMG is also the best stat for DPS Miryam. She doesn’t need :crit-rate: Crit Rate since she gets 100% crit from her rouse.
 
 :dmg-amp: DMG Amplification is worse than crit for DPS Miryam, but still useful; you can put it on a teammate like [Faros](/handbook/awakeners/faros/) instead.
