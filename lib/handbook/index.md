@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 4 October 2026 (V2.6.1.3 - Yet Another Dtide Rebalance)
+    Last updated 5 October 2026 (V2.6.1.3 - Mirrored Prisoner Rerun)
 
 !!! info ""
 
