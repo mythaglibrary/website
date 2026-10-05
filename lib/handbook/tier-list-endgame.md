@@ -510,6 +510,15 @@ In specific teams, this character might be useful enough to run in high-difficul
       </a>
     </li>
     <li>
+      <a href="/handbook/awakeners/karen/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/karen--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Karen</div>
+          <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+    <li>
       <a href="/handbook/awakeners/nautila/" class="tierlist-standard-unit">
         <img src="/images/awakeners/chaos/nautila--mini.png" loading="lazy">
         <div class="tierlist-label">
