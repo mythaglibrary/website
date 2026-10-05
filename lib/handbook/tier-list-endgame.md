@@ -319,10 +319,18 @@ These characters can contribute a meaningful amount of damage as secondary DPS (
 
 ### S (Meta Defining) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
-These characters provide huge damage multipliers that are needed to elevate lower-tier DPS into SSS and ▼ viability.
+These characters provide insane damage multipliers or survivability which can elevate otherwise struggling teams into SSS and ▼ viability.
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/caraboo/">
+        <img src="/images/awakeners/caro/caraboo--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Caraboo</div>
+        </div>
+      </a>
+    </li>
     <li>
       <a href="/handbook/awakeners/saya/">
         <img src="/images/awakeners/caro/saya--mini.png" loading="lazy">
@@ -457,14 +465,6 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
         <img src="/images/awakeners/caro/xu--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Xu</div>
-        </div>
-      </a>
-    </li>
-    <li>
-      <a href="/handbook/awakeners/caraboo/">
-        <img src="/images/awakeners/caro/caraboo--mini.png" loading="lazy">
-        <div class="tierlist-label">
-          <div class="name">Caraboo</div>
         </div>
       </a>
     </li>
