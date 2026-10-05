@@ -328,6 +328,7 @@ These characters provide insane damage multipliers or survivability which can el
         <img src="/images/awakeners/caro/caraboo--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Caraboo</div>
+          <div class="enlighten">E3</div>
         </div>
       </a>
     </li>
