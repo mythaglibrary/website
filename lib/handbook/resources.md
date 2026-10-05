@@ -205,7 +205,7 @@ Once you hit a recommended stopping point for any of the selected characters, th
 
 ![](/images/icons/cores/pure.png){width="128" loading=lazy}
 
-![](/images/handbook/resources/realm-research.png){width="384" loading=lazy}
+![](/images/handbook/resources/realms-research.png){width="384" loading=lazy}
 
 **Use your Pure Cores to pull on all the realms in Realms Research and get lots of characters to build teams with.**
 
