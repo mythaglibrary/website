@@ -39,8 +39,7 @@ awakener:
           - id: the-land-of-nonexistence
     - name: Example Build (DPS)
       covenants:
-        - dream-of-medicine
-        - paradox
+        - twisted-twins-black
       wheels:
         astral_reign:
           - id: twisted-knight-ballad

@@ -46,6 +46,15 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
       </a>
     </li>
     <li>
+      <a href="/handbook/awakeners/gogier/">
+        <img src="/images/awakeners/chaos/gogier--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GOgier</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
       <a href="/handbook/awakeners/vortice/">
         <img src="/images/awakeners/aequor/vortice--mini.png" loading="lazy">
         <div class="tierlist-label">
@@ -104,15 +113,6 @@ Given enough investment and support, these characters can reliably reach the ~10
         <img src="/images/awakeners/chaos/glotan--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">GLotan</div>
-          <div class="enlighten">AA</div>
-        </div>
-      </a>
-    </li>
-    <li>
-      <a href="/handbook/awakeners/gogier/">
-        <img src="/images/awakeners/chaos/gogier--mini.png" loading="lazy">
-        <div class="tierlist-label">
-          <div class="name">GOgier</div>
           <div class="enlighten">AA</div>
         </div>
       </a>
