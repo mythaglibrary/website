@@ -38,6 +38,15 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
       </a>
     </li>
     <li>
+      <a href="/handbook/awakeners/gramona/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/gramona--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GRamona</div>
+          <div class="enlighten">E2</div>
+        </div>
+      </a>
+    </li>
+    <li>
       <a href="/handbook/awakeners/24/">
         <img src="/images/awakeners/chaos/24--mini.png" loading="lazy">
         <div class="tierlist-label">
@@ -60,6 +69,15 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
         <div class="tierlist-label">
           <div class="name">Vortice</div>
           <div class="enlighten">OE</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/gogier/">
+        <img src="/images/awakeners/caro/salvador--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Salvador</div>
+          <div class="enlighten">AA</div>
         </div>
       </a>
     </li>
@@ -127,6 +145,15 @@ Given enough investment and support, these characters can reliably reach the ~10
       </a>
     </li>
     <li>
+      <a href="/handbook/awakeners/pontos/">
+        <img src="/images/awakeners/aequor/pontos--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Pontos</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
       <a href="/handbook/awakeners/ghelot/">
         <img src="/images/awakeners/caro/ghelot--mini.png" loading="lazy">
         <div class="tierlist-label">
@@ -180,15 +207,6 @@ Given enough investment and support, these characters can reliably reach the ~5 
       </a>
     </li>
     <li>
-      <a href="/handbook/awakeners/gramona/" class="tierlist-standard-unit">
-        <img src="/images/awakeners/chaos/gramona--mini.png" loading="lazy">
-        <div class="tierlist-label">
-          <div class="name">GRamona</div>
-          <div class="enlighten">E2</div>
-        </div>
-      </a>
-    </li>
-    <li>
       <a href="/handbook/awakeners/nymphaea/" class="tierlist-standard-unit">
         <img src="/images/awakeners/chaos/nymphaea--mini.png" loading="lazy">
         <div class="tierlist-label">
@@ -229,6 +247,15 @@ Given enough investment and support, these characters can reliably reach the ~5 
         <img src="/images/awakeners/ultra/liz--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Liz</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/hameln/">
+        <img src="/images/awakeners/chaos/hameln--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Hameln</div>
           <div class="enlighten">AA</div>
         </div>
       </a>
