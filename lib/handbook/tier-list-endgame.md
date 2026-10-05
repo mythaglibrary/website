@@ -418,14 +418,6 @@ These characters provide defensive abilities, extra turns, Max HP % damage, or o
       </a>
     </li>
     <li>
-      <a href="/handbook/awakeners/gmurphy/">
-        <img src="/images/awakeners/aequor/gmurphy--mini.png" loading="lazy">
-        <div class="tierlist-label">
-          <div class="name">GMurphy</div>
-        </div>
-      </a>
-    </li>
-    <li>
       <a href="/handbook/awakeners/pontos/">
         <img src="/images/awakeners/aequor/pontos--mini.png" loading="lazy">
         <div class="tierlist-label">
@@ -665,7 +657,15 @@ In specific teams, this character might be useful enough to run in high-difficul
       <a href="/handbook/awakeners/tulu/">
         <img src="/images/awakeners/aequor/tulu--mini.png" loading="lazy">
         <div class="tierlist-label">
-          <div class="name">tulu</div>
+          <div class="name">Tulu</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/gmurphy/">
+        <img src="/images/awakeners/aequor/gmurphy--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">GMurphy</div>
         </div>
       </a>
     </li>

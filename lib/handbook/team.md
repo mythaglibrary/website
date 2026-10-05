@@ -183,7 +183,7 @@ When building a poison team, consider which characters will apply poison and whi
 
 A poison team is usually also a stall team, but it can be faster depending on the characters you use. A team with [Liz](/handbook/awakeners/liz/) and [Xu](/handbook/awakeners/xu/) can apply tons of poison and trigger it right away, killing as fast as a hypercarry team.
 
-Poison teams are not very effective in the ▼ difficulty of D-Effect Zone and Hectic Skybound Rail because of the [Astral Reign](/handbook/storylines) poison cap. If you’re a new player, this doesn’t affect you much. Just keep in mind that you'll need to build more than one team for endgame (which you should be doing anyway).
+Poison teams are not very effective in Hectic Skybound Rail and the ▼ difficulty of D-Effect Zone because of the [Astral Reign](/handbook/storylines) poison cap. If you’re a new player, this doesn’t affect you much. Just keep in mind that you'll need to build more than one team for endgame (which you should be doing anyway).
 
 **Poison teams need to rouse everyone in [Astral Reign](/handbook/storylines).** This is because [Prismatic Lens](/handbook/storylines/#prismatic-lens) makes poison tick faster each turn for each roused character in the team.
 
