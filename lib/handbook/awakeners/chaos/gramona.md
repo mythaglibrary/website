@@ -43,7 +43,7 @@ awakener:
           - id: eternal-requiem
           - id: blade-of-the-titan
   suggested_posses:
-    - id: answer-of-the-gate
+    - id: the-gated-answer
   works_well_with:
     - mouchette
     - kathigu-ra
