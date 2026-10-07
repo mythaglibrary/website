@@ -8,7 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
-| **7 Oct 2026** | Updated “Answer of the Gate” to “The Gated Answer” since they finally unified the English name. |
+| **7 Oct 2026** | Updated “Answer of the Gate” to “The Gated Answer” since they finally unified the English name. Added “TTW” and “TTB” to the glossary. |
 | **5 Oct 2026** | Changed “Realm Study” to “Realms Research” yet again. Can biav decide on a single translation? Inquiring minds wish to know. Also updated the endgame tier list. |
 | **4 Oct 2026** | Updated DPS Miryam build and recommended stats based on feedback. |
 | **3 Oct 2026** | Fixed broken Suggested Posses formatting on mobile. Edited tierlist descriptions. Updated GOgier guide. Added guides for Castor, Miryam, and Xu. |

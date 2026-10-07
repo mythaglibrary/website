@@ -629,6 +629,14 @@ Something that gives access to many different abilities, letting you get exactly
 
 Community name for ▼ difficulty, the highest difficulty in D-Effect Zone.
 
+### TTB
+
+The covenant [Twisted Twins: Black](/handbook/team#twisted-twins-black).
+
+### TTW
+
+The covenant [Twisted Twins: White](/handbook/team#twisted-twins-white).
+
 ## U
 
 ### Unit
