@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 7 October 2026 (V2.6.1.3 - Mirrored Prisoner Rerun)
+    Last updated 9 October 2026 (V2.6.1.3 - Mirrored Prisoner Rerun)
 
 !!! info ""
 

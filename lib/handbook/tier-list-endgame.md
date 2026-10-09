@@ -73,7 +73,7 @@ These characters deal Max HP % damage or have very high damage scaling, allowing
       </a>
     </li>
     <li>
-      <a href="/handbook/awakeners/gogier/">
+      <a href="/handbook/awakeners/salvador/">
         <img src="/images/awakeners/caro/salvador--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Salvador</div>
