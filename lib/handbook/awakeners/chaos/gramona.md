@@ -53,11 +53,7 @@ awakener:
     - hameln
 ---
 
-Ramona: Timeworn (“GRamona”) is a complex but versatile [keyflare support](/handbook/team#the-almighty-keyflare-bot).
-
-Her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent generates free keyflare at the beginning of every fight.
-
-In addition to her good keyflare generation, she brings three useful abilities to the team.
+Ramona: Timeworn (“GRamona”) is a complex but versatile [keyflare support](/handbook/team#the-almighty-keyflare-bot). In addition to her good keyflare generation, she brings three useful abilities to the team.
 
 Firstly, she can search your Draw Pile for any card with Sight Unbound. This isn’t as powerful as base [Ramona](/handbook/awakeners/ramona/)’s exalt, but it remains useful for teams that rely on specific cards.
 
