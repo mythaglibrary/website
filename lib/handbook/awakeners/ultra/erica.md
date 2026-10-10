@@ -45,7 +45,9 @@ awakener:
 
 Erica is a [keyflare bot](/handbook/team#the-almighty-keyflare-bot) who is most useful for generating temporary alert.
 
-When roused, Erica generates temporary alert whenever she generates a shield. Alert is a buff that increases any instance of shield generation from any character on the team. This allows Erica herself to make a big shield with Function Overload, and supercharges characters like [Castor](/handbook/awakeners/castor/) who make many small shields.
+**Alert** is a buff that increases any instance of shield generation from any character on the team. When roused, Erica generates temporary alert whenever she generates a shield.
+
+This allows Erica herself to make a big shield with Function Overload, and supercharges characters like [Castor](/handbook/awakeners/castor/) who make many small shields.
 
 Erica also inflicts weakness and vulnerable, dispels multiple debuffs, and generates a bit of keyflare.
 
@@ -61,11 +63,11 @@ Erica is almost always used with [Castor](/handbook/awakeners/castor/) to boost 
 
 She also works with other characters that produce many small shields, such as [Corposant](/handbook/awakeners/corposant/).
 
-More generally, Erica can be used as a filler support, since Ultra is a good support realm, and her exalt is useful in most teams.
+More generally, Erica can be used as a filler support, since Ultra is a useful support realm, and Erica‘s exalt is useful in most teams.
 
 ## High Investment
 
-Erica’s AA gives her exalt infinite scaling, making her usable as a funny off-meta DPS.
+Erica’s AA gives her exalt infinite scaling, which makes her usable as a funny off-meta DPS.
 
 ## Important Stats
 
