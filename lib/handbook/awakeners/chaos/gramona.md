@@ -93,7 +93,7 @@ GRamona can bring back [Tawil](/handbook/awakeners/tawil/)’s discovered cards,
 
 ## High Investment
 
-GRamona’s OE reduces the cost of the generated cards to 0, which is very powerful. This is nice, since you get her enlightens for free.
+GRamona has a powerful OE that reduces the cost of the generated cards to 0. This is nice, since you get her enlightens for free.
 
 ## Important Stats
 
