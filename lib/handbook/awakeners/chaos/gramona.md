@@ -83,9 +83,11 @@ Use both posses before playing Predetermined Strike, so you get the full benefit
 
 ## Teambuilding
 
-**Support:** GRamona is mainly used as a support for the specific DPS who can make use of the cards from her exalt. [Mouchette](/handbook/awakeners/mouchette/) is the biggest winner, since she can get back a Strike, Mortal Blast, and Shining Crush to repeat her burst combo. Less commonly, [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) can get Hyperflare, while [GLotan](/handbook/awakeners/glotan/) can get a bunch of strikes and Long Blade: Perish.
+**Support:** GRamona is mainly used as a support for the specific DPS who can make use of the cards from her exalt.
 
-GRamona can bring back [Tawil](/handbook/awakeners/tawil/)’s discovered cards, which opens up a lot of possibilities, like stalling with defensive cards in a Mono Chaos team.
+[Mouchette](/handbook/awakeners/mouchette/) is the biggest winner, since she can get back a Strike, Mortal Blast, and Shining Crush to repeat her burst combo. Less commonly, [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) can get Hyperflare, while [GLotan](/handbook/awakeners/glotan/) can get a bunch of strikes and Long Blade: Perish.
+
+GRamona can bring back [Tawil](/handbook/awakeners/tawil/)’s discovered cards, which lets you loop whatever card you want. For instance, in a Mono Chaos team, you can fetch [Doll](/handbook/awakeners/doll/)'s Equivalent Exchange with [Tawil](/handbook/awakeners/tawil/), and use GRamona to replay it every turn for shields and healing/
 
 **DPS:** GRamona needs a lot of time to scale Predetermined Strike, so she appreciates defensive teammates like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) and [Caraboo](/handbook/awakeners/caraboo/). She also benefits from supports that can grant STR and copy Predetermined Strike, such as [Thais](/handbook/awakeners/thais/) and [Hameln](/handbook/awakeners/hameln/).
 
