@@ -136,6 +136,15 @@ Given enough investment and support, these characters can reliably reach the ~10
       </a>
     </li>
     <li>
+      <a href="/handbook/awakeners/corposant/">
+        <img src="/images/awakeners/aequor/corposant--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Corposant</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
       <a href="/handbook/awakeners/gmurphy/">
         <img src="/images/awakeners/aequor/gmurphy--mini.png" loading="lazy">
         <div class="tierlist-label">
@@ -256,15 +265,6 @@ Given enough investment and support, these characters can reliably reach the ~5 
         <img src="/images/awakeners/chaos/hameln--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Hameln</div>
-          <div class="enlighten">AA</div>
-        </div>
-      </a>
-    </li>
-    <li>
-      <a href="/handbook/awakeners/corposant/">
-        <img src="/images/awakeners/aequor/corposant--mini.png" loading="lazy">
-        <div class="tierlist-label">
-          <div class="name">Corposant</div>
           <div class="enlighten">AA</div>
         </div>
       </a>
