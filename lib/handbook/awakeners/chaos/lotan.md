@@ -46,6 +46,7 @@ awakener:
   suggested_posses:
     - id: tiny-wish
     - id: all-of-her
+      note: In Mono Chaos
   works_well_with:
     - thais
     - helot
