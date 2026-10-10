@@ -99,4 +99,4 @@ GRamona has a powerful OE that reduces the cost of the generated cards to 0. Thi
 
 GRamona is a [keyflare support](/handbook/team#the-almighty-keyflare-bot) and should be built with :skey: Keyflare Regen.
 
-Build :crit-dmg: Crit DMG if you’re using GRamona as a DPS. You can ignore :crit-rate: Crit Rate since her E2 and Crimson Pulse are enough to reach 100% crit chance.
+Build :crit-dmg: Crit DMG if you’re using GRamona as a DPS. You can ignore :crit-rate: Crit Rate since her E2 and [Crimson Pulse](/handbook/team#crimson-pulse) are enough to reach 100% crit chance.
