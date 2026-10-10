@@ -51,7 +51,7 @@ The actual damage that Aurita deals is low. Instead, her damage comes from follo
 
 When playing with Aurita, your objective is to line up all your damage buffs with a fully stacked exalt for maximum damage.
 
-Play Gland Division and Power of Friendship until you have 10 Gland Divisions in your Draw Pile and Discard Pile. Then stack all your STR and crit buffs, switch to Raging Waves stance, and use Aurita’s exalt.
+Play Gland Division and Power of Friendship until you have 10 Gland Divisions in your Draw Pile and Discard Pile. Then stack all your STR, Tentacle DMG, and crit buffs, switch to Raging Waves stance, and use Aurita’s exalt.
 
 You should always rouse Aurita if you can, since it doubles the number of tentacle attacks she triggers, and immediately gives Aurita the aliemus she needs to exalt.
 
