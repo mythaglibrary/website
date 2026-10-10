@@ -39,6 +39,7 @@ awakener:
     - pontos
     - gmurphy
     - clementine
+    - casiah
     - tulu
     - faros
 ---
@@ -64,6 +65,8 @@ Since Aurita’s damage depends entirely on tentacles, she needs supports that c
 [Corposant](/handbook/awakeners/corposant/) is Aurita’s ideal teammate, as she can rapidly cycle through your deck, build Tentacle DMG, and increase the damage that enemies receive from tentacles.
 
 [Tulu](/handbook/awakeners/tulu/) is a Tentacle DMG buffer who also provides Crit Rate for your tentacles to crit. Other STR and Tentacle DMG buffers include [Clementine](/handbook/awakeners/clementine/), [GMurphy](/handbook/awakeners/gmurphy/), and [Goliath](/handbook/awakeners/goliath/).
+
+[Casiah](/handbook/awakeners/casiah/) helps you draw useful cards from a deck stuffed with Gland Divisions, and her Poof! can trigger Aftershock in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages. She’s also good at generating temporary STR, which is converted into temporary Tentacle DMG.
 
 [Faros](/handbook/awakeners/faros/)’s Deep Currents can make every tentacle hit inflict poison, providing an alternative payoff for Aurita’s triggered tentacle attacks.
 
