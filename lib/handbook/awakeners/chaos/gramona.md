@@ -53,7 +53,11 @@ awakener:
     - hameln
 ---
 
-Ramona: Timeworn (“GRamona”) is a complex but versatile [keyflare support](/handbook/team#the-almighty-keyflare-bot). In addition to her decent keyflare generation, she brings three useful abilities to the team.
+Ramona: Timeworn (“GRamona”) is a complex but versatile [keyflare support](/handbook/team#the-almighty-keyflare-bot).
+
+Her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent generates free keyflare at the beginning of every fight.
+
+In addition to her good keyflare generation, she brings three useful abilities to the team.
 
 Firstly, she can search your Draw Pile for any card with Sight Unbound. This isn’t as powerful as base [Ramona](/handbook/awakeners/ramona/)’s exalt, but it remains useful for teams that rely on specific cards.
 
@@ -88,6 +92,10 @@ Use both posses before playing Predetermined Strike, so you get the full benefit
 GRamona can bring back [Tawil](/handbook/awakeners/tawil/)’s discovered cards, which opens up a lot of possibilities, like stalling with defensive cards in a Mono Chaos team.
 
 **DPS:** GRamona needs a lot of time to scale Predetermined Strike, so she appreciates defensive teammates like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) and [Caraboo](/handbook/awakeners/caraboo/). She also benefits from supports that can grant STR and copy Predetermined Strike, such as [Thais](/handbook/awakeners/thais/) and [Hameln](/handbook/awakeners/hameln/).
+
+## High Investment
+
+GRamona’s OE reduces the cost of the generated cards to 0, which is very powerful. This is nice, since you get her enlightens for free.
 
 ## Important Stats
 

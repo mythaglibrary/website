@@ -27,6 +27,10 @@ The highest difficulty in D-Effect Zone. In game, it’s represented by a string
 
 Absolute Axiom. When an awakener is at +12 (15 dupes in addition to the base copy), a bonus effect is added to their rouse.
 
+### Aigis cheese
+
+Using [Aigis](/handbook/awakeners/aigis/)’s Petrify ability on a boss that is going to rouse or change phases. This delays the phase change by one turn, and can be exploited to skip the mechanics of some bosses, or even kill the boss without ever seeing their second phase. It can also be done with other characters that have stuns, such as [OE Mouchette](/handbook/awakeners/mouchette/).
+
 ### AOE
 
 “Area of effect.” Something that affects all enemies at once.

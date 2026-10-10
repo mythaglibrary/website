@@ -43,8 +43,30 @@ awakener:
     - winkle
 ---
 
-A free keyflare support with a strong exalt that inflicts weakness and vulnerable.
+Erica is a [keyflare bot](/handbook/team#the-almighty-keyflare-bot) who is most useful for generating temporary alert.
 
-Once roused, she generates temporary alert each time she makes a shield. With Function Overload, she can make a huge shield and a huge one-turn buff to all your shielding.
+When roused, Erica generates temporary alert whenever she generates a shield. Alert is a buff that increases any instance of shield generation from any character on the team. This allows Erica herself to make a big shield with Function Overload, and supercharges characters like [Castor](/handbook/awakeners/castor/) who make many small shields.
 
-Usually seen in stall teams with [Castor](/handbook/awakeners/castor/) because each Onyx Plume benefits individually from alert, allowing [Castor](/handbook/awakeners/castor/) to stack giant shields.
+Erica also inflicts weakness and vulnerable, dispels multiple debuffs, and generates a bit of keyflare.
+
+## How to Play
+
+Rouse Erica. Play her cards for keyflare and temporary buffs. Use her exalt for weakness, vulnerable, and a shield.
+
+Function Overload can be used as an emergency shield if there’s a lot of incoming damage.
+
+## Teambuilding
+
+Erica is almost always used with [Castor](/handbook/awakeners/castor/) to boost his Onyx Plumes. She can provide temporary alert to tank the first few turns, while [Agrippa](/handbook/awakeners/agrippa/) builds up alert over time.
+
+She also works with other characters that produce many small shields, such as [Corposant](/handbook/awakeners/corposant/).
+
+More generally, Erica can be used as a filler support, since Ultra is a good support realm, and her exalt is useful in most teams.
+
+## High Investment
+
+Erica’s AA gives her exalt infinite scaling, making her usable as a funny off-meta DPS.
+
+## Important Stats
+
+Erica is a [keyflare support](/handbook/team#the-almighty-keyflare-bot) and should be built with :skey: Keyflare Regen.

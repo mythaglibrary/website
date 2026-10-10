@@ -8,6 +8,7 @@ awakener:
     - Keyflare
     - Card Draw
     - Arithmetica Discount
+    - STR
   ranks:
     dps:
       - tier: D
@@ -24,25 +25,45 @@ awakener:
       wheels:
         early_game:
           - id: gluttony
-            note: Any support
+            note: (Any support)
           - id: frenzy
-            note: Any support
+            note: (Any support)
         astral_reign:
           - id: merciful-nurturing
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
           - id: gateway-of-truth
-            note: Any Keyflare Regen stat
+            note: (Any Keyflare Regen)
   suggested_posses: []
   suggested_posses_note: Any
   works_well_with:
     - mouchette
     - glotan
     - tawil
-  works_well_with_note: Anyone
+    - anyone
 ---
 
-The most reliable partner who you can always count on to be your [keyflare bot](/handbook/team#the-almighty-keyflare-bot).
+Ramona is a reliable [keyflare bot](/handbook/team#the-almighty-keyflare-bot) and general support.
 
-While she isn't as flashy as other keyflare supports, Ramona is one of the best at actually generating keyflare. The ability to search for any card and reduce its cost to 0 is also a powerful and universally useful effect.
+Her exalt is one of the most powerful and versatile exalts in Morimens. It lets Ramona provide any type of support effect you need, as long your deck contains a card with that effect.
 
-She works well in any team, but shines in teams that rely on specific cards or high-cost cards.
+At E1, she’s also one of the best characters at generating keyflare. Her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent generates free keyflare at the beginning of every fight.
+
+## How to Play
+
+Play Ramona’s cards to get keyflare. (Or don’t play Queen’s Sword, and get keyflare anyway.)
+
+Use her exalt to search for good cards and play them for free.
+
+## Teambuilding
+
+As a generalist keyflare support, Ramona is very versatile and can go into any team.
+
+She works best with teammates that have powerful, expensive cards to search for. For example, she can get [Mouchette](/handbook/awakeners/mouchette/)’s Shining Crush, or [GLotan](/handbook/awakeners/glotan/)’s Long Blade: Perish.
+
+## High Investment
+
+Ramona has a useful OE that inflicts weakness and vulnerable, among other things. This is nice, since you get her enlightens for free.
+
+## Important Stats
+
+Ramona is a [keyflare support](/handbook/team#the-almighty-keyflare-bot) and should be built with :skey: Keyflare Regen.

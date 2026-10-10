@@ -638,6 +638,7 @@ These characters are good at one or two specific things, which makes them valuab
         <img src="/images/awakeners/chaos/ogier--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Ogier</div>
+          <div class="enlighten">E2</div>
         </div>
       </a>
     </li>
