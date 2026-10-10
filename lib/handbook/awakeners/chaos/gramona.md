@@ -73,7 +73,7 @@ The downside is that this build takes a long time to get going, and requires you
 
 **Support:** Play GRamona’s cards to get keyflare. Use Sight Unbound to search for cards you need.
 
-GRamona’s exalt can change your posse to [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} if you need weakness and vulnerable, or [A Mouse's Wisdom](https://skeydb.com/database/posses/a-mouses-wisdom){target="_blank"} for arithmetica, [Warded Injection](https://skeydb.com/database/posses/warded-injection){target="_blank"} for healing, etc.
+GRamona’s exalt can change your posse to [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} if you need weakness and vulnerable, or [A Mouse’s Wisdom](https://skeydb.com/database/posses/a-mouses-wisdom){target="_blank"} for arithmetica, [Warded Injection](https://skeydb.com/database/posses/warded-injection){target="_blank"} for healing, etc.
 
 Keep track of the cards you play each turn. If you end your turn with a sequence of three good cards (such as three of [Mouchette](/handbook/awakeners/mouchette/)’s strikes), you can use GRamona’s exalt to bring them back the turn after and do it again.
 
