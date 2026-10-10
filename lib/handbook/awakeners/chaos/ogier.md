@@ -39,9 +39,10 @@ awakener:
   suggested_posses_note: Any
   works_well_with:
     - '24'
-    - ramona
+    - lotan
     - doll
     - tawil
+    - ramona
 ---
 
 Ogier is a simple defensive support. He generates shields and Temporary STR, and a little bit of vulnerable.
