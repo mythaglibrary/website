@@ -59,7 +59,7 @@ Lotan is a straightforward DPS who deals damage with strikes and her exalt.
 
 Playing strikes reduces the cost of Blade of Defiance, her highest-damage card, and boosts the damage of her exalt over time.
 
-As a basic strike DPS, Lotan is relatively weak. She deals less damage than [Alva](/handbook/awakeners/alva/), [Mouchette](/handbook/awakeners/mouchette/), or [GLotan](/handbook/awakeners/glotan/).
+As a basic strike DPS, Lotan is relatively weak. She deals less damage with her cards than [Alva](/handbook/awakeners/alva/), [Mouchette](/handbook/awakeners/mouchette/), or [GLotan](/handbook/awakeners/glotan/).
 
 ## High Investment
 
@@ -71,7 +71,7 @@ Endgame players usually ignore the rest of Lotan’s kit and use her as a “dea
 
 ## How to Play
 
-**Strike build:** Play Strikes and use Lotan’s exalt. Against bosses, use her OE instead.
+**Strike build:** Play strikes and use Lotan’s exalt. Against bosses, use her OE instead.
 
 **OE build:** Feed aliemus to Lotan and use her OE off cooldown.
 
