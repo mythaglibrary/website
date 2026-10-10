@@ -36,8 +36,10 @@ awakener:
     - id: auritas-treasure
   works_well_with:
     - corposant
-    - tulu
     - pontos
+    - gmurphy
+    - clementine
+    - tulu
     - faros
 ---
 
@@ -61,9 +63,9 @@ Since Aurita’s damage depends entirely on tentacles, she needs supports that c
 
 [Corposant](/handbook/awakeners/corposant/) is Aurita’s ideal teammate, as she can rapidly cycle through your deck, build Tentacle DMG, and increase the damage that enemies receive from tentacles.
 
-[Tulu](/handbook/awakeners/tulu/) is the ultimate Tentacle DMG buffer, who also provides Crit Rate for your tentacles to crit.
+[Tulu](/handbook/awakeners/tulu/) is a Tentacle DMG buffer who also provides Crit Rate for your tentacles to crit. Other STR and Tentacle DMG buffers include [Clementine](/handbook/awakeners/clementine/), [GMurphy](/handbook/awakeners/gmurphy/), and [Goliath](/handbook/awakeners/goliath/).
 
-[Faros](/handbook/awakeners/faros/)’s Deep Currents can make every tentacle hit inflict poison, providing an alternative way to use Aurita’s triggered tentacle attacks.
+[Faros](/handbook/awakeners/faros/)’s Deep Currents can make every tentacle hit inflict poison, providing an alternative payoff for Aurita’s triggered tentacle attacks.
 
 Another weakness of Aurita is that she lacks defense or any other form of utility. [Pontos](/handbook/awakeners/pontos/) or [Corposant](/handbook/awakeners/corposant/) can help the team survive longer while supporting the Tentacle DMG and Aftershock strategy.
 
