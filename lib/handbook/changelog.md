@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **12 Oct 2026** | Updated Mother Tree link. |
 | **10 Oct 2026** | Removed Mother Tree link since it’s taken offline. Updated Doll, Lotan, Ogier, Ramona, Aigis, Aurita, and Erica guides. Moved AA Corpo up to B tier endgame dps. |
 | **9 Oct 2026** | Fixed broken link for Salvador in the endgame tier list. Updated GRamona guide. |
 | **7 Oct 2026** | Updated “Answer of the Gate” to “The Gated Answer” since they finally unified the English name. Added “TTW” and “TTB” to the glossary. |
