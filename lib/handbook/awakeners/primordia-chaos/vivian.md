@@ -93,7 +93,7 @@ If you're a new player doing story mode, putting Vivian with any AOE damage deal
 
 Vivian's best teammates are those that want to rouse early, deal a lot of damage in one burst turn, and aren’t picky about what posse they get. DPS that function this way include [Mouchette](/handbook/awakeners/mouchette/) and [Daffodil](/handbook/awakeners/daffodil/).
 
-In contrast, due to Vivian’s Primordia: Chaos realm, she doesn’t work as well with DPS that want to spam a specific posse, like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) or [Vortice](/handbook/awakeners/vortice/).
+In contrast, due to Vivian’s Primordia: Chaos realm, she doesn’t work as well with DPS that want to spam a specific posse, like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) or [Vortice](/handbook/awakeners/vortice/). (But [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) benefits enough from Vivian’s support that they work decently together anyway.)
 
 ## Investment
 
