@@ -91,7 +91,7 @@ Depending on your team, you’ll probably want either the arithmetica potion or 
 
 ### Multiple Cauldron Strategy
 
-You can use the Cauldron more than once during a stage. However, this requires you to carefully manage your Cauldron cooldown, Vivian’s skills, and her remaining potions.
+You can use the Cauldron more than once during a stage. However, this requires you to carefully manage your Cauldron countdown, Vivian’s skills, and her remaining potions.
 
 Ideally, you use the 2 weakest potions during the exploration, and enter the boss fight with the third potion already prepared in your Cauldron. This lets you use that Cauldron to beat the first phase of the boss, and immediately start cooking a new Cauldron with any potion of your choice.
 
