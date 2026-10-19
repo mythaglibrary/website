@@ -540,6 +540,14 @@ These characters are premium supports that are strong in a variety of situations
       </a>
     </li>
     <li>
+      <a href="/handbook/awakeners/vivian/">
+        <img src="/images/awakeners/chaos/vivian--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Vivian</div>
+        </div>
+      </a>
+    </li>
+    <li>
       <a href="/handbook/awakeners/corposant/">
         <img src="/images/awakeners/aequor/corposant--mini.png" loading="lazy">
         <div class="tierlist-label">

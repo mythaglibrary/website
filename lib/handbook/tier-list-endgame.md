@@ -16,8 +16,6 @@ These tier lists are not relevant to the vast majority of players. However, if y
 
 **Keep in mind that the actual performance of a character will depend on the stage.** Especially in ▼ difficulty, a team can effortlessly cheese one boss, only to be hard countered by another. There are too many possible factors to take all of them into account, so this guide focuses on what characters can be relied on to clear an “average” stage with no gimmicks.
 
-**Take these tier lists with a grain of salt.** The new D-tide difficulties have only just released. As balance changes happen and we get a better idea of what works, this guide will be updated accordingly.
-
 For explanations of formatting, see [Awakener Tier Lists (For New Players)](/handbook/tier-list).
 
 ## Endgame DPS Tier List
@@ -634,6 +632,15 @@ In specific teams, this character might be useful enough to run in high-difficul
         <img src="/images/awakeners/chaos/gogier--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">GOgier</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/vivian/">
+        <img src="/images/awakeners/chaos/vivian--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Vivian</div>
+          <div class="enlighten">E3</div>
         </div>
       </a>
     </li>

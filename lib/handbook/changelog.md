@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **20 Oct 2026** | Added Vivian tierlist and placeholder build. |
 | **12 Oct 2026** | Updated Mother Tree link. |
 | **10 Oct 2026** | Removed Mother Tree link since it’s taken offline. Updated Doll, Lotan, Ogier, Ramona, Aigis, Aurita, and Erica guides. Moved AA Corpo up to B tier endgame dps. |
 | **9 Oct 2026** | Fixed broken link for Salvador in the endgame tier list. Updated GRamona guide. |
