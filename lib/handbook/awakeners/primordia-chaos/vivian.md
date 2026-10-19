@@ -63,7 +63,7 @@ Vivian's SSR wheel, [The Seer's Riddle](https://skeydb.com/database/wheels/the-s
 
 ### Quality Nap
 
-Vivian is a very eepy character. After using her exalt or either of her skills, she will take a **Quality Nap,** sealing her own cards and exalt.
+Vivian is a very eepy princess. After using her exalt or either of her skills, she will take a **Quality Nap,** sealing her own cards and exalt.
 
 What this means, in practice, is that Vivian can only do one thing each turn. When you play with Vivian, you have to decide which you need the most each turn: corrosion, aliemus, *or* healing.
 
