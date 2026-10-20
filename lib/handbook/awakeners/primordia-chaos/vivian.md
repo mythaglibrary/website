@@ -73,7 +73,7 @@ When you play Whatever’s at Hand for the first time, it will add a **Cauldron*
 
 You can choose the type of buff that the Cauldron will give: arithmetica, card draw, or aliemus. In addition to this, it also gives **Boiling Anger**, which prevents Vivian from taking a nap, so you can use more than one of her abilities in the same turn.
 
-At E3, Vivian's Cauldron also increases enemy damage taken. This is a very powerful damage buff which is multiplicative with all other buffs.
+At E3, Vivian’s Cauldron also increases enemy damage taken. This is a very powerful damage buff which is multiplicative with all other buffs.
 
 If you play Whatever’s at Hand while a Cauldron is in your hand, it increases the cooking time, but it also increases the power of the Cauldron (up to 2 extra times).
 
