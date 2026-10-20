@@ -109,7 +109,7 @@ In contrast, due to Vivian’s Primordia: Chaos realm, she doesn’t work as wel
 
 ## Investment
 
-All of Vivian’s enlightens are quite good. E3 in particular is a power spike, as it gives her a +30% damage buff which is multiplicative with other buffs.
+All of Vivian’s enlightens are quite good. E3 in particular is a power spike, as it gives her a unique +30% damage buff.
 
 Vivian’s OE makes her a good healer. Her AA is very powerful since it effectively provides extra arithmetica each turn.
 
