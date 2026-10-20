@@ -71,9 +71,11 @@ What this means, in practice, is that Vivian can only do one thing each turn. Wh
 
 When you play Whatever’s at Hand for the first time, it will add a **Cauldron** to your hand. This is a buff that must be “cooked” for multiple turns before you can play it. It will be retained across turns and across battles.
 
-You can choose the type of potion that the Cauldron will brew: arithmetica, card draw, or aliemus. At E3, it also multiplies enemy damage taken, a very powerful effect.
+You can choose the type of buff that the Cauldron will give: arithmetica, card draw, or aliemus. In addition to this, it also gives **Boiling Anger**, which prevents Vivian from taking a nap, so you can use more than one of her abilities in the same turn.
 
-If you play Whatever’s at Hand while a Cauldron is in your hand, it increases the cooking time, but it also makes the potion buff stronger (up to 2 extra times). It also adds **Boiling Anger**, which prevents Vivian from taking a nap, so you can use more than one of her abilities in the same turn.
+At E3, Vivian's Cauldron also increases enemy damage taken. This is a very powerful damage buff which is multiplicative with all other buffs.
+
+If you play Whatever’s at Hand while a Cauldron is in your hand, it increases the cooking time, but it also increases the power of the Cauldron (up to 2 extra times).
 
 If you play Soup Rains from Above while a Cauldron is in your hand, it speeds up the countdown of the Cauldron by 1 turn.
 
