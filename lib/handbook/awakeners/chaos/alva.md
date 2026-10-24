@@ -60,11 +60,13 @@ awakener:
     - helot
 ---
 
-Alva is a support who is mainly used for her exalt and Combat Stance. She can unseal your awakeners and get rid of symptoms clogging your hand, which makes her useful into many boss fights. She also provides a decent shield and a reliable source of vulnerable with her exalt.
+Alva is a support who is mainly used for her exalt and Combat Stance. She can unseal your awakeners and get rid of symptoms clogging your hand, which makes her useful into many boss fights.
+
+She also provides decent shields, and a reliable source of vulnerable with her exalt.
 
 ### DPS Build
 
-Alva’s Precision Slash has a high damage ceiling. At E3, this makes her a viable DPS. With the right build, she can hit for upwards of 50K damage per Precision Slash.
+Alva’s Precision Slash scales infinitely with your shields generated, regardless of whether you’re at the shield cap. With the right build, she can hit for millions of damage per Precision Slash.
 
 DPS Alva isn’t popular with veteran players, mainly because she competes for supports with stronger DPS like [Mouchette](/handbook/awakeners/mouchette/) and [GHelot](/handbook/awakeners/ghelot/). That being said, she’s a perfectly viable option if you like her.
 
@@ -74,7 +76,7 @@ DPS Alva isn’t popular with veteran players, mainly because she competes for s
 
 **Support:** Use Alva’s exalt if you need vulnerable, or if you need to get rid of symptoms in hand. Use Combat Stance if you need to unseal your awakeners.
 
-**DPS:** Rouse Alva and try to get a lot of copies of Precision Slash in hand. Then use Alva’s exalt, build a lot of shield, stack damage buffs, and unleash your burst combo.
+**DPS:** Rouse Alva and try to get a lot of copies of Combat Stance and Precision Slash in hand. Then use Alva’s exalt, build a lot of shield, stack damage buffs, and unleash your burst combo.
 
 ## Teambuilding
 
@@ -88,7 +90,7 @@ On the other hand, she likes teammates who can boost the damage from each Precis
 
 ## High Investment
 
-Alva’s OE gives you an extra Precision Slash to burst with, and lets her permanently scale Crit DMG over time.
+Alva’s OE gives you an extra Combat Stance and Precision Slash to burst with, and lets her permanently scale Crit DMG over time.
 
 Her AA grants bonus shields, which are significant both for damage and survivability.
 
