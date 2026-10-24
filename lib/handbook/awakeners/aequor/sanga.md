@@ -82,7 +82,7 @@ At endgame, Sanga can work in [stall teams](/handbook/team#stall) that have trou
 
 If you’re relying on Sanga as your main DPS, she needs ways to boost her damage. She works well with characters that inflict corrosion, like [Saya](/handbook/awakeners/saya/) and [Castor](/handbook/awakeners/castor/).
 
-[Caraboo](/handbook/awakeners/caraboo/) boosts your Max HP, which increases your shield cap, and hence Sanga’s maximum damage. [Salvador](/handbook/awakeners/salvador/) and [OE Nautila](/handbook/awakeners/nautila/) can also temporarily exceed the shield cap.
+[Caraboo](/handbook/awakeners/caraboo/) boosts your Max HP, which increases your shield cap and Tranquil Sea shield, and hence Sanga’s damage. [Salvador](/handbook/awakeners/salvador/) and [OE Nautila](/handbook/awakeners/nautila/) can also temporarily exceed the shield cap.
 
 ## Important Stats
 
