@@ -23,9 +23,7 @@ awakener:
   builds:
     - name: Example Build (Mono Chaos Tank)
       covenants:
-        - cursed-rabbit
         - unstained-chronicle
-      covenants_note: (Any support)
       wheels:
         early_game:
           - id: gluttony

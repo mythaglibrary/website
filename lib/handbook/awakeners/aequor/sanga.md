@@ -3,7 +3,7 @@ title: Sanga
 description: Builds, strategy, and gameplay tips for the Morimens character Sanga.
 template: awakeners/awakener.html
 awakener:
-  tagline: Mob Clearing Shield Support
+  tagline: Shield-Based AOE Damage Dealer
   roles:
     - AOE
     - Shields
@@ -20,10 +20,10 @@ awakener:
   stopping_points:
     - 'E0, E3, OE, AA'
   builds:
-    - name: Example Build (E3 Support)
+    - name: Example Build (E3 Sub DPS)
       covenants:
         - burial-grounds-sighs
-        - twisted-twins-white
+        - ring-of-chamber-36
       wheels:
         early_game:
           - id: memory-syndrome
@@ -37,23 +37,51 @@ awakener:
     - name: Example Build (OE Main DPS)
       covenants:
         - feast-from-afar
-        - twisted-twins-white
+        - ring-of-chamber-36
       wheels:
         astral_reign:
           - id: will-unyielding
           - id: analysis-of-death
   suggested_posses:
     - id: tiny-wish
-      note: Faded Legacy Ch. 1
     - id: ephemeral-eternity
-      note: 'Psyche Deepdive: Erica'
+      note: at OE
   works_well_with:
     - saya
-    - miryam
     - caraboo
+    - miryam
     - winkle
+    - castor
+    - salvador
+    - nautila
 ---
 
-If you can stack a lot of shield in one turn, Sanga's exalt converts it into significant AOE damage. This makes her useful in stall teams that have trouble killing normal enemies fast.
+Sanga is a DPS whose exalt deals AOE damage based on your current shields. She’s also a decent shielder herself.
 
-Sanga can solo DPS at low levels, but she struggles with enemies that have a lot of HP. Unless you have her OE, or a support that multiplies her damage like [Saya](/handbook/awakeners/saya/), she's best used as a supportive secondary DPS.
+At low levels, Sanga is one of the best carries, as you can end fights simply by using Tranquil Sea stance followed by her exalt. This strategy is viable all the way up to Chapter 7.
+
+However, Sanga’s damage is limited by the shield cap (you can’t generate more shields than your Max HP). Because of this, she falls off as enemies get tougher, and needs specific teammates to be viable at endgame.
+
+## High Investment
+
+Sanga’s OE gives her Strike and exalt a permanent stacking damage boost for the rest of the fight. This gives her the damage scaling she needs to be a viable endgame DPS.
+
+Her AA further boosts her damage scaling.
+
+## How to Play
+
+**Before OE:** Make a lot of shields, then use Sanga’s exalt to deal damage. Her cards are not very useful and can be sold.
+
+**OE Main DPS:** Funnel aliemus to Sanga, so you can spam her OE to build up her damage. Her Strike also deals a lot of damage after a few OEs.
+
+## Teambuilding
+
+At low levels, your biggest concern is getting enough aliemus for Sanga to exalt and kill everything. Aliemus supports like [Miryam](/handbook/awakeners/miryam/) and [Winkle](/handbook/awakeners/winkle/) ensure that Sanga’s exalt is ready when you need it.
+
+At endgame, Sanga needs ways to boost her damage. She works well with characters that inflict corrosion, like [Saya](/handbook/awakeners/saya/) and [Castor](/handbook/awakeners/castor/).
+
+[Caraboo](/handbook/awakeners/caraboo/) boosts your Max HP, which increases your shield cap, and hence Sanga’s maximum damage. [Salvador](/handbook/awakeners/salvador/) and [OE Nautila](/handbook/awakeners/nautila/) can also temporarily exceed the shield cap.
+
+## Important Stats
+
+:death-resistance: Death Resistance is important for Sanga, as it increases the Crit Rate and Crit DMG of Sanga’s exalt, and the aliemus she gets from playing Strike and Defense.

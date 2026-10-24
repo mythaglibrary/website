@@ -86,6 +86,12 @@ On the other hand, she likes teammates who can boost the damage from each Precis
 
 [Saya](/handbook/awakeners/saya/) is an excellent support because she does both, but her discard can be hard to play around.
 
+## High Investment
+
+Alva’s OE gives you an extra Precision Slash to burst with, and lets her permanently scale Crit DMG over time.
+
+Her AA grants bonus shields, which are significant both for damage and survivability.
+
 ## Important Stats
 
 Build :crit-dmg: Crit DMG and :crit-rate: Crit Rate if you’re using Alva as a DPS.

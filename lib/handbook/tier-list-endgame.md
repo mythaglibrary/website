@@ -107,6 +107,15 @@ Given enough investment and support, these characters can reliably reach the ~10
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
     <li>
+      <a href="/handbook/awakeners/alva/" class="tierlist-standard-unit">
+        <img src="/images/awakeners/chaos/alva--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Alva</div>
+          <div class="enlighten">AA</div>
+        </div>
+      </a>
+    </li>
+    <li>
       <a href="/handbook/awakeners/kathigu-ra/">
         <img src="/images/awakeners/chaos/kathigu-ra--mini.png" loading="lazy">
         <div class="tierlist-label">
@@ -200,15 +209,6 @@ Given enough investment and support, these characters can reliably reach the ~5 
         <img src="/images/awakeners/aequor/aurita--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Aurita</div>
-          <div class="enlighten">AA</div>
-        </div>
-      </a>
-    </li>
-    <li>
-      <a href="/handbook/awakeners/alva/" class="tierlist-standard-unit">
-        <img src="/images/awakeners/chaos/alva--mini.png" loading="lazy">
-        <div class="tierlist-label">
-          <div class="name">Alva</div>
           <div class="enlighten">AA</div>
         </div>
       </a>

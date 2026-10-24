@@ -17,7 +17,7 @@ awakener:
         note: Role Player
   stopping_points:
     - 'Support: Any'
-    - 'DPS: E3, OE, AA'
+    - 'DPS: E3, AA'
   builds:
     - name: Example Build (Keyflare Support)
       covenants:
@@ -45,16 +45,35 @@ awakener:
           - id: cursed-binding
   suggested_posses:
     - id: plague-of-illusions
-      note: Astral Reign Ch. 1
     - id: tiny-wish
-      note: Faded Legacy Ch. 1
+      note: Early game
   works_well_with:
     - gdoll
     - xu
     - lily
-    - liz
+    - caraboo
 ---
 
-Nymphaea's exalt instantly triggers poison, speeding up the long time poison teams usually take to kill enemies. She also boosts teamwide poison in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, and her high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot).
+Nymphaea is a poison support who is good at triggering poison with her exalt. She also has access to weakness and vulnerable.
 
-Works best in a team full of poison characters. Nymphaea's rouse makes her a decent poison applier, but she takes ages to ramp up, making her impractical as a DPS outside of boss fights.
+When roused, her poison application ramps up over time, making her a viable main DPS in long fights.
+
+Her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent also boosts teamwide poison application, and her high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot).
+
+## How to Play
+
+Rouse Nymphaea. Play her cards to get aliemus and inflict poison (and generate keyflare if she’s your [keyflare bot](/handbook/team#the-almighty-keyflare-bot)). Use her exalt to trigger poison on enemies.
+
+## Teambuilding
+
+Nymphaea works best in a team full of poison characters such as [GDoll](/handbook/awakeners/gdoll/), [Xu](/handbook/awakeners/xu/), and/or [Lily](/handbook/awakeners/lily/).
+
+She has few defensive capabilities of her own, so tanky teammates like [Lily](/handbook/awakeners/lily/), [Caraboo](/handbook/awakeners/caraboo/), or [Faint](/handbook/awakeners/faint/) may be needed.
+
+## High Investment
+
+Nymphaea’s AA massively accelerates the scaling of her rouse, making her a strong poison applier.
+
+## Important Stats
+
+If Nymphaea isn’t your [keyflare bot](/handbook/team#the-almighty-keyflare-bot), you should build :dmg-amp: DMG Amplification on her, since most of her poison application is Fixed Poison, and her talent gives her bonus scaling from it.

@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **25 Oct 2026** | Updated Alva and Doll guides. Rewrote guides for Nymphaea, Sanga, Faint, and Jenkin. |
 | **20 Oct 2026** | Added Vivian tierlist and placeholder build. |
 | **12 Oct 2026** | Updated Mother Tree link. |
 | **10 Oct 2026** | Removed Mother Tree link since it’s taken offline. Updated Doll, Lotan, Ogier, Ramona, Aigis, Aurita, and Erica guides. Moved AA Corpo up to B tier endgame dps. |

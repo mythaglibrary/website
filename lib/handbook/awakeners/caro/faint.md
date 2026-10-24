@@ -9,8 +9,9 @@ awakener:
     - Weakness
     - Heals
     - Shields
-    - Counter
     - STR Down
+    - Counter
+    - Dispel Fragile
   ranks:
     dps:
       - tier: D
@@ -38,12 +39,33 @@ awakener:
   suggested_posses: []
   works_well_with:
     - gdoll
-    - mouchette
-    - uvhash
+    - lotan
   suggested_posses_note: Any
   works_well_with_note: Anyone
 ---
 
-Faint's exalt can stack tons of death resistance, buying multiple turns where you can survive any hit no matter how high the damage. This makes her a top-tier endgame support, as the more difficult a fight is, the better she is compared to other defensive characters.
+Faint is a defensive support with one purpose: to pad your :death-resistance: Death Resistance with her exalt.
 
-Faint is often paired with [GDoll](/handbook/awakeners/gdoll/) to cheese boss fights, but fits in any team that needs to live just a bit longer.
+By giving you bonus DR triggers, Faint provides extra turns of safety, where you can survive any hit no matter how high the damage. This makes Faint one of the most powerful tanks against hard bosses.
+
+Faint also provides decent healing and shielding, and her Devour inflicts two turns of weakness.
+
+## How to Play
+
+Spam Faint's exalt for Death Resistance and weakness.
+
+## Teambuilding
+
+Faint is a general defensive support, and fits into any team that needs to stall for a few extra turns.
+
+At endgame, Faint is usually used to cheese boss fights with [GDoll](/handbook/awakeners/gdoll/) and [OE Lotan](/handbook/awakeners/lotan/). Because these characters deal Max HP % damage, the team only needs to stall a certain number of turns to kill any boss.
+
+The covenant [Burial Ground’s Sighs](/handbook/team#burial-grounds-sighs) grants aliemus every time DR is triggered, which is great if you’re planning to trigger DR a lot. The aforementioned team uses this covenant to charge [GDoll](/handbook/awakeners/gdoll/) and [Lotan](/handbook/awakeners/lotan/) faster.
+
+## High Investment
+
+Faint's OE inflicts a significant amount of STR down, and is a useful defensive tool.
+
+## Important Stats
+
+:death-resistance: Death Resistance increases the maximum DR that Faint’s exalt can reach.
