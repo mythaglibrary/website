@@ -55,6 +55,7 @@ awakener:
     - id: the-mountains-resolve
   works_well_with:
     - saya
+    - arachne
     - nautila
     - thais
     - helot
@@ -80,13 +81,11 @@ DPS Alva isn’t popular with veteran players, mainly because she competes for s
 
 ## Teambuilding
 
-DPS Alva likes two specific kinds of supports.
+DPS Alva likes teammates who can give her more copies of Precision Slash, like [Thais](/handbook/awakeners/thais/), and teammates who boost the damage from each Precision Slash, like [Nautila](/handbook/awakeners/nautila/) and [Helot](/handbook/awakeners/helot/).
 
-On the one hand, she likes teammates who can give her more copies of Precision Slash, like [Thais](/handbook/awakeners/thais/) and [Hameln](/handbook/awakeners/hameln/).
+[Saya](/handbook/awakeners/saya/) can generate shields, copy Alva’s cards, and inflict corrosion, but her discard can be hard to play around.
 
-On the other hand, she likes teammates who can boost the damage from each Precision Slash, like [Nautila](/handbook/awakeners/nautila/) and [Helot](/handbook/awakeners/helot/).
-
-[Saya](/handbook/awakeners/saya/) is an excellent support because she does both, but her discard can be hard to play around.
+[Arachne](/handbook/awakeners/arachne/) is also a good shielder, can get multiple uses out of one Precision Slash, and boosts the damage of command cards with her pursuit.
 
 ## High Investment
 

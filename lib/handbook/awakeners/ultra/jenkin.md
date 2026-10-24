@@ -53,6 +53,7 @@ awakener:
   works_well_with:
     - saya
     - castor
+    - clementine
     - arachne
     - winkle
 ---
@@ -73,11 +74,13 @@ As a support, Jenkin works with any damage dealer who wants to crit, such as [GH
 
 As a DPS, Jenkin has low damage, so she works well with teammates who apply corrosion for her to trigger, like [Saya](/handbook/awakeners/saya/), [Castor](/handbook/awakeners/castor/), or [Vivian](/handbook/awakeners/vivian/).
 
+[Clementine](/handbook/awakeners/clementine/) is a universal support, but she is especially good at carrying Jenkin because Jenkin benefits greatly from STR.
+
 [Arachne](/handbook/awakeners/arachne/) boosts the damage of command cards, which Jenkin appreciates. Jenkin’s multiple-card burst is also useful for triggering [Arachne](/handbook/awakeners/arachne/)’s pursuits.
 
 [E3 Winkle](/handbook/awakeners/winkle/) lets Jenkin exalt multiple times in one turn, and the crit buff stacks.
 
-Finally, Jenkin has no survivability of her own, so she needs defensive teammates like [Castor](/handbook/awakeners/castor/) or [Lily](/handbook/awakeners/lily/) to survive more dangerous stages.
+Defensive teammates like [Castor](/handbook/awakeners/castor/) or [Lily](/handbook/awakeners/lily/) can make up for Jenkin’s lack of survivability, and help her survive more dangerous stages.
 
 ## Important Stats
 
