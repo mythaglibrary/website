@@ -78,7 +78,7 @@ Her AA further boosts her damage scaling.
 
 At low levels, your biggest concern is getting enough aliemus for Sanga to exalt and kill everything. Aliemus supports like [Miryam](/handbook/awakeners/miryam/) and [Winkle](/handbook/awakeners/winkle/) ensure that Sanga’s exalt is ready when you need it.
 
-At endgame, Sanga can work in stall teams that have trouble killing normal enemies fast. For example, if your main strategy is stalling with [Caecus](/handbook/awakeners/caecus/), you might not be able to kill enemies before they start Gazing you. Sanga can provide the upfront AOE damage to ferry your Caecus to the boss.
+At endgame, Sanga can work in stall teams that have trouble killing mobs fast. For example, if your main strategy is stalling with [Caecus](/handbook/awakeners/caecus/), you might not be able to kill normal enemies before they start Gazing you. Sanga can provide the upfront AOE damage to ferry your Caecus to the boss.
 
 If you’re relying on Sanga as your main DPS, she needs ways to boost her damage. She works well with characters that inflict corrosion, like [Saya](/handbook/awakeners/saya/) and [Castor](/handbook/awakeners/castor/).
 
