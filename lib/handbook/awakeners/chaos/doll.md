@@ -3,7 +3,7 @@ title: Doll
 description: Builds, strategy, and gameplay tips for the Morimens character Doll.
 template: awakeners/awakener.html
 awakener:
-  tagline: Cheap Defensive Keyflare Support
+  tagline: Baby’s First Defensive Support
   roles:
     - Weakness
     - Aliemus
@@ -59,11 +59,13 @@ awakener:
     - anyone
 ---
 
-Doll is a straightforward healer who does her job of keeping you alive. Her high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot) as well.
+Doll is a simple but effective healer who does her job of keeping you alive.
 
-Doll’s E1 makes her one of the best weakness appliers among all standard characters — great for surviving harder difficulties on a new account.
+Her E1 makes her one of the best weakness appliers among all standard characters — great for surviving harder difficulties on a new account.
 
 If roused and equipped with [Unstained Chronicle](/handbook/team#unstained-chronicle), she generates lots of shields in addition to healing.
+
+Doll’s high base Keyflare Regen makes her a solid [keyflare bot](/handbook/team#the-almighty-keyflare-bot) as well.
 
 ## How to Play
 
@@ -74,3 +76,7 @@ Use Doll’s exalt and cards to stay alive.
 As a basic defensive support, Doll can fit into any team.
 
 She’s most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus. For example, she can be used with [Chaos 24](/handbook/awakeners/24/) or [OE Lotan](/handbook/awakeners/lotan/).
+
+## Important Stats
+
+If Doll is in a Mono Chaos team, you should build :realm-mastery: Realm Mastery on her to take advantage of the realm effect.

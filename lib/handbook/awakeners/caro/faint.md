@@ -52,7 +52,7 @@ Faint also provides decent healing and shielding, and her Devour inflicts two tu
 
 ## How to Play
 
-Spam Faint's exalt for Death Resistance and weakness.
+Spam Faint's exalt for DR and weakness.
 
 ## Teambuilding
 
@@ -68,4 +68,4 @@ Faint's OE inflicts a significant amount of STR down, and is a useful defensive 
 
 ## Important Stats
 
-:death-resistance: Death Resistance increases the maximum DR that Faint’s exalt can reach.
+Building :death-resistance: Death Resistance on Faint increases the maximum DR that her exalt can provide.

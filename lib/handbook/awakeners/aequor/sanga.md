@@ -60,11 +60,11 @@ Sanga is a DPS whose exalt deals AOE damage based on your current shields. She�
 
 At low levels, Sanga is one of the best carries, as you can end fights simply by using Tranquil Sea stance followed by her exalt. This strategy is viable all the way up to Chapter 7.
 
-However, Sanga’s damage is limited by the shield cap (you can’t generate more shields than your Max HP). Because of this, she falls off as enemies get tougher, and needs specific teammates to be viable at endgame.
+However, Sanga’s damage is limited by the shield cap (you can’t generate more shields than your Max HP). Because of this, she falls off as enemies get tougher, and needs specific teammates to be useful.
 
 ## High Investment
 
-Sanga’s OE gives her Strike and exalt a permanent stacking damage boost for the rest of the fight. This gives her the damage scaling she needs to be a viable endgame DPS.
+Sanga’s OE gives her Strike and exalt a permanent stacking damage boost for the rest of the fight. This gives her the damage scaling she needs for higher-difficulty content.
 
 Her AA further boosts her damage scaling.
 

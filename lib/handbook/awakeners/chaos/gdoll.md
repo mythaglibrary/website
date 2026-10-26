@@ -52,27 +52,37 @@ awakener:
     - daffodil
 ---
 
-Doll: Inferno (“GDoll”) is an aliemus battery who excels in poison teams. She generates a lot of temporary [DMG amplification](/handbook/team#dmg-amplification-base-dmg) with her exalt, and has access to both weakness and vulnerable at E1.
+Doll: Inferno (“GDoll”) is an aliemus battery who generates a lot of [DMG amplification](/handbook/team#dmg-amplification-base-dmg).
 
-Her true strength is in boss fights, where she gains a stack of **Finale** whenever you end your turn or use her exalt. At 10 stacks of Finale, you get the **Illusion’s End** card, which takes out 25-30% of the boss’s HP bar, and turns GDoll into a powerful poison-applying and poison-triggering DPS.
+She also provides healing; she can deal fixed damage based on the boss’s Max HP; and at E1, she can inflict weakness and vulnerable.
 
-A weakness of GDoll is that her cards cost a lot of arithmetica, so she doesn’t play well with other characters that need to play command cards. She also doesn’t do a whole lot outside of boss fights unless you can make use of her aliemus and DMG amplification.
+### Finale
+
+In boss fights, GDoll gains a stack of **Finale** whenever you end your turn or use her exalt.
+
+At 10 stacks of Finale, you get the **Illusion’s End** card, which takes out 25-30% of the boss’s HP bar, and transforms GDoll from a supportive healer into a powerful poison DPS.
 
 ## How to Play
 
 Use GDoll’s cards to charge her exalt. Activate her exalt to get a [DMG amplification](/handbook/team#dmg-amplification-base-dmg) boost and grant aliemus to the other characters on the team.
 
-Self-Destruct can be used for weakness or vulnerable as needed.
+Self-Destruct can be used offensively or defensively as needed.
 
 In boss fights, play Illusion’s End, then use Fate’s Descent to apply lots of poison. GDoll’s exalt can be used to trigger poison and get cards and arithmetica.
 
 ## Teambuilding
 
-GDoll works best in a team built around her constant supply of aliemus and DMG amplification. Her natural home is in a poison team with teammates like [Xu](/handbook/awakeners/xu/) and [Nymphaea](/handbook/awakeners/nymphaea/), but she also works well with exalt-dependent Base DMG characters like [“24”](/handbook/awakeners/24/) and [Daffodil](/handbook/awakeners/daffodil/).
+GDoll works best in a team built around her constant supply of aliemus and DMG amplification.
+
+Her natural home is in a poison team with teammates like [Xu](/handbook/awakeners/xu/) and [Nymphaea](/handbook/awakeners/nymphaea/), but she also works well with exalt-dependent Base DMG characters like [“24”](/handbook/awakeners/24/) and [Daffodil](/handbook/awakeners/daffodil/).
+
+In high-difficulty content, she’s usually used for her Max HP % damage, as a support for DPS like [Chaos 24](/handbook/awakeners/24/) or [OE Lotan](/handbook/awakeners/lotan/).
+
+A weakness of GDoll is that her cards cost a lot of arithmetica, so she doesn’t play well with other characters that need it for their command cards. She also doesn’t do a whole lot outside of boss fights unless you can make use of her aliemus and DMG amplification.
 
 ## High Investment
 
-At OE, GDoll notably gets much stronger. Her OE multiplies your team’s damage output and helps her reach Finale Form much faster. Her healing and poison from Fate’s Descent are also effectively doubled, since her aliemus cap is increased.
+At OE, GDoll notably gets much stronger. Her OE multiplies your team’s damage output and helps her reach Finale Form much faster. The healing and poison from Fate’s Descent are also effectively doubled, since her aliemus cap is increased.
 
 ## Important Stats
 

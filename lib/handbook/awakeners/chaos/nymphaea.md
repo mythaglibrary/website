@@ -76,4 +76,4 @@ Nymphaea’s AA massively accelerates the scaling of her rouse, making her a str
 
 ## Important Stats
 
-If Nymphaea isn’t your [keyflare bot](/handbook/team#the-almighty-keyflare-bot), you should build :dmg-amp: DMG Amplification on her, since most of her poison application is Fixed Poison, and her talent gives her bonus scaling from it.
+If Nymphaea isn’t your [keyflare bot](/handbook/team#the-almighty-keyflare-bot), you should build :dmg-amp: [DMG Amplification](/handbook/team#dmg-amplification-base-dmg) on her, since her talent gives her bonus scaling from it.

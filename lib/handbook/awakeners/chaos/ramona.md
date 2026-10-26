@@ -42,11 +42,11 @@ awakener:
     - anyone
 ---
 
-Ramona is a reliable [keyflare bot](/handbook/team#the-almighty-keyflare-bot) and general support.
+Ramona is your reliable partner, who can always be counted on to be your [keyflare bot](/handbook/team#the-almighty-keyflare-bot).
 
-Her exalt is one of the most powerful and versatile exalts in Morimens. It lets Ramona provide any type of support effect you need, as long your deck contains a card with that effect.
+Her exalt is very powerful and versatile. It can provide any type of support effect you need as long your deck contains a card with that effect.
 
-At E1, she’s also one of the best characters at generating keyflare. Her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent generates free keyflare at the beginning of every fight.
+At E1, Ramona is one of the best characters at generating keyflare. Her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent generates free keyflare at the beginning of every fight.
 
 ## How to Play
 
