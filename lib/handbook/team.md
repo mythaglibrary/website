@@ -345,7 +345,7 @@ You get a lot of free healing by using Crimson Furnace. Embryos let you exalt mo
 
 **Play more cards, take extra turns.**
 
-Ultra is the strongest support realm. Its realm mechanics are simply the most powerful. Ultra supports like [Clementine](/handbook/awakeners/clementine/) and [Horla](/handbook/awakeners/horla/) are extra valuable because they also give access to Annihilation and Ultra Rounds.
+Ultra gives you more cards and arithmetica, so you can do more stuff each turn. It's one of the best support realms for characters that rely on command cards, like [GHelot](/handbook/awakeners/ghelot/) and [Mouchette](/handbook/awakeners/mouchette/).
 
 **Pure Ultra depends on how good your characters are.** If you aren’t in Aequor or Caro, you don’t have free damage, shields, or healing — your cards are all you have. Your characters need to function all by themselves, and you might need a defensive character like [Lily](/handbook/awakeners/lily/) or [Castor](/handbook/awakeners/castor/) to survive long fights.
 

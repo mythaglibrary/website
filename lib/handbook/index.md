@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 26 October 2026 (V2.6.2.2 - Vivian)
+    Last updated 29 October 2026 (V2.6.2.2 - Vivian)
 
 !!! info ""
 
