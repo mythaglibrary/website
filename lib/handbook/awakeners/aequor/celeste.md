@@ -38,11 +38,11 @@ awakener:
           - id: memory-syndrome
             note: (Any support)
   suggested_posses: []
+  suggested_posses_note: Any
   works_well_with:
     - vortice
     - sorel
     - ghelot
-  suggested_posses_note: Any
   works_well_with_note: Anyone
 ---
 

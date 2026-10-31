@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **31 Oct 2026** | Overhauled guides for Lily, Tulu, and Pickman. Happy Halloween! |
 | **29 Oct 2026** | Fixed wrong image for Obsession Eternal. Updated Ultra description in teambuilding guide. |
 | **26 Oct 2026** | Made small updates to Doll, GDoll, Ogier, Nymphaea, Ramona, and Sanga guides. |
 | **25 Oct 2026** | Updated Alva and Doll guides. Rewrote guides for Nymphaea, Sanga, Faint, and Jenkin. Moved Alva up to B tier in the endgame tierlist. |
