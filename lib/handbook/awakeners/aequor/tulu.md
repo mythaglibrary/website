@@ -28,9 +28,9 @@ awakener:
       covenants_note: (Any support)
       wheels:
         early_game:
-          - id: elevated-focus
-            note: (Any support)
           - id: to-my-dearest-friend
+            note: (Any support)
+          - id: gluttony
             note: (Any support)
         astral_reign:
           - id: hymn-of-the-sovereign

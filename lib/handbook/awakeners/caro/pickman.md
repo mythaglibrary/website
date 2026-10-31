@@ -98,7 +98,7 @@ Pickman is usually run with the covenant [Dream of Medicine](/handbook/team#drea
 
 Pickman is a very strong and versatile support, but he demands a lot from his team. He wants the Team Unique covenant [Dream of Medicine](/handbook/team#dream-of-medicine) (so no one else can use it); he wants the [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve){target="_blank"} posse (so you can’t use any other posse); and he needs you to spend your whole turn playing his cards and doing his mechanics. In other words, it has to be a Pickman team, and your main DPS has to be able to fit in the leftover space.
 
-Pickman's best partners are DPS that only need to exalt to deal damage, and nothing else. This means that you can spend your whole turn doing Pickman things, and just press a button afterward for your main DPS to kill everything. Characters that work like this include [Doresain](/handbook/awakeners/doresain/) and [Sorel](/handbook/awakeners/sorel/).
+Pickman's best partners are DPS that only need to exalt to deal damage, and nothing else. This means that you can spend your whole turn doing Pickman things, and just press a button afterward for your main DPS to execute the boss. Characters that work like this include [Doresain](/handbook/awakeners/doresain/) and [Sorel](/handbook/awakeners/sorel/).
 
 The next best kind of DPS for Pickman is the DPS that only needs to play one card. The most popular example is [Caecus](/handbook/awakeners/caecus/), who can use Pickman’s damage buffs with Shattered Halberd to generate ludicrous amounts of counter.
 
