@@ -56,7 +56,7 @@ He also deals a lot of AOE damage with Chromaphage, and at low levels, can carry
 
 ### Creativity
 
-![](/images/handbook/awakeners/pickman-creativity.png){width=”64” class=”on-glb” loading=lazy}
+![](/images/handbook/awakeners/pickman-creativity.png){width="64" class="on-glb" loading=lazy}
 
 Whenever Pickman triggers Discover or uses Chromaphage, you get 1 stack of **Creativity** (a red fountain).
 
@@ -64,7 +64,7 @@ Creativity is retained across battles. When Pickman uses his exalt with 10 Creat
 
 ### Fantasia
 
-![](/images/handbook/awakeners/pickman-fantasia.png){width=”64” class=”on-glb” loading=lazy}
+![](/images/handbook/awakeners/pickman-fantasia.png){width="64" class="on-glb" loading=lazy}
 
 **Fantasia** (an orange warning sign) is the super buff you get from exalting with 10 Creativity. You also get 1 Fantasia when you rouse Pickman or use his OE.
 
@@ -87,6 +87,10 @@ Lifelike Rendition doesn’t have retain, so your burst turn is largely determin
 When you’re ready to burst, use your Lifelike Renditions to discover as many offensive relics as possible, spending Fantasia if needed. In the process, you will reduce the cost of Chromaphage to 0. Then you can play Chromaphage — ideally multiple Chromaphages — to deal AOE damage, and generate damage buffs for your main DPS.
 
 (Don't forget to use an embryo before bursting, so you get the extra bleed damage from [Bloody Pebble](https://skeydb.com/database/relics/bloody-pebble?variant=relic-variant-0098).)
+
+<figure markdown="span">
+  ![](/images/handbook/awakeners/pickman-burst-turn.png){width="640" class="on-glb" loading=lazy} <figcaption>A painting of how to destroy your enemies, by Pickman.</figcaption>
+</figure>
 
 Pickman is usually run with the covenant [Dream of Medicine](/handbook/team#dream-of-medicine), so you have an extra Lifelike Rendition and Chromaphage in your deck. He also works very well with the posse [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve), which can discover more of his cards, and reduces the cost of Chromaphage.
 
