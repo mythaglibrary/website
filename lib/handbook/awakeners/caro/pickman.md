@@ -88,9 +88,7 @@ When you’re ready to burst, use your Lifelike Renditions to discover as many o
 
 (Don't forget to use an embryo before bursting, so you get the extra bleed damage from [Bloody Pebble](https://skeydb.com/database/relics/bloody-pebble?variant=relic-variant-0098).)
 
-<figure markdown="span">
-  ![](/images/handbook/awakeners/pickman-burst-turn.png){width="640" class="on-glb" loading=lazy} <figcaption>A painting of how to destroy your enemies, by Pickman.</figcaption>
-</figure>
+![](/images/handbook/awakeners/pickman-burst-turn.png){width="640" class="on-glb" loading=lazy}
 
 Pickman is usually run with the covenant [Dream of Medicine](/handbook/team#dream-of-medicine), so you have an extra Lifelike Rendition and Chromaphage in your deck. He also works very well with the posse [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve), which can discover more of his cards, and reduces the cost of Chromaphage.
 
