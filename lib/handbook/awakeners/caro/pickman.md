@@ -56,15 +56,17 @@ He also deals a lot of AOE damage with Chromaphage, and at low levels, can carry
 
 ### Creativity
 
-![](/images/handbook/awakeners/pickman-creativity.png){width="64" class="on-glb" loading=lazy}
+![](/images/handbook/awakeners/pickman-creativity.png){width="64" loading=lazy}
 
 Whenever Pickman triggers Discover or uses Chromaphage, you get 1 stack of **Creativity** (a red fountain).
 
-Creativity is retained across battles. When Pickman uses his exalt with 10 Creativity, they are converted into 1 stack of Fantasia, and all awakeners get 15 aliemus.
+When Pickman uses his exalt with 10 Creativity, he spends them all to get 1 stack of Fantasia, and all awakeners get 15 aliemus.
+
+Creativity is retained across battles.
 
 ### Fantasia
 
-![](/images/handbook/awakeners/pickman-fantasia.png){width="64" class="on-glb" loading=lazy}
+![](/images/handbook/awakeners/pickman-fantasia.png){width="64" loading=lazy}
 
 **Fantasia** (an orange warning sign) is the super buff you get from exalting with 10 Creativity. You also get 1 Fantasia when you rouse Pickman or use his OE.
 
@@ -79,22 +81,22 @@ Playing Pickman is about setting up a single turn where you Discover as many tim
 - retain Chromaphage in your hand without playing it;
 - build up your Creativity and/or Fantasia;
 - build up aliemus for Pickman to exalt;
-- build up keyflare to use your posse (which should be [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve));
+- build up keyflare to use your posse (which should be [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve){target="_blank"});
 - and get your main DPS ready to burst (e.g. by having enough aliemus to exalt).
 
 Lifelike Rendition doesn’t have retain, so your burst turn is largely determined by when you draw it. (But Pickman’s painted cards do have retain, so if you Discover a Lifelike Rendition, you can hold it in hand to prepare for your burst turn.)
 
 When you’re ready to burst, use your Lifelike Renditions to discover as many offensive relics as possible, spending Fantasia if needed. In the process, you will reduce the cost of Chromaphage to 0. Then you can play Chromaphage — ideally multiple Chromaphages — to deal AOE damage, and generate damage buffs for your main DPS.
 
-(Don't forget to use an embryo before bursting, so you get the extra bleed damage from [Bloody Pebble](https://skeydb.com/database/relics/bloody-pebble?variant=relic-variant-0098).)
+(Don't forget to use an embryo before bursting, so you get the extra bleed damage from [Bloody Pebble](https://skeydb.com/database/relics/bloody-pebble?variant=relic-variant-0098){target="_blank"}.)
 
 ![](/images/handbook/awakeners/pickman-burst-turn.png){width="640" class="on-glb" loading=lazy}
 
-Pickman is usually run with the covenant [Dream of Medicine](/handbook/team#dream-of-medicine), so you have an extra Lifelike Rendition and Chromaphage in your deck. He also works very well with the posse [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve), which can discover more of his cards, and reduces the cost of Chromaphage.
+Pickman is usually run with the covenant [Dream of Medicine](/handbook/team#dream-of-medicine), so you have an extra Lifelike Rendition and Chromaphage in your deck. He also works very well with the posse [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve){target="_blank"}, which can discover more of his cards, and reduces the cost of Chromaphage.
 
 ## Teambuilding
 
-Pickman is a very strong and versatile support, but he demands a lot from his team. He wants the Team Unique covenant [Dream of Medicine](/handbook/team#dream-of-medicine) (so no one else can use it); he wants the [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve) posse (so you can’t use any other posse); and he needs you to spend your whole turn playing his cards and doing his mechanics. In other words, it has to be a Pickman team, and your main DPS has to be able to fit in the leftover space.
+Pickman is a very strong and versatile support, but he demands a lot from his team. He wants the Team Unique covenant [Dream of Medicine](/handbook/team#dream-of-medicine) (so no one else can use it); he wants the [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve){target="_blank"} posse (so you can’t use any other posse); and he needs you to spend your whole turn playing his cards and doing his mechanics. In other words, it has to be a Pickman team, and your main DPS has to be able to fit in the leftover space.
 
 Pickman's best partners are DPS that only need to exalt to deal damage, and nothing else. This means that you can spend your whole turn doing Pickman things, and just press a button afterward for your main DPS to kill everything. Characters that work like this include [Doresain](/handbook/awakeners/doresain/) and [Sorel](/handbook/awakeners/sorel/).
 
