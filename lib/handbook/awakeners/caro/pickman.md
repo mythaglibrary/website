@@ -26,7 +26,7 @@ awakener:
     - name: Example Build (Support)
       covenants:
         - dream-of-medicine
-        - burial-grounds-sighs
+        - deus-ex-machina
       wheels:
         early_game:
           - id: aged
@@ -38,7 +38,6 @@ awakener:
             note: (Any support)
           - id: to-my-dearest-friend
             note: (Any support)
-      covenants_note: Any support
   suggested_posses:
     - id: voracious-resolve
   works_well_with:
