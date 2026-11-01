@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **1 Nov 2026** | Added Pollux AA as a stopping point. |
 | **31 Oct 2026** | Overhauled guides for Lily, Tulu, and Pickman. Happy Halloween! |
 | **29 Oct 2026** | Fixed wrong image for Obsession Eternal. Updated Ultra description in teambuilding guide. |
 | **26 Oct 2026** | Made small updates to Doll, GDoll, Ogier, Nymphaea, Ramona, and Sanga guides. |
