@@ -6,10 +6,11 @@ awakener:
   tagline: Tentacle DMG Support
   roles:
     - Lemurian
-    - STR
-    - Tentacle DMG
     - Crit Rate
     - AOE
+    - STR
+    - Tentacle DMG
+    - Pierce DMG
     - Dispel Weakness
   ranks:
     dps:
