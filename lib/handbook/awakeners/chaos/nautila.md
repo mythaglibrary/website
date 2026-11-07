@@ -59,17 +59,17 @@ Nautila’s cards are mostly not useful. Short-Term Memory is decent if you have
 
 ## Teambuilding
 
-Nautila is most often seen in [Mono Chaos team](/handbook/team#mono-chaos-teams), which can quickly charge her exalt with Chaos Realm Mastery. For example, she can be put in a [Tawil](/handbook/awakeners/tawil/) and [Chaos 24](/handbook/awakeners/24/) team, boosting the defensive capabilities of the supports that are already there.
+Nautila is most often seen in [Mono Chaos teams](/handbook/team#mono-chaos-teams), which can quickly charge her exalt with Chaos Realm Mastery. For example, she can be put in a [Tawil](/handbook/awakeners/tawil/) and [Chaos 24](/handbook/awakeners/24/) team, boosting the defensive capabilities of the supports that are already there.
 
 She can also be used with shield scaling DPS, like [Alva](/handbook/awakeners/alva/) or [Sanga](/handbook/awakeners/sanga/), since her exalt is effectively a damage buff for them.
 
-Some [Daffodil](/handbook/awakeners/daffodil/) teams run Nautila as a way to convert the temporary counter from Thousand Mirage into AOE damage. However, after recent Daffodil buffs, she’s better at dealing with normal enemies, so Nautila isn’t really needed in the team anymore.
+Some [Daffodil](/handbook/awakeners/daffodil/) teams run Nautila as a way to convert the temporary counter from Thousand Mirage into AOE damage.
 
 If your team is struggling against a boss that inflicts many debuffs, E3 Nautila can be brought in the 4th slot to counter the boss mechanics.
 
 ## High Investment
 
-Nautila’s OE both generates more shield and inflicts more damage based on your counter, improving her niche support role.
+Nautila’s OE inflicts more damage based on your counter, improving her niche support role in counter teams.
 
 ## Important Stats
 
