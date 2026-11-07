@@ -21,8 +21,8 @@ awakener:
   builds:
     - name: Example Build (Support)
       covenants:
+        - deus-ex-machina
         - burial-grounds-sighs
-        - scarlet-embrace
       covenants_note: (Any support)
       wheels:
         early_game:
