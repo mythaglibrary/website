@@ -90,3 +90,5 @@ Helot’s OE and AA are damage multipliers that improve her DPS.
 :dmg-amp: [DMG Amplification](/handbook/team#dmg-amplification-base-dmg) boosts Helot’s exalt buff, making it useful for both support and DPS builds. For DPS Helot, it also represents a sizeable damage increase, since DMG amplification is multiplicative with the Base DMG scaling from her rouse.
 
 :crit-dmg: Crit DMG and :crit-rate: Crit Rate are important for DPS Helot, but not required to build, because Helot can generate them by playing Strike and Defense or using embryos. The most effective build for DPS Helot is to build mostly DMG amplification on Helot, and have the rest of the team grant her crit buffs.
+
+Base DMG bonuses are good for DPS Helot if you can get them from wheels or relics.
