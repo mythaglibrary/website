@@ -81,7 +81,7 @@ Endgame players usually ignore the rest of Lotan’s kit and use her as a “dea
 
 **OE build:** OE Lotan is usually run in two types of teams.
 
-In a Mono Chaos team, Realm Mastery gives Lotan a lot of aliemus, while supports like [Tawil](/handbook/awakeners/tawil/) and [Doll](/handbook/awakeners/doll/) can stall for time.
+In a [Mono Chaos team](/handbook/team#mono-chaos-teams), Realm Mastery gives Lotan a lot of aliemus, while supports like [Tawil](/handbook/awakeners/tawil/) and [Doll](/handbook/awakeners/doll/) can stall for time.
 
 In a Caro team with [Faint](/handbook/awakeners/faint/), you can abuse death resistance to charge Lotan's aliemus with [Burial Ground’s Sighs](/handbook/team#burial-grounds-sighs).
 

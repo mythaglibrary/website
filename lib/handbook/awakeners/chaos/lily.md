@@ -60,7 +60,7 @@ Lily is a universal tank who fits into any team that needs help staying alive.
 
 At endgame, she’s most commonly seen in dedicated poison teams, with teammates like [GDoll](/handbook/awakeners/gdoll/), [Xu](/handbook/awakeners/xu/), and [Nymphaea](/handbook/awakeners/nymphaea/).
 
-Since she’s a Chaos character with a powerful exalt, which can be charged up with Mono Chaos Realm Mastery, she can support Mono Chaos carries like [Chaos 24](/handbook/awakeners/24/) and [OE Lotan](/handbook/awakeners/lotan/).
+Since she’s a Chaos character with a powerful exalt, which can be charged up with [Mono Chaos](/handbook/team#mono-chaos-teams) Realm Mastery, she can support Mono Chaos carries like [Chaos 24](/handbook/awakeners/24/) and [OE Lotan](/handbook/awakeners/lotan/).
 
 ## High Investment
 

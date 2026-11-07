@@ -38,6 +38,7 @@ awakener:
   works_well_with:
     - arachne
     - gdoll
+    - vivian
     - clementine
     - horla
     - lily
@@ -91,9 +92,9 @@ Daffodil is a weak DPS on her own, as she needs a lot of setup and aliemus to fu
 
 [GDoll](/handbook/awakeners/gdoll/) helps with Daffodil’s aliemus issues, gives [DMG amplification](/handbook/team#dmg-amplification-base-dmg) buffs, has decent healing, and can trigger the poison from Daffodil’s 0-cost Mirages.
 
-[Clementine](/handbook/awakeners/clementine/) is a supportive powerhouse that helps Daffodil stay alive and set up big Thousand Mirage/Skull Reaver turns.
+[Vivian](/handbook/awakeners/vivian/) provides aliemus, corrosion, and damage buffs, which are all very beneficial to Daffodil, especially in early fights where her E2 and Skull Reaver aren’t stacked.
 
-[Horla](/handbook/awakeners/horla/) is a good healer and aliemus battery. She can use Joy to retain arithmetica for Daffodil’s burst turn, then switch to Anger and give a big damage boost.
+[Clementine](/handbook/awakeners/clementine/) and [Horla](/handbook/awakeners/horla/) are all-around supportive powerhouses.
 
 [Lily](/handbook/awakeners/lily/) can shield and heal for as long as Daffodil needs to set up, and she can trigger poison with Strike to Protect.
 
@@ -109,4 +110,4 @@ Build :crit-dmg: Crit DMG and :crit-rate: Crit Rate.
 
 If you have E2 Daffodil and you can consistently get last hits, you can skimp on :crit-rate: Crit Rate and focus more on :crit-dmg: Crit DMG.
 
-:dmg-amp: DMG Amplification is a worse but still usable option. Base DMG is good if you can get it from wheels or relics.
+:dmg-amp: [DMG Amplification](/handbook/team#dmg-amplification-base-dmg) is a worse but still usable option. Base DMG is good if you can get it from wheels or relics.

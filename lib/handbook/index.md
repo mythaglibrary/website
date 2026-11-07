@@ -22,7 +22,7 @@ icon: lucide/book-open
 
 !!! note ""
 
-    Last updated 3 November 2026 (V2.6.2.3 - Dark Side of the Canvas Rerun)
+    Last updated 7 November 2026 (V2.6.2.4 - Dark Side of the Canvas Rerun)
 
 !!! info ""
 

@@ -75,8 +75,8 @@ Use Doll’s exalt and cards to stay alive.
 
 As a basic defensive support, Doll can fit into any team.
 
-She’s most effective in Mono Chaos teams, where her exalt charges quickly and provides good healing and aliemus. For example, she can be used with [Chaos 24](/handbook/awakeners/24/) or [OE Lotan](/handbook/awakeners/lotan/).
+She’s most effective in [Mono Chaos teams](/handbook/team#mono-chaos-teams), where her exalt charges quickly and provides good healing and aliemus. For example, she can be used with [Chaos 24](/handbook/awakeners/24/) or [OE Lotan](/handbook/awakeners/lotan/).
 
 ## Important Stats
 
-If Doll is in a Mono Chaos team, you should build :realm-mastery: Realm Mastery on her to take advantage of the realm effect.
+If Doll is in a [Mono Chaos team](/handbook/team#mono-chaos-teams), you should build :realm-mastery: Realm Mastery on her to take advantage of the realm effect.

@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **7 Nov 2026** | Overhauled guides for Nautila, Celeste, Helot, and Winkle. Made the text "Mono Chaos team" in various guides link to the section in How to Build a Team. Also updated Daffodil guide. |
 | **3 Nov 2026** | Edited Tulu’s tags in his guide. |
 | **1 Nov 2026** | Added Pollux AA as a stopping point. |
 | **31 Oct 2026** | Overhauled guides for Lily, Tulu, and Pickman. Happy Halloween! |

@@ -47,7 +47,7 @@ awakener:
 
 Ogier is a shielder who also provides Temporary STR and a bit of vulnerable.
 
-In most teams, Ogier is not very powerful. In a Mono Chaos team, he can exalt every turn because of the aliemus from Chaos Realm Mastery, and becomes a decent shielder and buffer.
+In most teams, Ogier is not very powerful. In a [Mono Chaos team](/handbook/team#mono-chaos-teams), he can exalt every turn because of the aliemus from Chaos Realm Mastery, and becomes a decent shielder and buffer.
 
 ## How to Play
 
@@ -55,7 +55,7 @@ Use Ogier’s exalt and Unstable Barrier for shields. Use Piercing Strike to inf
 
 ## Teambuilding
 
-Ogier is best used in Mono Chaos teams as a defensive support. For example, he can be a shielder for [Chaos 24](/handbook/awakeners/24/) or [OE Lotan](/handbook/awakeners/lotan/).
+Ogier is best used in [Mono Chaos teams](/handbook/team#mono-chaos-teams) as a defensive support. For example, he can be a shielder for [Chaos 24](/handbook/awakeners/24/) or [OE Lotan](/handbook/awakeners/lotan/).
 
 ## High Investment
 
