@@ -51,7 +51,7 @@ Winkle is an aliemus support with a variety of useful tools.
 
 In addition to aliemus, she generates keyflare and a bit of shielding, and can inflict weakness.
 
-At E3, Winkle’s exalt lets a teammate exalt twice in one turn, which enables shenanigans in the right team comp.
+At E3, Winkle’s exalt lets a teammate exalt twice in one turn, which enables shenanigans like activating [Blade of the Titan](https://skeydb.com/database/wheels/blade-of-the-titan){target="_blank"}’s effect twice.
 
 ## How to Play
 
