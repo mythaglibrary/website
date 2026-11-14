@@ -447,18 +447,18 @@ These characters are extremely powerful supports that are good in many different
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
     <li>
-      <a href="/handbook/awakeners/aigis/" class="tierlist-free-unit">
-        <img src="/images/awakeners/caro/aigis--mini.png" loading="lazy">
-        <div class="tierlist-label">
-          <div class="name">Aigis</div>
-        </div>
-      </a>
-    </li>
-    <li>
       <a href="/handbook/awakeners/thais/">
         <img src="/images/awakeners/caro/thais--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Thais</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="/handbook/awakeners/caraboo/">
+        <img src="/images/awakeners/caro/caraboo--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Caraboo</div>
         </div>
       </a>
     </li>
@@ -504,6 +504,14 @@ These characters are premium supports that are strong in a variety of situations
 
 <div class="awakener-index-group">
   <ul class="awakener-index-grid grid-96">
+    <li>
+      <a href="/handbook/awakeners/aigis/" class="tierlist-free-unit">
+        <img src="/images/awakeners/caro/aigis--mini.png" loading="lazy">
+        <div class="tierlist-label">
+          <div class="name">Aigis</div>
+        </div>
+      </a>
+    </li>
     <li>
       <a href="/handbook/awakeners/gdoll/">
         <img src="/images/awakeners/chaos/gdoll--mini.png" loading="lazy">
@@ -604,14 +612,6 @@ These characters are premium supports that are strong in a variety of situations
         <img src="/images/awakeners/caro/xu--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Xu</div>
-        </div>
-      </a>
-    </li>
-    <li>
-      <a href="/handbook/awakeners/caraboo/">
-        <img src="/images/awakeners/caro/caraboo--mini.png" loading="lazy">
-        <div class="tierlist-label">
-          <div class="name">Caraboo</div>
         </div>
       </a>
     </li>

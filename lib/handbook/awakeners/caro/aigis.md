@@ -15,8 +15,8 @@ awakener:
       - tier: D
         note: Meme Tier
     support:
-      - tier: S
-        note: Meta Defining
+      - tier: A
+        note: Game Changing
   stopping_points:
     - 'Any, OE'
   builds:
@@ -68,7 +68,7 @@ Aigis's unique ability is to **Petrify** enemies with her exalt. This effectivel
 
 (In other words: “Gain 5 arithmetica, draw 5 cards, grant 5 aliemus to all awakeners, generate embryo fusion and Crimson Furnace, dispel 1 stack of all debuffs, reset [Arithmetica Harmony](/handbook/storylines#arithmetica-harmony)...”)
 
-Early on, you might not realize how powerful this is, since enemies do very little damage each turn. In endgame, when faced with thousands of incoming damage, and enemies that take multiple turns to kill, Aigis’s ability to buy time is godlike.
+Early on, you might not realize how powerful this is, since enemies do very little damage each turn. In endgame, when faced with thousands of incoming damage, and mobs that take multiple turns to kill, Aigis’s ability to buy time is godlike.
 
 ### Aigis Cheese
 

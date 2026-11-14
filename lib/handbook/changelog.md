@@ -8,7 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
-| **14 Nov 2026** | Added AA as a stopping point for Daffodil. |
+| **14 Nov 2026** | Added AA as a stopping point for Daffodil. Moved Caraboo up to S tier support for newbies, and Aigis down to A tier. |
 | **13 Nov 2026** | Fixed minor grammatical error in Hameln’s guide. |
 | **7 Nov 2026** | Overhauled guides for Nautila, Celeste, Helot, and Winkle. Made the text "Mono Chaos team" in various guides link to the section in How to Build a Team. Also updated Daffodil guide. |
 | **3 Nov 2026** | Edited Tulu’s tags in his guide. |

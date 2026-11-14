@@ -18,8 +18,8 @@ awakener:
       - tier: B+
         note: Great in Normal Difficulty
     support:
-      - tier: A
-        note: Game Changing
+      - tier: S
+        note: Meta Defining
   stopping_points:
     - 'Support: Any'
     - 'DPS: E1, E3'
