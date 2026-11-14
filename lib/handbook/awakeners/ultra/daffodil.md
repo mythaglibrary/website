@@ -20,7 +20,7 @@ awakener:
       - tier: B
         note: Role Player
   stopping_points:
-    - 'E0, E2, OE'
+    - 'E0, E2, OE, AA'
   builds:
     - name: Example Build (DPS)
       covenants:
@@ -103,6 +103,8 @@ In addition, [Winkle](/handbook/awakeners/winkle/) is a good aliemus battery who
 ## High Investment
 
 Daffodil’s OE gives you three Thousand Mirages instead of one. This significantly raises her damage ceiling, and enables huge damage turns if you can line up your cards against the boss intentions.
+
+Her AA puts a free card into Ultra Space, which speeds up your Ultra Round by one turn and lets you burst faster.
 
 ## Important Stats
 
