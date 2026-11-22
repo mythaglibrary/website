@@ -21,7 +21,7 @@ awakener:
       - tier: A
         note: Game Changing
   stopping_points:
-    - ‘E2, E3, OE’
+    - 'E2, E3, OE'
   builds:
     - name: Example Build (Keyflare Support)
       covenants:
