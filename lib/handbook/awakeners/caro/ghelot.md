@@ -18,7 +18,7 @@ awakener:
       - tier: C+
         note: Niche Role
   stopping_points:
-    - 'E3, OE'
+    - 'E3, OE, AA'
   builds:
     - name: Example Build (DPS)
       covenants:
@@ -95,6 +95,8 @@ Ultra supports, like [Horla](/handbook/awakeners/horla/) and [Arachne](/handbook
 ## High Investment
 
 GHelot’s OE gives a significant damage buff, and creates a Crimson Shackles in your hand, which is permanently added to your deck. This makes her OE useful both for setting up and for your burst turn.
+
+Her AA causes one of the Bloodthirsty Flails in your hand to receive a temporary 50% damage buff. This is deceptively powerful, since it increases the bleed triggered by all future Bloodthirsty Flails that turn, and results in a good damage bonus.
 
 ## Important Stats
 
