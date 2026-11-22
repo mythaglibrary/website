@@ -68,7 +68,7 @@ awakener:
       note: In Mono Chaos
   works_well_with:
     - gmurphy
-    - 24
+    - '24'
     - lotan
     - gdoll
     - vortice
