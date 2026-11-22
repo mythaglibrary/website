@@ -84,7 +84,7 @@ They’re good at generating keyflare, making Them a good [keyflare support](/ha
 
 Tawil’s most unique and useful feature is Their exalt. When activated, it discovers 5 random skill cards from other Morimens characters, from which you can choose up to 3 to add to your hand.
 
-The discovered cards come from the realm of Tawil’s current team. For example, if there are Aequor characters in the team, Tawil will only discover cards from Aequor characters. If the team only has Chaos characters, Tawil will discover Chaos cards.
+The discovered cards come from the realm of Tawil’s teammates. If there is any non-Chaos realm, it takes precedence. For example, if there are any Aequor characters in the team, Tawil will *only* discover cards from the Aequor realm.
 
 After using Tawil’s exalt, the next Tawil card played will take effect twice. You should take advantage of this to double a particularly impactful card.
 
