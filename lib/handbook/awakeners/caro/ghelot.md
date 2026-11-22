@@ -76,13 +76,15 @@ If you have enough Flails, you can even trigger a boss’s second phase, then co
 
 ## Teambuilding
 
-GHelot is a [hypercarry](/handbook/team#hypercarry), and as such, should be accompanied with three supports to maximize her damage. I suggest putting the covenant [Deus Ex Machina](/handbook/team#deus-ex-machina) on all three of her supports. This gives you enough arithmetica to rouse GHelot and play Crimson Shackles on turn 1. (Credit for this tactic goes to Aurora, the best GHelot player in EN.)
+GHelot is a [hypercarry](/handbook/team#hypercarry), and as such, should be accompanied with three supports to maximize her damage.
+
+I suggest putting the covenant [Deus Ex Machina](/handbook/team#deus-ex-machina) on all three of her supports. This gives you enough arithmetica to rouse GHelot and play Crimson Shackles on turn 1. (Credit for this tactic goes to Aurora, the best GHelot player in EN.)
 
 The single best support for GHelot is [Thais](/handbook/awakeners/thais/). Thais can copy Bloodthirsty Flail with her exalt, giving you free Flails to heal with, and extra Flails during your burst turn. She also provides a host of useful abilities like debuffs and double Devour triggers.
 
 [Aigis](/handbook/awakeners/aigis/) is very useful for GHelot teams, because GHelot is most vulnerable in the first few turns when she’s sacrificing HP to set up her Flails. Aigis’s stun can buy an extra turn, which often makes the difference between dying and effortlessly clearing.
 
-[Helot](/handbook/awakeners/helot/) is a strong support for GHelot, because Bloodthirsty Flail counts as a Strike, which gets a large damage buff from Helot’s exalt.
+[Helot](/handbook/awakeners/helot/) is a strong support for GHelot, because Bloodthirsty Flail counts as a Strike, and gets a large damage buff from Helot’s exalt.
 
 Ultra supports, like [Horla](/handbook/awakeners/horla/) and [Arachne](/handbook/awakeners/arachne/), give GHelot extra arithmetica and extra turns to set up. Arachne also provides huge [DMG amplification](/handbook/team#dmg-amplification-base-dmg) and Final DMG buffs with her pursuits, making her indispensable for GHelot teams in high-difficulty content.
 
