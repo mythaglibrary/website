@@ -159,7 +159,7 @@ Since you only care about Six Wings for the Memories, you only need to play it a
 
 ### DPS
 
-Tawil’s main source of damage is Their Wings, specifically Four Wings. To deal damage with them, you need to set up a turn where you play as many Four Wings as possible.
+Tawil’s main source of damage is Their Wings, specifically Four Wings. To deal damage with Them, you need to set up a turn where you play as many Four Wings as possible.
 
 First, rouse Tawil, then spam Pinions of Time and Twin Wings to stack your deck with many copies of Four Wings. You can also use Tawil’s exalt to discover high-damage cards, such as [GRamona](/handbook/awakeners/gramona/)’s Predetermined Strike or [Corposant](/handbook/awakeners/corposant/)’s Lightning Retribution.
 
