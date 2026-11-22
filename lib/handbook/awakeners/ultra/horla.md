@@ -68,6 +68,10 @@ At E1, Horla inflicts vulnerable with Snarl Psalm and weakness with Elegy Psalm.
 
 At E2, Horla’s Psalms can be retained, so you always have weakness or vulnerable on demand.
 
+### Metaphor
+
+Horla's rouse, AA, and Dimensional Image Relic grant **Metaphor,** a buff which gives minor bonuses for switching between moods. These bonuses are mostly useless and can be ignored.
+
 ## How to Play
 
 Leap Horla’s cards to get whatever buff you need. Use her exalt for healing or crit buffs.
