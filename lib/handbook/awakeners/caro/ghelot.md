@@ -30,7 +30,7 @@ awakener:
           - id: to-my-dearest-friend
         astral_reign:
           - id: celestial-beast
-          - id: blade-of-the-titan
+          - id: hand-of-oblivion
   suggested_posses:
     - id: the-lone-seed
   works_well_with:
@@ -94,9 +94,9 @@ Ultra supports, like [Horla](/handbook/awakeners/horla/) and [Arachne](/handbook
 
 ## High Investment
 
-GHelot’s OE gives a significant damage buff, and creates a Crimson Shackles in your hand, which is permanently added to your deck. This makes her OE useful both for setting up and for your burst turn.
+GHelot’s OE gives a significant damage buff, and creates a Crimson Shackles in your hand, which is permanently added to your deck for that fight. This makes her OE useful both for setting up and for your burst turn.
 
-Her AA causes one of the Bloodthirsty Flails in your hand to receive a temporary 50% damage buff after exalting. This is deceptively powerful, since it increases the bleed triggered by all future Bloodthirsty Flails that turn, and results in a good damage bonus.
+Her AA gives one of the Bloodthirsty Flails in your hand a 100% Final DMG bonus after exalting. This is deceptively powerful, since it increases the bleed triggered by all future Bloodthirsty Flails that turn, and results in a significant damage bonus.
 
 ## Important Stats
 
