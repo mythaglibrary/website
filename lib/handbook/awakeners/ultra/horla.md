@@ -19,7 +19,7 @@ awakener:
       - tier: S
         note: Meta Defining
   stopping_points:
-    - 'E1,  E2'
+    - 'E1, E2, E3, OE'
   builds:
     - name: Example Build (Support)
       covenants:
@@ -45,8 +45,45 @@ awakener:
   works_well_with_note: Anyone
 ---
 
-Horla gives a teamwide buff of your choice for the whole exploration, scaling in magnitude with her death resistance, merely by playing any of her cards once.
+Horla is a simple but powerful support who provides teamwide buffs with her moods.
 
-Carol Psalm is a good source of aliemus which lets you retain arithmetica across turns, useful for setting up specific DPS like [Daffodil](/handbook/awakeners/daffodil/).
+### Moods
 
-At E1, Horla is also one of the most consistent weakness and vulnerable appliers in the game.
+Each of Horla’s cards, if played as the first card in the turn, will switch your team to a certain **mood**, which is a buff that lasts for the whole exploration. You can only have one mood active at once.
+
+* Snarl Psalm (Horla’s Strike) provides **Anger**, which gives a Final DMG bonus, and adds crit buffs to Horla’s exalt;
+* Elegy Psalm (Horla’s Defense) provides **Grief**, which makes your team shield and heal more;
+* Dirge Psalm provides **Fear**, which makes your team generate more poison, counter, and STR;
+* Carol Psalm provides **Happiness**, also known as **Joy**, which makes your team generate more aliemus. Happiness also allows you to retain arithmetica and cards across turns.
+
+The most universally useful moods are Anger and Grief, because more damage or shielding is always good. However, some DPS, like [Daffodil](/handbook/awakeners/daffodil/), can make use of Happiness.
+
+Fear is the most situational mood. For most teams, Dirge Psalm is at best a sidegrade to Anger, and can be safely sold.
+
+At E3, the healing and crit buffs from Horla’s exalt are improved.
+
+### Weakness & Vulnerable
+
+At E1, Horla inflicts vulnerable with Snarl Psalm and weakness with Elegy Psalm. This makes her one of the most consistent debuffers in the game, especially with covenants like [Twisted Twins: White](/handbook/team#twisted-twins-white) or wheels like [Light of Intellect](https://skeydb.com/database/wheels/light-of-intellect){target="_blank"}.
+
+At E2, Horla’s Psalms can be retained, so you always have weakness or vulnerable on demand.
+
+## How to Play
+
+Leap Horla’s cards to get whatever buff you need. Use her exalt for healing or crit buffs.
+
+If you have E1 Horla, her Strike and Defense are very useful for inflicting weakness and vulnerable.
+
+## Teambuilding
+
+Horla can go into pretty much any team. There are few teams that don’t appreciate consistent weakness and vulnerable, and a Final DMG bonus.
+
+She’s most commonly seen with DPS that lack access to vulnerable, like [Kathigu-Ra](/handbook/awakeners/kathigu-ra/) or [Pollux](/handbook/awakeners/pollux/). As a generalist Ultra support, she’s also a good fit for teams that benefit from the bonus card draw and arithmetica of the Ultra realm.
+
+## High Investment
+
+Horla’s OE boosts the healing and crit buffs from her exalt even further, making her quite a strong healer.
+
+## Important Stats
+
+Horla’s moods scale with :death-resistance: Death Resistance, which makes her a good character for holding supportive Death Resistance wheels like [Dusk and Dawn](https://skeydb.com/database/wheels/dusk-and-dawn){target="_blank"}.
