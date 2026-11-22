@@ -62,7 +62,7 @@ awakener:
 
 Aigis is a [keyflare support](/handbook/team#the-almighty-keyflare-bot) who brings various powerful abilities to the team.
 
-## Petrify
+### Petrify
 
 Aigis's unique ability is to **Petrify** enemies with her exalt. This effectively lets you take an extra turn in every fight.
 
@@ -70,13 +70,13 @@ Aigis's unique ability is to **Petrify** enemies with her exalt. This effectivel
 
 Early on, you might not realize how powerful this is, since enemies do very little damage each turn. In endgame, when faced with thousands of incoming damage, and mobs that take multiple turns to kill, Aigis’s ability to buy time is godlike.
 
-## Aigis Cheese
+### Aigis Cheese
 
 By Petrifying bosses at the right moment, Aigis can even delay their intention to rouse or change phases. This can result in a turn where the boss is no longer immune to damage, but hasn’t roused or changed phases yet, so you can kill the boss without ever entering its second phase.
 
 “Aigis cheese” used to be effective against the multi-phase bosses at the end of story chapters, but most of these exploits have been patched out. It’s still useful against some normal bosses with annoying second phases, like “Lampshade” Aisha.
 
-## Other Support Skills
+### Other Support Skills
 
 If granting extra turns wasn’t enough, Aigis is also the best vulnerable applier in the game, and can maintain 100% vulnerable uptime on enemies with minimal effort.
 

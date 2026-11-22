@@ -64,7 +64,7 @@ Castor is a defensive support who generates shields by retaining cards in hand. 
 
 His Onyx Plumes inflict corrosion when played, boosting the damage dealt by Castor’s teammates. At E3, he deals a decent amount of damage himself.
 
-## Onyx Plumes
+### Onyx Plumes
 
 If you play a Castor card as the first card of the turn, you trigger its **Quasar**. All of his cards have the same Quasar effect, which is to make a shield and add an **Onyx Plume** to your Draw Pile.
 
@@ -76,7 +76,7 @@ If you don’t need the shields or your hand is too full, you can play Onyx Plum
 
 If you have Castor’s E3, every third Onyx Plume you play will also give you 1 arithmetica.
 
-## Exploration Scaling
+### Exploration Scaling
 
 For every completed fight, Castor inflicts bonus corrosion for the rest of the exploration. This makes him extra powerful in long stages.
 

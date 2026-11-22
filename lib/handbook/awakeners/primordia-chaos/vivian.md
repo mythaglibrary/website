@@ -55,19 +55,19 @@ Vivian is a flexible support who contributes corrosion, aliemus, STR, and healin
 
 She grants access to the Primordia: Chaos realm, which gives keyflare at the start of each fight, and is very powerful in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages.
 
-## The Almighty Soup
+### The Almighty Soup
 
 Soup Rains from Above inflicts a lot of AOE corrosion. At low levels, this is enough to carry any random DPS through story mode, making Vivian a great support for new players to pull.
 
 Vivian's SSR wheel, [The Seer's Riddle](https://skeydb.com/database/wheels/the-seers-riddle), and her event wheel, [She and her Tree Hole](https://skeydb.com/database/wheels/she-and-her-tree-hole), both boost her corrosion significantly. They’re the best wheels for Vivian if you can get them.
 
-## Quality Nap
+### Quality Nap
 
 Vivian is a very eepy princess. After using her exalt or either of her skills, she will take a **Quality Nap,** sealing her own cards and exalt.
 
 What this means, in practice, is that Vivian can only do one thing each turn. When you play with Vivian, you have to decide which you need the most each turn: corrosion, aliemus, *or* healing.
 
-## Concoct, Cauldron, & Boiling Anger
+### Concoct, Cauldron, & Boiling Anger
 
 When you play Whatever’s at Hand for the first time, it will add a **Cauldron** to your hand. This is a buff that must be “cooked” for multiple turns before you can play it. It will be retained across turns and across battles.
 

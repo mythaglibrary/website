@@ -57,7 +57,7 @@ Ogier: Oathbound (“GOgier”) is a defensive support who generates shields whi
 
 He provides access to the Primordia: Chaos realm, which gives keyflare at the start of each fight, and is very powerful in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages.
 
-## Undertow & Guilt
+### Undertow & Guilt
 
 GOgier’s unique mechanic is **Undertow**. When you play Sin-Stained Spear, you get a stack of Undertow, up to a maximum of 3 stacks.
 

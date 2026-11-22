@@ -52,7 +52,7 @@ awakener:
 
 Caraboo is a shielder and defensive support with the unique ability to buff your Max HP. She also inflicts weakness and brings a wide variety of random bonuses.
 
-## Blessings
+### Blessings
 
 Caraboo's gameplay revolves around her Miracle Blessing card, which adds **Blessings** to your deck. These are cards that have powerful random effects, but have a chance to screw you over.
 
@@ -62,7 +62,7 @@ In long explorations, Caraboo can inflate your Max HP to silly amounts, while am
 
 Caraboo’s SSR wheel, [Honeyed Deceit](https://skeydb.com/database/wheels/honeyed-deceit), helps her draw Miracle Blessing more often, and is useful for her gameplay in higher difficulties. It’s recommended to get it if you want to invest in Caraboo.
 
-## Damage
+### Damage
 
 Although it isn’t her main role, Caraboo has good personal damage for a support. At low levels, she can carry teams just with Snowy Hex and her exalt. This makes her a very useful character for new accounts.
 
