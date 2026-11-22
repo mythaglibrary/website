@@ -54,6 +54,10 @@ Once you have a Flail in hand, you can copy it over and over with [The Lone Seed
 
 GHelot’s E3 lets her start every fight with an Irregular Form in hand, which can be played to guarantee a Crimson Shackles in hand on turn 1. This makes her setup extremely consistent; I recommend pulling E3 for any serious GHelot player.
 
+### Shield Break
+
+At E3, GHelot also removes enemy shields with her exalt. This makes her good against specific bosses like Alva and Ogier.
+
 ## How to Play
 
 ### Easy Enemies
