@@ -129,13 +129,13 @@ The other unique feature of Tawil is Their 2-cost skill, **Pinions of Time**.
 * **Pinions of Time** puts a card called Twin Wings into your deck when played. At E1, it also gives you an Insight (a 0-cost card that gives 1 arithmetica and draws a card).
 * **Twin Wings** deals damage 2 times, generates aliemus for Tawil, puts a card called Four Wings into your deck, and then draws a card. After being played, it’s exhausted.
 * **Four Wings** deals damage 4 times, stealing STR with each hit, puts a card called Six Wings into your deck, and then draws a card. After being played, it’s exhausted.
-* **Six Wings** deals damage 6 times, in the form of Pierce DMG, and lets you choose from 6 different bonus effects (Memories). Each of these can only be activated once in the exploration. You can also choose not to activate any. After being played, Six Wings is exhausted.
+* **Six Wings** deals damage 6 times, in the form of Pierce DMG, and lets you choose from 6 different bonus effects (**Memories**). Each of these can only be activated once in the exploration. You can also choose not to activate any. After being played, Six Wings is exhausted.
 
 The most important Memory is **Emissary’s Verdict**, which deals damage to the backline enemy equal to 15% of their Max HP. This lets Tawil contribute a significant amount of damage in boss fights, even as a support, on the highest difficulties.
 
 The other Memories are also useful effects, like generating aliemus, searching for cards, or creating a Barrier to block one hit.
 
-If you don’t have enough arithmetica, each Wings card can be played for the cost of 500 Keyflare instead. This is extremely important for DPS Tawil in [Astral Reign](/handbook/storylines#astral-reign-arc-2), where you will often hit [Arithmetica Harmony](/handbook/storylines#arithmetica-harmony) and rely on keyflare-casting for the last few cards.
+If you don’t have enough arithmetica, each Wings card can be played for the cost of 500 keyflare instead. This is extremely important for DPS Tawil in [Astral Reign](/handbook/storylines#astral-reign-arc-2), where you will often hit [Arithmetica Harmony](/handbook/storylines#arithmetica-harmony) and rely on keyflare-casting for the last few cards.
 
 ## The Rest of Tawil’s Kit
 

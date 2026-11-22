@@ -69,7 +69,7 @@ Her main role is as an aliemus battery and debuffer. She generates aliemus with 
 
 In addition, she’s a solid healer; she generates permanent tentacles; she provides STR and Crit DMG buffs; and she can apply and trigger poison for poison teams.
 
-### Sacrament, Obsession, & Ritual
+## Sacrament, Obsession, & Ritual
 
 Whenever Miryam exalts, a **Sacrament** is added to your hand. This card can be played to heal for 10% of your missing HP.
 
@@ -79,13 +79,13 @@ Playing Obsession gives Miryam 15 aliemus. If you don’t play it, it will turn 
 
 Most of the time, you can completely ignore this mechanic, and just use Sacrament/Obsession as a source of free healing or aliemus. The bonus effects you get from stockpiling Sacraments are rarely worth giving up so many card draws.
 
-### Lemurians
+## Lemurians
 
 In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, the Lemurian characters get huge buffs from their soulforge talents when used together. These are [Faros](/handbook/awakeners/faros/), [Goliath](/handbook/awakeners/goliath/), [Miryam](/handbook/awakeners/miryam/), [Tulu](/handbook/awakeners/tulu/), and [GMurphy](/handbook/awakeners/gmurphy/).
 
 Miryam is a core support for Lemurian teams, as she provides much-needed aliemus, weakness, and vulnerable.
 
-### DPS Build
+## DPS Build
 
 If you build Crit DMG on Miryam and/or have her E3, she applies a respectable amount of poison with Exalted Pyre. She isn’t a good solo DPS, but she can pull her weight in poison teams.
 

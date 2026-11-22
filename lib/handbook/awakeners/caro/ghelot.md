@@ -44,7 +44,7 @@ awakener:
 
 Helot: Catena (“GHelot”) is a risky but powerful DPS who drains her own HP to set up big combos.
 
-### Crimson Shackles & Bloodthirsty Flail
+## Crimson Shackles & Bloodthirsty Flail
 
 GHelot’s gameplay revolves around her skill **Crimson Shackles**, and the powerful attack it transforms into, **Bloodthirsty Flail**.
 

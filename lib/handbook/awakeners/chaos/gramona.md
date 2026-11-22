@@ -61,7 +61,7 @@ Secondly, she can use her exalt to bring back the last 3 cards you played the tu
 
 Thirdly, at E3, she can temporarily replace your posse with any other posse you've unlocked. This is one of the most versatile abilities in the game. For example, you can get [Voices In Your Head](https://skeydb.com/database/posses/voices-in-your-head){target="_blank"} for weakness and vulnerable on demand. You can also use it for aliemus, shields, arithmetica, card draw, Crit Rate buffs, and more.
 
-### DPS Build
+## DPS Build
 
 In addition to her support build, GRamona can be built as a DPS focusing on Predetermined Strike. If you use your posse enough times in one fight, Predetermined Strike amasses a very high STR multiplier and hits like a truck.
 

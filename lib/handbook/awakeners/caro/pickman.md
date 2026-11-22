@@ -53,7 +53,7 @@ By using his exalt, creating relics, and generating STR, he can provide huge tem
 
 He also deals a lot of AOE damage with Chromaphage, and at low levels, can carry teams by himself.
 
-### Creativity
+## Creativity
 
 ![](/images/handbook/awakeners/pickman-creativity.png){width="64" loading=lazy}
 
@@ -63,7 +63,7 @@ When Pickman uses his exalt with 10 Creativity, he spends them all to get 1 stac
 
 Creativity is retained across battles.
 
-### Fantasia
+## Fantasia
 
 ![](/images/handbook/awakeners/pickman-fantasia.png){width="64" loading=lazy}
 

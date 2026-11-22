@@ -69,7 +69,7 @@ Xu is the ultimate poison support. She supercharges your poison team with her Sp
 
 She also has strong defensive abilities, and her high CON boosts your max HP, which boosts your poison cap in [Astral Reign](/handbook/storylines#astral-reign-arc-2).
 
-### Damage
+## Damage
 
 Xu is a solid poison applier, but she really excels in triggering poison.
 
@@ -79,13 +79,13 @@ Xu’s signature wheel ([Vain Regrets](https://skeydb.com/database/wheels/vain-r
 
 Bonesick Longing also does a fair amount of regular AOE damage. If you're a new player doing low-level stages, you can end fights just by throwing out Bonesick Longing.
 
-### Resonance
+## Resonance
 
 If you play three cards from other characters before playing one of Xu’s cards, you will trigger its **Resonance**. This gives bonuses like extra aliemus or embryo fusion.
 
 If Xu is roused, Resonance also discounts the arithmetica cost to 0, allowing you to cheat on the cost of her expensive command cards.
 
-### Spellbound
+## Spellbound
 
 Xu’s exalt, and the Resonance effect of Fan-Sealed Kiss, inflict a status effect called **Spellbound**. This stacks on enemies up to 5 times (10 at E3, 15 at AA).
 

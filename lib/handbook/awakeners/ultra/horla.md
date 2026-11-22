@@ -47,7 +47,7 @@ awakener:
 
 Horla is a simple but powerful support who provides teamwide buffs with her moods.
 
-### Moods
+## Moods
 
 Each of Horla’s cards, if played as the first card in the turn, will switch your team to a certain **mood**, which is a buff that lasts for the whole exploration. You can only have one mood active at once.
 
@@ -62,7 +62,7 @@ Fear is the most situational mood. For most teams, Dirge Psalm is at best a side
 
 At E3, the healing and crit buffs from Horla’s exalt are improved.
 
-### Weakness & Vulnerable
+## Weakness & Vulnerable
 
 At E1, Horla inflicts vulnerable with Snarl Psalm and weakness with Elegy Psalm. This makes her one of the most consistent debuffers in the game, especially with covenants like [Twisted Twins: White](/handbook/team#twisted-twins-white) or wheels like [Light of Intellect](https://skeydb.com/database/wheels/light-of-intellect){target="_blank"}.
 

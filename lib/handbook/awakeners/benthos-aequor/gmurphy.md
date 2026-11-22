@@ -69,7 +69,7 @@ Murphy: Fauxborn (“GMurphy”) is a strong and versatile character who functio
 
 The downside is that she can easily kill herself with self-inflicted damage, and needs forethought to play effectively.
 
-### Support Skills
+## Support Skills
 
 Support GMurphy contributes a lot of things:
 
@@ -82,7 +82,7 @@ Support GMurphy contributes a lot of things:
 
 The sacrifice inflicted by Birth Ritual can carry over damage from your burst turn into subsequent turns. For example, after you take out a boss’s first HP bar, you can deal a big chunk of damage to the second HP bar after they Rouse.
 
-### Damage
+## Damage
 
 If you build Crit Rate and Crit DMG on GMurphy, she hits for respectable damage with her exalt and Waltz of Lemuria.
 
@@ -90,7 +90,7 @@ Her damage is limited by how many Waltzes you can play in one turn, so you might
 
 At E2, GMurphy gains Crit Rate from your tentacles and Crit DMG from your current sacrifice stacks.
 
-### Lemurians
+## Lemurians
 
 In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, the Lemurian characters get huge buffs from their soulforge talents when used together. These are [Faros](/handbook/awakeners/faros/), [Goliath](/handbook/awakeners/goliath/), [Miryam](/handbook/awakeners/miryam/), [Tulu](/handbook/awakeners/tulu/), and [GMurphy](/handbook/awakeners/gmurphy/).
 

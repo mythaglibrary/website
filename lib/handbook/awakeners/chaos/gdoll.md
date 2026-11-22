@@ -56,7 +56,7 @@ Doll: Inferno (“GDoll”) is an aliemus battery who generates a lot of [DMG am
 
 She also provides healing; she can deal fixed damage based on the boss’s Max HP; and at E1, she can inflict weakness and vulnerable.
 
-### Finale
+## Finale
 
 In boss fights, GDoll gains a stack of **Finale** whenever you end your turn or use her exalt.
 

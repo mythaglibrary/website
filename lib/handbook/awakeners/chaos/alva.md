@@ -65,7 +65,7 @@ Alva is a support who is mainly used for her exalt and Combat Stance. She can un
 
 She also provides decent shields, and a reliable source of vulnerable with her exalt.
 
-### DPS Build
+## DPS Build
 
 Alva’s Precision Slash scales infinitely with your shields generated, regardless of whether you’re at the shield cap. With the right build, she can hit for millions of damage per Precision Slash.
 

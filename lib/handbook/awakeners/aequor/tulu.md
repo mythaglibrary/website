@@ -51,7 +51,7 @@ Tulu is a dedicated support for boosting your Tentacle DMG. He grows your tentac
 
 At E1, Tulu can deal AOE damage to all enemies with Abyss Order, which makes him a decent secondary DPS for clearing mobs.
 
-### Lemurians
+## Lemurians
 
 In [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages, the Lemurian characters get huge buffs from their soulforge talents when used together. These are [Faros](/handbook/awakeners/faros/), [Goliath](/handbook/awakeners/goliath/), [Miryam](/handbook/awakeners/miryam/), [Tulu](/handbook/awakeners/tulu/), and [GMurphy](/handbook/awakeners/gmurphy/).
 
