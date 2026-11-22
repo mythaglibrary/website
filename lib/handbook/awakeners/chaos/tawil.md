@@ -50,7 +50,7 @@ awakener:
         astral_reign:
           - id: memory-spiral
           - id: data-is-flesh
-    - name: Example Build (DPS)
+    - name: Example Build (Carry)
       covenants:
         - dream-of-medicine
         - crimson-pulse
@@ -68,12 +68,12 @@ awakener:
       note: In Mono Chaos
   works_well_with:
     - gmurphy
+    - 24
     - lotan
     - gdoll
+    - vortice
     - ryker
     - hameln
-    - karen
-    - celeste
 ---
 
 Tawil is an extremely complicated and versatile support who has access to every card and ability in the game.
@@ -177,7 +177,7 @@ Tawil is usually seen either as a support in a [Mono Chaos team](/handbook/team#
 
 **Mono Chaos (Monowil):** Tawil is a defensive pillar that can babysit a DPS which otherwise has trouble surviving, such as [Chaos 24](/handbook/awakeners/24/). At endgame, Tawil is often combined with [OE Lotan](/handbook/awakeners/lotan/) and other units that deal Max HP % damage, an effective team against bosses that have only one HP bar.
 
-**Aequor (Bluwil):** One of Tawil’s strongest teammates is [GMurphy](/handbook/awakeners/gmurphy/), who extends Tawil’s combo turns with Abyss Hymns, while also adding a lot of damage. This duo is a top-tier team in any stage without [Arithmetica Harmony](/handbook/storylines#arithmetica-harmony), such as Hectic Skybound Rail and [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages like Phantasmal Dive. Tawil also works well with [Celeste](/handbook/awakeners/celeste/), [Caecus](/handbook/awakeners/caecus/), [Murphy](/handbook/awakeners/murphy/), and many other Aequor units.
+**Aequor (Bluwil):** One of Tawil’s strongest teammates is [GMurphy](/handbook/awakeners/gmurphy/), who extends Tawil’s combo turns with Abyss Hymns, while also adding a lot of damage. This duo is a top-tier team in any stage without [Arithmetica Harmony](/handbook/storylines#arithmetica-harmony), such as Hectic Skybound Rail and [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages like Phantasmal Dive. Tawil also works well with [Vortice](/handbook/awakeners/vortice/), [Celeste](/handbook/awakeners/celeste/), [Caecus](/handbook/awakeners/caecus/), and many other Aequor units.
 
 [Ryker](/handbook/awakeners/ryker/) can search for Tawil’s cards, and boosts Their damage, making Them quite a strong DPS at low levels.
 
