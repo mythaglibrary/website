@@ -96,7 +96,7 @@ Ultra supports, like [Horla](/handbook/awakeners/horla/) and [Arachne](/handbook
 
 GHelot’s OE gives a significant damage buff, and creates a Crimson Shackles in your hand, which is permanently added to your deck. This makes her OE useful both for setting up and for your burst turn.
 
-Her AA causes one of the Bloodthirsty Flails in your hand to receive a temporary 50% damage buff. This is deceptively powerful, since it increases the bleed triggered by all future Bloodthirsty Flails that turn, and results in a good damage bonus.
+Her AA causes one of the Bloodthirsty Flails in your hand to receive a temporary 50% damage buff after exalting. This is deceptively powerful, since it increases the bleed triggered by all future Bloodthirsty Flails that turn, and results in a good damage bonus.
 
 ## Important Stats
 
@@ -104,4 +104,4 @@ GHelot is one of the rare characters who can generate a lot of Crit Rate by hers
 
 If you have the [April Tribute](/handbook/team#april-tribute) covenant on GHelot, you can just put one :crit-rate: Crit Rate wheel on her, and then invest in :crit-dmg: Crit DMG, :dmg-amp: DMG Amplification, and Base DMG multipliers (such as the effect of [Drowning in Crimson](https://skeydb.com/database/wheels/drowning-in-crimson){target="_blank"}).
 
-Alternatively, you can run the [Steppenwolf](/handbook/team#steppenwolf) covenant on GHelot, and build just enough crit to reach 100% crit chance after one Strike and one embryo.
+Alternatively, you can run the [Steppenwolf](/handbook/team#steppenwolf) covenant on GHelot, and build just enough crit to reach 100% crit chance after one Strike.
