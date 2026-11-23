@@ -8,6 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
+| **23 Nov 2026** | Added That Which is No Lie as a suggested posse for 24. Further edited Tawil, GHelot, and Horla guides following feedback. |
 | **22 Nov 2026** | Overhauled guides for Tawil, GHelot, and Horla. |
 | **14 Nov 2026** | Added AA as a stopping point for Daffodil. Moved Caraboo up to S tier support for newbies, and Aigis down to A tier. |
 | **13 Nov 2026** | Fixed minor grammatical error in Hameln’s guide. |
