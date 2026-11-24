@@ -87,21 +87,21 @@ Kath’s E3 gives her +5% Base DMG every time you get a stack of Combust. This g
 
 Playing Kath is about generating as much Fiamma as possible, so that you can generate Combust as fast as possible. This unlocks her powerful Hyperflare attack, and permanently boosts her damage at E3.
 
-There are two distinct ways to play Kath, which I will refer to as “cycling” and “stockpiling.”
+There are two distinct ways to play Kath, which I will call “cycling” and “stockpiling.”
 
 ### Combust Cycling
 
 Usually, the most effective way to play Kath is to play Hyperflare as often as possible. This means playing Hyperflare for 0 cost as soon as you have 10 Combust stacks.
 
-Each time you reach 10 Combust, you get 2 arithmetica. “Cycling” Combust lets you get this bonus every turn, which means you play more cards and generate Fiamma in the long run.
+Each time you reach 10 Combust, you get 2 arithmetica. “Cycling” Combust lets you get this bonus every turn, which means you play more cards and generate more Fiamma in the long run.
 
-Early on, you shouldn’t spend arithmetica on Hyperflare, because the only benefit it provides is an increased STR bonus. If you have no STR, it doesn’t deal more damage. That arithmetica could be spent to play other cards and generate more Fiamma instead. The most effective strategy is to build up Base DMG and STR by cycling 0-cost Hyperflares, and *then* start tossing out big Hyperflares for higher damage.
+Early on, you shouldn’t spend arithmetica on Hyperflare, because the only benefit it provides is an increased STR bonus. If you have no STR, it doesn’t deal more damage. That arithmetica could be spent to play other cards and generate more Fiamma instead.
 
 ### Combust Stockpiling
 
 The other way to play Kath is to stockpile Combust, and then play a single gigantic Hyperflare that one-shots the boss.
 
-The advantage of this method is that you can set up your burst turn to have as many damage buffs as possible. For example, [Vivian](/handbook/awakeners/vivian/)’s Cauldron and [Tinct](/handbook/awakeners/tinct/)’s Distant Melody are very powerful buffs, but they require a lot of setup in advance. By concentrating all your damage into one turn, you can ensure these buffs are available for the burst.
+The advantage of this strategy is that you can set up your burst turn to have as many damage buffs as possible. For example, [Vivian](/handbook/awakeners/vivian/)’s Cauldron and [Tinct](/handbook/awakeners/tinct/)’s Distant Melody are very powerful buffs, but they require a lot of setup in advance. By concentrating all your damage into one turn, you can ensure these buffs are available for the burst.
 
 The “stockpiling” strategy is also useful against specific bosses that you might not want to attack every turn. For example, some bosses are very nonthreatening during their first phase, but become incredibly dangerous during their second phase. With Kath, you can stall out the first phase as long as possible, then one-shot the second phase with Hyperflare.
 
