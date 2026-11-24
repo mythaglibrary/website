@@ -49,7 +49,7 @@ Erica is a [keyflare bot](/handbook/team#the-almighty-keyflare-bot) who is most 
 
 This allows Erica herself to make a big shield with Function Overload, and supercharges characters like [Castor](/handbook/awakeners/castor/) who make many small shields.
 
-Erica also inflicts weakness and vulnerable, dispels multiple debuffs, and generates a bit of keyflare.
+Erica also inflicts weakness and vulnerable, dispels multiple debuffs, and generates keyflare.
 
 ## How to Play
 
@@ -63,7 +63,7 @@ Erica is almost always used with [Castor](/handbook/awakeners/castor/) to boost 
 
 She also works with other characters that produce many small shields, such as [Corposant](/handbook/awakeners/corposant/).
 
-More generally, Erica can be used as a filler support, since Ultra is a useful support realm, and Erica‘s exalt is useful in most teams.
+More generally, Erica can be used as a filler support. Ultra is a useful support realm for card draw and arithmetica, and Erica’s exalt is useful in most teams.
 
 ## High Investment
 

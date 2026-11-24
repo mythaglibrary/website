@@ -183,7 +183,7 @@ When building a poison team, consider which characters will apply poison and whi
 
 A poison team is usually also a stall team, but it can be faster depending on the characters you use. A team with [Liz](/handbook/awakeners/liz/) and [Xu](/handbook/awakeners/xu/) can apply tons of poison and trigger it right away, killing as fast as a hypercarry team.
 
-Poison teams are not very effective in Hectic Skybound Rail and the ▼ difficulty of D-Effect Zone because of the [Astral Reign](/handbook/storylines) poison cap. If you’re a new player, this doesn’t affect you much. Just keep in mind that you'll need to build more than one team for endgame (which you should be doing anyway).
+Poison teams are not very effective in Hectic Skybound Rail and the ▼ difficulty of D-Effect Zone because of the [Astral Reign](/handbook/storylines) poison cap. To deal with this, endgame players often run [Caraboo](/handbook/awakeners/caraboo/), to increase the team’s Max HP, and thus raise the poison cap.
 
 **Poison teams need to rouse everyone in [Astral Reign](/handbook/storylines).** This is because [Prismatic Lens](/handbook/storylines/#prismatic-lens) makes poison tick faster each turn for each roused character in the team.
 
@@ -246,7 +246,7 @@ A good counter team has a plan B for when the enemies don’t trigger counter. T
 
 **This is what your keyflare bot is for.** The job of a keyflare bot is to hold the covenant [Life Drain](#life-drain) (unlocked after completing Faded Legacy Chapter 7) and as much Keyflare Regen as possible. This will give you keyflare at the end of each turn and whenever you play their cards.
 
-The moment you unlock [Life Drain](#life-drain), you should be putting it on every team. There are only a few reasons not to do this:
+Most teams are improved by a keyflare bot. There are only a few reasons not to put [Life Drain](#life-drain) on your team:
 
 - Your team is Caro, so [Life Drain](#life-drain) has a different effect. You still need a keyflare bot, but you can use a different covenant set if you don’t want the embryo.
 - Your team is [Primordia: Chaos](#mono-chaos-teams), so the keyflare system is different, and you get a lot of keyflare at the start of the battle.

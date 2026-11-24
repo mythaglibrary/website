@@ -51,7 +51,7 @@ Pickman is a versatile support who can discover any Skill or Relic you need for 
 
 By using his exalt, creating relics, and generating STR, he can provide huge temporary damage buffs for other characters on the team.
 
-He also deals a lot of AOE damage with Chromaphage, and at low levels, can carry teams by himself.
+He also deals a lot of AOE damage with Chromaphage, and is good at cleaning up normal enemies.
 
 ### Creativity
 
@@ -83,7 +83,7 @@ Playing Pickman is about setting up a single turn where you Discover as many tim
 - build up keyflare to use your posse (which should be [Voracious Resolve](https://skeydb.com/database/posses/voracious-resolve){target="_blank"});
 - and get your main DPS ready to burst (e.g. by having enough aliemus to exalt).
 
-Lifelike Rendition doesn’t have retain, so your burst turn is largely determined by when you draw it. (But Pickman’s painted cards do have retain, so if you Discover a Lifelike Rendition, you can hold it in hand to prepare for your burst turn.)
+Lifelike Rendition doesn’t have retain, so your burst turn is largely determined by when you draw it. (But Pickman’s painted cards do have retain, so if you discover a Lifelike Rendition, you can hold it in hand to prepare for your burst turn.)
 
 When you’re ready to burst, use your Lifelike Renditions to discover as many offensive relics as possible, spending Fantasia if needed. In the process, you will reduce the cost of Chromaphage to 0. Then you can play Chromaphage — ideally multiple Chromaphages — to deal AOE damage, and generate damage buffs for your main DPS.
 

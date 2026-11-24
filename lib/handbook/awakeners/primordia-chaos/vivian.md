@@ -47,10 +47,6 @@ awakener:
     - anyone
 ---
 
-!!! warning "NEW UNIT DISCLAIMER"
-
-    New character, we are still testing! All info and builds are subject to change!
-
 Vivian is a flexible support who contributes corrosion, aliemus, STR, and healing. At E1, she also provides a Crit Rate buff.
 
 She grants access to the Primordia: Chaos realm, which gives keyflare at the start of each fight, and is very powerful in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages.

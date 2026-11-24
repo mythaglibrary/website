@@ -44,9 +44,8 @@ awakener:
   suggested_posses_note: Any
   works_well_with:
     - xu
+    - lily
     - vortice
-    - pontos
-    - sanga
     - anyone
 ---
 
@@ -58,7 +57,7 @@ Caraboo's gameplay revolves around her Miracle Blessing card, which adds **Bless
 
 While it’s a gamble whether her Blessings are actually useful, playing them grants stacks of **Offering**, up to a maximum of 5 stacks. Caraboo’s exalt consumes these stacks, increasing your Max HP for the rest of the exploration.
 
-In long explorations, Caraboo can inflate your Max HP to silly amounts, while amassing value with her Blessings, making her a strong centerpiece of [stall teams](/handbook/team#stall) in high-difficulty content.
+In long explorations, Caraboo can inflate your Max HP to silly amounts, while amassing value with her Blessings, making her a crucial centerpiece of [stall teams](/handbook/team#stall) in high-difficulty content.
 
 Caraboo’s SSR wheel, [Honeyed Deceit](https://skeydb.com/database/wheels/honeyed-deceit), helps her draw Miracle Blessing more often, and is useful for her gameplay in higher difficulties. It’s recommended to get it if you want to invest in Caraboo.
 
@@ -78,9 +77,9 @@ Play Snowy Hex to deal damage and inflict weakness if needed.
 
 Caraboo can fit into any team as a defensive character. Her biggest issue is that her Blessings can randomly inflict weakness on you, which is more of a hindrance to some teams than a boon.
 
-She works best in slow [stall teams](/handbook/team#stall) that don’t care about being afflicted with weakness. For example, you can use her in [poison teams](/handbook/team#poison) with [Xu](/handbook/awakeners/xu/), or with damage dealers that deal Fixed DMG like [Vortice](/handbook/awakeners/vortice/) and [Pontos](/handbook/awakeners/pontos/).
+At endgame, Caraboo is most commonly seen in [poison teams](/handbook/team#poison), which aren’t affected by weakness. By increasing the team’s Max HP, she also raises the [Astral Reign](/handbook/storylines#astral-reign-arc-2) poison cap, significantly boosting the poison you can inflict. Common teammates include [Xu](/handbook/awakeners/xu/), [GDoll](/handbook/awakeners/gdoll/), [Lily](/handbook/awakeners/lily/), and [Nymphaea](/handbook/awakeners/nymphaea/).
 
-In general, Caraboo works well in Aequor, as Tranquil Sea shields scale with your Max HP, and Aequor is a good realm for stalling.
+Caraboo also works well in Aequor, as Tranquil Sea shields scale with your Max HP. She can be used with various Aequor DPS that deal Fixed DMG and aren’t affected by weakness, like [Vortice](/handbook/awakeners/vortice/) and [Pontos](/handbook/awakeners/pontos/).
 
 ## Important Stats
 

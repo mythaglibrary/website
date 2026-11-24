@@ -47,18 +47,21 @@ awakener:
     - lily
     - xu
     - nymphaea
+    - caraboo
     - '24'
     - faint
     - daffodil
 ---
 
-Doll: Inferno (“GDoll”) is an aliemus battery who generates a lot of [DMG amplification](/handbook/team#dmg-amplification-base-dmg).
+Doll: Inferno (“GDoll”) is a support who is mainly useful for generating aliemus and [DMG amplification](/handbook/team#dmg-amplification-base-dmg).
 
-She also provides healing; she can deal fixed damage based on the boss’s Max HP; and at E1, she can inflict weakness and vulnerable.
+In addition to aliemus, she provides a small amount of healing. Against bosses, she also contributes a Max HP % damage nuke, which makes her very useful in higher difficulties.
+
+At E1, she has access to weakness and vulnerable.
 
 ### Finale
 
-In boss fights, GDoll gains a stack of **Finale** whenever you end your turn or use her exalt.
+GDoll’s unique mechanic is **Finale**. In boss fights, she gains a stack of this buff whenever you use her exalt or end your turn.
 
 At 10 stacks of Finale, you get the **Illusion’s End** card, which takes out 25-30% of the boss’s HP bar, and transforms GDoll from a supportive healer into a powerful poison DPS.
 
@@ -72,11 +75,11 @@ In boss fights, play Illusion’s End, then use Fate’s Descent to apply lots o
 
 ## Teambuilding
 
-GDoll works best in a team built around her constant supply of aliemus and DMG amplification.
+GDoll’s natural home is in a poison team, where she can battery her teammates and trigger poison in her Finale Form. Common teammates include [Xu](/handbook/awakeners/xu/), [Nymphaea](/handbook/awakeners/nymphaea/), [Lily](/handbook/awakeners/lily/), and [Caraboo](/handbook/awakeners/caraboo/).
 
-Her natural home is in a poison team with teammates like [Xu](/handbook/awakeners/xu/) and [Nymphaea](/handbook/awakeners/nymphaea/), but she also works well with exalt-dependent Base DMG characters like [“24”](/handbook/awakeners/24/) and [Daffodil](/handbook/awakeners/daffodil/).
+She also works well as a support for exalt-dependent Base DMG characters, such as [“24”](/handbook/awakeners/24/) and [Daffodil](/handbook/awakeners/daffodil/).
 
-In high-difficulty content, she’s usually used for her Max HP % damage, as a support for DPS like [Chaos 24](/handbook/awakeners/24/) or [OE Lotan](/handbook/awakeners/lotan/).
+In very hard content like ▼ difficulty in D-Effect Zone, she’s usually used for her Max HP % damage, as a support for [OE Lotan](/handbook/awakeners/lotan/) or [Chaos 24](/handbook/awakeners/24/).
 
 A weakness of GDoll is that her cards cost a lot of arithmetica, so she doesn’t play well with other characters that need it for their command cards. She also doesn’t do a whole lot outside of boss fights unless you can make use of her aliemus and DMG amplification.
 

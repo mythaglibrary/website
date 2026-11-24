@@ -59,7 +59,7 @@ Use Winkle’s exalt to generate aliemus for her teammates.
 
 Play Energy Beam to inflict weakness, and generate aliemus or keyflare, depending on what you need more.
 
-If your Winkle is level 90, Psyche Reforged generates a decent amount of shield. If you’re a mere mortal with a level 60 Winkle, Psyche Reforged is not terribly useful and can be sold.
+If your Winkle is level 90 and fully maxed out, Psyche Reforged generates a decent amount of shield. For the rest of us mere mortals with level 60 Winkles, Psyche Reforged is not terribly useful and can be sold.
 
 ## Teambuilding
 

@@ -50,8 +50,8 @@ awakener:
   works_well_with:
     - gdoll
     - xu
-    - lily
     - caraboo
+    - lily
 ---
 
 Nymphaea is a poison support who is good at triggering poison with her exalt. She also has access to weakness and vulnerable.
@@ -66,7 +66,7 @@ Rouse Nymphaea. Play her cards to get aliemus and inflict poison (and generate k
 
 ## Teambuilding
 
-Nymphaea works best in a team full of poison characters such as [GDoll](/handbook/awakeners/gdoll/), [Xu](/handbook/awakeners/xu/), and/or [Lily](/handbook/awakeners/lily/).
+Nymphaea works best in a team full of poison characters such as [GDoll](/handbook/awakeners/gdoll/), [Xu](/handbook/awakeners/xu/), or [Lily](/handbook/awakeners/lily/). [Caraboo](/handbook/awakeners/caraboo/) can help to raise the poison cap in [Astral Reign](/handbook/storylines#astral-reign-arc-2).
 
 She has few defensive capabilities of her own, so tanky teammates like [Lily](/handbook/awakeners/lily/), [Caraboo](/handbook/awakeners/caraboo/), or [Faint](/handbook/awakeners/faint/) may be needed.
 

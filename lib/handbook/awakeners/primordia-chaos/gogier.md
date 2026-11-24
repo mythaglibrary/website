@@ -53,7 +53,7 @@ awakener:
     - hameln
 ---
 
-Ogier: Oathbound (“GOgier”) is a defensive support who generates shields while contributing decent damage with Sin-Stained Spear.
+Ogier: Oathbound (“GOgier”) is a defensive support who generates shields. At E3 and above, he can also deal damage with Sin-Stained Spear.
 
 He provides access to the Primordia: Chaos realm, which gives keyflare at the start of each fight, and is very powerful in [Astral Reign](/handbook/storylines#astral-reign-arc-2) stages.
 
@@ -81,11 +81,17 @@ If you’re just using GOgier as a source of Primordia: Chaos, you can ignore hi
 
 ## Teambuilding
 
-**Support:** GOgier is a strong shielder, but his team needs to be able to play around Primordia: Chaos and his Undertow drawbacks. He works best as a tank in a grindy [stall team](/handbook/team#stall) with teammates like [Caraboo](/handbook/awakeners/caraboo/) or [Xu](/handbook/awakeners/xu/), who don’t mind if you spend your arithmetica on GOgier, and don’t mind drawing fewer cards each turn.
+### Support
+
+GOgier is a strong shielder, but his team needs to be able to play around Primordia: Chaos and his Undertow drawbacks. He works best as a tank in a grindy [stall team](/handbook/team#stall) with teammates like [Caraboo](/handbook/awakeners/caraboo/) or [Xu](/handbook/awakeners/xu/), who don’t mind if you spend your arithmetica on GOgier, and don’t mind drawing fewer cards each turn.
 
 You can also ignore his gimmick and just use him as a way to access Primordia: Chaos. This guarantees a lot of keyflare in the first turn of each fight, which is good for DPS that want to rouse as soon as possible and don’t need any specific posse, like [Mouchette](/handbook/awakeners/mouchette/).
 
-**DPS:** GOgier’s damage comes entirely from one command card, so he benefits from supports that buff command cards like [Arachne](/handbook/awakeners/arachne/). [Hameln](/handbook/awakeners/hameln/) can double the effect of Sin-Stained Spear while retaining the STR bonus from his soulforge talent, which lets you apply corrosion, then trigger it immediately for big damage.
+### DPS
+
+GOgier’s damage comes entirely from one command card, so he benefits from supports that buff command cards like [Arachne](/handbook/awakeners/arachne/).
+
+[Hameln](/handbook/awakeners/hameln/) can double the effect of Sin-Stained Spear while retaining the STR bonus from his soulforge talent, which lets you apply corrosion, then trigger it immediately for big damage.
 
 ## High Investment
 

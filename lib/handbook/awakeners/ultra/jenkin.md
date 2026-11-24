@@ -64,15 +64,23 @@ She can also be used as a DPS herself. She’s decent at low levels, but needs h
 
 ## How to Play
 
-**Support:** Rouse Jenkin. Use her exalt and play the generated cards to stack crit buffs for your DPS.
+### Support
 
-**DPS:** Spend a lot of arithmetica on Mice Assemble to get a high-damage Swarm Impact. Try to set up a burst turn with all your STR and damage buffs, so Swarm Impact deals as much damage as possible.
+Rouse Jenkin. Use her exalt and play the generated cards to stack crit buffs for your DPS.
+
+### DPS
+
+Spend a lot of arithmetica on Mice Assemble to get a high-damage Swarm Impact. Try to set up a burst turn with all your STR and damage buffs, so Swarm Impact deals as much damage as possible.
 
 ## Teambuilding
 
-As a support, Jenkin works with any damage dealer who wants to crit, such as [GHelot](/handbook/awakeners/ghelot/) or [Pollux](/handbook/awakeners/pollux/).
+### Support
 
-As a DPS, Jenkin has low damage, so she works well with teammates who apply corrosion for her to trigger, like [Saya](/handbook/awakeners/saya/), [Castor](/handbook/awakeners/castor/), or [Vivian](/handbook/awakeners/vivian/).
+Jenkin works with any damage dealer who wants to crit, such as [GHelot](/handbook/awakeners/ghelot/) or [Pollux](/handbook/awakeners/pollux/).
+
+### DPS
+
+Jenkin has low damage, so she works well with teammates who apply corrosion for her to trigger, like [Saya](/handbook/awakeners/saya/), [Castor](/handbook/awakeners/castor/), or [Vivian](/handbook/awakeners/vivian/).
 
 [Clementine](/handbook/awakeners/clementine/) is a universal support, but she is especially good at carrying Jenkin because Jenkin benefits greatly from STR.
 

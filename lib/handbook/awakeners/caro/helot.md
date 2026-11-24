@@ -63,15 +63,23 @@ At high investment, she can also be used as a DPS herself. However, Helot’s DP
 
 ## How to Play
 
-**Support:** Use Helot’s exalt for a damage buff for your DPS. Her cards are essentially worthless and can be sold.
+### Support
 
-**DPS:** Use Helot’s basic Strike and Defense for crit buffs. Against mobs, use Lasting Loathe to deal AOE damage. Against single targets and bosses, rouse Helot, then stall as long as possible so that you can build up huge Shattering Strikes.
+Use Helot’s exalt for a damage buff for your DPS. Her cards are essentially worthless and can be sold.
+
+### DPS
+
+Use Helot’s basic Strike and Defense for crit buffs. Against mobs, use Lasting Loathe to deal AOE damage. Against single targets and bosses, rouse Helot, then stall as long as possible so that you can build up huge Shattering Strikes.
 
 ## Teambuilding
 
-**Support:** Helot is most commonly used as a damage buffer for [Mouchette](/handbook/awakeners/mouchette/) and [GHelot](/handbook/awakeners/ghelot/).
+### Support
 
-**DPS:** If you want to use Helot as a DPS, her low damage and long setup time mean that she needs powerful supports to carry her.
+Helot is usually used as a damage buffer for [Mouchette](/handbook/awakeners/mouchette/) or [GHelot](/handbook/awakeners/ghelot/).
+
+### DPS
+
+If you want to use Helot as a DPS, her low damage and long setup time mean that she needs powerful supports to carry her.
 
 [Arachne](/handbook/awakeners/arachne/) provides tons of [DMG Amplification](/handbook/team#dmg-amplification-base-dmg) and a Final DMG bonus with her pursuits, giving Helot the damage she needs to clear high-difficulty content.
 

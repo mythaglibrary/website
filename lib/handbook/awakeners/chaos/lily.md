@@ -39,6 +39,8 @@ awakener:
   works_well_with:
     - gdoll
     - xu
+    - nymphaea
+    - caraboo
     - '24'
     - daffodil
     - anyone
@@ -58,7 +60,7 @@ If the enemies have a lot of poison on them, Strike to Protect can be used as a 
 
 Lily is a universal tank who fits into any team that needs help staying alive.
 
-At endgame, she’s most commonly seen in dedicated poison teams, with teammates like [GDoll](/handbook/awakeners/gdoll/), [Xu](/handbook/awakeners/xu/), and [Nymphaea](/handbook/awakeners/nymphaea/).
+At endgame, she’s most commonly seen in dedicated poison teams, with teammates like [GDoll](/handbook/awakeners/gdoll/), [Xu](/handbook/awakeners/xu/), [Nymphaea](/handbook/awakeners/nymphaea/), or [Caraboo](/handbook/awakeners/caraboo/).
 
 Since she’s a Chaos character with a powerful exalt, which can be charged up with [Mono Chaos](/handbook/team#mono-chaos-teams) Realm Mastery, she can support Mono Chaos carries like [Chaos 24](/handbook/awakeners/24/) and [OE Lotan](/handbook/awakeners/lotan/).
 

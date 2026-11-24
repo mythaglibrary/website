@@ -57,9 +57,9 @@ awakener:
     - id: lakeside-glimpse
   works_well_with:
     - gdoll
-    - lily
-    - nymphaea
     - caraboo
+    - nymphaea
+    - lily
     - faros
     - liz
     - agrippa
@@ -107,9 +107,9 @@ Naturally, Xu’s best teammates are other poison characters. Putting Xu with li
 
 You can also ignore her poison synergy and use her as a generic support. Xu contributes arithmetica, embryo fusion, and STR down to whatever team you throw her into.
 
-At high levels, Xu is generally used with [GDoll](/handbook/awakeners/gdoll/), [Nymphaea](/handbook/awakeners/gdoll/), and/or [Lily](/handbook/awakeners/lily/). A more stall-focused variant may include [Caraboo](/handbook/awakeners/caraboo/) or [GOgier](/handbook/awakeners/gogier/).
+At high levels, Xu is generally used with [GDoll](/handbook/awakeners/gdoll/), [Caraboo](/handbook/awakeners/caraboo/), [Nymphaea](/handbook/awakeners/gdoll/), and/or [Lily](/handbook/awakeners/lily/).
 
-At *very* high levels (D-Zone SSS and ▼ difficulty), she’s mainly used for her Max HP % damage, and can be found in cheesy death resistance teams or [stall teams](/handbook/team#stall).
+Against bosses that only have one HP bar, she can also be used as a Max HP % damage nuker alongside [Faint](/handbook/awakeners/faint/) and [OE Lotan](/handbook/awakeners/lotan/).
 
 ## High Investment
 

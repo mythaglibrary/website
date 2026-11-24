@@ -34,10 +34,11 @@ awakener:
     - id: undying-sun
   works_well_with:
     - clementine
+    - arachne
+    - vivian
     - horla
     - ryker
     - tinct
-    - arachne
     - karen
 ---
 
@@ -47,23 +48,11 @@ While Kath doesn’t deal as much damage as dedicated DPS like [Mouchette](/hand
 
 As a result, Kath is reliable and self-sufficient, and a good choice for new players who are just starting out.
 
-## How to Play
-
-!!! info "Quick Start Guide"
-
-    Generate Fiamma with Kath’s rouse, her exalt, and [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"}.
-
-    Play cards that have Fiamma to get Combust.
-
-    When you have 10 Combust, play Hyperflare.
-
-    Repeat until all the enemies are dead.
-
 ### Fiamma
 
 ![](/images/handbook/awakeners/kath-fiamma.png){width="256" class="on-glb" loading=lazy}
 
-Kath revolves around managing **Fiamma**, her unique gameplay mechanic.
+Kath revolves around managing her unique mechanic, **Fiamma**.
 
 When you play with Kath, you will quickly notice that her cards are on fire. This represents the Fiamma attached to those cards.
 
@@ -94,23 +83,29 @@ When you reach 10 or more Combust, you immediately gain 2 arithmetica, and Kath�
 
 Kath’s E3 gives her +5% Base DMG every time you get a stack of Combust. This gives her a lot of damage scaling in long fights, if you maximize your Combust generation.
 
+## How to Play
+
+Playing Kath is about generating as much Fiamma as possible, so that you can generate Combust as fast as possible. This unlocks her powerful Hyperflare attack, and permanently boosts her damage at E3.
+
+There are two distinct ways to play Kath, which I will refer to as “cycling” and “stockpiling.”
+
 ### Combust Cycling
 
-Playing Kath is about generating as much Fiamma as possible, so that you can generate Combust as fast as possible. When you have 10 Combust stacks, you play Hyperflare for 0 arithmetica, and reset your Combust so you can do it again.
+Usually, the most effective way to play Kath is to play Hyperflare as often as possible. This means playing Hyperflare for 0 cost as soon as you have 10 Combust stacks.
 
-Each time you do this, you get:
+Each time you reach 10 Combust, you get 2 arithmetica. “Cycling” Combust lets you get this bonus every turn, which means you play more cards and generate Fiamma in the long run.
 
-- 2 arithmetica from reaching 10 Combust stacks;
-- permanent bonus Base DMG from Kath’s E3;
-- STR generation from Last Stand Salvo;
-- a lot of shield from Kath’s Defense;
-- and a bunch of AOE damage from all the Hyperflares you’re throwing out.
+Early on, you shouldn’t spend arithmetica on Hyperflare, because the only benefit it provides is an increased STR bonus. If you have no STR, it doesn’t deal more damage. That arithmetica could be spent to play other cards and generate more Fiamma instead. The most effective strategy is to build up Base DMG and STR by cycling 0-cost Hyperflares, and *then* start tossing out big Hyperflares for higher damage.
 
-You should usually play Hyperflare for 0 arithmetica, because the only benefit you get from spending more arithmetica on it is an increased STR bonus. If you have no STR, it doesn’t deal more damage. That arithmetica could be spent to play other cards and generate more Fiamma instead.
+### Combust Stockpiling
 
-A common newbie mistake is to focus on spending as much Combust and arithmetica as possible on a single big Hyperflare. This means you’re missing out on the bonus arithmetica from each time you reach 10 Combust, and you’re missing out on the 0-cost Fiamma generation from playing 0-cost Hyperflares.
+The other way to play Kath is to stockpile Combust, and then play a single gigantic Hyperflare that one-shots the boss.
 
-A more effective strategy is to build up Base DMG and STR by cycling 0-cost Hyperflares, and *then* start tossing out big Hyperflares for higher damage.
+The advantage of this method is that you can set up your burst turn to have as many damage buffs as possible. For example, [Vivian](/handbook/awakeners/vivian/)’s Cauldron and [Tinct](/handbook/awakeners/tinct/)’s Distant Melody are very powerful buffs, but they require a lot of setup in advance. By concentrating all your damage into one turn, you can ensure these buffs are available for the burst.
+
+The “stockpiling” strategy is also useful against specific bosses that you might not want to attack every turn. For example, some bosses are very nonthreatening during their first phase, but become incredibly dangerous during their second phase. With Kath, you can stall out the first phase as long as possible, then one-shot the second phase with Hyperflare.
+
+The disadvantage of this strategy is that you scale slower, because you don’t get the bonus arithmetica from reaching 10 Combust, and you don't get the free Fiamma from playing 0-cost Hyperflares.
 
 ### Card Manipulation
 
@@ -128,13 +123,15 @@ Kath needs a lot of arithmetica and time to build up, so she’s often run in Ul
 
 She appreciates arithmetica supports like [Tinct](/handbook/awakeners/tinct/) and [Karen](/handbook/awakeners/karen/). She doesn’t work well with supports that need a lot of arithmetica to work.
 
-When built for shielding, Kath can have issues reaching 100% Crit Rate, and appreciates crit buffers like [Tinct](/handbook/awakeners/tinct/), [Ryker](/handbook/awakeners/ryker/), and [Horla](/handbook/awakeners/horla/).
+When built for shielding, Kath can have issues reaching 100% Crit Rate, and appreciates crit buffers like [Horla](/handbook/awakeners/horla/), [Vivian](/handbook/awakeners/vivian/), [Ryker](/handbook/awakeners/ryker/), and [Tinct](/handbook/awakeners/tinct/).
 
 [Clementine](/handbook/awakeners/clementine/) works especially well with Kath because of all the STR she generates, which Kath can put to good use with Hyperflare.
 
 [Arachne](/handbook/awakeners/arachne/) boosts Kath’s damage a lot, but Singularity: Ultra makes the team harder to play, as you no longer get Insights from Annihilation.
 
-[Horla](/handbook/awakeners/horla/) and [Erica](/handbook/awakeners/erica/) can provide weakness and vulnerable at a very low arithmetica cost.
+[Vivian](/handbook/awakeners/vivian/) contributes a host of useful abilities, like corrosion and crit buffs, but Primordia: Chaos makes the team less consistent because you can’t activate [Undying Sun](https://skeydb.com/database/posses/undying-sun){target="_blank"} every turn.
+
+[Horla](/handbook/awakeners/horla/) and [Erica](/handbook/awakeners/erica/) can provide weakness and vulnerable at a low arithmetica cost.
 
 ## High Investment
 
