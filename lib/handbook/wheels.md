@@ -339,16 +339,6 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
       </div>
   </li>
   <li class="wheel-tierlist-item" markdown>
-      <a href="https://skeydb.com/database/wheels/power-of-the-pious" target="blank">
-        <img src="/images/wheels/power-of-the-pious.png" loading="lazy">
-      </a>
-      <div class="wheel-tierlist-label" markdown>
-        <div class="name"><a href="https://skeydb.com/database/wheels/power-of-the-pious" target="blank">Power of the Pious</a></div>
-        <div class="source"><a href="/handbook/awakeners/miryam/">Miryam</a></div>
-        <div class="notes" markdown>bonus tentacle, crit buff</div>
-      </div>
-  </li>
-  <li class="wheel-tierlist-item" markdown>
       <a href="https://skeydb.com/database/wheels/shrouded-birth" target="blank">
         <img src="/images/wheels/shrouded-birth.png" loading="lazy">
       </a>
@@ -356,16 +346,6 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
         <div class="name"><a href="https://skeydb.com/database/wheels/shrouded-birth" target="blank">Shrouded Birth</a></div>
         <div class="source"><a href="/handbook/awakeners/murphy/">Murphy</a></div>
         <div class="notes" markdown>keyflare, crit buff</div>
-      </div>
-  </li>
-  <li class="wheel-tierlist-item" markdown>
-      <a href="https://skeydb.com/database/wheels/the-living-cage" target="blank">
-        <img src="/images/wheels/the-living-cage.png" loading="lazy">
-      </a>
-      <div class="wheel-tierlist-label" markdown>
-        <div class="name"><a href="https://skeydb.com/database/wheels/the-living-cage" target="blank">The Living Cage</a></div>
-        <div class="source"><a href="/handbook/awakeners/pontos/">Pontos</a></div>
-        <div class="notes" markdown>aliemus, crit buff</div>
       </div>
   </li>
   <li class="wheel-tierlist-item" markdown>
