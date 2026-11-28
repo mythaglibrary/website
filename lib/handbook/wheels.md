@@ -12,11 +12,13 @@ icon: lucide/ship-wheel
 
 This is a reference for new players who are unsure what SSR wheels are worth pulling from banners or buying from the Store.
 
+As a new player, you have very limited resources. This tier list prioritizes wheels that are good in many different teams. This way, you can reuse the same wheels while trying out different teams, and you won’t regret pulling those wheels later.
+
+Eventually, you may want to invest further in your favorite characters, and get the wheels that are best for them specifically. You can check resources like [SKeyDB](https://skeydb.com){target="_blank"} or [Eremora](https://eremora.com){target="_blank"} to see what builds are used in endgame content.
+
 A yellow square <span style="color: var(--md-tier-free);">■</span> means you can buy it from the Store without using pulls.
 
 A blue triangle <span style="color: var(--md-tier-standard);">▼</span> means it’s a standard wheel you can get with Pure Cores.
-
-Wheels not on this list are not recommended for new players to spend resources on.
 
 ## S (Best in Class) {.tier .text-center style="background-color: var(--md-tier-s);"}
 
@@ -386,16 +388,6 @@ These wheels are good in specific teams, or are useful backup wheels for D-Effec
         <div class="name"><a href="https://skeydb.com/database/wheels/eternal-weave" target="blank">Eternal Weave</a></div>
         <div class="source"><a href="/handbook/awakeners/arachne/">Arachne</a></div>
         <div class="notes" markdown>aliemus, RM</div>
-      </div>
-  </li>
-  <li class="wheel-tierlist-item" markdown>
-      <a href="https://skeydb.com/database/wheels/falling-upward" target="blank">
-        <img src="/images/wheels/falling-upward.png" loading="lazy">
-      </a>
-      <div class="wheel-tierlist-label" markdown>
-        <div class="name"><a href="https://skeydb.com/database/wheels/falling-upward" target="blank">Falling Upward</a></div>
-        <div class="source">Event</div>
-        <div class="notes" markdown>aliemus, corrosion, RM</div>
       </div>
   </li>
   <li class="wheel-tierlist-item" markdown>

@@ -8,7 +8,7 @@ icon: lucide/file-clock
 
 | Date | Notes |
 | --: | :-- |
-| **28 Nov 2026** | Overhauled guides for Murphy, Salvador, Sorel, and Wanda. |
+| **28 Nov 2026** | Overhauled guides for Murphy, Salvador, Sorel, and Wanda. Also added more info to the wheel tier list and removed some of the worse wheels. |
 | **24 Nov 2026** | Updated How to Build a Team, and a few of the awakener guides, to reflect that Caraboo is now meta in poison comps. Also updated Alva and Kath guides, and cleaned up some formatting. |
 | **23 Nov 2026** | Added That Which is No Lie as a suggested posse for 24. Further edited Tawil, GHelot, and Horla guides following feedback. |
 | **22 Nov 2026** | Overhauled guides for Tawil, GHelot, and Horla. |

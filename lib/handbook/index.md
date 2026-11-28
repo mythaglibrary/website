@@ -52,13 +52,13 @@ Thanks to Sor and Fjant for building the web version of the guide.
 ---
 
 - [SKeyDB](https://skeydb.com){target="_blank"} - comprehensive awakener reference and online tools
+- [Eremora](https://eremora.com){target="_blank"} - profile and statistics viewer that shows D-tide teams and UID of support awakeners
+- [Morimens Weekly/忘忘看报](https://qingdengbuyi.top/morimens-tools.html){target="_blank"} - site with many useful and fun features (you can switch to English with a toggle in the top right)
 - [Mythag Compendium](https://docs.google.com/spreadsheets/d/1TCU7LJRzqKeuvLe97y_TfGZ-j6jq5bZX6hskAAJ2mFQ/){target="_blank"} - spreadsheet with wheels, posses, and builds
 - [Morimens 灰机wiki (Chinese)](https://morimens.huijiwiki.com/wiki/首页){target="_blank"}
 - [Morimens Boss Compendium](https://docs.google.com/spreadsheets/d/1QYciqHJY3BilDcdvBiIT_dOqXOdqGX-4FBDj5rL6qyA/){target="_blank"}
 - [Morimens Banner History and other stuff](https://docs.google.com/spreadsheets/d/1gRDzdVHGfCC4qjt5aZYKuU9FWEfWdqREztNGeiczmRk/){target="_blank"}
 - [Mother Tree](https://app.mothertree.workers.dev/){target="_blank"} - stat calculators, damage calculators, and awakeners searchable by tags
-- [Eremora](https://eremora.com){target="_blank"} - profile and statistics viewer that shows D-tide teams and UID of support awakeners
-- [Morimens Weekly/忘忘看报](https://qingdengbuyi.top/morimens-tools.html){target="_blank"} - D-tide analytics and damage calculator (you can switch to English with a toggle in the top right)
 
 ---
 
