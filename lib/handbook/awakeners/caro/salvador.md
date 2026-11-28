@@ -36,16 +36,33 @@ awakener:
           - id: data-is-flesh
   suggested_posses:
     - id: the-lone-seed
-      note: Faded Legacy Ch. 7
   works_well_with:
-    - thais
+    - vortice
     - caraboo
-    - horla
+    - thais
   works_well_with_note: Anyone
 ---
 
-A tough defensive support who generates Crimson Furnace and makes huge shields with End of Suffering. He also has access to both weakness and vulnerable.
+Salvador is a tough defensive support who buffs your Crimson Furnace.
 
-If you copy End of Suffering over and over with the Lone Seed posse and [Thais](/handbook/awakeners/thais/), Salvador can be used as a slow, grindy, unkillable carry.
+He is most notable for his 2-cost skill, **End of Suffering.** This is a very powerful offensive and defensive tool, which can make huge shields, or deal good AOE damage.
 
-Works best with high-CON teammates, as your Crimson Furnace scales with your max HP.
+His exalt also provides consistent access to vulnerable, and he can inflict weakness, though at an expensive arithmetica cost.
+
+## How to Play
+
+Use Salvador’s cards to generate more Crimson Furnace, and play End of Suffering to shield at key moments. You can also rouse Salvador for a barrier if you need one.
+
+If you run Salvador with [Thais](/handbook/awakeners/thais/) or [The Lone Seed](https://skeydb.com/database/posses/the-lone-seed){target="_blank"}, you can copy End of Suffering over and over. This gives you a giant shield every turn, and even lets Salvador function as a pseudo-DPS.
+
+## Teambuilding
+
+Salvador is a flexible defensive support who fits into any team that needs help surviving.
+
+At endgame, he's usually seen in [Vortice](/handbook/awakeners/vortice/) stall teams, helping the team survive long enough to grind out boss fights.
+
+He also works extremely well with [Caraboo](/handbook/awakeners/caraboo/), because increasing your Max HP increases the Crimson Furnace generated each turn.
+
+## Important Stats
+
+:sigil-yield: Sigil Yield on Salvador increases the capacity of your Crimson Furnace. This is generally not worth it compared to effects that buff his shielding, like [Data is Flesh](https://skeydb.com/database/posses/data-is-flesh){target="_blank"}, or effects that buff your Max HP, like [Gluttony](https://skeydb.com/database/posses/gluttony){target="_blank"}. However, if you have Salvador’s SSR wheel [Tablet of Scriptures](https://skeydb.com/database/posses/tablet-of-scriptures){target="_blank"}, it’s extra valuable because of the Sigil Yield main stat.

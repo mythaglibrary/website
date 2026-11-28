@@ -3,7 +3,7 @@ title: Wanda
 description: Builds, strategy, and gameplay tips for the Morimens character Wanda.
 template: awakeners/awakener.html
 awakener:
-  tagline: STR Down Counter Support
+  tagline: STR Down & Counter Tank
   roles:
     - Unique Debuff
     - STR Down
@@ -18,25 +18,9 @@ awakener:
       - tier: C+
         note: Niche Role
   stopping_points:
-    - 'E0, E2, E3, OE'
+    - 'E0, E2, E3, OE, AA'
   builds:
-    - name: Example Build (Support)
-      covenants:
-        - dream-of-medicine
-        - burial-grounds-sighs
-      covenants_note: (Any support)
-      wheels:
-        early_game:
-          - id: aged
-            note: (Any support)
-          - id: whisper
-            note: (Any support)
-        astral_reign:
-          - id: hymn-of-the-sovereign
-            note: Any support
-          - id: elevated-focus
-            note: (Any support)
-    - name: Example Build (DPS)
+    - name: Example Build (Counter Tank)
       covenants:
         - steppenwolf
         - dream-of-medicine
@@ -46,22 +30,60 @@ awakener:
           - id: sever-and-scar
             note: (Any DMG Amp.)
         astral_reign:
-          - id: drifting-in-desire
+          - id: queens-edict
           - id: cloaked-in-the-night
   suggested_posses:
     - id: feast-of-decay
-      note: 'Psyche Deepdive: Wanda'
-    - id: warded-injection
-      note: Faded Legacy Ch. 4
+    - id: ephemeral-eternity
+    - id: festival-of-tides
   works_well_with:
     - arachne
-    - daffodil
     - caecus
     - winkle
+    - daffodil
+    - pandia
 ---
 
-A defensive support who inflicts a lot of STR down and forces enemies to attack in multiple small hits instead of one big hit.
+Wanda is a defensive cornerstone for counter teams. She shields, inflicts a lot of STR down, and can turn enemy attacks into multihits.
 
-While Wanda is strong at low levels, she needs high investment to keep up with enemy damage later on. At endgame, she's only good in specific stages that favor her.
+Unlike weakness, STR down scales with your levels, and its usefulness varies widely depending on the enemies you’re facing. For example, if the enemies only attack in single big hits, STR down is useless. This makes Wanda a very situational character, who needs high levels to stay relevant in the mid- to late-game, and is only really useful when the stage plays to her strengths.
 
-Technically usable as a damage dealer, but works best with counter relics or a real DPS.
+### Dreamlure
+
+Wanda’s unique mechanic is **Dreamlure**. When you Leap her cards by playing them as the first card in the turn, they either generate Dreamlure stacks, or consume them for bonus effects.
+
+Dreamlure can also be spent on Wanda’s exalt. With its Echoes of Whispers mode, you can spend 10 Dreamlure to turn the enemy intention into a multihit, potentially doubling the counter damage dealt that turn.
+
+Each time you consume Dreamlure, Wanda’s counter is permanently boosted for the fight, so she grows in strength as the fight goes longer.
+
+When roused, Wanda also generates a shield whenever you reach 5 or 10 Dreamlure.
+
+## How to Play
+
+Rouse Wanda. Leap her cards to build up Dreamlure, or spend it at the right time.
+
+In [Faded Legacy](/handbook/storylines#faded-legacy-arc-1) stages, Spine Needle Chains has good damage scaling and can be used to finish off enemies.
+
+Otherwise, just stall as long as possible and hope that the enemies die to your counter stacks.
+
+## Teambuilding
+
+Wanda is usually part of a [stall team](/handbook/team#stall) which looks to grind out enemies over many, many turns. She’s often seen with [Caecus](/handbook/awakeners/caecus/), another character who stalls and generates counter.
+
+[Arachne](/handbook/awakeners/arachne/) is a good support for Wanda, because she boosts Wanda’s cards with [DMG amplification](/handbook/team#dmg-amplification-base-dmg) and Singularity Beacon buffs, effectively increasing all of Wanda’s numbers.
+
+[Winkle](/handbook/awakeners/winkle/) is a solid support who provides weakness in addition to aliemus and shielding. Her counter synergy is also actually relevant in a Wanda team.
+
+If the team has trouble surviving, you can bring more defensive supports like [Celeste](/handbook/awakeners/celeste/), [Murphy](/handbook/awakeners/celeste/), or [Faint](/handbook/awakeners/faint/).
+
+If you take too long to kill normal enemies, you can bring characters that generate bursts of temporary counter, like [Daffodil](/handbook/awakeners/daffodil/) or [Pandia](/handbook/awakeners/pandia/).
+
+## High Investment
+
+Wanda has a powerful OE that triggers every Dreamlure effect without consuming any Dreamlure. This frees up your Dreamlure to be spent on Wanda’s cards.
+
+Her AA makes her cards take effect twice, effectively doubling her STR down from Keeper of the Lost, or her damage from Spine Needle Chains.
+
+## Important Stats
+
+:dmg-amp: [DMG Amplification](/handbook/team#dmg-amplification-base-dmg) increases the counter generated by Wanda’s exalt. Since you’re probably running Wanda in a counter team, DMG amplification will also directly boost your team’s damage. This makes it a good stat to build on Wanda.
