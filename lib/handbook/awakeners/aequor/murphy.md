@@ -54,7 +54,7 @@ Vortex Reversal also inflicts weakness and vulnerable, although Murphy isn’t t
 
 When you’re about to take a lot of damage, use Murphy’s exalt to mitigate it.
 
-Use Vortex Reversal to reduce the Sacrifice on yourself. At E1, it gains retain, so you can reliably have it when you need it.
+Use Vortex Reversal to reduce the Sacrifice on yourself. At E1, it gains retain, so you can reliably have it when you need it. If you don’t have E1, you can use the wheel [Blue Stone Throne](https://skeydb.com/database/wheels/blue-stone-throne){target="_blank"}.
 
 Murphy’s other cards are also decent. If she’s your [keyflare bot](/handbook/team#the-almighty-keyflare-bot), you should play her Strike and Defense to generate keyflare.
 

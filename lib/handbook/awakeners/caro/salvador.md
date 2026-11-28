@@ -53,7 +53,7 @@ His exalt also provides consistent access to vulnerable, and he can inflict weak
 
 Use Salvador’s cards to generate more Crimson Furnace, and play End of Suffering to shield at key moments. You can also rouse Salvador for a barrier if you need one.
 
-If you run Salvador with [Thais](/handbook/awakeners/thais/) or [The Lone Seed](https://skeydb.com/database/posses/the-lone-seed){target="_blank"}, you can copy End of Suffering over and over. This gives you a giant shield every turn, and even lets Salvador function as a pseudo-DPS.
+If you run Salvador with [Thais](/handbook/awakeners/thais/) or [The Lone Seed](https://skeydb.com/database/posses/the-lone-seed){target="_blank"}, you can copy End of Suffering over and over. This gives you a giant shield every turn, and even lets Salvador function as a DPS.
 
 ## Teambuilding
 
@@ -62,6 +62,8 @@ Salvador is a flexible defensive support who fits into any team that needs help 
 At endgame, he's usually seen in [Vortice](/handbook/awakeners/vortice/) stall teams, helping the team survive long enough to grind out boss fights.
 
 He also works extremely well with [Caraboo](/handbook/awakeners/caraboo/), because increasing your Max HP increases the Crimson Furnace generated each turn.
+
+If you're running DPS Salvador, you can use [Horla](/handbook/awakeners/horla/)’s Grief to multiply the Crimson Furnace his cards generate. This directly accelerates his damage scaling.
 
 ## Important Stats
 
