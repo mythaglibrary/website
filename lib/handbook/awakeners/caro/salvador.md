@@ -20,7 +20,7 @@ awakener:
         note: Game Changing
   stopping_points:
     - 'Support: Any'
-    - 'DPS: E2, OE'
+    - 'DPS: E2, OE, AA'
   builds:
     - name: Example Build (Tank)
       covenants:
@@ -64,6 +64,10 @@ At endgame, he's usually seen in [Vortice](/handbook/awakeners/vortice/) stall t
 He also works extremely well with [Caraboo](/handbook/awakeners/caraboo/), because increasing your Max HP increases the Crimson Furnace generated each turn.
 
 If you're running DPS Salvador, you can use [Horla](/handbook/awakeners/horla/)’s Grief to multiply the Crimson Furnace his cards generate. This directly accelerates his damage scaling.
+
+## High Investment
+
+Salvador’s OE and AA improve his damage when used as a DPS.
 
 ## Important Stats
 

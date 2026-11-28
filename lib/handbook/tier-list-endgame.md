@@ -183,6 +183,7 @@ Given enough investment and support, these characters can reliably reach the ~10
         <img src="/images/awakeners/caro/sorel--mini.png" loading="lazy">
         <div class="tierlist-label">
           <div class="name">Sorel</div>
+          <div class="enlighten">AA</div>
         </div>
       </a>
     </li>
