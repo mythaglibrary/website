@@ -57,7 +57,7 @@ Thanks to Sor and Fjant for building the web version of the guide.
 - [Morimens Boss Compendium](https://docs.google.com/spreadsheets/d/1QYciqHJY3BilDcdvBiIT_dOqXOdqGX-4FBDj5rL6qyA/){target="_blank"}
 - [Morimens Banner History and other stuff](https://docs.google.com/spreadsheets/d/1gRDzdVHGfCC4qjt5aZYKuU9FWEfWdqREztNGeiczmRk/){target="_blank"}
 - [Mother Tree](https://app.mothertree.workers.dev/){target="_blank"} - stat calculators, damage calculators, and awakeners searchable by tags
-- [Eremora](https://eremora.com){target="_blank"} - profile and statistics viewer that shows UID of support awakeners
+- [Eremora](https://eremora.com){target="_blank"} - profile and statistics viewer that shows D-tide teams and UID of support awakeners
 - [Morimens Weekly/忘忘看报](https://qingdengbuyi.top/morimens-tools.html){target="_blank"} - D-tide analytics and damage calculator (you can switch to English with a toggle in the top right)
 
 ---
