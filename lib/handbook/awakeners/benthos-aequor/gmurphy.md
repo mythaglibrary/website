@@ -80,7 +80,7 @@ Support GMurphy contributes a lot of things:
 - In Tranquil Sea stance, she can shield for a lot with Waltz of Lemuria.
 - Her exalt inflicts Birth Ritual, which is effectively a unique damage multiplier for the turn.
 
-The sacrifice inflicted by Birth Ritual can carry over damage from your burst turn into subsequent turns. For example, after you take out a boss’s first HP bar, you can deal a big chunk of damage to the second HP bar after they Rouse.
+The Sacrifice inflicted by Birth Ritual can carry over damage from your burst turn into subsequent turns. For example, after you take out a boss’s first HP bar, you can deal a big chunk of damage to the second HP bar after they Rouse.
 
 ### Damage
 
@@ -88,7 +88,7 @@ If you build Crit Rate and Crit DMG on GMurphy, she hits for respectable damage 
 
 Her damage is limited by how many Waltzes you can play in one turn, so you might want to have a character like [Thais](/handbook/awakeners/thais/) who can copy it for extra damage.
 
-At E2, GMurphy gains Crit Rate from your tentacles and Crit DMG from your current sacrifice stacks.
+At E2, GMurphy gains Crit Rate from your tentacles and Crit DMG from your current Sacrifice stacks.
 
 ### Lemurians
 
@@ -106,17 +106,17 @@ Matching your team to the rhythm of GMurphy’s cooldowns, and matching her cool
 
 ### Sacrifice Management
 
-If you’re dying to sacrifice, you should stop using GMurphy’s exalt and Abyss Hymns for a while. Sacrifice goes away by itself over time. You can also cleanse some sacrifice by letting Abyss Hymns be discarded instead of playing it.
+If you’re dying to Sacrifice, you should stop using GMurphy’s exalt and Abyss Hymns for a while. Sacrifice goes away by itself over time. You can also cleanse some Sacrifice by letting Abyss Hymns be discarded instead of playing it.
 
-[Murphy](/handbook/awakeners/murphy/) can halve your current sacrifice stacks with Vortex Reversal, letting you get away with riskier plays when she’s in the team.
+[Murphy](/handbook/awakeners/murphy/) can halve your current Sacrifice stacks with Vortex Reversal, letting you get away with riskier plays when she’s in the team.
 
 ### Sacrifice Cheese
 
-GMurphy’s E2 gives you bonus Crit DMG based on how much sacrifice you have compared to your Max HP. This can be abused in a few ways.
+GMurphy’s E2 gives you bonus Crit DMG based on how much Sacrifice you have compared to your Max HP. This can be abused in a few ways.
 
-If your team is strong enough to kill enemies in one turn, you can spam GMurphy’s Abyss Hymn and exalt to boost her damage. Since you win the fight before the turn ends, you'll never take damage from sacrifice.
+If your team is strong enough to kill enemies in one turn, you can spam GMurphy’s Abyss Hymn and exalt to boost her damage. Since you win the fight before the turn ends, you'll never take damage from Sacrifice.
 
-There are also certain enemies that reduce your Max HP to 1. If you have, for example, 100 sacrifice when this happens, you now have 10000% of your Max HP in sacrifice, and GMurphy gets a gigantic Crit DMG boost.
+There are also certain enemies that reduce your Max HP to 1. If you have, for example, 100 Sacrifice when this happens, you now have 10000% of your Max HP in Sacrifice, and GMurphy gets a gigantic Crit DMG boost.
 
 ## Teambuilding
 
