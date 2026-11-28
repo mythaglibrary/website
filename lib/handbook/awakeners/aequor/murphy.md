@@ -62,7 +62,7 @@ Murphy’s other cards are also decent. If she’s your [keyflare bot](/handbook
 
 Murphy is a defensive support who can be slotted into any team that needs help surviving.
 
-At endgame, she’s often seen in [Vortice](/handbook/awakeners/vortice/) or [Corposant](/handbook/awakeners/vortice/) teams, filling the role of [keyflare support](/handbook/team#the-almighty-keyflare-bot) and tank.
+At endgame, she’s often seen in [Vortice](/handbook/awakeners/vortice/) teams, filling the role of [keyflare support](/handbook/team#the-almighty-keyflare-bot) and tank.
 
 While she isn’t often used with [GMurphy](/handbook/awakeners/gmurphy/), because she doesn’t count as a Lemurian for her [Astral Reign](/handbook/storylines#astral-reign-arc-2) soulforge talent, Murphy has unique synergy with her Genesis counterpart, as she can clear her self-inflicted Sacrifice.
 
